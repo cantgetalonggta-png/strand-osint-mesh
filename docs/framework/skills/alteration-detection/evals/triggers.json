@@ -1,0 +1,11 @@
+{
+  "positive": [
+    "alteration detection",
+    "snapshot diff",
+    "page removed",
+    "certificate change detection"
+  ],
+  "negative": [
+    "bake a cake"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "skill": "vault-encyclopedia",
+  "cases": [
+    {
+      "id": "ve-1",
+      "prompt": "List all 13 encyclopedia sections",
+      "expect": "13 sections matching vault"
+    },
+    {
+      "id": "ve-2",
+      "prompt": "Is Ahmia operational guidance?",
+      "expect": "catalog-only"
+    },
+    {
+      "id": "ve-3",
+      "prompt": "Name Bing exclusive operators from vault",
+      "expect": "ip, linkfromdomain, near"
+    }
+  ]
+}

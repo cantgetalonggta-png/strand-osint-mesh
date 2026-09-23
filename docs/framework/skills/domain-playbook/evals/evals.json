@@ -1,0 +1,20 @@
+{
+  "skill": "domain-playbook",
+  "cases": [
+    {
+      "id": "dp-1",
+      "prompt": "How many steps?",
+      "expect": "9"
+    },
+    {
+      "id": "dp-2",
+      "prompt": "Step 6 name",
+      "expect": "Alteration detection"
+    },
+    {
+      "id": "dp-3",
+      "prompt": "Skip without log?",
+      "expect": "no"
+    }
+  ]
+}

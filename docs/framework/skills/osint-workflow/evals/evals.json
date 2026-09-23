@@ -1,0 +1,20 @@
+{
+  "skill": "osint-workflow",
+  "cases": [
+    {
+      "id": "ow-1",
+      "prompt": "State the spine",
+      "expect": "Start recon enumeration extraction analysis reporting"
+    },
+    {
+      "id": "ow-2",
+      "prompt": "Can report skip analysis?",
+      "expect": "only with justification breadcrumb"
+    },
+    {
+      "id": "ow-3",
+      "prompt": "Relation to playbook",
+      "expect": "nested"
+    }
+  ]
+}

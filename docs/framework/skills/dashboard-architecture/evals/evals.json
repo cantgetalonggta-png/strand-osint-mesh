@@ -1,0 +1,20 @@
+{
+  "skill": "dashboard-architecture",
+  "cases": [
+    {
+      "id": "da-1",
+      "prompt": "List modules",
+      "expect": "5 modules"
+    },
+    {
+      "id": "da-2",
+      "prompt": "Orchestrator module couples to",
+      "expect": "hivemind permanent-thinking"
+    },
+    {
+      "id": "da-3",
+      "prompt": "Missing module allowed?",
+      "expect": "no"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "positive": [
+    "natural language agent prompt",
+    "multi-agent system prompt",
+    "agent collaboration prompt"
+  ],
+  "negative": [
+    "random joke"
+  ]
+}

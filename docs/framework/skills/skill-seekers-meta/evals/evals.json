@@ -1,0 +1,20 @@
+{
+  "skill": "skill-seekers-meta",
+  "cases": [
+    {
+      "id": "ss-1",
+      "prompt": "Pass count",
+      "expect": "5"
+    },
+    {
+      "id": "ss-2",
+      "prompt": "Pass 3 focus",
+      "expect": "directives"
+    },
+    {
+      "id": "ss-3",
+      "prompt": "Conflict handling",
+      "expect": "explicit resolution in scan log"
+    }
+  ]
+}

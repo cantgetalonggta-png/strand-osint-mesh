@@ -1,0 +1,20 @@
+{
+  "skill": "api-payload-controls",
+  "cases": [
+    {
+      "id": "ap-1",
+      "prompt": "Enable web search key",
+      "expect": "tools web_search"
+    },
+    {
+      "id": "ap-2",
+      "prompt": "Deep mode parameter",
+      "expect": "reasoning_effort high"
+    },
+    {
+      "id": "ap-3",
+      "prompt": "Slash command in API?",
+      "expect": "no"
+    }
+  ]
+}

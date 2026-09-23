@@ -1,0 +1,11 @@
+{
+  "positive": [
+    "python osint automation",
+    "orchestrator.run",
+    "breadcrumb logging",
+    "pydantic AppState"
+  ],
+  "negative": [
+    "translate french"
+  ]
+}

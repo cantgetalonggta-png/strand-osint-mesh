@@ -1,0 +1,11 @@
+{
+  "positive": [
+    "api payload simulator",
+    "enable grok web search",
+    "reasoning_effort",
+    "tools web_search"
+  ],
+  "negative": [
+    "draw landscape"
+  ]
+}

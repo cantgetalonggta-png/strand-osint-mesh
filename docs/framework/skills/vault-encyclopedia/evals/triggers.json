@@ -1,0 +1,12 @@
+{
+  "positive": [
+    "vault encyclopedia",
+    "osint encyclopedia",
+    "what tools are in the vault",
+    "list search engines in vault"
+  ],
+  "negative": [
+    "write a novel",
+    "draw a cat"
+  ]
+}

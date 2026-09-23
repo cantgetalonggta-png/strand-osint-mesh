@@ -1,0 +1,20 @@
+{
+  "skill": "metadata-extraction",
+  "cases": [
+    {
+      "id": "me-1",
+      "prompt": "Tool for image EXIF",
+      "expect": "exiftool"
+    },
+    {
+      "id": "me-2",
+      "prompt": "Metadata types list",
+      "expect": "EXIF IPTC XMP PDF Office Hashes Timestamps"
+    },
+    {
+      "id": "me-3",
+      "prompt": "Must breadcrumb?",
+      "expect": "yes"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "skill": "search-engines",
+  "cases": [
+    {
+      "id": "se-1",
+      "prompt": "Best reverse image engine?",
+      "expect": "Yandex"
+    },
+    {
+      "id": "se-2",
+      "prompt": "Bing exclusives?",
+      "expect": "ip, linkfromdomain"
+    },
+    {
+      "id": "se-3",
+      "prompt": "Assign engines to 3 agents without mirror",
+      "expect": "3 distinct engines"
+    }
+  ]
+}

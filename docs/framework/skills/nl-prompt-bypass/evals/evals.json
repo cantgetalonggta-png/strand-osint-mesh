@@ -1,0 +1,20 @@
+{
+  "skill": "nl-prompt-bypass",
+  "cases": [
+    {
+      "id": "nb-1",
+      "prompt": "Replace filetype:xlsx for Acme",
+      "expect": "Option 2 filled"
+    },
+    {
+      "id": "nb-2",
+      "prompt": "Replace inurl:login Grafana",
+      "expect": "Option 3 filled"
+    },
+    {
+      "id": "nb-3",
+      "prompt": "Tips count",
+      "expect": "3 tips"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "skill": "multi-agent-architecture",
+  "cases": [
+    {
+      "id": "ma-1",
+      "prompt": "Build roles",
+      "expect": "coder reviewer test_runner orchestrator"
+    },
+    {
+      "id": "ma-2",
+      "prompt": "HOOK lane",
+      "expect": "surface/paths"
+    },
+    {
+      "id": "ma-3",
+      "prompt": "Same method two agents",
+      "expect": "block reassign"
+    }
+  ]
+}

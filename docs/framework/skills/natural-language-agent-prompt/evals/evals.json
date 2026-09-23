@@ -1,0 +1,20 @@
+{
+  "skill": "natural-language-agent-prompt",
+  "cases": [
+    {
+      "id": "nl-1",
+      "prompt": "How many structure points?",
+      "expect": "10"
+    },
+    {
+      "id": "nl-2",
+      "prompt": "Agent B example focus",
+      "expect": "metadata"
+    },
+    {
+      "id": "nl-3",
+      "prompt": "Mirror decisions allowed?",
+      "expect": "no"
+    }
+  ]
+}

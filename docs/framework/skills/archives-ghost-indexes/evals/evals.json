@@ -1,0 +1,20 @@
+{
+  "skill": "archives-ghost-indexes",
+  "cases": [
+    {
+      "id": "ag-1",
+      "prompt": "List archives",
+      "expect": "Wayback Archive.org National Archives LOC DOAJ"
+    },
+    {
+      "id": "ag-2",
+      "prompt": "Ghost classes",
+      "expect": "5 classes"
+    },
+    {
+      "id": "ag-3",
+      "prompt": "Private archive scraping?",
+      "expect": "public only"
+    }
+  ]
+}

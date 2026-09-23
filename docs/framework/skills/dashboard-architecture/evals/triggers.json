@@ -1,0 +1,10 @@
+{
+  "positive": [
+    "dashboard architecture",
+    "ops dashboard modules",
+    "agent orchestrator UI"
+  ],
+  "negative": [
+    "poem about rain"
+  ]
+}

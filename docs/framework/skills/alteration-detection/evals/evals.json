@@ -1,0 +1,20 @@
+{
+  "skill": "alteration-detection",
+  "cases": [
+    {
+      "id": "ad-1",
+      "prompt": "List signals",
+      "expect": "5 signals from vault"
+    },
+    {
+      "id": "ad-2",
+      "prompt": "CT logs use",
+      "expect": "certificate changes"
+    },
+    {
+      "id": "ad-3",
+      "prompt": "Single cert change = breach?",
+      "expect": "no, evidence chain"
+    }
+  ]
+}

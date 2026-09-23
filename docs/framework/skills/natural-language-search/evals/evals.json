@@ -1,0 +1,20 @@
+{
+  "skill": "natural-language-search",
+  "cases": [
+    {
+      "id": "ns-1",
+      "prompt": "Family count",
+      "expect": "10"
+    },
+    {
+      "id": "ns-2",
+      "prompt": "Extra domains exist?",
+      "expect": "50 list"
+    },
+    {
+      "id": "ns-3",
+      "prompt": "Deep web operational?",
+      "expect": "catalog framing only"
+    }
+  ]
+}

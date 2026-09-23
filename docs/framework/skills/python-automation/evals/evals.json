@@ -1,0 +1,20 @@
+{
+  "skill": "python-automation",
+  "cases": [
+    {
+      "id": "pa-1",
+      "prompt": "What does breadcrumb write?",
+      "expect": "JSONL id timestamp event data"
+    },
+    {
+      "id": "pa-2",
+      "prompt": "Orchestrator engines",
+      "expect": "google bing yandex shodan censys"
+    },
+    {
+      "id": "pa-3",
+      "prompt": "Shodan live unauthorized?",
+      "expect": "no educational authorized only"
+    }
+  ]
+}

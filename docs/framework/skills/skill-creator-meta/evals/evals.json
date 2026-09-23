@@ -1,0 +1,20 @@
+{
+  "skill": "skill-creator-meta",
+  "cases": [
+    {
+      "id": "sc-1",
+      "prompt": "Required files",
+      "expect": "SKILL CHANGELOG evals triggers"
+    },
+    {
+      "id": "sc-2",
+      "prompt": "Min eval cases",
+      "expect": "3"
+    },
+    {
+      "id": "sc-3",
+      "prompt": "Progressive disclosure levels",
+      "expect": "3"
+    }
+  ]
+}

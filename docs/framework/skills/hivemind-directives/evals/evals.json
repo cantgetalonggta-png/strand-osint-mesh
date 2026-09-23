@@ -1,0 +1,20 @@
+{
+  "skill": "hivemind-directives",
+  "cases": [
+    {
+      "id": "hv-1",
+      "prompt": "Can two agents use same dork method?",
+      "expect": "block reassign"
+    },
+    {
+      "id": "hv-2",
+      "prompt": "Who owns logic map?",
+      "expect": "WEFT"
+    },
+    {
+      "id": "hv-3",
+      "prompt": "Must share after move?",
+      "expect": "yes"
+    }
+  ]
+}

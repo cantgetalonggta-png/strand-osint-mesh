@@ -1,0 +1,20 @@
+{
+  "skill": "dorking-dictionary",
+  "cases": [
+    {
+      "id": "dd-1",
+      "prompt": "Universal operators list",
+      "expect": "site filetype intitle inurl intext"
+    },
+    {
+      "id": "dd-2",
+      "prompt": "Convert filetype:pdf intent under filter",
+      "expect": "NL File Type Hunter"
+    },
+    {
+      "id": "dd-3",
+      "prompt": "Bing exclusive near:",
+      "expect": "documented as Bing exclusive"
+    }
+  ]
+}
