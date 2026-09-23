@@ -67,7 +67,7 @@ export function AppShell({ children }: { children: ReactNode }) {
           </nav>
           <NewCaseDialog />
           <p className="mt-4 font-mono text-[10px] leading-relaxed tracking-[0.04em] text-ink">
-            Synthetic collection. Educational methods. No live scrape.
+            Public-source ceiling · Live or Training · No personal targeting.
           </p>
         </aside>
 

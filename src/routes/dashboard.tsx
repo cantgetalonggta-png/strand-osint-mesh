@@ -29,7 +29,7 @@ function DashboardPage() {
           <h1 className="font-display mt-1 text-4xl font-medium tracking-tight">Module surface</h1>
           <p className="mt-2 max-w-2xl text-sm text-muted-foreground">
             Five product modules wired to the distilled vault. Synthetic collection · educational methods ·
-            no live scrape in this build.
+            Live public mode uses xAI web_search (open sources only).
           </p>
         </div>
         <div className="flex flex-wrap gap-2">

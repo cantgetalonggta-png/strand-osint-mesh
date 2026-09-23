@@ -4,7 +4,10 @@ import { uid } from "./id";
 import { createCase } from "./procedural";
 import { PRELOAD, seedCases } from "./seed";
 import { thinkingGatePrompt } from "./framework";
+import { applyEvent } from "./engine";
 import type { AgentId, Investigation } from "./types";
+
+export type CollectionMode = "synthetic" | "live-public";
 
 const STORAGE_KEY = "strand-osint-v1";
 
@@ -48,13 +51,16 @@ interface Store {
   activeId: string;
   running: boolean;
   ready: boolean;
+  collectionMode: CollectionMode;
+  setCollectionMode: (m: CollectionMode) => void;
   hydrate: () => void;
   persist: () => void;
   setActive: (id: string) => void;
   start: (id?: string) => void;
   pause: () => void;
   tickOnce: () => void;
-  openCase: (topic: string) => string;
+  openCase: (topic: string, mode?: CollectionMode) => string;
+  runLiveSweep: (caseId: string) => Promise<{ ok: boolean; error?: string }>;
   rateFinding: (caseId: string, findingId: string, rating: -1 | 0 | 1) => void;
   reset: () => void;
 }
@@ -71,6 +77,8 @@ export const useOsint = create<Store>((set, get) => ({
   activeId: initial.activeId,
   running: false,
   ready: true,
+  collectionMode: "live-public",
+  setCollectionMode: (m) => set({ collectionMode: m }),
   hydrate: () => {
     const data = readPersist();
     set({ ...data, ready: true });
@@ -120,8 +128,10 @@ export const useOsint = create<Store>((set, get) => ({
     });
     get().persist();
   },
-  openCase: (topic) => {
+  openCase: (topic, mode) => {
     const created = createCase(topic);
+    const m = mode ?? get().collectionMode;
+    created.synthetic = m !== "live-public";
     created.messages = [
       {
         id: uid("msg"),
@@ -129,17 +139,47 @@ export const useOsint = create<Store>((set, get) => ({
         from: "system",
         to: "all",
         kind: "system",
-        body: `New investigation ${created.code}. Synthetic collection. Four agents will not mirror one another. ${thinkingGatePrompt({ topic: topic.trim() || "target", domain: "synthetic", breadcrumb: created.code, pattern: "independent-lanes", fileType: "mixed" })}`,
+        body: `New investigation ${created.code}. Mode=${m}. Four agents will not mirror one another. ${thinkingGatePrompt({ topic: topic.trim() || "target", domain: m === "live-public" ? "live-public" : "synthetic", breadcrumb: created.code, pattern: "independent-lanes", fileType: "mixed" })}`,
         timestamp: Date.now(),
       },
     ];
     set((s) => ({
       cases: [created, ...s.cases],
       activeId: created.id,
-      running: true,
+      running: m === "synthetic",
     }));
     get().persist();
     return created.id;
+  },
+  runLiveSweep: async (caseId) => {
+    const inv = get().cases.find((c) => c.id === caseId);
+    if (!inv) return { ok: false, error: "Case not found" };
+    set({ running: true });
+    try {
+      const { runLivePublicSweep } = await import("./live-engine");
+      const result = await runLivePublicSweep({ data: { topic: inv.target || inv.title } });
+      if (!result.events?.length) {
+        set({ running: false });
+        return { ok: false, error: result.error || "Live sweep failed" };
+      }
+      let cur: Investigation = { ...inv, synthetic: false };
+      const at = Date.now();
+      for (let i = 0; i < result.events.length; i++) {
+        const ev = result.events[i]!;
+        cur = applyEvent(cur, ev, at + i * 1000);
+        cur = { ...cur, cursor: cur.cursor + 1, status: "active", synthetic: false };
+      }
+      cur = { ...cur, status: "debrief", synthetic: false };
+      set((s) => ({
+        cases: s.cases.map((c) => (c.id === caseId ? cur : c)),
+        running: false,
+      }));
+      get().persist();
+      return { ok: !!result.ok, error: result.error };
+    } catch (e) {
+      set({ running: false });
+      return { ok: false, error: e instanceof Error ? e.message : "Live sweep error" };
+    }
   },
   rateFinding: (caseId, findingId, rating) => {
     set((s) => ({
