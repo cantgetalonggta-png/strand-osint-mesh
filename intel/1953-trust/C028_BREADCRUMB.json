@@ -1,0 +1,14 @@
+{
+  "cycle": "028",
+  "date": "2026-09-23",
+  "target": "THE 1953 TRUST",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C028-2026-09-23.pdf",
+  "status_locks": {
+    "ward": "1:24-cv-01204-AS last ECF 445/446; hearing 2026-12-02 14:00 ET",
+    "accounting": "no 28th USVI accounting; 27th $107.645M gross to 2026-06-30",
+    "inquiry": "SDNY/FBI press-grade, uncharged",
+    "08047": "early track; prior last ECF 12"
+  },
+  "new_nodes": ["NYT Goldstein 2026-09-23 confirmation", "beneficiary-count collision 40/41/43", "smw.ai stale 16 Sep"],
+  "gaps_new": ["G-111", "G-112", "G-113", "G-114", "G-115", "G-116"]
+}
