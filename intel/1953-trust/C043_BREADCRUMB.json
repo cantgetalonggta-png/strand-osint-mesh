@@ -1,0 +1,23 @@
+{
+  "cycle": "043",
+  "date": "2026-09-24",
+  "cutoff": "2026-09-24T14:10:00-04:00",
+  "target": "THE 1953 TRUST",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C043-2026-09-24.pdf",
+  "status_locks": {
+    "ward": "1:24-cv-01204-AS last ECF 447-448 2026-09-23; live CL last-updated 2026-09-24 12:23 a.m.; last known filing 2026-09-23; hearing 2026-12-02 14:00 ET; official site deadline 2026-11-23",
+    "accounting": "no 28th USVI accounting; 27th $107.645M gross to 2026-06-30; 24th vintage $127,402,426.84 to 2025-09-30 locked line-item",
+    "inquiry": "SDNY/FBI press-grade, uncharged; Ruzumna 23 Sep uncontradicted; 24 Sep PM Safdar/Palazzolo syndication only",
+    "08047": "frozen ECF 12; last updated 17 Sep 2026 1:48 p.m."
+  },
+  "new_nodes": [
+    "sdnysettlementfund2026.com last-updated 23 Sep: Q&R/opt-out/object to 23 Nov 2026; hearing 2 Dec 2026 14:00 ET",
+    "Lelchuk / Resolution Services LLC c/o FREJKA PLLC 415 E 52nd St Ste 3 NY 10022",
+    "Claims@SDNYSettlementFund2026.com / epsteinsettlement@bsfllp.com",
+    "Questionnaire languages EN/RU/FR vs ECF 446 ad copy FR/RU/UKR",
+    "Khadeeja Safdar / Joe Palazzolo 24 Sep recirculation",
+    "Unverified social $13M concealment figure"
+  ],
+  "gaps_new": ["G-203", "G-204", "G-205", "G-206", "G-207", "G-208"],
+  "gaps_range": "G-01–G-208"
+}
