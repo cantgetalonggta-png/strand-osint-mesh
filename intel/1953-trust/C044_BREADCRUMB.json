@@ -1,0 +1,20 @@
+{
+  "cycle": "044",
+  "date": "2026-09-24",
+  "cutoff": "2026-09-24T15:10:00-04:00",
+  "target": "THE 1953 TRUST",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C044-2026-09-24.pdf",
+  "status_locks": {
+    "ward": "1:24-cv-01204-AS last ECF 447-448 2026-09-23; CL header 2026-09-24 12:23 a.m.; no ECF 449; hearing 2026-12-02 14:00 ET; Q&R 2026-11-23 23:59 EST",
+    "accounting": "no 28th; 27th $107.645M to 2026-06-30",
+    "inquiry": "SDNY/FBI press-grade, uncharged",
+    "08047": "frozen ECF 12; MJ Valerie Figueredo"
+  },
+  "new_nodes": [
+    "Elise S. Frejka NYS bar 2412047 / FREJKA PLLC DOS 4686527",
+    "Q&R online cutoff 23 Nov 2026 11:59 p.m. EST",
+    "Latham 1:20-cv-07102-UA adjacency 24 Sep",
+    "CL 12:23 a.m. header hold through 15:00 ET 24 Sep"
+  ],
+  "gaps_range": "G-01-G-214"
+}
