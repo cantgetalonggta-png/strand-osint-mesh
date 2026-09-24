@@ -1,0 +1,14 @@
+{
+  "cycle": "023",
+  "date": "2026-09-23",
+  "target": "THE 1953 TRUST",
+  "memo_local": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C023-2026-09-23.pdf",
+  "negative_controls": {
+    "ward_last_ecf": "445/446",
+    "ward_hearing": "2026-12-02T14:00:00-05:00",
+    "accounting_28": false,
+    "sdny_inquiry_charged": false
+  },
+  "new_nodes": ["NYPost Zilber", "Independent $127M vintage", "Prameya", "Jalicha Persad AAG", "Deckoff KVHI + 13F $151M", "SD Investments USVI proceeds language", "Phang/Sullivan EFTA", "Poncys denied", "19MC149 conduit", "Weiner 08047 non-comment"],
+  "gaps_through": "G-104"
+}
