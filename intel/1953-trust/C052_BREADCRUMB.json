@@ -1,0 +1,14 @@
+{
+  "cycle": "052",
+  "date": "2026-09-24",
+  "cutoff": "2026-09-24T20:07:00-04:00",
+  "target": "THE 1953 TRUST",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C052-2026-09-24.pdf",
+  "status_locks": {
+    "ward": "1:24-cv-01204-AS last ECF 447-448 2026-09-23; CL Last Updated 2026-09-24 9:52 a.m. hold through ~20:07 ET; no ECF 449; hearing 2026-12-02 14:00 ET",
+    "accounting": "no 28th; 27th $107.645M to 2026-06-30; Rule 197 due 2026-10-15",
+    "inquiry": "SDNY/FBI press-grade, uncharged",
+    "08047": "frozen ECF 12; MJ Valerie Figueredo"
+  },
+  "gaps_range": "G-01–G-263"
+}
