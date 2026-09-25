@@ -1,0 +1,37 @@
+{
+  "cycle": "072",
+  "cutoff": "2026-09-25T16:05:00-04:00",
+  "target": "THE 1953 TRUST",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C072-2026-09-25.pdf",
+  "locks": {
+    "ward_01204": {
+      "last_ecf": "447-448",
+      "ecf_date": "2026-09-23",
+      "cl_last_updated": "2026-09-24T09:52:00",
+      "date_of_last_known_filing": "2026-09-23",
+      "hearing": "2026-12-02T14:00:00-05:00",
+      "dwell": "9:52am_7cycle_C066_C072"
+    },
+    "settlement_site": {
+      "url": "https://www.sdnysettlementfund2026.com/",
+      "banner_last_updated": "2026-09-23",
+      "hold_days": 17,
+      "claims_deadline": "2026-11-23T23:59:00-05:00"
+    },
+    "cv_08047": {
+      "last_verified_ecf": 12,
+      "last_updated_prior": "2026-09-17T13:48:00"
+    },
+    "usvi_28th_accounting": null,
+    "inquiry": "uncharged_press_grade"
+  },
+  "new_nodes": [
+    "CL_01204_952_7cycle_dwell_C066_C072",
+    "settlement_site_day17_hold",
+    "08047_ecf12_still_frozen",
+    "ibtimes_uk_25sep_0854_fsf_workrelease_secondary",
+    "calendar_T5_T20_T24_T59_T68"
+  ],
+  "gaps": "G-01-G-383",
+  "new_gaps": ["G-378", "G-379", "G-380", "G-381", "G-382", "G-383"]
+}
