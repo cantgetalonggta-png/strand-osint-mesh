@@ -1,0 +1,22 @@
+{
+  "cycle": 103,
+  "code": "C103",
+  "dtg_utc": "2026-09-26T22:20:00Z",
+  "target": "THE 1953 TRUST",
+  "memo": "STRAND-1953-TRUST-INTEL-MEMO-C103-2026-09-26.pdf",
+  "lock": {
+    "ward_docket": "1:24-cv-01204-AS",
+    "last_ecf": "447-448",
+    "cl_last_updated": "2026-09-24T09:52:00-04:00",
+    "date_last_known_filing": "2026-09-23",
+    "dwell_cycles": "C066-C103 (38)",
+    "hearing": "2026-12-02T14:00:00-05:00",
+    "settlement_banner": "2026-09-23",
+    "settlement_banner_day": 49,
+    "cv_08047": "ECF 12 / 17 Sep freeze (21-day)",
+    "usvi_28th_accounting": "unfiled",
+    "inquiry": "uncharged"
+  },
+  "gaps_range": "G-01–G-569",
+  "note": "C103 Saturday late-afternoon PDT negative-control; clerk-dark; Monday ET first realistic ECF 449 window"
+}
