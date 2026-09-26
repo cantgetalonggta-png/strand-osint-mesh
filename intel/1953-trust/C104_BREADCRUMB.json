@@ -1,0 +1,25 @@
+{
+  "cycle": 104,
+  "code": "C104",
+  "dtg_utc": "2026-09-26T23:20:00Z",
+  "dtg_pdt": "2026-09-26T16:20:00-07:00",
+  "target": "THE 1953 TRUST",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C104-2026-09-26.pdf",
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "lock": {
+    "ward_docket": "1:24-cv-01204-AS",
+    "last_ecf": "447-448",
+    "cl_last_updated": "2026-09-24T09:52:00-04:00",
+    "date_last_known_filing": "2026-09-23",
+    "dwell_cycles": "C066-C104 (39)",
+    "hearing": "2026-12-02T14:00:00-05:00",
+    "settlement_banner": "2026-09-23",
+    "settlement_banner_day": 50,
+    "claims_deadline": "2026-11-23T23:59:00-05:00",
+    "cv_08047": "ECF 12 / 17 Sep freeze (22-day)",
+    "usvi_28th_accounting": "unfiled",
+    "inquiry": "uncharged"
+  },
+  "gaps_range": "G-01–G-575",
+  "note": "C104 Saturday late-afternoon PDT negative-control after C103"
+}
