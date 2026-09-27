@@ -1,0 +1,23 @@
+{
+  "cycle": 121,
+  "date": "2026-09-27",
+  "tz": "PDT",
+  "window": "Sunday tenth-hour negative-control after C120",
+  "target": "THE 1953 TRUST",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C121-2026-09-27.pdf",
+  "ward": {
+    "docket": "1:24-cv-01204-AS",
+    "last_ecf": ["447", "448"],
+    "last_ecf_date": "2026-09-23",
+    "cl_last_updated": "2026-09-24T09:52:00-04:00",
+    "dwell_cycles": "C066-C121",
+    "hearing": "2026-12-02T14:00:00-05:00"
+  },
+  "settlement_banner": {"last_update": "2026-09-23", "day": 67, "claims_deadline": "2026-11-23T23:59:00-05:00"},
+  "parallel_08047": {"last_ecf": 12, "freeze_from": "2026-09-17", "cycle_count_days": 39},
+  "usvi_28th": "UNFILED",
+  "inquiry": "UNCHARGED",
+  "new_nodes": ["N-C121-A", "N-C121-B", "N-C121-C", "N-C121-D", "N-C121-E", "N-C121-F", "N-C121-G"],
+  "gaps": "G-01-G-677",
+  "next": ["C122 Monday 28 Sep ET ECF 449 window", "settlement-site re-pull", "28th accounting negative-control"]
+}
