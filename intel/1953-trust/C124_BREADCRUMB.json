@@ -1,0 +1,23 @@
+{
+  "cycle": 124,
+  "code": "C124",
+  "mission": "THE 1953 TRUST",
+  "observed_at": "2026-09-27T13:11:00-07:00",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C124-2026-09-27.pdf",
+  "ward_docket": "1:24-cv-01204-AS",
+  "last_ecf": "447/448",
+  "cl_last_updated": "2026-09-24T09:52:00-04:00",
+  "dolfk": "2026-09-23",
+  "dwell_cycles": "C066-C124=59",
+  "settlement_banner": "2026-09-23 day-70",
+  "hearing": "2026-12-02T14:00:00-05:00",
+  "claims_close": "2026-11-23T23:59:00-05:00",
+  "cv_08047_last_ecf": 12,
+  "cv_08047_freeze_days": 42,
+  "accounting_28th": "unfiled",
+  "inquiry": "uncharged",
+  "x_lane": "reprint_plus_08047_CSAM_restatement_27_Sep",
+  "gaps": "G-01–G-695",
+  "next": "C125 Monday 28 Sep ET clerk-open ECF 449 window",
+  "public_source_ceiling": true
+}
