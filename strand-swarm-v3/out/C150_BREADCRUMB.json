@@ -1,0 +1,40 @@
+{
+  "cycle": "C150",
+  "date": "2026-09-28",
+  "observed_pt": "2026-09-28T14:11:00-07:00",
+  "observed_et": "2026-09-28T17:11:00-04:00",
+  "target": "THE 1953 TRUST",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C150-2026-09-28.pdf",
+  "memo_root": "artifacts/STRAND-1953-TRUST-INTEL-MEMO-C150-2026-09-28.pdf",
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "negative_control": {
+    "01204_last_updated": "2026-09-24T09:52:00-04:00",
+    "01204_dolkf": "2026-09-23",
+    "01204_last_ecf": ["447", "448"],
+    "01204_ecf_449": false,
+    "dwell_cycles_C066_C150": 85,
+    "hearing": "2026-12-02T14:00:00-05:00",
+    "settlement_banner": "LAST UPDATED SEPTEMBER 23, 2026",
+    "settlement_banner_day": 96,
+    "claims_close": "2026-11-23T23:59:00-05:00",
+    "08047_last_ecf": "12",
+    "08047_freeze_days": 68,
+    "28th_accounting": false,
+    "inquiry_charged": false,
+    "clerk_open": true
+  },
+  "new_primary_nodes": [],
+  "process_nodes": [
+    "Monday 28 Sep 17:11 ET ninth clerk-open hour after C149",
+    "CL 9:52 a.m. 85-cycle dwell C066-C150",
+    "settlement banner day-96",
+    "08047 freeze 68 days",
+    "X-lane JKB/WSJ reprint + homonym/compilation only",
+    "FY2026 T-2 / Rule 197 T-17",
+    "no ECF 449 in first nine clerk-open hours"
+  ],
+  "gaps_tail": ["G-846", "G-847", "G-848", "G-849", "G-850", "G-851"],
+  "gaps_book": "G-01–G-851",
+  "next": "C151 Monday evening / Tuesday 29 Sep 2026 ET ECF 449 window"
+}
