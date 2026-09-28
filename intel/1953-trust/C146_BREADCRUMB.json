@@ -1,0 +1,15 @@
+{
+  "cycle": "C146",
+  "date": "2026-09-28",
+  "observed_et": "2026-09-28T12:11:00-04:00",
+  "01204_last_updated": "2026-09-24T09:52:00-04:00",
+  "01204_last_ecf": ["447", "448"],
+  "ecf_449": false,
+  "dwell_C066_C146": 81,
+  "settlement_banner_day": 92,
+  "08047_ecf": "12",
+  "28th_accounting": false,
+  "inquiry_charged": false,
+  "gaps": "G-01-G-827",
+  "next": "C147"
+}
