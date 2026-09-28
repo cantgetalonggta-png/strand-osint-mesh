@@ -1,0 +1,17 @@
+{
+  "cycle": "C149",
+  "date": "2026-09-28",
+  "observed_et": "2026-09-28T16:11:00-04:00",
+  "target": "THE 1953 TRUST",
+  "01204_last_updated": "2026-09-24T09:52:00-04:00",
+  "01204_dolkf": "2026-09-23",
+  "last_ecf": ["447", "448"],
+  "ecf_449": false,
+  "dwell_C066_C149": 84,
+  "settlement_banner_day": 95,
+  "08047_freeze_days": 67,
+  "28th_accounting": false,
+  "inquiry_charged": false,
+  "gaps_book": "G-01-G-845",
+  "next": "C150 Monday evening ET ECF 449 window"
+}
