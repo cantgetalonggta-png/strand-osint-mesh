@@ -1,0 +1,15 @@
+{
+  "cycle": "C147",
+  "date": "2026-09-28",
+  "observed_et": "2026-09-28T13:11:00-04:00",
+  "target": "THE 1953 TRUST",
+  "01204_last_ecf": ["447", "448"],
+  "ecf_449": false,
+  "dwell_C066_C147": 82,
+  "settlement_banner_day": 93,
+  "08047_freeze_days": 65,
+  "hearing": "2026-12-02T14:00:00-05:00",
+  "28th_accounting": false,
+  "inquiry_charged": false,
+  "gaps_book": "G-01-G-833"
+}
