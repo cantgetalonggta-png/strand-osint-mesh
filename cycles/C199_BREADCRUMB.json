@@ -1,0 +1,15 @@
+{
+  "cycle": "C199",
+  "date": "2026-09-30",
+  "window": "15:11 PDT / 18:11 ET ninth clerk-open hour FY2026 T-0 after C198",
+  "target": "THE 1953 TRUST",
+  "process_only": true,
+  "ward": {"docket": "1:24-cv-01204-AS", "last_ecf": "447-448", "dolkf": "2026-09-23", "cl_last_updated": "2026-09-24 09:52", "hearing": "2026-12-02 14:00 ET", "dwell_cycles_from_C066": 134},
+  "settlement_site": {"url": "https://www.sdnysettlementfund2026.com/", "last_updated_banner": "2026-09-23", "banner_day": 145, "qnr_deadline": "2026-11-23 23:59 EST"},
+  "cv08047": {"docket": "1:26-cv-08047", "last_ecf": 12, "freeze_days": 117},
+  "accounting": {"last_public": "27th to 2026-06-30", "gross": 107645000, "no_28th": true, "rule197_due": "2026-10-15", "t_minus": 15},
+  "inquiry": {"status": "uncharged"},
+  "gaps_through": 1145,
+  "new_primary_nodes": [],
+  "next": "C200 Wednesday evening ET ECF 449 window"
+}
