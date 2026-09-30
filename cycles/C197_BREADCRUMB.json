@@ -1,0 +1,46 @@
+{
+  "cycle": "C197",
+  "date": "2026-09-30",
+  "window": "13:11 PDT / 16:11 ET seventh clerk-open hour FY2026 T-0 after C196",
+  "target": "THE 1953 TRUST",
+  "process_only": true,
+  "ward": {
+    "docket": "1:24-cv-01204-AS",
+    "last_ecf": "447-448",
+    "dolkf": "2026-09-23",
+    "cl_last_updated": "2026-09-24 09:52",
+    "hearing": "2026-12-02 14:00 ET",
+    "dwell_cycles_from_C066": 132
+  },
+  "settlement_site": {
+    "url": "https://www.sdnysettlementfund2026.com/",
+    "last_updated_banner": "2026-09-23",
+    "banner_day": 143,
+    "qnr_deadline": "2026-11-23 23:59 EST"
+  },
+  "cv08047": {
+    "docket": "1:26-cv-08047",
+    "last_ecf": 12,
+    "freeze_days": 115
+  },
+  "accounting": {
+    "last_public": "27th to 2026-06-30",
+    "gross": 107645000,
+    "no_28th": true,
+    "rule197_due": "2026-10-15",
+    "t_minus": 15
+  },
+  "inquiry": {
+    "status": "uncharged"
+  },
+  "gaps_added": ["G-1128", "G-1129", "G-1130", "G-1131", "G-1132", "G-1133"],
+  "gaps_through": 1133,
+  "new_primary_nodes": [],
+  "x_lane": "empty",
+  "memo": [
+    "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C197-2026-09-30.pdf",
+    "artifacts/STRAND-1953-TRUST-INTEL-MEMO-C197-2026-09-30.pdf"
+  ],
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C198 Wednesday late-afternoon/evening ET ECF 449 window"
+}
