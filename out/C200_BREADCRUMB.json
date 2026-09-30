@@ -1,0 +1,13 @@
+{
+  "cycle": "C200",
+  "date": "2026-09-30",
+  "process_only": true,
+  "ward_last_ecf": "447-448",
+  "cl_last_updated": "2026-09-24 09:52",
+  "dwell_from_C066": 135,
+  "banner_day": 146,
+  "cv08047_ecf": 12,
+  "no_28th": true,
+  "inquiry": "uncharged",
+  "gaps_through": 1151
+}
