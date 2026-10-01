@@ -1,0 +1,14 @@
+{
+  "cycle": "C202",
+  "date": "2026-09-30",
+  "process_only": true,
+  "ward_last_ecf": "447-448",
+  "cl_last_updated": "2026-09-24 09:52",
+  "dwell_from_C066": 137,
+  "banner_day": 148,
+  "cv08047_ecf": 12,
+  "freeze_days": 120,
+  "inquiry": "uncharged",
+  "gaps_through": 1163,
+  "next": "C203 Thursday 1 Oct ET clerk-open ECF 449"
+}
