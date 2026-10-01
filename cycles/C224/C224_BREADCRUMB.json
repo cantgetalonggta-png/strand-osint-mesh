@@ -1,0 +1,22 @@
+{
+  "cycle": 224,
+  "date": "2026-10-01",
+  "window": "Thursday 16:14 PDT / 19:14 ET twelfth clerk-open hour after C223",
+  "disposition": "process-only",
+  "cl_header": "2026-09-24 09:52",
+  "cl_dwell": "C066-C224 159-cycle",
+  "last_known_filing": "2026-09-23",
+  "ward_ecf": "447-448",
+  "hearing": "2026-12-02 14:00 ET",
+  "settlement_banner_day": 170,
+  "ecf_08047_freeze_count": 142,
+  "fy2026": "T+1",
+  "rule_197": "T-14",
+  "freelaw_api": "T-0 sunset day still live",
+  "inquiry": "uncharged",
+  "accounting_28": false,
+  "ecf_449": false,
+  "secondary": ["EscanorReloaded 2105686376364552226"],
+  "gaps": "G-01-G-1295",
+  "next": "C225 Thursday late-evening / Friday 2 Oct ET post Free.law sunset ECF 449 window"
+}
