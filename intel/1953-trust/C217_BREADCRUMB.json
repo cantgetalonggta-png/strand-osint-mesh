@@ -1,0 +1,17 @@
+{
+  "cycle": 217,
+  "date": "2026-10-01",
+  "clock": "Thursday 10:16 PDT / 13:16 ET fifth clerk-open hour FY2026 T+1",
+  "posture": "process-only",
+  "ward_last_ecf": "447-448",
+  "cl_header": "2026-09-24 09:52 a.m.",
+  "cl_dwell_cycles": "C066-C217 (152)",
+  "settlement_banner_day": 163,
+  "docket_08047_ecf12_freeze_days": 135,
+  "rule_197": "T-14",
+  "freelaw_api": "T-0 sunset day",
+  "inquiry": "uncharged",
+  "hearing": "2026-12-02 14:00 ET",
+  "gaps": "G-01-G-1253",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C217-2026-10-01.pdf"
+}
