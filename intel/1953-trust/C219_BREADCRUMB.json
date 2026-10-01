@@ -1,0 +1,31 @@
+{
+  "cycle": 219,
+  "completed": "2026-10-01",
+  "window": "Thursday 13:11 PDT / 16:11 ET seventh clerk-open hour FY2026 T+1 after C218",
+  "classification": "educational OSINT negative-control",
+  "ward": {
+    "docket": "1:24-cv-01204-AS",
+    "last_ecf": "447-448",
+    "cl_last_updated": "2026-09-24 09:52 ET",
+    "cl_dwell_cycles": "C066-C219 (154)",
+    "hearing": "2026-12-02 14:00 ET",
+    "ecf_449": false
+  },
+  "cv_08047": {
+    "last_updated": "2026-09-17 13:48 ET",
+    "ecf_freeze": 12,
+    "freeze_counter": 137
+  },
+  "settlement_banner_day": 165,
+  "rule_197": "T-14 (due 2026-10-15)",
+  "freelaw_api": "T-0 sunset day still live",
+  "fy2026": "T+1",
+  "inquiry": "uncharged",
+  "accounting_28th": false,
+  "new_primary_nodes": [],
+  "discarded": ["STB NAV memo Dandini/Morad homonym", "SEC liquidation-trust exhibit", "ED Cal 08047 Osorio", "Escanor 1 Oct 15:48 GMT secondary recirculation"],
+  "gaps": "G-01-G-1265",
+  "new_gaps": ["G-1260", "G-1261", "G-1262", "G-1263", "G-1264", "G-1265"],
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C219-2026-10-01.pdf",
+  "next": "C220 Thursday late-afternoon/evening ET ECF 449 window / Free.law API T-0"
+}
