@@ -1,0 +1,16 @@
+{
+  "cycle": 216,
+  "date": "2026-10-01",
+  "window": "Thursday 09:50 PDT / 12:50 ET fourth clerk-open hour FY2026 T+1",
+  "status": "process-only negative control",
+  "ward": "ECF 447-448; CL Last Updated 24 Sep 2026 9:52 a.m.; DoLKF 23 Sep 2026; hearing 2 Dec 2026 14:00 ET",
+  "dwell": "CL 9:52 a.m. 151-cycle dwell C066-C216",
+  "banner_day": 162,
+  "ecf08047": "ECF 12 134-day freeze",
+  "rule197": "T-14",
+  "freelaw_api": "T-0 sunset day",
+  "inquiry": "uncharged",
+  "gaps": "G-01-G-1247",
+  "pdf_sha256": "32cc4fff6a6c637d1bb0950c9404c19cf9943bf95e0c43a9fa4d7522a7785280",
+  "next": "C217 Thursday afternoon ET ECF 449 window"
+}
