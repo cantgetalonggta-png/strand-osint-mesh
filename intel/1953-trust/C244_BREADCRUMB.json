@@ -1,0 +1,16 @@
+{
+  "cycle": 244,
+  "ts_et": "2026-10-02T16:12:00-04:00",
+  "status": "process-only",
+  "ward_last_ecf": "447-448",
+  "ward_cl_header": "2026-09-24 09:52 ET",
+  "hearing": "2026-12-02 14:00 ET",
+  "accounting_28": false,
+  "inquiry": "uncharged",
+  "dwell_cycles": "C066-C244 (179)",
+  "banner_day": 190,
+  "freeze_08047": 162,
+  "gaps": "G-01-G-1415",
+  "new_nodes": [],
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C244-2026-10-02.pdf"
+}
