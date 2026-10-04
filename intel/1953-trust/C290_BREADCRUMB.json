@@ -1,0 +1,22 @@
+{
+  "cycle": 290,
+  "completed": "2026-10-04",
+  "clock": "Sunday 10:11 PDT / 13:11 ET",
+  "status": "negative-control process-only",
+  "ward_last_ecf": "447-448",
+  "cl_01204_last_updated": "2026-09-24 09:52 ET",
+  "cl_dwell": "225-cycle C066-C290",
+  "banner_day": 236,
+  "docket_08047": "ECF 12 freeze carry 210-count; last updated 2026-09-17 13:48 ET",
+  "hearing": "2026-12-02 14:00 ET",
+  "accounting": "no 28th; 27th $107.645M gross to 30 Jun 2026",
+  "inquiry": "uncharged",
+  "fy2026": "T+4",
+  "rule_197": "T-11",
+  "gaps": "G-01-G-1692",
+  "discarded": ["red_i_eric 4 Oct GMT recirculation", "Terry Kahn Indianapolis homonym", "Breitbart 2019 vintage tag"],
+  "secondary": ["grok 2106793999293886564 17:10 GMT mention counts", "Podm8 28 Sep hypothetical", "True Crime Tapes 2 Oct anonymity restatement"],
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C290-2026-10-04.pdf",
+  "drive_file_id": "18h22kBFS7BMwf_M8Kfsyz9N3DSihrwBI",
+  "next": "C291 Monday 5 Oct ET clerk-open ECF 449 window"
+}
