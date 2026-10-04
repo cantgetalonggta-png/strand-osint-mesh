@@ -1,0 +1,28 @@
+{
+  "cycle": "C292",
+  "date": "2026-10-04",
+  "clock": "Sunday 12:11 PDT / 15:11 ET",
+  "classification": "process-only negative control",
+  "docket_01204": {
+    "courtlistener_id": "68260876",
+    "last_updated": "2026-09-24 09:52 ET",
+    "last_known_filing": "2026-09-23",
+    "last_ecf": "447-448",
+    "ecf_449": false,
+    "hearing": "2026-12-02 14:00 ET",
+    "dwell": "227-cycle C066-C292"
+  },
+  "docket_08047": {
+    "last_header": "2026-09-17 13:48 ET",
+    "last_ecf": "12",
+    "freeze_count_carry": 212,
+    "rescraped": false
+  },
+  "accounting_28th": false,
+  "inquiry": "uncharged",
+  "fy2026": "T+4",
+  "rule_197": "T-11",
+  "gaps": "G-01-G-1704",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C292-2026-10-04.pdf",
+  "next": "C293 Sunday late-afternoon ET; Monday 5 Oct ET clerk-open ECF 449 window"
+}
