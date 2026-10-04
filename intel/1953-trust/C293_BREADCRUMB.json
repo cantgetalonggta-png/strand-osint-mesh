@@ -1,0 +1,19 @@
+{
+  "cycle": 293,
+  "date": "2026-10-04",
+  "window": "Sunday 13:11 PDT / 16:11 ET fifteenth post-midnight clerk-closed hour",
+  "status": "process-only negative control",
+  "ward": "ECF 447-448; CL last updated 24 Sep 2026 9:52 a.m.; hearing 2 Dec 2026 14:00 ET; no ECF 449",
+  "dwell": "CL 9:52 a.m. 228-cycle dwell C066-C293",
+  "banner_day": 239,
+  "ecf_08047": "ECF 12 213-count carry",
+  "fy2026": "T+4",
+  "rule_197": "T-11",
+  "inquiry": "uncharged",
+  "accounting": "no 28th",
+  "gaps": "G-01-G-1710",
+  "x_lane": "Grok 17:10 GMT mention-count recirculation; 19:12 GMT no-successor Spanish restatement; 19:16 GMT Parlatore adjacency discarded as corpus",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C293-2026-10-04.pdf",
+  "drive_file_id": "15llfH2JhVCqRT3c9sobvS6B_bhdQHlqu",
+  "next": "C294 Monday 5 Oct ET clerk-open ECF 449 window"
+}
