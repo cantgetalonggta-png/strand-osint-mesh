@@ -1,0 +1,19 @@
+{
+  "cycle": 294,
+  "date": "2026-10-04",
+  "window": "Sunday 14:12 PDT / 17:12 ET",
+  "grade": "process-only negative control",
+  "ward_last_ecf": "447-448",
+  "cl_header": "Sept. 24, 2026, 9:52 a.m.",
+  "last_known_filing": "Sept. 23, 2026",
+  "hearing": "2026-12-02 14:00 ET",
+  "docket_08047": "last updated Sept. 17, 2026, 1:48 p.m.; ECF 12 carry",
+  "inquiry": "uncharged",
+  "accounting_28": false,
+  "dwell": "229-cycle C066-C294",
+  "banner_day": 240,
+  "gaps": "G-01-G-1716",
+  "new_nodes": ["process-only", "valewolf11 2106841522125902052 discarded secondary"],
+  "next": "C295 Monday 5 Oct ET clerk-open ECF 449 window",
+  "drive_file_id": "1zXo5Pl-KGoH-o-vffv7qz5plpdaSR53Q"
+}
