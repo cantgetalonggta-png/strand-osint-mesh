@@ -1,0 +1,18 @@
+{
+  "cycle": 321,
+  "date": "2026-10-05",
+  "clock": "16:12 PDT / 19:12 ET",
+  "position": "same-hour delta after C320 19:11 ET",
+  "ward": "ECF 447-448; hearing 2 Dec 2026 14:00 ET; no ECF 449",
+  "cl_header": "Sept. 24, 2026, 9:52 a.m.; last known filing Sept. 23, 2026",
+  "pacer_monitor": "10/04/2026 11:59 PM EDT; terminal ECF 448",
+  "dwell": "256-cycle C066-C321",
+  "banner_day": 267,
+  "ecf12_count": 241,
+  "new_nodes": ["CL 19:12 ET header lock", "Joint Local Rules comment closed 29 Sep T+6", "Karen Margaret Chau HHR party-block", "ECF 447 PM calendar collision carry"],
+  "discarded": ["DonnaLeafFan 19:26 GMT", "red_i_eric 22:52 GMT"],
+  "gaps": "G-01-G-1878",
+  "inquiry": "uncharged",
+  "accounting": "no 28th",
+  "next": "C322 Tuesday 6 Oct ET clerk-open ECF 449 window"
+}
