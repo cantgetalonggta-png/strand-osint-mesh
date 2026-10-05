@@ -1,0 +1,22 @@
+{
+  "cycle": 318,
+  "completed": "2026-10-05",
+  "asof": "2026-10-05T17:13:00-04:00",
+  "window": "Monday tenth clerk-open hour after C317",
+  "holdings": {
+    "ward_last_ecf": "447-448",
+    "hearing": "2026-12-02 14:00 ET",
+    "ecf_449": false,
+    "accounting_28": false,
+    "inquiry": "uncharged",
+    "pacer_monitor_01204": "10/04/2026 11:59 PM EDT",
+    "pacer_monitor_08047": "10/04/2026 11:59 PM EDT ECF 12",
+    "cl_68260876": "CloudFront 403",
+    "dwell": "C066-C318 253-cycle",
+    "banner_day": 264,
+    "ecf12_count": 238
+  },
+  "new_nodes": ["PM 01204 stamp hold", "PM 08047 ECF 12 stamp hold", "CL 403", "Jane Doe 200 v Indyke 1:24-cv-04775 satellite"],
+  "gaps": "G-01-G-1857",
+  "next": "C319 Monday evening ET ECF 449 window"
+}
