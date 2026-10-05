@@ -1,0 +1,19 @@
+{
+  "cycle": 317,
+  "date": "2026-10-05",
+  "clock": "13:11 PDT / 16:11 ET",
+  "position": "ninth clerk-open hour, same-hour delta after C316 16:10 ET",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C317-2026-10-05.pdf",
+  "ward": "ECF 447-448; hearing 2 Dec 2026 14:00 ET; no ECF 449",
+  "cl_header": "Sept. 24, 2026, 9:52 a.m.; last known filing Sept. 23, 2026; entry table failed",
+  "dwell": "252-cycle C066-C317",
+  "banner_day": 263,
+  "ecf12_count": 237,
+  "08047": "live reconfirm Sept. 17, 2026, 1:48 p.m.; ECF 12",
+  "accounting": "no 28th",
+  "inquiry": "uncharged",
+  "new_nodes": ["CL authorities-page header match", "08047 live reconfirm", "Moorehead SX-2019-PB-00010 Sheldon/McChain Hamm negative control"],
+  "gaps": "G-01-G-1854",
+  "drive_file": "19cYVW6c4ZaudxzlCVvmGWyvX63ss3aGk",
+  "next": "C318 Monday late-afternoon ET after 17:00 ECF 449 window"
+}
