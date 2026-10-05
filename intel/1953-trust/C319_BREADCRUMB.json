@@ -1,0 +1,14 @@
+{
+  "cycle": 319,
+  "as_of": "2026-10-05T18:11:00-04:00",
+  "window": "Monday 15:11 PDT / 18:11 ET eleventh clerk-open hour after C318",
+  "ward": {"docket": "1:24-cv-01204", "cl_id": 68260876, "last_updated": "2026-09-24T09:52:00-04:00", "last_known_filing": "2026-09-23", "terminal_ecf": "447-448", "ecf_449": false, "hearing": "2026-12-02T14:00:00-05:00"},
+  "doe_08047": {"docket": "1:26-cv-08047", "cl_id": 74796688, "last_updated": "2026-09-17T13:48:00-04:00", "terminal_ecf": 12, "freeze_count": 239},
+  "clocks": {"cl_dwell_cycles": 254, "banner_day": 265, "fy2026": "T+5", "rule_197": "T-11", "vibir_answer": "T-14", "columbus_day": "T-7"},
+  "new_nodes": ["Money Times 5 Oct 2026 chrome on 2 Feb URL; 43-bequest restatement; secondary"],
+  "discarded": ["DonnaLeafFan Cornell cluster", "mccarthyest22 Panorama/Dye", "red_i_eric deposition-payoff"],
+  "gaps": "G-01-G-1866",
+  "accounting_28": false,
+  "inquiry": "uncharged",
+  "next": "C320 Monday evening / Tuesday 6 Oct ET ECF 449 window"
+}
