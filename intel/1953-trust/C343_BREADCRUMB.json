@@ -1,0 +1,29 @@
+{
+  "cycle": 343,
+  "date": "2026-10-06",
+  "window": "Tuesday 16:13 PDT / 19:13 ET eleventh clerk-open / first after-hours hour after C342",
+  "status": {
+    "ward": "ECF 447-448 terminal; hearing 2 Dec 2026 14:00 ET; no ECF 449",
+    "cl_01204": "Last Updated 24 Sep 2026 9:52 a.m.; last known filing 23 Sep 2026; entry-table fail",
+    "pacer_01204": "615842",
+    "08047": "ECF 12 terminal; Woods III / Figueredo; last updated 17 Sep 2026 1:48 p.m.",
+    "pacer_08047": "672825",
+    "settlement_stamp": "LAST UPDATED OCTOBER 5, 2026",
+    "deadlines": "23 Nov 2026 claim/opt-out/objection; 2 Dec 2026 14:00 ET hearing",
+    "accounting": "no 28th",
+    "inquiry": "uncharged"
+  },
+  "counters": {
+    "cl_dwell": "C066-C343 = 278",
+    "banner_day": 289,
+    "ecf12_freeze_count": 263,
+    "fy2026": "T+6",
+    "rule_197": "T-10",
+    "vibir": "T-13",
+    "columbus_day": "T-6",
+    "sdny_ecf_outage": "T-4"
+  },
+  "gaps": "G-01-G-2010",
+  "discarded": ["Grok 14:33 GMT mention-count", "red_i_eric Kahn-payoff", "epsteinswatchlist never-taken-effect"],
+  "next": "C344 Tuesday late evening / Wednesday 7 Oct ET ECF 449 window"
+}
