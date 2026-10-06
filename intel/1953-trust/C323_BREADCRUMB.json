@@ -1,0 +1,16 @@
+{
+  "cycle": 323,
+  "date": "2026-10-05",
+  "window": "Monday 18:13 PDT / 21:13 ET",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C323-2026-10-05.pdf",
+  "docket_lock": "CL 68260876 last updated 2026-09-24 09:52; last known filing 2026-09-23; no ECF 449",
+  "pacer_monitor_ward": "52265043 case-not-found",
+  "pacer_monitor_08047": "stamp 2026-10-04 23:59 EDT; ECF 12",
+  "dwell": "258-cycle C066-C323",
+  "banner_day": 269,
+  "ecf12_carry": 243,
+  "clocks": {"FY2026": "T+5", "Rule197": "T-11", "VIBIR": "T-14", "ColumbusDay": "T-7", "SDNY_ECF_outage": "T-5"},
+  "gaps": "G-01-G-1890",
+  "disposition": "process-only; inquiry uncharged; no 28th accounting; hearing 2026-12-02 14:00 ET",
+  "next": "C324 Tuesday 6 Oct ET clerk-open ECF 449 window"
+}
