@@ -1,0 +1,16 @@
+{
+  "cycle": 322,
+  "as_of": "2026-10-05T20:14:00-04:00",
+  "status": "process-only",
+  "ward_last_ecf": "447-448",
+  "hearing": "2026-12-02 14:00 ET",
+  "cl_header": "2026-09-24 09:52",
+  "dwell": "C066-C322",
+  "banner_day": 268,
+  "ecf12_carry": 242,
+  "gaps": "G-01-G-1884",
+  "inquiry": "uncharged",
+  "accounting_28": false,
+  "drive_file_id": "1i3ExSmnUl1iXhmBuV8X22LT4J8v3Jwh1",
+  "notes": "CL header lock; entry-table fail; PACER Monitor id 54218454 collision; SDNY ECF outage T-5; VIBIR T-14; DonnaLeafFan and mccarthyest22 discarded."
+}
