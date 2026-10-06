@@ -1,0 +1,39 @@
+{
+  "cycle": 338,
+  "date": "2026-10-06",
+  "clock": "11:12 PDT / 14:12 ET",
+  "posture": "sixth Tuesday clerk-open hour; no ECF 449",
+  "ward": {
+    "docket": "1:24-cv-01204-AS",
+    "cl_id": 68260876,
+    "pacer_case_id": 615842,
+    "last_updated": "2026-09-24 09:52",
+    "last_known_filing": "2026-09-23",
+    "terminal_ecf": "447-448",
+    "hearing": "2026-12-02 14:00 ET",
+    "entry_table": "fail"
+  },
+  "c08047": {
+    "docket": "1:26-cv-08047",
+    "cl_id": 74796688,
+    "pacer_case_id": 672825,
+    "last_updated": "2026-09-17 13:48",
+    "terminal_ecf": 12,
+    "magistrate": "Valerie Figueredo"
+  },
+  "inquiry": "uncharged",
+  "accounting_28": false,
+  "counters": {
+    "cl_dwell": "C066-C338",
+    "banner_day": 284,
+    "ecf12_carry": 258,
+    "fy2026": "T+6",
+    "rule197": "T-10",
+    "vibir": "T-13",
+    "columbus": "T-6",
+    "ecf_outage": "T-4"
+  },
+  "gaps": "G-01-G-1980",
+  "x_lane": "empty",
+  "next": "C339 Tuesday 6 Oct late-afternoon ET"
+}
