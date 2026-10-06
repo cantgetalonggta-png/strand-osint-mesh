@@ -1,0 +1,43 @@
+{
+  "cycle": 340,
+  "date": "2026-10-06",
+  "clock": "13:11 PDT / 16:11 ET",
+  "posture": "eighth Tuesday clerk-open hour; no ECF 449",
+  "ward": {
+    "docket": "1:24-cv-01204-AS",
+    "cl_id": 68260876,
+    "pacer_case_id": 615842,
+    "last_updated": "2026-09-24 09:52",
+    "last_known_filing": "2026-09-23",
+    "terminal_ecf": "447-448",
+    "hearing": "2026-12-02 14:00 ET",
+    "entry_table": "fail"
+  },
+  "c08047": {
+    "docket": "1:26-cv-08047",
+    "cl_id": 74796688,
+    "pacer_case_id": 672825,
+    "last_updated": "2026-09-17 13:48",
+    "terminal_ecf": 12,
+    "magistrate": "Valerie Figueredo",
+    "pm_relative": "9 hours ago",
+    "entry_table": "header only"
+  },
+  "inquiry": "uncharged",
+  "accounting_28": false,
+  "counters": {
+    "cl_dwell": "C066-C340",
+    "banner_day": 286,
+    "ecf12_carry": 260,
+    "fy2026": "T+6",
+    "rule197": "T-10",
+    "vibir": "T-13",
+    "columbus": "T-6",
+    "ecf_outage": "T-4"
+  },
+  "gaps": "G-01-G-1992",
+  "new_gaps": ["G-1987", "G-1988", "G-1989", "G-1990", "G-1991", "G-1992"],
+  "discarded": ["red_i_eric payoff commentary", "epsteinswatchlist never-taken-effect sentence"],
+  "x_lane": "Grok 14:33 GMT mention-count recirculation secondary",
+  "next": "C341 Tuesday 6 Oct late-afternoon ET ECF 449 window"
+}
