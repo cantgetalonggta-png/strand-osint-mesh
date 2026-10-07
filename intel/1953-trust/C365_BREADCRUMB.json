@@ -1,0 +1,25 @@
+{
+  "cycle": 365,
+  "date": "2026-10-07",
+  "window": "Wednesday 14:11 PDT / 17:11 ET eleventh clerk-open hour after C364",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C365-2026-10-07.pdf",
+  "nodes": [
+    "08047 full-page lock of unnumbered 7 Oct Notice Regarding Deficient Motion to Appear Pro Hac Vice",
+    "ECF 13 Appear Pro Hac Vice still title-only doc1/127040497117 caseid 672825 zero RECAP",
+    "08047 Last Updated 7 Oct 2026 3:10 p.m. dwell through 17:11 ET",
+    "01204 CL 9:52 a.m. 300-cycle dwell C066-C365 no ECF 449",
+    "empty X-lane"
+  ],
+  "discarded": [
+    "Law360 Jane Doe 200 1:24-cv-04775 Ramos track",
+    "2020 Glassman PHV on 1:20-cv-00484",
+    "epsteinswatchlist never-taken-effect restatement"
+  ],
+  "gaps": "G-01-G-2142",
+  "new_gaps": ["G-2137", "G-2138", "G-2139", "G-2140", "G-2141", "G-2142"],
+  "ward": "ECF 447-448 terminal; hearing 2 Dec 2026 14:00 ET",
+  "accounting": "no 28th",
+  "inquiry": "uncharged",
+  "pacer": {"01204": "615842", "08047": "672825"},
+  "next": "C366 Wednesday evening ET ECF 14 / ECF 449 window"
+}
