@@ -1,0 +1,20 @@
+{
+  "cycle": 363,
+  "date": "2026-10-07",
+  "asof": "2026-10-07T15:11:00-04:00",
+  "pdf": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C363-2026-10-07.pdf",
+  "drive_file_id": "11iLUXHVvmcMQwNguJN2FHYtkc_Aw6qg6",
+  "new_nodes": [
+    "08047 ECF 13 PHV still description-stripped at 15:11 ET",
+    "CL 08047 last-updated hold 7 Oct 1:10 p.m.",
+    "PACER doc1/127040497117 caseid 672825",
+    "01204 no ECF 449; CL 9:52 a.m. hold",
+    "settlement stamp 5 Oct day-2",
+    "PM 672825 slug collision to CAND Falsafi discarded"
+  ],
+  "gaps": "G-01-G-2130",
+  "ward": "ECF 447-448, hearing 2 Dec 2026 14:00 ET",
+  "accounting": "no 28th",
+  "inquiry": "uncharged",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF"
+}
