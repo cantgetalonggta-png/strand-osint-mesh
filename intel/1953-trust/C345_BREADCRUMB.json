@@ -1,0 +1,37 @@
+{
+  "cycle": 345,
+  "date": "2026-10-06",
+  "window": "Tuesday 17:14 PDT / 20:14 ET thirteenth clerk-open / third after-hours hour after C344",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C345-2026-10-06.pdf",
+  "drive_file_id": "1gu1MB1NVqy_UYLjV_oemI9l6iXM-hbva",
+  "status": {
+    "ward": "ECF 447-448 terminal; hearing 2 Dec 2026 14:00 ET; no ECF 449",
+    "cl_01204": "Last Updated 24 Sep 2026 9:52 a.m.; last known filing 23 Sep 2026; entry-table fail; ECF 1 and ECF 5 RECAP live",
+    "pacer_01204": "615842",
+    "cl_docket_01204": "68260876",
+    "08047": "ECF 12 terminal; Woods III / Figueredo; last updated 17 Sep 2026 1:48 p.m.",
+    "pacer_08047": "672825",
+    "cl_docket_08047": "74796688",
+    "settlement_stamp": "LAST UPDATED OCTOBER 5, 2026",
+    "deadlines": "23 Nov 2026 claim/opt-out/objection; 2 Dec 2026 14:00 ET hearing",
+    "accounting": "no 28th",
+    "inquiry": "uncharged"
+  },
+  "counters": {
+    "cl_dwell": "C066-C345 = 280",
+    "banner_day": 291,
+    "ecf12_freeze_count": 265,
+    "fy2026": "T+6",
+    "rule_197": "T-10",
+    "vibir": "T-13",
+    "columbus_day": "T-6",
+    "sdny_ecf_outage": "T-4"
+  },
+  "discarded": [
+    "JedisecX EFTA00038693 Jeepers recirculation (C342 compilation)",
+    "Grok 14:33 GMT mention-count",
+    "Coverup Chronicles Part 2 already C342"
+  ],
+  "gaps": "G-01-G-2022",
+  "next": "C346 Wednesday 7 Oct ET clerk-open ECF 449 window"
+}
