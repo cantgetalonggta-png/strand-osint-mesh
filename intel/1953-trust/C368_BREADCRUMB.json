@@ -1,0 +1,44 @@
+{
+  "cycle": 368,
+  "date": "2026-10-07",
+  "window": "Wednesday 16:15 PDT / 19:15 ET fourteenth clerk-open / second after-hours hour after C367",
+  "classification": "process-only",
+  "ward": {
+    "docket": "1:24-cv-01204-AS",
+    "pacer": 615842,
+    "cl": 68260876,
+    "last_updated": "2026-09-24 09:52",
+    "last_known_filing": "2026-09-23",
+    "terminal": "ECF 447-448",
+    "ecf_449": false,
+    "page5_terminal_confirmed": true,
+    "hearing": "2026-12-02 14:00 ET"
+  },
+  "doe_08047": {
+    "docket": "1:26-cv-08047",
+    "pacer": 672825,
+    "cl": 74796688,
+    "last_updated": "2026-10-07 15:10",
+    "last_known_filing": "2026-10-07",
+    "ecf_13": "Appear Pro Hac Vice doc1/127040497117 zero RECAP",
+    "deficient_notice": "unnumbered Notice Regarding Deficient Motion to Appear Pro Hac Vice",
+    "ecf_14": false,
+    "judge": "Gregory Howard Woods III",
+    "magistrate": "Valerie Figueredo"
+  },
+  "settlement": {
+    "stamp": "2026-10-05",
+    "stamp_day": 2,
+    "banner_day": 314,
+    "opt_out": "2026-11-23",
+    "hearing": "2026-12-02 14:00 ET",
+    "administrator": "Simone K. Lelchuk"
+  },
+  "counters": {
+    "cl_dwell": "303-cycle C066-C368",
+    "gaps": "G-01-G-2160"
+  },
+  "inquiry": "uncharged",
+  "accounting_28": false,
+  "next": "C369 Wednesday late-evening / Thursday 8 Oct ET ECF 14 / ECF 449 window"
+}
