@@ -1,0 +1,16 @@
+{
+  "cycle": 361,
+  "date": "2026-10-07",
+  "clock": "Wednesday 10:13 PDT / 13:13 ET",
+  "posture": "process-only negative control; seventh clerk-open hour; no ECF 449",
+  "ward": {"docket": "1:24-cv-01204-AS", "cl": "68260876", "pacer": "615842", "last_updated": "2026-09-24 09:52 ET", "last_known_filing": "2026-09-23", "terminal_public": "ECF 447-448", "hearing": "2026-12-02 14:00 ET"},
+  "doe_08047": {"docket": "1:26-cv-08047", "cl": "74796688", "pacer": "672825", "judge": "Woods III", "magistrate": "Valerie Figueredo", "last_updated": "2026-09-17 13:48 ET", "terminal": "ECF 12"},
+  "settlement": {"stamp": "2026-10-05", "banner_day": 307, "stamp_age_days": 2, "questionnaire_optout_objection": "2026-11-23", "hearing": "2026-12-02 14:00 ET", "ratchet": "35M if >=40 else 25M"},
+  "counters": {"cl_952_dwell": "296 C066-C361", "ecf12_carry": 281, "fy2026": "T+7", "rule197": "T-9", "vibir": "T-12", "columbus": "T-5", "sdny_outage": "T-3", "gaps": "G-01-G-2118"},
+  "new_nodes": ["N-361-01 seventh clerk-open hour no ECF 449", "N-361-02 08047 header reconfirm", "N-361-03 settlement stamp day-2 hold", "N-361-04 Jane Doe 200 Law360 index is 22 Apr 2025 termination recirculation"],
+  "discarded": ["Grok mention-count", "JedisecX EFTA00038693", "Capucci 2 Oct Doe 3 anonymity restatement", "Law360 BofA 28 Aug restatement", "Bloomberg Radiant World Cronan", "Jane Doe 200 as if new"],
+  "inquiry": "uncharged",
+  "accounting_28th": false,
+  "next": "C362 Wednesday 7 Oct late-afternoon ET ECF 449 window",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF"
+}
