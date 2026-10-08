@@ -1,0 +1,14 @@
+{
+  "cycle": 385,
+  "as_of": "2026-10-08T14:11:00-04:00",
+  "window": "Thursday 11:11 PDT / 14:11 ET sixth clerk-open hour after C384",
+  "ward": {"cl": "68260876", "pacer": "615842", "last_updated": "2026-09-24 09:52 ET", "last_filing": "2026-09-23", "terminal_ecf": [447, 448], "ecf_449": false, "hearing": "2026-12-02 14:00 ET"},
+  "sat_08047": {"cl": "74796688", "pacer": "672825", "last_updated": "2026-10-07 15:10 ET", "ecf_13": "PHV doc1/127040497117 deficient notice", "ecf_14": false, "recap": 0},
+  "x_lane": "empty",
+  "discarded": ["epsteinswatchlist never-taken-effect", "Law360 1:21-cv-08469 Castel", "Hot Paths 7 Oct BI restatement"],
+  "gaps": "G-01-G-2262",
+  "inquiry": "uncharged",
+  "accounting_28": false,
+  "next": "C386 Thursday late-afternoon ET ECF 14 / ECF 449 window",
+  "drive_file_id": "1tbk0wXjiq1rnMhF_WGZF5rMFi2BZVHB5"
+}
