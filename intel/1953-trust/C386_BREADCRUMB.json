@@ -1,0 +1,35 @@
+{
+  "cycle": 386,
+  "completed": "2026-10-08",
+  "window": "Thursday 12:11 PDT / 15:11 ET seventh clerk-open hour after C385",
+  "classification": "process-only dockets; one compilation-grade island adjacency",
+  "ward": {
+    "docket": "1:24-cv-01204-AS",
+    "pacer": 615842,
+    "courtlistener": 68260876,
+    "last_updated": "2026-09-24 09:52",
+    "last_known_filing": "2026-09-23",
+    "terminal_known": "ECF 447-448",
+    "ecf_449": false,
+    "hearing": "2026-12-02 14:00 ET",
+    "dwell_cycles": "C066-C386 (321)"
+  },
+  "doe_08047": {
+    "docket": "1:26-cv-08047",
+    "pacer": 672825,
+    "courtlistener": 74796688,
+    "last_updated": "2026-10-07 15:10",
+    "last_known_filing": "2026-10-07",
+    "ecf_13": "Appear Pro Hac Vice doc1/127040497117 zero RECAP",
+    "deficient_notice": true,
+    "ecf_14": false
+  },
+  "new_nodes": ["Owen v. Deckoff/Rodriguez St. Thomas Source 2026-10-07 compilation-grade island adjacency"],
+  "discarded": ["epsteinswatchlist never-taken-effect", "Hot Paths 7 Oct BI restatement", "Grok mention-count", "JedisecX EFTA00027979 recirculation", "elpaseomaritimo biography", "08048/Figuieredo collisions"],
+  "gaps": "G-01-G-2268",
+  "inquiry": "uncharged",
+  "accounting_28": false,
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C386-2026-10-08.pdf",
+  "drive_file_id": "1jphJHwpRS6dvYG8vAtGzJMLW1-SLhjy3",
+  "next": "C387 Thursday late-afternoon ET ECF 14 / ECF 449 window"
+}
