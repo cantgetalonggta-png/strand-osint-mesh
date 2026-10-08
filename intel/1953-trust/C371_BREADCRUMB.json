@@ -1,0 +1,15 @@
+{
+  "cycle": 371,
+  "as_of": "2026-10-07T21:13:00-04:00",
+  "window": "Wednesday 18:13 PDT / 21:13 ET fifth after-hours hour after C370",
+  "dockets": {
+    "01204": {"cl": "68260876", "pacer": "615842", "header": "2026-09-24 09:52", "last_known_filing": "2026-09-23", "terminal": "ECF 447-448", "ecf_449": false},
+    "08047": {"cl": "74796688", "pacer": "672825", "header_root": "2026-10-07 15:10", "header_page2": "2026-10-07 13:10", "ecf_13": "Appear Pro Hac Vice doc1/127040497117", "deficient_notice": "root snippet only", "ecf_14": false, "recap": 0}
+  },
+  "discarded": ["Law360 Jane Doe 200 1:24-cv-04775 Ramos", "elpaseomaritimo biography restatement"],
+  "hearing": "2026-12-02 14:00 ET",
+  "accounting_28": false,
+  "inquiry": "uncharged",
+  "gaps": "G-01-G-2178",
+  "next": "C372 Thursday 8 Oct ET clerk-open ECF 14 / ECF 449"
+}
