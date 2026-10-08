@@ -1,0 +1,20 @@
+{
+  "cycle": 369,
+  "date": "2026-10-07",
+  "window": "Wednesday 17:14 PDT / 20:14 ET third after-hours hour after C368",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C369-2026-10-07.pdf",
+  "process": {
+    "cl_01204_last_updated": "2026-09-24 09:52",
+    "dwell": "304-cycle C066-C369",
+    "banner_day": 315,
+    "settlement_stamp": "2026-10-05 day-2",
+    "08047_header": "2026-10-07 15:10",
+    "08047_ecf13": "doc1/127040497117 caseid 672825 title-only; deficient PHV notice; no ECF 14; 0 RECAP",
+    "no_ecf_449": true,
+    "x_lane": "empty"
+  },
+  "gaps": "G-01-G-2166",
+  "ward_hearing": "2026-12-02 14:00 ET",
+  "inquiry": "uncharged",
+  "next": "C370 Thursday 8 Oct ET ECF 449 / ECF 14 window"
+}
