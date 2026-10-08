@@ -1,0 +1,40 @@
+{
+  "cycle": 391,
+  "as_of": "2026-10-08T19:12:00-04:00",
+  "window": "Thursday 16:12 PDT / 19:12 ET twelfth clerk-open hour after C390",
+  "ward": {
+    "docket": "1:24-cv-01204",
+    "pacer": "615842",
+    "cl": "68260876",
+    "last_updated": "2026-09-24T09:52:00-04:00",
+    "last_filing": "2026-09-23",
+    "terminal": ["ECF 447", "ECF 448"],
+    "ecf_449": false,
+    "hearing": "2026-12-02T14:00:00-05:00"
+  },
+  "doe_08047": {
+    "docket": "1:26-cv-08047",
+    "pacer": "672825",
+    "cl": "74796688",
+    "last_updated": "2026-10-07T15:10:00-04:00",
+    "last_filing": "2026-10-07",
+    "ecf_13": "Appear Pro Hac Vice doc1/127040497117 deficient notice",
+    "ecf_14": false,
+    "recap": 0,
+    "judge": "Gregory Howard Woods III",
+    "magistrate": "Valerie Figueredo"
+  },
+  "process": {
+    "cl_dwell_cycles": "C066-C391",
+    "dwell_n": 326,
+    "banner_day": 337,
+    "stamp": "2026-10-05 day-3",
+    "inquiry": "uncharged",
+    "accounting_28": false,
+    "x_lane": "empty"
+  },
+  "gaps": "G-01-G-2298",
+  "discarded": ["Money Times 8 Oct BI reprint", "epsteinswatchlist never-taken-effect", "Law360 1:21-cv-08469 Castel collision"],
+  "drive_file_id": "1dScGu7lbPsWm2kvTusFX0imgT0IJaxR0",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C391-2026-10-08.pdf"
+}
