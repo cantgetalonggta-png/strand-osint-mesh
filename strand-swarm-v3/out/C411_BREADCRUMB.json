@@ -1,0 +1,22 @@
+{
+  "cycle": 411,
+  "date": "2026-10-09",
+  "time_et": "18:12",
+  "status": "negative-control",
+  "docket_01204": {
+    "last_updated_cl": "2026-10-09 13:09 ET",
+    "last_known_filing_cl": "2026-10-09",
+    "terminal_ecf_visible": 448,
+    "ecf_449": false,
+    "hearing": "2026-12-02 14:00 ET"
+  },
+  "docket_08047": {
+    "last_updated_cl": "2026-10-07 15:10 ET",
+    "ecf_13": "PHV deficient notice Jean Sutton Martin",
+    "ecf_14": false
+  },
+  "inquiry": "uncharged SDNY/FBI (Sep 23 2026 reports)",
+  "accounting": "no 28th",
+  "gaps": "G-01–G-2418",
+  "notes": "CL header dwell update only; entry-table fail; no new filings. X secondary only."
+}
