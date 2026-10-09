@@ -1,0 +1,14 @@
+{
+  "cycle": 409,
+  "ts": "2026-10-09T11:11:00-07:00",
+  "et": "2026-10-09T14:11:00-04:00",
+  "window": "Friday sixth clerk-open hour after C408",
+  "ward": {"docket": "1:24-cv-01204-AS", "cl": "68260876", "pacer": "615842", "header": "2026-09-24 09:52 ET", "last_filing": "2026-09-23", "terminal": ["ECF 447 Transcript", "ECF 448 Notice of Filing Transcript"], "ecf_449": false, "hearing": "2026-12-02 14:00 ET", "dwell": "C066-C409 344-cycle"},
+  "woods": {"docket": "1:26-cv-08047-GHW-VF", "cl": "74796688", "pacer": "672825", "header": "2026-10-07 15:10 ET", "last_filing": "2026-10-07", "ecf_13": "Appear Pro Hac Vice doc1/127040497117 deficient notice", "ecf_14": false, "recap": 0},
+  "outage": "2026-10-10 07:00 ET to 2026-10-11 12:00 ET",
+  "inquiry": "uncharged",
+  "accounting_28": false,
+  "gaps": "G-01-G-2406",
+  "discarded": ["epsteinswatchlist never-taken-effect", "Hot Paths BI recirculation", "Law360 Ashton Woods collision", "Capucci Part 4 recirculation", "Weinberg 2016 already C399"],
+  "new_compilation": "EpsteinsEmails 9 Oct 2009 Indyke canyon note (anniversary only)"
+}
