@@ -1,0 +1,16 @@
+{
+  "cycle": 411,
+  "stamp_et": "2026-10-09T16:16:00-04:00",
+  "window": "Friday 13:14 PDT / 16:14 ET eighth clerk-open hour after C410",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C411-2026-10-09.pdf",
+  "findings": {
+    "01204_page5_terminal": "ECF 447-448 Sep 23 2026",
+    "01204_header": "Last Updated Oct 9 2026 1:09 p.m.; last known filing Oct 9 2026",
+    "ecf_449": false,
+    "08047_ecf13": "PHV Jean Sutton Martin deficient ANYSDC-33572803",
+    "08047_ecf14": false,
+    "hearing": "2026-12-02 14:00 ET",
+    "inquiry": "uncharged"
+  },
+  "gaps": "G-01-G-2418"
+}
