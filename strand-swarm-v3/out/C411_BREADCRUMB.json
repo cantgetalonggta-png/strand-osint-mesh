@@ -1,22 +1,14 @@
 {
   "cycle": 411,
   "date": "2026-10-09",
-  "time_et": "18:12",
-  "status": "negative-control",
-  "docket_01204": {
-    "last_updated_cl": "2026-10-09 13:09 ET",
-    "last_known_filing_cl": "2026-10-09",
-    "terminal_ecf_visible": 448,
-    "ecf_449": false,
-    "hearing": "2026-12-02 14:00 ET"
+  "time_et": "19:15",
+  "status": "process-only",
+  "new_nodes": ["Jean Sutton Martin (AWKO PHV in 08047)", "Simone K. Lelchuk JAMS affiliation (30 Sep 2026)"],
+  "dockets": {
+    "01204": {"last_known": "2026-10-09", "ecf_terminal": "447-448", "hearing": "2026-12-02 14:00 ET", "no_449": true},
+    "08047": {"last_updated": "2026-10-07 15:10 ET", "ecf_13": "PHV Jean Martin deficient", "no_14": true}
   },
-  "docket_08047": {
-    "last_updated_cl": "2026-10-07 15:10 ET",
-    "ecf_13": "PHV deficient notice Jean Sutton Martin",
-    "ecf_14": false
-  },
-  "inquiry": "uncharged SDNY/FBI (Sep 23 2026 reports)",
-  "accounting": "no 28th",
-  "gaps": "G-01–G-2418",
-  "notes": "CL header dwell update only; entry-table fail; no new filings. X secondary only."
+  "gaps": "G-01-G-2418",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github": "cantgetalonggta-png/strand-osint-mesh"
 }
