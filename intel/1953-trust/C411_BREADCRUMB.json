@@ -1,16 +1,13 @@
 {
   "cycle": 411,
-  "stamp_et": "2026-10-09T16:16:00-04:00",
-  "window": "Friday 13:14 PDT / 16:14 ET eighth clerk-open hour after C410",
+  "as_of": "2026-10-09T14:12:00-07:00",
+  "et": "2026-10-09T17:12:00-04:00",
   "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C411-2026-10-09.pdf",
-  "findings": {
-    "01204_page5_terminal": "ECF 447-448 Sep 23 2026",
-    "01204_header": "Last Updated Oct 9 2026 1:09 p.m.; last known filing Oct 9 2026",
-    "ecf_449": false,
-    "08047_ecf13": "PHV Jean Sutton Martin deficient ANYSDC-33572803",
-    "08047_ecf14": false,
-    "hearing": "2026-12-02 14:00 ET",
-    "inquiry": "uncharged"
-  },
-  "gaps": "G-01-G-2418"
+  "ward": {"docket": "1:24-cv-01204-AS", "pacer": 615842, "cl": 68260876, "last_updated": "Oct. 9, 2026, 1:09 p.m.", "last_known_filing": "Oct. 9, 2026", "page5_terminal": "ECF 448", "ecf_449": false, "hearing": "2026-12-02 14:00 ET"},
+  "doe_08047": {"docket": "1:26-cv-08047", "pacer": 672825, "cl": 74796688, "cl_last_updated": "Oct. 7, 2026, 3:10 p.m.", "pm_updated": "2026-10-08 23:59 ET", "ecf_13": "Jean Sutton Martin PHV deficient", "receipt": "ANYSDC-33572803", "ecf_14": false, "recap": 0},
+  "inquiry": "uncharged",
+  "accounting_28": false,
+  "new_gaps": ["G-2413", "G-2414", "G-2415", "G-2416", "G-2417", "G-2418"],
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C412 Friday late-afternoon ET before 10 Oct 07:00 ET outage"
 }
