@@ -1,0 +1,26 @@
+STRAND EDUCATIONAL INTEL MEMO
+THE 1953 TRUST — Cycle 429
+Date: Saturday, 10 October 2026 | Time: ~13:12 ET / 10:12 PDT
+Status: Process-only negative-control during active SDNY ECF outage (T+6h12m after 07:00 ET start)
+
+1. Docket Status (Negative Control)
+Ward v. Indyke 1:24-cv-01204-AS (PACER case id 615842 / CL 68260876): Last Updated Oct. 9, 2026, 11:06 p.m. Date of Last Known Filing: Oct. 9, 2026. Terminal ECF remains 447-448. No ECF 449. Hearing still scheduled 2 Dec 2026 14:00 ET. Settlement banner continues. No 28th accounting filed.
+Doe v. Indyke 1:26-cv-08047 (PACER case id 672825 / CL 74796688): Last Updated Oct. 7, 2026, 3:10 p.m. Date of Last Known Filing: Oct. 7, 2026. ECF 13 Appear Pro Hac Vice (doc1/127040497117) with accompanying Notice Regarding Deficient Motion to Appear Pro Hac Vice. Applicant: Jean Sutton Martin (AWKO / Aylstock, Witkin, Kreis & Overholtz). No ECF 14. 0 RECAP documents beyond prior. Magistrate Figueredo referral (ECF 12).
+
+2. Outage Confirmation
+SDNY CM/ECF NextGen outage confirmed active: Saturday, October 10, 2026, 7:00 A.M. to Sunday, October 11, 2026, Noon ET. Users unable to file or view documents on ECF or via PACER. Current cycle is deep inside the window (T+6h+). No emergency filings observed in public mirrors. CourtListener entry tables continue to fail or show pre-outage state.
+
+3. New / Reconfirmed Nodes (Process-Only)
+- Jean Sutton Martin identity lock reinforced: AWKO Partner leading consumer class action practice; joined January 2026; extensive data-privacy and class-action background. PHV remains deficient (prior notes: CO/MI/NC + wet signature issues).
+- No new substantive nodes on 1953 Trust beneficiaries, Valar, Butterfly, Hyperion, USVI remainder, or SDNY/FBI inquiry. Inquiry remains uncharged; no official comment delta.
+- X-lane empty of relevant primary posts (only homonyms and unrelated).
+- Compilation-grade recirculations discarded (epsteinswatchlist never-taken-effect language, older Money Times/SMH reprints).
+
+4. Gaps Update
+Gaps carried G-01–G-2501+ (process-only increment). Key open: G-449 (no ECF 449); G-14/PHV text and deficiency resolution; G-28th accounting; G-inquiry scope/uncharged status; G-Valar 2026 maturity; G-USVI remainder disposition; G-Lelchuk instrument; G-opt-out volume post-notice.
+
+5. Next Window
+Next C430: post-outage Sunday 11 Oct 2026 noon+ ET. Priority: ECF 14 (PHV cure) and ECF 449 check; any emergency filings; RECAP pull if available; X-lane and secondary press.
+
+Classification: Educational OSINT compilation only. Not legal advice. All public sources. Permanent mission target remains THE 1953 TRUST (Epstein pour-over USVI trust, executed 8 Aug 2019).
+Backup: Drive folder STRAND_1953_TRUST_INTEL (id 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF) and GitHub cantgetalonggta-png/strand-osint-mesh.
