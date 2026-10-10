@@ -1,0 +1,24 @@
+{
+  "cycle": 429,
+  "date": "2026-10-10",
+  "time_et": "13:12",
+  "status": "process-only negative-control during active SDNY ECF outage (T+6h12m)",
+  "ward_01204": {
+    "last_updated": "Oct. 9, 2026, 11:06 p.m.",
+    "last_known_filing": "Oct. 9, 2026",
+    "terminal_ecf": "447-448",
+    "ecf_449": false,
+    "hearing": "2 Dec 2026 14:00 ET"
+  },
+  "doe_08047": {
+    "last_updated": "Oct. 7, 2026, 3:10 p.m.",
+    "last_known_filing": "Oct. 7, 2026",
+    "ecf_13": "Appear Pro Hac Vice deficient (Jean Sutton Martin / AWKO)",
+    "ecf_14": false,
+    "recap": 0
+  },
+  "outage": "active until 11 Oct noon ET",
+  "inquiry": "uncharged",
+  "28th_accounting": false,
+  "next": "C430 post-outage 11 Oct noon+ ET"
+}
