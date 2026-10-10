@@ -1,0 +1,17 @@
+{
+  "cycle": 414,
+  "date": "2026-10-09",
+  "time_pdt": "17:16",
+  "time_et": "20:16",
+  "status": "process-only negative-control",
+  "ward_docket": "1:24-cv-01204-AS",
+  "last_ecf": "447-448",
+  "cl_last_updated": "2026-10-09 13:09 ET",
+  "hearing": "2026-12-02 14:00 ET",
+  "accounting": "no 28th",
+  "inquiry": "uncharged",
+  "08047_ecf": "13 PHV deficient, no 14",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C414-2026-10-09.pdf",
+  "gaps": "G-01 to G-2436",
+  "next": "C415 weekend/Monday 13 Oct ET window"
+}
