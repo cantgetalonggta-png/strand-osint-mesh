@@ -1,0 +1,16 @@
+{
+  "cycle": 431,
+  "date": "2026-10-10",
+  "time_pdt": "12:14",
+  "time_et": "15:14",
+  "type": "negative-control",
+  "outage_status": "active T+8h14m (to 11 Oct noon ET)",
+  "ward_status": "ECF 447-448; last known filing 9 Oct; CL last-updated 9 Oct 11:06 p.m.; no ECF 449; hearing 2 Dec 2026 14:00 ET",
+  "08047_status": "ECF 13 PHV Jean Sutton Martin/AWKO deficient; no ECF 14; 0 RECAP",
+  "accounting": "no 28th",
+  "inquiry": "uncharged",
+  "gaps": "G-01–G-2519",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C432 post-outage 11 Oct noon+ ET"
+}
