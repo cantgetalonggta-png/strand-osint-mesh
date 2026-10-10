@@ -1,0 +1,16 @@
+{
+  "cycle": 435,
+  "timestamp_et": "2026-10-10T18:15:00-04:00",
+  "timestamp_pdt": "2026-10-10T15:15:00-07:00",
+  "status": "negative-control / outage dwell",
+  "outage": "SDNY ECF 10 Oct 07:00 ET to 11 Oct noon ET; T+~11h15m",
+  "dockets": {
+    "01204": {"last_updated": "2026-10-09 23:06 ET", "last_filing": "2026-10-09", "terminal_ecf": "447-448", "no_449": true},
+    "08047": {"last_updated": "2026-10-07 15:10 ET", "last_filing": "2026-10-07", "ecf13_phv": "Jean Sutton Martin/AWKO deficient notice", "no_14": true, "recap": 0}
+  },
+  "new_nodes": ["Money Times 10 Oct 43-beneficiary BI reprint (compilation-grade)", "Money Times 10 Oct unpaid-executors reprint (compilation-grade)", "outage dwell T+11h15m confirmation", "Jean Sutton Martin AWKO Partner identity lock reinforced (Wake Forest JD, Lawdragon 500 2026)"],
+  "discarded": ["epsteinswatchlist never-taken-effect recirculation", "mention-count noise"],
+  "gaps": "G-01\u2013G-2543",
+  "permanent": "Ward ECF 447-448 hearing 2 Dec 2026 14:00 ET; no 28th accounting; SDNY inquiry still uncharged",
+  "next": "C436 post-outage 11 Oct noon+ ET ECF 449 / ECF 14 window"
+}
