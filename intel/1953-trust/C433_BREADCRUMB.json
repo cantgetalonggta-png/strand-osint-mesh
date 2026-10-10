@@ -1,0 +1,15 @@
+{
+  "cycle": 433,
+  "timestamp_et": "2026-10-10T17:14:00-04:00",
+  "timestamp_pdt": "2026-10-10T14:14:00-07:00",
+  "status": "negative-control / outage dwell",
+  "outage": "SDNY ECF 10 Oct 07:00 ET to 11 Oct noon ET; T+~10h",
+  "dockets": {
+    "01204": {"last_updated": "2026-10-09 23:06 ET", "last_filing": "2026-10-09", "terminal_ecf": "447-448", "no_449": true},
+    "08047": {"last_updated": "2026-10-07 15:10 ET", "last_filing": "2026-10-07", "ecf13_phv": "Jean Sutton Martin/AWKO deficient", "no_14": true, "recap": 0}
+  },
+  "new_nodes": ["Jean Sutton Martin AWKO bio lock", "Money Times 10 Oct 43-beneficiary reprint"],
+  "gaps": "G-01–G-2531",
+  "permanent": "Ward ECF 447-448 hearing 2 Dec 2026; no 28th accounting; inquiry uncharged",
+  "next": "C434 post-outage 11 Oct noon+ ET"
+}
