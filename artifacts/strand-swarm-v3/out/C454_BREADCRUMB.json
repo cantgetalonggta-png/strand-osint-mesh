@@ -1,0 +1,20 @@
+{
+  "cycle": 454,
+  "timestamp_utc": "2026-10-11T19:11:00Z",
+  "local_et": "2026-10-11T15:11:00-04:00",
+  "target": "THE 1953 TRUST",
+  "type": "process-only-negative-control",
+  "outage_status": "ended_noon_ET_11Oct_T+~3h11m",
+  "key_status": {
+    "ward_01204": "ECF_447-448_only_no_449_CL_last_updated_9Oct_2306",
+    "hearing": "2_Dec_2026_14:00_ET",
+    "accounting": "no_28th",
+    "inquiry": "uncharged",
+    "08047": "ECF_13_PHV_Jean_Sutton_Martin_AWKO_deficient_no_14"
+  },
+  "new_nodes": ["post-outage_T+3h11m_Sunday_afternoon_dwell_confirm", "CL_entry-table_fail_hold", "Martin_AWKO_lock_reinforce", "dual-docket_freeze_continue", "empty_X-lane"],
+  "gaps_range": "G-01-G-2627+",
+  "next_cycle": "C455_Monday_12Oct_ET_clerk-open_ECF449_ECF14",
+  "pdf": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C454-2026-10-11.pdf",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF"
+}
