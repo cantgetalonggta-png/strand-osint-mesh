@@ -1,0 +1,29 @@
+{
+  "cycle": 447,
+  "date": "2026-10-11",
+  "timestamp_et": "12:15",
+  "timestamp_pdt": "09:15",
+  "type": "post-outage negative-control",
+  "outage_status": "ended Noon ET 11 Oct; T+~15min",
+  "01204": {
+    "last_updated_cl": "2026-10-09 23:06 ET",
+    "last_known_filing": "2026-10-09",
+    "terminal_ecf": "447-448",
+    "ecf_449": false,
+    "hearing": "2026-12-02 14:00 ET"
+  },
+  "08047": {
+    "last_updated": "2026-10-07 15:10 ET",
+    "ecf_13": "PHV Jean Sutton Martin / AWKO deficient",
+    "ecf_14": false,
+    "recap": 0
+  },
+  "accounting_28th": false,
+  "inquiry_uncharged": true,
+  "new_nodes": ["process-only post-outage first hour", "Martin/AWKO lock reinforce"],
+  "discarded": ["epsteinswatchlist never-taken-effect", "Law360 Castel collision", "Money Times 43-beneficiary"],
+  "gaps": "G-01–G-2579+",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C448 Sunday late / Monday 12 Oct ET clerk-open ECF 449 / ECF 14 window"
+}
