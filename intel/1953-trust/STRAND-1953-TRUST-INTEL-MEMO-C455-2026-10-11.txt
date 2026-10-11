@@ -1,0 +1,25 @@
+STRAND 1953 TRUST INTEL MEMO - CYCLE 455
+Date: 2026-10-11 ~16:13 ET / 13:13 PDT
+Status: Process-only negative-control post-SDNY ECF outage (ended noon ET).
+
+SUMMARY
+Post-outage Sunday afternoon check of primary tracks for THE 1953 TRUST (Epstein pour-over USVI trust, 8 Aug 2019). No new material filings or public developments.
+
+KEY STATUS
+- Ward v. Indyke et al., 1:24-cv-01204-AS (S.D.N.Y., case id 615842): CourtListener last updated Oct 9, 2026 11:06 p.m. Date of last known filing Oct 9. Terminal ECF 447 Transcript + ECF 448 Notice of Filing Transcript (23 Sep). No ECF 449. Final hearing remains 2 Dec 2026 14:00 ET (ECF 445/446). Settlement banner / social-media notice ongoing. No final judgment entered.
+- 1:26-cv-08047 (Woods III / Jane Doe / Amy et al. v. Indyke/Kahn): ECF 13 Appear Pro Hac Vice (Jean Sutton Martin / AWKO) still deficient notice (doc1/127040497117, caseid 672825). No ECF 14. No RECAP PDF. Header dwell continues.
+- SDNY ECF outage: completed (Sat 10 Oct 07:00 ET to Sun 11 Oct noon ET). RSS and public sources show no targeted filings in these cases.
+- 28th accounting: none located.
+- SDNY/FBI criminal inquiry into Indyke/Kahn: still uncharged per all available reporting (WSJ/NYT/CNN Sep 2026). Ruzumna prior statements of no subpoena / not told subject or target unchanged.
+- Gaps: G-01 through prior; new process gaps on post-outage zero-delta, RECAP lag, CL entry-table intermittent fail.
+
+NODES (no new substantive)
+Process confirmation of outage completion and continued freeze. Jean Sutton Martin / AWKO identity lock holds. Simone Lelchuk (JAMS NY) prior note holds.
+
+DISCARDED
+Homonym Woods cases, unrelated Figueredo, mention-count noise, old recirculations.
+
+NEXT
+C456 Monday 12 Oct ET clerk-open ECF 449 / 08047 ECF 14 window. Continue monitoring CourtListener/PACER/RSS, settlement site, X secondary.
+
+Educational OSINT only. No speculation on uncharged inquiry or sealed materials.
