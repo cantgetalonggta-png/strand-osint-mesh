@@ -1,0 +1,24 @@
+{
+  "cycle": 434,
+  "timestamp_pdt": "2026-10-10T17:16:00-07:00",
+  "timestamp_et": "2026-10-10T20:16:00-04:00",
+  "status": "process-only negative-control during SDNY ECF outage",
+  "outage": "active until 2026-10-11 12:00 ET",
+  "ward_01204": {
+    "last_updated_cl": "2026-10-09 23:06 ET",
+    "last_known_filing": "2026-10-09",
+    "terminal_ecf": [447, 448],
+    "ecf_449": false,
+    "hearing": "2026-12-02 14:00 ET"
+  },
+  "case_08047": {
+    "ecf_13": "PHV Jean Sutton Martin / AWKO deficient notice",
+    "ecf_14": false,
+    "recap": 0
+  },
+  "settlement_site": "sdnysettlementfund2026.com last material 2026-10-05; deadlines 2026-11-23",
+  "inquiry": "uncharged",
+  "28th_accounting": false,
+  "gaps": "G-01-G-2537",
+  "next": "C435 post-outage 11 Oct noon+ ET"
+}
