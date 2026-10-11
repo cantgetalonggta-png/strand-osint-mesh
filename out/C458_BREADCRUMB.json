@@ -1,0 +1,24 @@
+{
+  "cycle": 458,
+  "timestamp": "2026-10-11T19:14:00-04:00",
+  "pdt": "2026-10-11T16:14:00-07:00",
+  "status": "process-only negative-control post-outage",
+  "ward_01204": {
+    "cl_last_updated": "2026-10-09T23:06:00-04:00",
+    "last_known_filing": "2026-10-09",
+    "terminal_ecf": "447-448",
+    "ecf_449": false,
+    "hearing": "2026-12-02 14:00 ET"
+  },
+  "doe_08047": {
+    "cl_last_updated": "2026-10-07T15:10:00-04:00",
+    "ecf_13_phv": "Jean Sutton Martin / AWKO deficient",
+    "ecf_14": false,
+    "recap": 0
+  },
+  "new_nodes": ["Money Times 11 Oct 2026 43-beneficiary / $127M residual recirculation", "Martin/AWKO lock reinforce"],
+  "gaps_through": "G-2583+",
+  "inquiry_uncharged": true,
+  "no_28th_accounting": true,
+  "next": "C459 post-evening ET ECF window"
+}
