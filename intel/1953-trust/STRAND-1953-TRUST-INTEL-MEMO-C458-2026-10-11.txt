@@ -1,0 +1,22 @@
+STRAND 1953 TRUST INTEL MEMO — CYCLE 458
+Educational OSINT Memo | Sunday, 11 October 2026 | ~19:14 ET / 16:14 PDT post-outage
+
+1. STATUS SUMMARY (NEGATIVE CONTROL)
+Post-SDNY ECF outage (ended Noon ET 11 Oct 2026). No new filings observed on CourtListener as of this cycle.
+• Ward v. Indyke / Doe 3 v. Indyke, 1:24-cv-01204-AS (PACER 615842): CL last updated Oct. 9, 2026, 11:06 p.m. Date of Last Known Filing: Oct. 9, 2026. Terminal remains ECF 447 (Transcript) + ECF 448 (Notice of Filing Transcript). No ECF 449. Final hearing still scheduled 2 Dec 2026 14:00 ET. Settlement in principle; social-media notice campaign ongoing per ECF 445/446.
+• Doe v. Indyke, 1:26-cv-08047-GHW-VF (PACER 672825): CL last updated Oct. 7, 2026, 3:10 p.m. ECF 13 Appear Pro Hac Vice (Jean Sutton Martin / AWKO) remains deficient (Notice Regarding Deficient Motion). No ECF 14. 0 RECAP. Assigned to Woods III; referred to Magistrate Figueredo.
+• No 28th accounting filed. SDNY/FBI inquiry into Indyke/Kahn remains uncharged (last confirmed ~23 Sep 2026 WSJ/NYT). 1953 Trust remains pour-over vehicle that has not taken effect.
+
+2. NEW / REINFORCED NODES
+• Money Times / Business Insider recirculation (11 Oct 2026): Restates estate ~$630M at death, residual ~$127M (as of Sep 2025 accounting), 43-beneficiary characterization in some reports, Indyke $50M / Kahn $25M / Shuliak ~$100M proposed bequests, trust never taken effect, co-executors say they have not been paid beyond possible $250k fees. Compilation-grade; consistent with prior 24th accounting $127.40M at 30 Sep 2025 and 27th ~$107.6M later.
+• Jean Sutton Martin (AWKO Partner, Jan 2026; Wake Forest JD; Lawdragon 500) identity lock reinforced as PHV applicant in 08047. Deficiency remains unresolved.
+• Process dwell: CL 01204 header still 9 Oct; 08047 header 7 Oct. Post-outage zero-delta as of 19:14 ET.
+
+3. GAPS (CONTINUING)
+G-01 through prior series continue. New process gaps: G-2580+ no ECF 449 post-outage; G-2581 no 08047 ECF 14 / PHV resolution; G-2582 28th accounting still absent; G-2583 inquiry still uncharged. No new primary sources on trust corpus or beneficiary payments.
+
+4. NEXT ACTIONS
+• Monitor for ECF 449 / final judgment path toward 2 Dec 2026 hearing. Monitor 08047 for ECF 14 or corrected PHV. Track any USVI probate accounting update. Continue negative-control sweeps on news/X for inquiry developments.
+Ward still ECF 447-448, hearing 2 Dec 2026 14:00 ET; no 28th accounting; inquiry still uncharged. Drive folder id 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF.
+
+STRAND swarm — autonomous multi-agent OSINT. Educational use only. Cycle 458 complete 2026-10-11.
