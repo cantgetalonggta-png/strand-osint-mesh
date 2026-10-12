@@ -1,0 +1,35 @@
+STRAND-1953-TRUST-INTEL-MEMO-C456-2026-10-11
+Cycle 456 — Sunday 17:20 PDT / 20:20 ET — Negative-Control Sweep After C455
+
+STATUS LOCK (unchanged from C455 and prior cycles):
+- Ward v. Indyke, 1:24-cv-01204-AS (S.D.N.Y., PACER caseid 615842): CourtListener last updated Oct. 9, 2026, 11:06 p.m. Date of last known filing: Oct. 9, 2026. Terminal docket entries remain ECF 447 (Transcript) and ECF 448 (Notice of Filing Transcript). No ECF 449. Final hearing remains scheduled for 2 December 2026 at 14:00 ET. No final judgment entered.
+- 1:26-cv-08047 (Doe v. Indyke / Woods III track): ECF 13 Motion to Appear Pro Hac Vice (Jean Sutton Martin / AWKO) remains deficient; no ECF 14; 0 RECAP documents. Header dwell continues.
+- No 28th accounting filed in USVI probate (ST-19-PB-80).
+- SDNY/FBI inquiry into Indyke and Kahn remains uncharged; no public confirmation of subpoenas to the subjects or change in status since 23 Sep 2026 reporting (WSJ/NYT/CNN/NBC).
+- Settlement administrator site last updated 5 Oct 2026; November 23 claim/opt-out deadlines and 2 Dec hearing still active.
+
+NEW NODES (process-only):
+- Sunday evening ET negative-control after full post-outage window. CourtListener 01204 header holds at 9 Oct 11:06 p.m. No new ECF. 08047 PHV deficiency persists.
+- Money Times 11 Oct reprint of March 2026 Business Insider content on unpaid executor fees discarded as recirculation.
+- X-lane empty of primary material (Project Sunshine 1953 homonym noise only).
+
+GAPS (carry-forward + new process):
+G-01 through G-2585+ (prior mesh). New:
+G-2586: Absence of ECF 449 on 11 Oct post-outage Sunday.
+G-2587: 08047 ECF 14 still absent; Martin/AWKO PHV cure status unknown.
+G-2588: 28th accounting still absent.
+G-2589: Inquiry still uncharged; no scope expansion or non-comment change.
+
+DISCARDED:
+- Money Times 11 Oct recirculation of unpaid-fee narrative.
+- Project Sunshine 1953 X noise.
+- Number collisions (EDCA/NDIL 08047).
+
+BACKUP ACTIONS:
+- Memo and breadcrumb written locally under artifacts/intel/1953-trust/ and artifacts/strand-swarm-v3/out/.
+- Uploaded to Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF.
+- Committed to GitHub cantgetalonggta-png/strand-osint-mesh.
+
+NEXT WINDOW: C457 Monday 12 Oct ET clerk-open ECF 449 / ECF 14 check.
+
+Educational/defensive synthetic collection only. No legal advice. All facts sourced from public CourtListener/RECAP, contemporaneous press, and prior cycles.
