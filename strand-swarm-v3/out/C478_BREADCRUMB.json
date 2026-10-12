@@ -1,0 +1,19 @@
+{
+  "cycle": "C478",
+  "date": "2026-10-12",
+  "timestamp_et": "16:12 ET (13:12 PDT)",
+  "type": "process-only negative-control",
+  "status": {
+    "ward_01204": "ECF 447-448 terminal; last known filing Oct 9 2026; CL last-updated Oct 9 11:06 p.m. ET; hearing 2 Dec 2026 14:00 ET; no ECF 449",
+    "08047": "ECF 13 PHV Jean Sutton Martin/AWKO deficient (missing CO/MI/NC certificates + wet sig); no ECF 14; last updated Oct 7 3:10 p.m. ET; 0 RECAP",
+    "accounting": "no 28th; 27th remains $107.645M gross / ≥$27M quantified liabilities; 24th $127.40M vintage",
+    "inquiry": "SDNY/FBI uncharged (WSJ 23 Sep 2026; NYT/others confirm; Ruzumna: no subpoena / not told subject or target)",
+    "settlement_site": "sdnysettlementfund2026.com last updated 5 Oct 2026; questionnaire/opt-out/objection deadline 23 Nov 2026; hearing 2 Dec 2026"
+  },
+  "new_nodes": [
+    "process-only (CL 01204 hold at Oct 9; no ECF 449; 08047 PHV deficient no ECF 14; settlement site 5 Oct stamp hold; empty primary X-lane; USVI Sandoz adjacency discarded)"
+  ],
+  "gaps": "G-01–G-2653+ (process-only increments)",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C479 Monday late / Tuesday 13 Oct ET clerk-open ECF 449 / ECF 14 window"
+}
