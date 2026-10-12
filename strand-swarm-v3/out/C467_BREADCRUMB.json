@@ -1,20 +1,31 @@
 {
-  "cycle": "C467",
+  "cycle": 467,
   "date": "2026-10-12",
-  "timestamp_et": "15:13 ET (12:13 PDT)",
-  "type": "process-only negative-control",
-  "status": {
-    "ward_01204": "ECF 447-448 terminal; last known filing Oct 9 2026 23:06 ET; no ECF 449; CL last-updated Oct 9 11:06 p.m.; hearing 2 Dec 2026 14:00 ET",
-    "08047": "ECF 13 PHV Jean Sutton Martin/AWKO deficient (missing CO/MI/NC certificates + wet sig); no ECF 14; last updated Oct 7 3:10 p.m.; 0 RECAP",
-    "accounting": "no 28th; 27th remains $107.645M gross / ≥$27M quantified liabilities; 24th $127.40M vintage",
-    "inquiry": "SDNY/FBI uncharged (WSJ 23 Sep 2026; NYT/others confirm; Ruzumna: no subpoena / not told subject or target)",
-    "settlement_site": "sdnysettlementfund2026.com last updated 5 Oct 2026; questionnaire/opt-out/objection deadline 23 Nov 2026; hearing 2 Dec 2026"
+  "timestamp_pdt": "16:16",
+  "timestamp_et": "19:16",
+  "status": "process-only negative-control Monday evening ET post full clerk-open",
+  "ward_01204": {
+    "last_updated_cl": "2026-10-09 23:06 ET",
+    "last_known_filing": "2026-10-09",
+    "terminal_ecf": "447-448",
+    "ecf_449": false,
+    "hearing": "2026-12-02 14:00 ET",
+    "settlement_site_stamp": "2026-10-05"
   },
+  "08047": {
+    "last_updated_cl": "2026-10-07 15:10 ET",
+    "ecf_13": "PHV Jean Sutton Martin / AWKO deficient notice",
+    "ecf_14": false,
+    "recap_pdf": 0
+  },
+  "inquiry": "uncharged",
+  "accounting": "no 28th",
   "new_nodes": [
-    "process-only (CL 9:52 a.m. dwell continues; settlement-banner day-count carry; 08047 ECF 12/13 freeze carry; Money Times 10 Oct 43-beneficiary compilation recirculation discarded)"
+    "Jean Sutton Martin AWKO Partner lock reinforced",
+    "Money Times / Prameya 11-12 Oct beneficiary recirculation (compilation-grade)"
   ],
-  "gaps": "G-01–G-2635+ (process-only increments)",
+  "gaps": "G-01-G-2640",
   "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "drive_file_ids": ["1IlqNTAMVrSCaN1_uAZZnxidqwPWsDeAq", "1bE8e4r0oFadC9lik6noHODQK1Ac3HvOp"],
-  "next": "C468 Monday late / Tuesday 13 Oct ET clerk-open ECF 449 / ECF 14 window"
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C468 Tuesday 13 Oct ET clerk-open ECF 449 / ECF 14 window"
 }
