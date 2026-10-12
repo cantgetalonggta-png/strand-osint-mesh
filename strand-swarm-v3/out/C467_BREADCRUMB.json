@@ -1,0 +1,27 @@
+{
+  "cycle": 467,
+  "timestamp_utc": "2026-10-12T17:13:00Z",
+  "timestamp_et": "2026-10-12T13:13:00-04:00",
+  "timestamp_pdt": "2026-10-12T10:13:00-07:00",
+  "status": "process-only negative control",
+  "docket_01204": {
+    "last_updated_cl": "2026-10-09T23:06:00-04:00",
+    "last_known_filing": "2026-10-09",
+    "terminal_ecf": "447-448",
+    "ecf_449": false,
+    "hearing": "2026-12-02 14:00 ET"
+  },
+  "docket_08047": {
+    "last_updated_cl": "2026-10-07T15:10:00-04:00",
+    "last_known_filing": "2026-10-07",
+    "ecf_13_phv": "Jean Sutton Martin / AWKO deficient",
+    "ecf_14": false,
+    "recap": 0
+  },
+  "accounting_28th": false,
+  "inquiry_charged": false,
+  "new_nodes": ["process-only 13:13 ET zero-delta", "Hot Paths 11 Oct discarded compilation"],
+  "gaps_through": "G-2635",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C468 Monday afternoon / Tuesday 13 Oct ET ECF 449 / ECF 14 window"
+}
