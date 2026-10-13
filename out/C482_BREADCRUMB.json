@@ -1,0 +1,18 @@
+{
+  "cycle": 482,
+  "date": "2026-10-12",
+  "time_et": "20:18",
+  "type": "negative-control",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C482-2026-10-12.pdf",
+  "status": {
+    "ward_01204": "ECF 447-448; no ECF 449; CL last-updated 9 Oct 2026 23:06 ET",
+    "hearing": "2 Dec 2026 14:00 ET",
+    "08047": "ECF 13 PHV Jean Sutton Martin/AWKO deficient; no ECF 14; 0 RECAP",
+    "accounting": "no 28th; 27th $107.645M gross",
+    "inquiry": "uncharged",
+    "banner": "5 Oct stamp continues"
+  },
+  "new_nodes": ["process-only"],
+  "gaps_through": "G-01–G-2635+",
+  "next": "C483 Tuesday 13 Oct 2026 ET clerk-open ECF 449 / ECF 14 window"
+}
