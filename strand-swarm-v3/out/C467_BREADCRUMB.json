@@ -1,15 +1,15 @@
 {
   "cycle": 467,
   "date": "2026-10-13",
-  "time_et": "16:16",
-  "status": "process-only negative-control",
-  "ward_last_ecf": "447-448",
-  "ward_hearing": "2026-12-02 14:00 ET",
-  "08047_last": "ECF 13 PHV deficient (Jean Sutton Martin/AWKO); no ECF 14",
-  "no_28th_accounting": true,
-  "inquiry_uncharged": true,
-  "cl_01204_last_updated": "2026-10-09 23:06 ET",
+  "time_et": "17:13",
+  "type": "process-only negative control",
+  "ward_docket": "1:24-cv-01204-AS last known filing 9 Oct 2026; CL last updated 9 Oct 11:06 p.m.; no ECF 449; hearing 2 Dec 2026 14:00 ET; ECF 447-448 terminal",
+  "case_08047": "ECF 13 deficient PHV Jean Sutton Martin; no ECF 14; docket updated 12 Oct 2026",
+  "accounting": "no 28th; 27th ~$107.645M; 24th $127.40M",
+  "inquiry": "uncharged",
+  "new_nodes": ["Prameya News 12-13 Oct Shuliak recirculation (compilation of known EFTA)"],
   "gaps": "G-01–G-2629+",
   "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C467-2026-10-13.pdf",
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF"
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github": "cantgetalonggta-png/strand-osint-mesh"
 }
