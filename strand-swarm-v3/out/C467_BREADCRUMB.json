@@ -1,31 +1,15 @@
 {
   "cycle": 467,
-  "date": "2026-10-12",
-  "timestamp_pdt": "16:16",
-  "timestamp_et": "19:16",
-  "status": "process-only negative-control Monday evening ET post full clerk-open",
-  "ward_01204": {
-    "last_updated_cl": "2026-10-09 23:06 ET",
-    "last_known_filing": "2026-10-09",
-    "terminal_ecf": "447-448",
-    "ecf_449": false,
-    "hearing": "2026-12-02 14:00 ET",
-    "settlement_site_stamp": "2026-10-05"
-  },
-  "08047": {
-    "last_updated_cl": "2026-10-07 15:10 ET",
-    "ecf_13": "PHV Jean Sutton Martin / AWKO deficient notice",
-    "ecf_14": false,
-    "recap_pdf": 0
-  },
-  "inquiry": "uncharged",
-  "accounting": "no 28th",
-  "new_nodes": [
-    "Jean Sutton Martin AWKO Partner lock reinforced",
-    "Money Times / Prameya 11-12 Oct beneficiary recirculation (compilation-grade)"
-  ],
-  "gaps": "G-01-G-2640",
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
-  "next": "C468 Tuesday 13 Oct ET clerk-open ECF 449 / ECF 14 window"
+  "date": "2026-10-13",
+  "time_et": "16:16",
+  "status": "process-only negative-control",
+  "ward_last_ecf": "447-448",
+  "ward_hearing": "2026-12-02 14:00 ET",
+  "08047_last": "ECF 13 PHV deficient (Jean Sutton Martin/AWKO); no ECF 14",
+  "no_28th_accounting": true,
+  "inquiry_uncharged": true,
+  "cl_01204_last_updated": "2026-10-09 23:06 ET",
+  "gaps": "G-01–G-2629+",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C467-2026-10-13.pdf",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF"
 }
