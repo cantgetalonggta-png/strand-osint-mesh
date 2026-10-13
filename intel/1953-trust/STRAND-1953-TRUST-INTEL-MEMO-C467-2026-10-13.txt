@@ -1,0 +1,21 @@
+STRAND-1953-TRUST-INTEL-MEMO-C467-2026-10-13
+
+Educational OSINT cycle. Process-only negative control.
+
+Date/Time: 2026-10-13 ~13:13 ET (10:13 PDT)
+
+Status Summary:
+- Ward v. Indyke (Doe 3 v. Indyke) 1:24-cv-01204-AS (SDNY, Judge Arun Subramanian): CourtListener last updated Oct 9, 2026 23:06 ET. Date of last known filing Oct 9, 2026. Terminal public ECF cluster remains 447 (Transcript) / 448 (Notice of Filing Transcript). No ECF 449 observed. Final hearing remains set for 2 December 2026 at 14:00 ET after supplemental social-media notice ordered 16-17 Sep 2026 (ECF 445/446). Settlement site sdnysettlementfund2026.com last updated 5 October 2026; claims/opt-out questionnaire deadline 23 November 2026.
+- No 28th quarterly accounting of the Epstein estate publicly filed. Latest public remains 24th accounting (period to 30 Sep 2025) showing ~$127.402M gross assets. 27th accounting previously noted ~$107.645M gross.
+- SDNY/FBI inquiry into Indyke/Kahn (reported 23 Sep 2026 by WSJ, NYT, CNN, NBC et al.) remains uncharged. No public confirmation of subpoenas or target status (Ruzumna prior statement: no subpoena / not told subject or target).
+- 1:26-cv-08047 (Woods III / CSAM class): ECF 13 Motion to Appear Pro Hac Vice for Jean Sutton Martin (AWKO) remains deficient notice (doc1/127040497117, caseid 672825). No ECF 14. Zero RECAP PDF. Header dwell continues. Complaint filed ~15 Sep 2026 by Marsh/AWK counsel; Jean Martin listed PHV forthcoming in original papers.
+- Recirculation only: Hot Paths (12-13 Oct 2026) restates March 2026 House Oversight depositions — Indyke $50M / Kahn $25M bequests via 1953 Trust; estate ~$127M; Valar Ventures investments ~$172M (one maturing 2026 extendable); Kahn expects zero residual; annual burn $5-10M. Money Times (13 Oct) reprints 43-beneficiary characterization and $100M Shuliak package. No new primary nodes.
+- Gaps continue G-01 through G-2635+ (process clocks, entry-table, PHV text, 28th accounting, inquiry scope, etc.).
+
+New Nodes This Cycle: None primary. Process confirmation of dwell (CL 9:52 a.m. multi-cycle hold; settlement banner day-count; 08047 ECF 12/13 freeze).
+
+Next Window: C468 for any post-13 Oct ET clerk activity, ECF 449, ECF 14 on 08047, or 28th accounting.
+
+Backup: Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF; GitHub cantgetalonggta-png/strand-osint-mesh.
+
+All statements are open-source compilation for educational purposes. No allegations of criminal conduct beyond published reporting. Inquiry remains uncharged.
