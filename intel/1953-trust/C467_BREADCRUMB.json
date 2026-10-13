@@ -1,29 +1,29 @@
 {
   "cycle": 467,
-  "date": "2026-10-12",
-  "time_pdt": "18:15",
-  "time_et": "21:15",
-  "status": "process-only negative-control",
-  "ward_01204": {
-    "cl_last_updated": "2026-10-09 23:06 ET",
-    "last_known_filing": "2026-10-09",
-    "ecf_terminal": "447-448",
-    "ecf_449": false,
-    "hearing": "2026-12-02 14:00 ET",
-    "settlement_stamp": "2026-10-05"
+  "date": "2026-10-13",
+  "timestamp_pdt": "09:15",
+  "timestamp_et": "12:15",
+  "type": "process-only-negative-control",
+  "dockets": {
+    "1:24-cv-01204-AS": {
+      "last_known": "2026-10-09 23:06 ET",
+      "terminal_ecf": "447-448",
+      "ecf_449": false,
+      "hearing": "2026-12-02 14:00 ET"
+    },
+    "1:26-cv-08047": {
+      "last_known": "2026-10-07 15:10 ET",
+      "ecf_13": "PHV Jean Sutton Martin/AWKO deficient",
+      "ecf_14": false
+    },
+    "ST-2019-PB-80": {
+      "last_accounting": "27th to 2026-06-30",
+      "28th": false
+    }
   },
-  "08047": {
-    "ecf_13_phv": "Jean Sutton Martin / AWKO deficient notice",
-    "ecf_14": false,
-    "recap": 0,
-    "header_dwell": true
-  },
+  "settlement_site": "sdnysettlementfund2026.com deadlines 2026-11-23 / hearing 2026-12-02",
   "inquiry": "uncharged",
-  "accounting": "no 28th",
-  "x_lane": "empty",
-  "new_nodes": ["process-only dwell confirm", "empty X-lane", "media recirculation only"],
-  "gaps": "G-01–G-2629+",
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "drive_file_pdf": "1OD5cw_uE2jDbewx_7BK2UfvEXtGW8Ioy",
-  "next": "C468 Tuesday 13 Oct ET clerk-open"
+  "new_nodes": ["process-only dwell", "settlement deadline reconfirm"],
+  "gaps": "G-01 to G-2633 process extension",
+  "next": "C468 Tuesday afternoon/evening or Wednesday 14 Oct ET"
 }
