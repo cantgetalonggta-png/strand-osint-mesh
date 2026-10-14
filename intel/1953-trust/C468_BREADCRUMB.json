@@ -1,0 +1,25 @@
+{
+  "cycle": 468,
+  "timestamp_et": "2026-10-14T13:12:00-04:00",
+  "timestamp_pdt": "2026-10-14T10:12:00-07:00",
+  "status": "negative-control",
+  "ward_01204": {
+    "last_known": "ECF 447-448 (23 Sep 2026)",
+    "hearing": "2026-12-02T14:00:00-05:00",
+    "ecf_449": false
+  },
+  "doe_08047": {
+    "ecf_13": "PHV Jean Sutton Martin / AWKO deficient",
+    "ecf_14": false,
+    "last_updated": "2026-10-07 ~15:10 ET"
+  },
+  "accounting_28th": false,
+  "sdny_inquiry": "uncharged",
+  "new_nodes": ["process-only dwell confirmation", "Money Times 14 Oct beneficiary recirculation (compilation)"],
+  "gaps_extended_to": "G-2635",
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C468-2026-10-14.pdf",
+  "drive_memo_id": "1SPuOwlzhyac4TetpEayulzMbpZqpV-lS",
+  "next": "C469 Thursday 15 Oct ET ECF 449 / ECF 14 window"
+}
