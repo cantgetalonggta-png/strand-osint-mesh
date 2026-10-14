@@ -1,0 +1,26 @@
+{
+  "cycle": 523,
+  "date": "2026-10-14",
+  "memorandum": "STRAND-1953-TRUST-INTEL-MEMO-C523-2026-10-14.pdf",
+  "target": "THE 1953 TRUST",
+  "status": "new movement on 08047 ECF 14/15; 01204 still frozen",
+  "key_findings": [
+    "No ECF 449 in 1:24-cv-01204-AS",
+    "CourtListener last-known 9 Oct 2026 for 01204",
+    "Ward hearing still 2 Dec 2026 14:00 ET",
+    "SDNY/FBI inquiry still uncharged",
+    "No 28th accounting",
+    "08047 ECF 14 Proposed Stipulation and Order filed 14 Oct 2026 09:42 ET",
+    "08047 ECF 15 Letter filed same day",
+    "No RECAP PDFs for ECF 14/15 at cycle time",
+    "Jean Sutton Martin PHV remains deficient as of last known"
+  ],
+  "new_entities": [
+    "08047 ECF 14 Proposed Stipulation and Order",
+    "08047 ECF 15 Letter"
+  ],
+  "gaps_advanced": "G-01\u2013G-2641+",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "drive_file_id": "1xzD_b8ijx8zRXTQGdF5qDZ-ImZaVS7iI",
+  "next_cycle": "C524 RECAP pull on 08047 ECF 14/15 and ECF 449 window"
+}
