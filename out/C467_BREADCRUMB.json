@@ -1,0 +1,14 @@
+{
+  "cycle": "C467",
+  "date": "2026-10-14",
+  "time_et": "~16:14",
+  "summary": "Negative-control / process-only after prior cycles. Ward 01204: no ECF 449; CL last 9 Oct 23:06; hearing still 2 Dec 2026 14:00 ET. 08047: new ECF 14 Proposed Stipulation and Order + ECF 15 Letter (14 Oct 2026); ECF 13 PHV Jean Sutton Martin/AWKO still deficient (no ECF 14 prior; now 14/15 filed); last updated 14 Oct 11:10 a.m. No 28th accounting. Inquiry still uncharged. Settlement site last update 5 Oct; deadlines 23 Nov 2026.",
+  "new_nodes": ["08047 ECF 14 Proposed Stipulation and Order (14 Oct 2026)", "08047 ECF 15 Letter (14 Oct 2026)"],
+  "gaps": ["G-new: text of ECF 14/15", "G-new: resolution of PHV deficiency", "G-28th accounting", "G-inquiry status"],
+  "status": {
+    "ward": "ECF 447-448; hearing 2 Dec 2026 14:00 ET",
+    "08047": "ECF 13 deficient PHV; ECF 14/15 filed 14 Oct; 0 RECAP",
+    "accounting": "no 28th",
+    "inquiry": "uncharged"
+  }
+}
