@@ -1,0 +1,32 @@
+{
+  "cycle": 518,
+  "date": "2026-10-14",
+  "time_et": "12:16",
+  "type": "process-only negative-control",
+  "docket_01204": {
+    "last_ecf": "447-448",
+    "last_update_cl": "2026-10-09 23:06 ET",
+    "hearing": "2026-12-02 14:00 ET",
+    "ecf_449": false
+  },
+  "docket_08047": {
+    "last_ecf": 13,
+    "description": "PHV Jean Sutton Martin / AWKO deficient notice",
+    "doc1": "127040497117",
+    "caseid": 672825,
+    "ecf_14": false,
+    "recap": 0
+  },
+  "accounting": "no 28th",
+  "inquiry": "uncharged",
+  "new_nodes": [
+    "Wednesday 12:16 ET clerk-open zero-delta after C517",
+    "CL 01204 header dwell from 9 Oct holds",
+    "Hot Paths 13 Oct Kahn testimony restatement ($0 expected)",
+    "Money Times 14 Oct 43-beneficiary recirculation",
+    "Martin/AWKO identity lock reinforced"
+  ],
+  "gaps": "G-01-G-3000+",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C519 Wednesday afternoon ET ECF 449 / ECF 14 window"
+}
