@@ -1,0 +1,18 @@
+{
+  "cycle": 541,
+  "date": "2026-10-15",
+  "time_pdt": "09:17",
+  "time_et": "12:17",
+  "type": "negative-control",
+  "ward_01204_last_known": "ECF 447-448 (23 Sep 2026); CL last-updated 9 Oct 2026 23:06 ET; no ECF 449",
+  "hearing": "2 Dec 2026 14:00 ET",
+  "settlement_site_last_update": "5 Oct 2026",
+  "deadlines": "23 Nov 2026",
+  "08047_status": "ECF 13 PHV Martin/AWKO deficient; ECF 14 (14 Oct Proposed Stip) + ECF 15 (14 Oct Letter) title-only / 0 RECAP; CL last-updated 14 Oct 11:10 a.m.",
+  "accounting": "no 28th located; 27th ~$107.645M to 30 Jun 2026; 24th $127.40M at 30 Sep 2025",
+  "inquiry": "uncharged",
+  "new_nodes": "process-only; no novel individual/entity/affiliation",
+  "gaps_priority": ["ECF 14/15 text", "PHV resolution", "ECF 449", "28th accounting", "inquiry scope"],
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C541-2026-10-15.pdf"
+}
