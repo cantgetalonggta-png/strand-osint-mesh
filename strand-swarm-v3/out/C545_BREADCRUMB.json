@@ -1,0 +1,30 @@
+{
+  "cycle": 545,
+  "date": "2026-10-15",
+  "timestamp_et": "~16:13",
+  "type": "process-only negative-control",
+  "after": "C544",
+  "ward_01204": {
+    "cl_last_updated": "2026-10-09 23:06 ET",
+    "last_known_filing": "2026-10-09",
+    "terminal_ecf": "447-448",
+    "ecf_449": false,
+    "hearing": "2026-12-02 14:00 ET"
+  },
+  "doe_08047": {
+    "cl_last_updated": "2026-10-14 11:10 a.m.",
+    "ecf_13": "PHV Jean Sutton Martin/AWKO deficient (missing CO/MI/NC GS, wet sig)",
+    "ecf_14": "Proposed Stipulation and Order doc1/127040534232 title-only 0 RECAP",
+    "ecf_15": "Joint Letter doc1/127040534347 title-only 0 RECAP",
+    "no_ecf_16": true
+  },
+  "accounting": "no 28th; 24th $127.402M @ 30 Sep 2025",
+  "inquiry": "uncharged SDNY/FBI (WSJ 23 Sep / NYT conf.; Ruzumna no subpoena)",
+  "settlement_site": "last updated 5 Oct",
+  "discarded": ["Money Times 14-15 Oct 43-beneficiary recirculation", "epsteinswatchlist never-taken-effect"],
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "drive_file_id": "1M4NBRp0q6b6cM3HSezx8-J06V1b7IgtY",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C546 later 15 Oct / 16 Oct ET RECAP or 449 window",
+  "gaps_priority": ["ECF 14/15 text", "PHV resolution", "ECF 449", "28th accounting", "inquiry scope"]
+}
