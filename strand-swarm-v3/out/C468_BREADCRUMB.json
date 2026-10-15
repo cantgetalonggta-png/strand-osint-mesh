@@ -1,16 +1,30 @@
 {
   "cycle": 468,
-  "date": "2026-10-13",
-  "time_et": "13:13",
-  "status": "process-only negative-control",
-  "ward_docket": "1:24-cv-01204-AS",
-  "last_cl_update": "2026-10-09 23:06 ET",
-  "last_ecf": "447-448",
-  "hearing": "2026-12-02 14:00 ET",
-  "accounting": "24th to 2025-09-30 $127.402M; no 28th",
-  "inquiry": "SDNY/FBI uncharged",
-  "08047": "ECF 13 PHV Jean Sutton Martin/AWKO deficient; no ECF 14; 0 RECAP",
-  "settlement_site": "last updated 2026-10-05",
-  "gaps": "G-01 to G-2646+",
-  "notes": "No ECF 449. CourtListener last known filing Oct 9. Hot Paths Oct 12/13 recirculation of congressional testimony restating $127M, Valar ~$172M, Kahn zero expectation. Money Times Oct 13 beneficiary reprint. Settlement claims Nov 23 deadline. Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF."
+  "timestamp": "2026-10-14T17:18:00-07:00",
+  "focus": "1953 TRUST / Ward 01204 / 08047",
+  "status": "process-plus-delta",
+  "ward_01204": {
+    "last_updated": "2026-10-09T23:06:00-04:00",
+    "last_known_filing": "2026-10-09",
+    "terminal_ecf": "447-448",
+    "no_ecf_449": true,
+    "hearing": "2026-12-02 14:00 ET"
+  },
+  "case_08047": {
+    "last_updated": "2026-10-14T11:10:00-04:00",
+    "last_known_filing": "2026-10-14",
+    "new_ecfs": [
+      {"ecf": 14, "type": "Proposed Stipulation and Order", "filed": "2026-10-14 09:42 EDT", "recap": false},
+      {"ecf": 15, "type": "Letter", "filed": "2026-10-14", "recap": false}
+    ],
+    "phv_status": "ECF 13 deficient notice remains; no ECF 14 resolution yet",
+    "judge": "Woods III / Figueredo"
+  },
+  "other": {
+    "no_28th_accounting": true,
+    "sdny_inquiry": "uncharged",
+    "settlement_site": "deadlines Nov 23 2026; hearing Dec 2"
+  },
+  "gaps": "G-01 to G-2635+",
+  "notes": "New docket activity in 1:26-cv-08047 on Oct 14: Proposed Stipulation and Order + Letter. No RECAP text available. Ward remains frozen at ECF 447-448. No ECF 449. Educational OSINT cycle only."
 }
