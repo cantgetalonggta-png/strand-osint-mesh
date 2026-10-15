@@ -1,0 +1,31 @@
+{
+  "cycle": 542,
+  "timestamp": "2026-10-15T11:13:00-07:00",
+  "et": "2026-10-15T14:13:00-04:00",
+  "status": "process-only negative-control with legislative node",
+  "01204_cl_last_updated": "2026-10-09 23:06 ET",
+  "01204_last_known_filing": "2026-10-09",
+  "01204_ecf_terminal": "447-448",
+  "no_ecf_449": true,
+  "08047_cl_last_updated": "2026-10-14 11:10 a.m.",
+  "08047_ecf_14": "Proposed Stipulation and Order (title-only, 0 RECAP)",
+  "08047_ecf_15": "Letter (title-only, 0 RECAP)",
+  "08047_phv": "Jean Sutton Martin / AWKO ECF 13 deficient, no ECF 14 PHV resolution",
+  "settlement_site_last_updated": "2026-10-05",
+  "hearing": "2026-12-02 14:00 ET",
+  "no_28th_accounting": true,
+  "inquiry_uncharged": true,
+  "new_nodes": [
+    "Epstein Wall Street Records Act (introduced 15 Oct 2026 by Warren, Garcia, Massie et al.; requires Fed/FDIC/OCC/SEC disclosure of supervisory records on Epstein/associates, investigation of Epstein-connected banks/executives, industry bars, civil penalties, DOJ referrals)"
+  ],
+  "gaps_priority": [
+    "ECF 14/15 full text and RECAP",
+    "PHV resolution for Jean Sutton Martin",
+    "ECF 449 in 01204",
+    "28th accounting",
+    "full bill text of Epstein Wall Street Records Act",
+    "uncharged SDNY inquiry scope"
+  ],
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C543 later 15 Oct ET"
+}
