@@ -1,56 +1,44 @@
-# STRAND 1953 TRUST INTEL MEMO — CYCLE 556
-**Date:** 2026-10-16  
-**Time Window:** Friday ~10:12 AM PDT / 13:12 ET (post-C555)  
-**Status:** Negative-control hourly sweep; process-only with new counsel-appearance nodes in 1:26-cv-08047.  
-**Classification:** Educational OSINT / public-record compilation. Not legal advice.  
+# STRAND-1953-TRUST-INTEL-MEMO-C556-2026-10-16
 
-## Executive Summary
-Cycle 556 confirms no material change on the core 1953 Trust corpus, Ward v. Indyke (1:24-cv-01204), or the uncharged SDNY/FBI inquiry into Indyke/Kahn. CourtListener last-known filing for 01204 remains Oct. 15, 2026; no ECF 449. In parallel CSAM-class action Doe v. Indyke (1:26-cv-08047, Woods III), ECF 16–18 (Oct. 15) are Notices of Appearance by Hughes Hubbard & Reed team (Weiner, Weinstein, Tabatabai Asl) for Darren K. Indyke. Jean Sutton Martin/AWKO PHV (ECF 13) remains deficient. No 28th accounting. Settlement-banner / notice period continues. Gaps advance to G-01–G-prior + new counsel-resolution items.
+**Cycle 556 | Educational OSINT Memo | THE 1953 TRUST**  
+**Date:** Friday, 16 October 2026 ~11:12 PDT / ~14:12 ET  
+**Status:** Process-only negative-control sweep after C555. No material docket advance.
 
-## Docket Status — Ward v. Indyke, 1:24-cv-01204-AS (Subramanian)
-- CourtListener: Last Updated Oct. 15, 2026 ~3:11 p.m.; Date of Last Known Filing Oct. 15, 2026.  
-- Terminal known entries remain ECF 447 (Transcript of 16 Sep hearing) + ECF 448 (Notice of Filing Transcript). No ECF 449 located.  
-- Final hearing remains scheduled 2 Dec 2026 14:00 ET (post-supplemental social-media notice per ECF 445/446).  
-- Settlement-in-principle ($35M/$25M 40-claimant ratchet) still pending final approval.  
-- Table-load intermittent failures on CL page-5 noted in prior cycles; no new public entries visible this sweep.
+## Standing Controls
+- **Ward / Doe 3 v. Indyke et al., 1:24-cv-01204-AS (S.D.N.Y., Subramanian):** Last known filing 15 Oct 2026; CourtListener last updated 15 Oct 3:11 p.m. ET. Terminal remains ECF 447–448 (transcript cluster). No ECF 449. Hearing remains 2 Dec 2026 14:00 ET.
+- **Doe v. Indyke, 1:26-cv-08047 (S.D.N.Y., Woods III / Figueredo):** Last known filing 15 Oct 2026 (ECF 16–18 Notices of Appearance). Last updated 15 Oct 7:09 p.m. ECF 13 PHV (Jean Sutton Martin / AWKO) remains deficient (missing CO/MI/NC good-standing certs + wet signature). ECF 14 Proposed Stipulation & Order and ECF 15 Letter (14 Oct) title-only / 0 RECAP. No ECF 19+ observed.
+- **Settlement Fund (sdnysettlementfund2026.com):** Last updated 5 Oct 2026. Questionnaire/Release, opt-out, and objection deadlines extended to 23 Nov 2026 11:59 p.m. EST. Final fairness hearing 2 Dec 2026 14:00 ET before Subramanian. Fund Administrator: Simone K. Lelchuk (also JAMS NY since 30 Sep 2026; Frejka PLLC address).
+- **USVI Probate / 1953 Trust accountings:** No 28th quarterly accounting identified. Prior 27th (to 30 Jun 2026) ~$107.645M gross; 24th vintage comparator $127.402M at 30 Sep 2025. Residue still subject to claims, fees, and probate completion (counsel statements of ≥3 years remaining).
+- **SDNY/FBI inquiry (Indyke/Kahn):** Still uncharged. No official confirmation of charges, targets, or subpoenas beyond prior WSJ/NYT reporting (23 Sep 2026). Counsel (Ruzumna) prior non-comment on subject/target status.
+- **1953 Trust instrument:** Pour-over will vehicle signed 8 Aug 2019 (Certificate of Trust filed 26 Aug 2019). Co-trustees/executors Indyke & Kahn. Primary named: Karyna Shuliak (~$100M cash+annuity), Indyke ($50M), Kahn ($25M), Maxwell ($10M), Visoski, Mark Epstein children, staff, redacted. Never taken effect pending estate claims resolution. Trustee fee clause $250k/yr undrawn per testimony.
 
-## Docket Status — Doe v. Indyke, 1:26-cv-08047-GHW-VF (Woods III / Figueredo)
-- Last Updated Oct. 15, 2026 ~7:09 p.m.; Last Known Filing Oct. 15, 2026.  
-- **New nodes (ECF 16–18, 15 Oct 2026):**  
-  - ECF 16: Notice of Appearance by Daniel Haym Weiner (Hughes Hubbard & Reed) for Darren K. Indyke (filed ~14:36).  
-  - ECF 17: Notice of Appearance by Marc Alan Weinstein (HHR) for Darren K. Indyke (~14:39).  
-  - ECF 18: Notice of Appearance by Faranak Sharon Tabatabai Asl / Fara Tabatabai (HHR) for Darren K. Indyke (~18:13).  
-- These counsel previously appeared for Indyke in the 01204 track. Appearance locks HHR as defense counsel in the CSAM-class action.  
-- ECF 13 (7 Oct): Motion for Jean Sutton Martin (AWKO) to Appear Pro Hac Vice — still marked deficient (missing CO/MI/NC Certificates of Good Standing; wet signature). No ECF 14 correcting it.  
-- ECF 14 (14 Oct ~09:42): Proposed Stipulation and Order (filed by plaintiffs / Elliot). Title-only; 0 RECAP PDF.  
-- ECF 15 (14 Oct ~09:50): Joint Letter re Proposed Stipulation and Order. Title-only; 0 RECAP.  
-- Case referred to Mag. Valerie Figueredo (ECF 12).  
+## New Nodes This Cycle
+- Process confirmation only: 01204 CL hold since 15 Oct (no 449); 08047 ECF 16–18 HHR appearance notices for Indyke (Weiner/Weinstein/Tabatabai Asl cluster) remain title-only.
+- Settlement site stamp locked at 5 Oct (day-11 relative to C556).
+- No new USVI probate filings, no 28th accounting, no inquiry charging documents.
 
-## 1953 Trust / Estate Corpus
-- Pour-over from 8 Aug 2019 will into The 1953 Trust (USVI). Co-executors / co-trustees: Darren Indyke & Richard Kahn.  
-- Most recent public accounting remains the 27th (~$107.645M gross to 30 Jun 2026) and 24th vintage comparator ($127.40M at 30 Sep 2025). No 28th accounting located.  
-- Beneficiary list (~40–43 named + redacted) still controlled by EFTA release; residue only after all claims.  
-- Valar Ventures / related entity lines remain open maturity items.  
+## Discarded / Secondary
+- X-lane secondary restatements of beneficiary lists and Mossad speculation (no new primary).
+- Homonym collisions (other 08047, Castel 1:21-cv-08469, etc.).
+- Compilation reprints of prior CNN/WSJ/Independent reporting.
 
-## Criminal Inquiry (SDNY / FBI)
-- Reported 23 Sep 2026 (WSJ, NYT, CNN, etc.). Uncharged.  
-- Counsel statements: no subpoena, not informed of subject/target status.  
-- No new public confirmation, charging document, or denial beyond prior non-comments.  
+## Gaps (continuing series G-01–prior)
+Priority open:
+- G: Full text of 08047 ECF 14/15 and any PHV resolution / ECF 19+.
+- G: 01204 ECF 449+ or status report post-notice campaign.
+- G: 28th USVI accounting and exact residual after all claims/fees.
+- G: Scope and status of uncharged SDNY inquiry (any subpoenas, capacity effect on trustees).
+- G: Beneficiary count collision (32/41/43/~40) and Schedule A redactions.
+- G: Post-23 Nov claim volume vs $35M/$25M ratchet.
 
-## Other Public Breadcrumbs (16 Oct 2026)
-- Boston Globe (15 Oct): Democrats preparing legislation (Epstein Wall Street Records Act) focusing on banks/financial regulators’ role.  
-- NY AG Letitia James + 16 AGs letter urging Congress to pass EFTA II.  
-- No new USVI probate accounting filings surfaced.  
-- X-lane: secondary recirculation of prior 1953 Trust / beneficiary characterizations only; no primary new documents.  
+## Drive / GitHub
+- Drive folder: STRAND_1953_TRUST_INTEL (id 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF)
+- This memo: artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C556-2026-10-16.md
+- Breadcrumb: artifacts/strand-swarm-v3/out/C556_BREADCRUMB.json
+- Drive file ids: 1fwkRojKLUSenMZPYJaRpVlmFn1bUXYz_ (md) / 1DvDR-r7QFoXdkjJcTVPOMjaf4HnwgC51 (json)
 
-## Gaps (carry-forward + new)
-- G-prior series continues (ECF 449, 28th accounting, inquiry scope/charging, PHV resolution, stip text, Lelchuk instrument, etc.).  
-- New: G-PHV-Martin resolution; G-08047-stip text; G-HHR-appearance effect on parallel tracks.  
+**Next window:** C557 later 16 Oct ET / 17 Oct clerk-open for ECF 449 / 08047 ECF 19 window.  
+**Hearing lock:** 2 Dec 2026 14:00 ET.  
+**Inquiry:** uncharged.
 
-## Next Window
-C557 later 16 Oct ET / 17 Oct clerk-open for ECF 449, 08047 ECF 14+ text or PHV correction, and any 28th accounting.
-
-**Backup:** Memo + breadcrumb written to artifacts/; Drive folder STRAND_1953_TRUST_INTEL (id 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF); GitHub cantgetalonggta-png/strand-osint-mesh.
-
----  
-*Generated by autonomous multi-agent OSINT swarm. Unique methodology: CourtListener + PacerMonitor cross-walk + counsel identity lock via firm bios. No mirrored prior-cycle process language.*  
+*Educational OSINT only. Public records. No legal advice.*
