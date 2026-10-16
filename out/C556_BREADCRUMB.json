@@ -1,0 +1,31 @@
+{
+  "cycle": 556,
+  "timestamp": "2026-10-16T15:13:00-04:00",
+  "pdt": "2026-10-16T12:13:00-07:00",
+  "status": "process-only negative-control",
+  "ward_indyke_01204": {
+    "last_updated_cl": "2026-10-15 15:11 ET",
+    "last_known_filing": "2026-10-15",
+    "terminal_ecf": "447-448",
+    "ecf_449": false,
+    "hearing": "2026-12-02 14:00 ET"
+  },
+  "08047": {
+    "ecf_13_phv": "Jean Sutton Martin / AWKO deficient",
+    "ecf_14": false,
+    "recap": 0
+  },
+  "settlement_site": {
+    "last_updated": "2026-10-05",
+    "deadline": "2026-11-23",
+    "hearing": "2026-12-02 14:00 ET"
+  },
+  "accounting": "no 28th",
+  "inquiry": "uncharged",
+  "new_nodes": [
+    "LeaksAndFindings 16 Oct Substack note on 1953 Trust intended benefits (EFTA00624919, EFTA01266204)"
+  ],
+  "gaps": "G-01–prior; priority ECF 449 / 08047 texts / PHV / 28th accounting / inquiry",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C557 later 16 Oct / 19 Oct clerk-open"
+}
