@@ -1,0 +1,30 @@
+STRAND-1953-TRUST INTEL MEMO C569
+Cycle 569 | 16 October 2026 ~19:13 ET | Friday post-C568 negative-control / process confirmation
+
+1. EXECUTIVE SNAPSHOT
+Process-only confirmation after C568. 1:24-cv-01204 (Ward/Doe 3 v. Indyke, Subramanian) last known activity 15 October 2026 includes ECF 449 Notice of Interlocutory Appeal (filed 15 Oct 13:57 ET, title-only, 0 RECAP). CourtListener header last updated 15 Oct 15:11 ET; entry table continues to fail on render. Final hearing remains 2 December 2026 14:00 ET. No ECF 450 observed. 1:26-cv-08047 (Doe v. Indyke, Woods III) last known 15 October 2026: ECF 16–18 Notices of Appearance by HHR team (Weiner, Weinstein, Tabatabai Asl) for Indyke; ECF 13 PHV Jean Sutton Martin/AWKO remains deficient; ECF 14/15 title-only. No 28th quarterly accounting located. SDNY/FBI inquiry into Indyke/Kahn remains uncharged on public record. Settlement website last stamp 5 October 2026.
+
+2. LANE FINDINGS (HOOK / STAMP / SPLIT / WEFT)
+HOOK: CL 01204 confirms last update/filing 15 Oct 2026. ECF 449 Notice of Interlocutory Appeal dated 15 Oct 2026 1:57 p.m. EDT confirmed title-only (not in RECAP). Docket table render fail persists.
+STAMP: No new primary accounting or USVI probate update. Secondary recirculations of residual ~$127M and uncharged status remain consistent.
+SPLIT: 08047 full page shows ECF 16–18 HHR NOAs 15 Oct; ECF 13 deficient PHV notice; no refile of PHV; no ECF 19. Last updated 15 Oct 19:09 ET.
+WEFT: X-lane limited to secondary restatements; no primary amplification of ECF 449 or new filings.
+
+3. NEW / RECONFIRMED NODES
+- ECF 449 Notice of Interlocutory Appeal (01204): Confirmed title-only; 15 Oct 2026 13:57 ET; 0 RECAP.
+- 01204 CL header: Last Updated 15 Oct 2026 15:11 ET; Last Known Filing 15 Oct 2026. Table fail. No ECF 450.
+- 08047 ECF 16–18: HHR Notices of Appearance (Weiner, Weinstein, Tabatabai Asl) for Indyke — 15 Oct.
+- 08047 ECF 13 PHV: Jean Sutton Martin / AWKO — still deficient.
+- 08047 ECF 14/15: title-only, 0 RECAP.
+- 28th Accounting: Not located.
+- SDNY/FBI inquiry: Still uncharged.
+- Settlement site: Last stamp 5 Oct 2026.
+- Hearing: 2 Dec 2026 14:00 ET unchanged.
+
+4. GAPS (priority carry)
+G-priority: ECF 449 full text / RECAP; ECF 450+; 08047 PHV resolution / ECF 19; 28th accounting; inquiry scope/status; settlement site update.
+
+5. PROCESS METRICS
+CL 01204 last-updated 15 Oct 15:11 ET dwell. 08047 header 15 Oct 19:09 ET. Settlement banner day ~356+ with 5 Oct stamp. Hearing T-47 days.
+
+Drive folder id 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF. Drive file id 18AJ9b19fHUv9qnXWoucQFcPYYh7vf9gS. Next C570 later 16 Oct ET.
