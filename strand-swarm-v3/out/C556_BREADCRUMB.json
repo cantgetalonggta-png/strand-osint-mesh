@@ -1,22 +1,37 @@
 {
-  "cycle": 556,
+  "cycle": "C556",
   "date": "2026-10-16",
-  "time_et": "~14:12",
-  "status": "process-only negative-control",
-  "01204_last_filing": "2026-10-15",
-  "01204_ecf_terminal": "447-448",
-  "01204_hearing": "2026-12-02 14:00 ET",
-  "08047_last_filing": "2026-10-15 ECF 16-18 Notices of Appearance",
-  "08047_phv": "ECF 13 Jean Sutton Martin/AWKO deficient",
-  "08047_ecf14_15": "title-only 0 RECAP",
-  "settlement_site_last_update": "2026-10-05",
-  "settlement_deadlines": "2026-11-23",
-  "28th_accounting": "none",
-  "inquiry": "uncharged",
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "drive_md_id": "1fwkRojKLUSenMZPYJaRpVlmFn1bUXYz_",
-  "drive_json_id": "1DvDR-r7QFoXdkjJcTVPOMjaf4HnwgC51",
-  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C556-2026-10-16.md",
-  "github_commit_md": "b2adf8e1a04127bca224734f7b8d71ad5354af5c",
-  "next": "C557 later 16 Oct / 17 Oct ET ECF 449 / 19 window"
+  "time_pdt": "14:14",
+  "time_et": "17:14",
+  "status": "process-confirmation with new ECF 449 node (updated)",
+  "primary_dockets": {
+    "1:24-cv-01204": {
+      "cl_last_updated": "2026-10-15 15:11 ET",
+      "last_known_filing": "2026-10-15",
+      "new_ecf": "449 Notice of Interlocutory Appeal 15 Oct 2026 13:57 EDT doc1/127040548756 zero RECAP",
+      "hearing": "2 Dec 2026 14:00 ET",
+      "settlement_site": "active claims 23 Nov 2026"
+    },
+    "1:26-cv-08047": {
+      "cl_last_updated": "2026-10-15 19:09 ET",
+      "last_known_filing": "2026-10-15",
+      "ecf14_15": "title-only 0 RECAP",
+      "ecf16_18": "Notices of Appearance HHR for Indyke",
+      "phv": "ECF 13 Jean Sutton Martin AWKO still deficient"
+    }
+  },
+  "new_nodes": [
+    "ECF 449 interlocutory appeal notice",
+    "HHR appearances lock in 08047",
+    "LeaksAndFindings 16 Oct six-benefit compilation"
+  ],
+  "unchanged": [
+    "no 28th accounting",
+    "SDNY inquiry uncharged",
+    "no final judgment entered"
+  ],
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "drive_pdf_id": "1edyMtYoHAxVpEpbSMm8yP-Hfa6y3xknn",
+  "drive_json_id": "15sSI5GCKhR-qgRsN_jjQ2ipOZeee6ryU",
+  "github": "cantgetalonggta-png/strand-osint-mesh"
 }
