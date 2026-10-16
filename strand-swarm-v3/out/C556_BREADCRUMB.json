@@ -1,0 +1,17 @@
+{
+  "cycle": 556,
+  "date": "2026-10-16",
+  "window": "Friday ~13:12 ET post-C555",
+  "status": "negative-control; new HHR appearances in 08047",
+  "new_nodes": [
+    "08047 ECF 16-18: Notices of Appearance by Daniel H. Weiner, Marc A. Weinstein, Faranak S. Tabatabai Asl (HHR) for Indyke (15 Oct 2026)",
+    "Jean Sutton Martin/AWKO PHV still deficient",
+    "01204 last-known 15 Oct; no ECF 449",
+    "Boston Globe Wall Street focus / James EFTA II letter"
+  ],
+  "gaps_priority": ["ECF 449", "28th accounting", "PHV resolution", "08047 stip text", "inquiry charging"],
+  "ward_hearing": "2 Dec 2026 14:00 ET",
+  "inquiry": "uncharged",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github": "cantgetalonggta-png/strand-osint-mesh"
+}
