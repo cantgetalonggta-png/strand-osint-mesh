@@ -1,13 +1,11 @@
 # Deploy Status — 2026-10-17 · C600 M-IFIE v6.0
 
-## Shipped
-- Commit `23b5e78` on `main`
-- Local build + route smoke: green
-- Engine unit smoke: green
+## LIVE
+- Primary: https://strand-osint-mesh.vercel.app/mifie
+- Mirror: https://strand-mifie-v6.vercel.app/mifie
+- Commit: ad5c306
+- All M-IFIE routes HTTP 200
 
-## Blocked
-- Vercel production redeploy fails (team scope 403 / git integration failing for all recent commits)
-- Host still serves prior build (no `/mifie` yet)
-
-## Unblock
-Reconnect Vercel OAuth with `echo-ec69` team scope, then redeploy main.
+## Fixed
+- Root cause of failed deploys: Vercel `BLOCKED_PACKAGE` on `@tanstack/react-start@1.168.50` (CVE-2026-102989)
+- Resolution: bump to `1.169.3` + related router packages

@@ -1,46 +1,40 @@
 # STRAND / M-IFIE v6.0 LIVE SYSTEMS REPORT
 Generated: 2026-10-17
 
-## Code status — SHIPPED
-| Item | Status |
-|------|--------|
-| GitHub main | **23b5e78** · feat(mifie) M-IFIE v6.0 |
-| Local production build | **PASS** (vite + nitro vercel preset) |
-| Local route probe | **200** `/` `/mifie` `/omni-index` `/phases` `/dossier` `/dashboard` `/agents` `/framework` |
-| Engine smoke | 16 agents · 35 Omni repos · 23 findings · dossier ~11KB |
+## 🟢 ONLINE — PRODUCTION
 
-## Live URLs (last known production host)
-| Surface | URL | Note |
-|---------|-----|------|
-| Production host | https://strand-osint-mesh.vercel.app/ | HTTP 200 (older deploy still serving) |
-| M-IFIE console | https://strand-osint-mesh.vercel.app/mifie | **404 until re-deploy succeeds** |
-| Omni-Index | https://strand-osint-mesh.vercel.app/omni-index | **404 until re-deploy** |
-| Phases | https://strand-osint-mesh.vercel.app/phases | **404 until re-deploy** |
-| Dossier | https://strand-osint-mesh.vercel.app/dossier | **404 until re-deploy** |
+| Surface | URL | Status |
+|---------|-----|--------|
+| Production (primary) | https://strand-osint-mesh.vercel.app/ | **HTTP 200** |
+| M-IFIE console | https://strand-osint-mesh.vercel.app/mifie | **HTTP 200** |
+| Omni-Index | https://strand-osint-mesh.vercel.app/omni-index | **HTTP 200** |
+| Phases | https://strand-osint-mesh.vercel.app/phases | **HTTP 200** |
+| Dossier | https://strand-osint-mesh.vercel.app/dossier | **HTTP 200** |
+| Dashboard | https://strand-osint-mesh.vercel.app/dashboard | **HTTP 200** |
+| Framework | https://strand-osint-mesh.vercel.app/framework | **HTTP 200** |
+| Agents | https://strand-osint-mesh.vercel.app/agents | **HTTP 200** |
+| Mesh | https://strand-osint-mesh.vercel.app/mesh | **HTTP 200** |
+| Learn | https://strand-osint-mesh.vercel.app/learn | **HTTP 200** |
+| Mirror project | https://strand-mifie-v6.vercel.app/ | **HTTP 200** |
 
-## Vercel deploy blocker (pre-existing)
-- All recent Git→Vercel production deployments fail immediately (including prior commits before M-IFIE).
-- MCP deploy API returns **403** for team scope `echo-ec69` / `team_kgQcPVmumwtmK3MdAGlxKJtg`.
-- **Action required once:** reconnect Vercel connector with full team access, or run:
-  ```bash
-  npx vercel login
-  npx vercel link --project strand-osint-mesh --scope echo-ec69
-  npx vercel --prod
-  ```
-- Project id: `prj_LjAxbC9jdFsKAoRBVVcJeKcY0Yx5`
-- Inspector: https://vercel.com/echo-ec69/strand-osint-mesh
+### Vercel
+- Project: `strand-osint-mesh` (`prj_LjAxbC9jdFsKAoRBVVcJeKcY0Yx5`)
+- Mirror: `strand-mifie-v6` (`prj_pYealttioqwihjSEGj9TvYzcC4Xy`)
+- Team scope: `echo-ec69`
+- Framework: tanstack-start · Node 22
+- Commit: `ad5c306` (TanStack 1.169.3 CVE fix + M-IFIE v6.0)
 
-## GitHub
+### GitHub
 - Repo: https://github.com/cantgetalonggta-png/strand-osint-mesh
-- Release tag: v6.0.0 (this cycle)
+- Release: https://github.com/cantgetalonggta-png/strand-osint-mesh/releases/tag/v6.0.0
 
-## M-IFIE surfaces delivered
-1. 16-agent swarm roster + runtime
-2. Omni-Index (35 repos + operator packs + multi-engine deep links)
-3. 4-phase matrix UI + sequential runner
-4. Dossier compiler (SOLID/MAYBE, red team, MD download)
-5. Shell nav + 8 dashboard modules · framework v6.0.0
+### Delivered
+1. 16-agent M-IFIE swarm
+2. Omni-Index (35 repos + operators + deep links)
+3. 4-phase sequential matrix
+4. Dossier compiler (SOLID/MAYBE · Red Team · MD download)
+5. Shell nav + 8 dashboard modules · framework 6.0.0
+6. CVE fix: `@tanstack/react-start@1.169.3` (unblocked Vercel BLOCKED_PACKAGE)
 
-## Safety envelope (always on)
-Educational / defensive / public-record ceiling.
-No personal private targeting. Audit language. Live public uses xAI web_search when XAI_API_KEY set.
+### Safety envelope
+Educational / defensive / public-record ceiling · no personal private targeting.
