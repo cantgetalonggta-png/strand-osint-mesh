@@ -1,0 +1,30 @@
+{
+  "cycle": 582,
+  "date": "2026-10-17",
+  "time_pdt": "09:15",
+  "time_et": "12:15",
+  "type": "negative-control",
+  "dockets": {
+    "01204": {
+      "last_cl": "2026-10-15 15:11 ET",
+      "last_filing": "2026-10-15",
+      "ecf_449": "Notice of Interlocutory Appeal (13:57 EDT, not in RECAP)",
+      "hearing": "2026-12-02 14:00 ET"
+    },
+    "08047": {
+      "last_cl": "2026-10-15 19:09 ET",
+      "last_filing": "2026-10-15",
+      "notes": "ECF 13 PHV deficient; ECF 14/15 title-only; ECF 16-18 Notices of Appearance"
+    }
+  },
+  "settlement": {
+    "site_last_updated": "2026-10-05",
+    "deadlines_extended_to": "2026-11-23",
+    "hearing": "2026-12-02 14:00 ET"
+  },
+  "accounting": "no 28th",
+  "inquiry": "uncharged",
+  "gaps_priority": ["ECF 449 text", "08047 14/15 text", "PHV resolution", "28th accounting", "inquiry scope"],
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C583 later 17 Oct or Monday ET"
+}
