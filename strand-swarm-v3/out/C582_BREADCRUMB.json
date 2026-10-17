@@ -1,30 +1,12 @@
 {
   "cycle": 582,
   "date": "2026-10-17",
-  "time_pdt": "09:15",
-  "time_et": "12:15",
-  "type": "negative-control",
-  "dockets": {
-    "01204": {
-      "last_cl": "2026-10-15 15:11 ET",
-      "last_filing": "2026-10-15",
-      "ecf_449": "Notice of Interlocutory Appeal (13:57 EDT, not in RECAP)",
-      "hearing": "2026-12-02 14:00 ET"
-    },
-    "08047": {
-      "last_cl": "2026-10-15 19:09 ET",
-      "last_filing": "2026-10-15",
-      "notes": "ECF 13 PHV deficient; ECF 14/15 title-only; ECF 16-18 Notices of Appearance"
-    }
-  },
-  "settlement": {
-    "site_last_updated": "2026-10-05",
-    "deadlines_extended_to": "2026-11-23",
-    "hearing": "2026-12-02 14:00 ET"
-  },
-  "accounting": "no 28th",
-  "inquiry": "uncharged",
-  "gaps_priority": ["ECF 449 text", "08047 14/15 text", "PHV resolution", "28th accounting", "inquiry scope"],
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "next": "C583 later 17 Oct or Monday ET"
+  "time_pdt": "14:13",
+  "time_et": "17:13",
+  "status": "negative-control",
+  "summary": "Saturday afternoon clerk-closed negative-control after C581. No ECF 449 on 1:24-cv-01204 (CL last-updated 17 Oct 10:31 a.m., last known filing 15 Oct). 08047 last-updated 15 Oct 19:09, ECF 14/15 title-only 0 RECAP, new notices of appearance ECF 16-18. Settlement site 5 Oct stamp. No 28th accounting. Inquiry still uncharged. Process-only.",
+  "nodes_new": [],
+  "gaps_priority": ["ECF 449 text", "08047 ECF 14/15 text", "PHV resolution", "28th accounting", "inquiry scope"],
+  "ward_status": "ECF 447-448, hearing 2 Dec 2026 14:00 ET",
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF"
 }
