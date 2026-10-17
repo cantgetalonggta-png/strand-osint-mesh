@@ -1,51 +1,46 @@
-# STRAND LIVE SYSTEMS REPORT
-Generated: 2026-09-23
+# STRAND / M-IFIE v6.0 LIVE SYSTEMS REPORT
+Generated: 2026-10-17
 
-## 🟢 ONLINE — PRODUCTION
+## Code status — SHIPPED
+| Item | Status |
+|------|--------|
+| GitHub main | **23b5e78** · feat(mifie) M-IFIE v6.0 |
+| Local production build | **PASS** (vite + nitro vercel preset) |
+| Local route probe | **200** `/` `/mifie` `/omni-index` `/phases` `/dossier` `/dashboard` `/agents` `/framework` |
+| Engine smoke | 16 agents · 35 Omni repos · 23 findings · dossier ~11KB |
 
-| Surface | URL | Status |
-|---------|-----|--------|
-| Production | https://strand-osint-mesh.vercel.app/ | **HTTP 200** |
-| Dashboard | https://strand-osint-mesh.vercel.app/dashboard | **HTTP 200** |
-| Framework | https://strand-osint-mesh.vercel.app/framework | **HTTP 200** |
-| Agents | https://strand-osint-mesh.vercel.app/agents | **HTTP 200** |
-| Learn | https://strand-osint-mesh.vercel.app/learn | **HTTP 200** |
-| Mesh | https://strand-osint-mesh.vercel.app/mesh | **HTTP 200** |
+## Live URLs (last known production host)
+| Surface | URL | Note |
+|---------|-----|------|
+| Production host | https://strand-osint-mesh.vercel.app/ | HTTP 200 (older deploy still serving) |
+| M-IFIE console | https://strand-osint-mesh.vercel.app/mifie | **404 until re-deploy succeeds** |
+| Omni-Index | https://strand-osint-mesh.vercel.app/omni-index | **404 until re-deploy** |
+| Phases | https://strand-osint-mesh.vercel.app/phases | **404 until re-deploy** |
+| Dossier | https://strand-osint-mesh.vercel.app/dossier | **404 until re-deploy** |
 
-### Vercel
-- Project: `strand-osint-mesh` (`prj_LjAxbC9jdFsKAoRBVVcJeKcY0Yx5`)
-- Team scope: `echo-ec69` / `team_kgQcPVmumwtmK3MdAGlxKJtg`
-- Framework: tanstack-start
-- Production deployment READY (prior) + forced redeploy in flight
-- Domains: strand-osint-mesh.vercel.app · strand-osint-mesh-echo-ec69.vercel.app · strand-osint-mesh-git-main-echo-ec69.vercel.app
+## Vercel deploy blocker (pre-existing)
+- All recent Git→Vercel production deployments fail immediately (including prior commits before M-IFIE).
+- MCP deploy API returns **403** for team scope `echo-ec69` / `team_kgQcPVmumwtmK3MdAGlxKJtg`.
+- **Action required once:** reconnect Vercel connector with full team access, or run:
+  ```bash
+  npx vercel login
+  npx vercel link --project strand-osint-mesh --scope echo-ec69
+  npx vercel --prod
+  ```
+- Project id: `prj_LjAxbC9jdFsKAoRBVVcJeKcY0Yx5`
 - Inspector: https://vercel.com/echo-ec69/strand-osint-mesh
 
-### GitHub
+## GitHub
 - Repo: https://github.com/cantgetalonggta-png/strand-osint-mesh
-- Release: https://github.com/cantgetalonggta-png/strand-osint-mesh/releases/tag/v1.1.0
-- Branch: main (auto-deploys via Vercel git integration)
+- Release tag: v6.0.0 (this cycle)
 
-### Google Drive
-- Parent vault: https://drive.google.com/drive/folders/1K4VvwUIy_mbd4FMZDCk3I3-mR_V-O0kq
-- Deploy folder: https://drive.google.com/drive/folders/15qj_QOtC21fDk2k2VP9FSsGQ-XM3FAFT
-- Framework tarball present: OSINT_SYSTEM_FRAMEWORK.tar.gz
-
-### Local workspace
-- Dev server :8080 — all routes 200
-
-## Active systems
-1. STRAND multi-agent mesh (HOOK/STAMP/SPLIT/WEFT)
-2. Distilled framework (16 directives · 19 skills · permanent thinking)
-3. Dashboard product modules
-4. Learning loop / method fit
-5. GitHub + Vercel CI/CD path
-6. Drive vault + deploy package
+## M-IFIE surfaces delivered
+1. 16-agent swarm roster + runtime
+2. Omni-Index (35 repos + operator packs + multi-engine deep links)
+3. 4-phase matrix UI + sequential runner
+4. Dossier compiler (SOLID/MAYBE, red team, MD download)
+5. Shell nav + 8 dashboard modules · framework v6.0.0
 
 ## Safety envelope (always on)
-Educational / defensive / synthetic collection preferred.
-No personal targeting. Audit language. Default app: no live scrape.
-
-## Note on connector scopes
-- Vercel MCP can list projects/deployments and create deployments
-- Some team-scoped APIs return 403 for scope `echo-ec69` until re-auth with full team access
-- Drive upload bridge still intermittent for new files; tarball is already in deploy folder
+Educational / defensive / public-record ceiling.
+No personal private targeting. Audit language. Live public uses xAI web_search when XAI_API_KEY set.
