@@ -1,37 +1,30 @@
 {
-  "cycle": "C556",
-  "date": "2026-10-16",
-  "time_pdt": "14:14",
-  "time_et": "17:14",
-  "status": "process-confirmation with new ECF 449 node (updated)",
-  "primary_dockets": {
-    "1:24-cv-01204": {
-      "cl_last_updated": "2026-10-15 15:11 ET",
-      "last_known_filing": "2026-10-15",
-      "new_ecf": "449 Notice of Interlocutory Appeal 15 Oct 2026 13:57 EDT doc1/127040548756 zero RECAP",
-      "hearing": "2 Dec 2026 14:00 ET",
-      "settlement_site": "active claims 23 Nov 2026"
-    },
-    "1:26-cv-08047": {
-      "cl_last_updated": "2026-10-15 19:09 ET",
-      "last_known_filing": "2026-10-15",
-      "ecf14_15": "title-only 0 RECAP",
-      "ecf16_18": "Notices of Appearance HHR for Indyke",
-      "phv": "ECF 13 Jean Sutton Martin AWKO still deficient"
-    }
-  },
+  "cycle": 556,
+  "timestamp_utc": "2026-10-17T00:16:00Z",
+  "timestamp_pdt": "2026-10-16T17:16:00-07:00",
+  "status": "process_only_negative_control",
   "new_nodes": [
-    "ECF 449 interlocutory appeal notice",
-    "HHR appearances lock in 08047",
-    "LeaksAndFindings 16 Oct six-benefit compilation"
+    "08047 ECF 16 Notice of Appearance Daniel Haym Weiner for Indyke (Oct 15 ~14:36 ET)",
+    "08047 ECF 17 Notice of Appearance Marc Alan Weinstein for Indyke (Oct 15 ~14:39 ET)",
+    "08047 ECF 18 Notice of Appearance Faranak Sharon Tabatabai Asl for Indyke (Oct 15 ~18:13 ET)",
+    "HHR team full appearance lock on 08047 for Indyke",
+    "LeaksAndFindings Substack 16 Oct 2026 EFTA synthesis on 1953 Trust benefits (compilation-grade)"
   ],
-  "unchanged": [
+  "confirmed_holds": [
+    "01204 CL last-updated Oct 15 15:11 ET; no ECF 449 confirmed",
+    "Ward hearing 2 Dec 2026 14:00 ET",
     "no 28th accounting",
-    "SDNY inquiry uncharged",
-    "no final judgment entered"
+    "SDNY inquiry still uncharged",
+    "08047 ECF 13 PHV deficient (Martin/AWKO); ECF 14/15 title-only 0 RECAP"
+  ],
+  "gaps_priority": [
+    "08047 ECF 14/15 full text",
+    "PHV resolution",
+    "01204 ECF 449+",
+    "28th accounting",
+    "inquiry status"
   ],
   "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "drive_pdf_id": "1edyMtYoHAxVpEpbSMm8yP-Hfa6y3xknn",
-  "drive_json_id": "15sSI5GCKhR-qgRsN_jjQ2ipOZeee6ryU",
-  "github": "cantgetalonggta-png/strand-osint-mesh"
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C557 later 16/17 Oct ET"
 }

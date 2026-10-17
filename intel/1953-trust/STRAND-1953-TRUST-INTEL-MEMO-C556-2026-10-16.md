@@ -1,31 +1,42 @@
-# STRAND Educational Intelligence Memorandum
-## Cycle 556 — 16 October 2026 (updated ~17:14 ET)
-**Target:** THE 1953 TRUST (Epstein pour-over USVI trust, 8 Aug 2019)
+# STRAND-1953-TRUST-INTEL-MEMO-C556-2026-10-16
 
-### I. EXECUTIVE SUMMARY
-Process confirmation after C555 with material new node. **Primary:** ECF 449 Notice of Interlocutory Appeal filed 15 Oct 2026 13:57 EDT in Ward/Doe 3 v. Indyke, 1:24-cv-01204-AS (PACER doc1/127040548756; zero RECAP). CourtListener last-updated 15 Oct 15:11 ET; last known filing 15 Oct. 08047 ECF 16–18 Notices of Appearance (HHR for Indyke) on 15 Oct; ECF 14/15 title-only. No 28th accounting. SDNY inquiry remains uncharged. Secondary: LeaksAndFindings Substack 16 Oct six-benefit compilation under 1953 Trust. Settlement site active (claims 23 Nov 2026; hearing 2 Dec 2026 14:00 ET). Gaps priority: ECF 449 text/movant, PHV resolution, 28th accounting, inquiry scope.
+**Educational OSINT Cycle 556**  
+**Timestamp:** 2026-10-16 ~17:16 PDT / 20:16 ET  
+**Status:** Process-only negative-control with confirmed counsel appearances  
 
-### II. DOCKET STATUS — 1:24-cv-01204-AS (Ward / Doe 3 v. Indyke)
-CourtListener: Last Updated Oct. 15, 2026, 3:11 p.m. Date of Last Known Filing: Oct. 15, 2026. Terminal prior cluster ECF 447–448. **New ECF 449:** Notice of Interlocutory Appeal, 15 Oct 2026 1:57 p.m. EDT. Not in RECAP. PACER: doc1/127040548756?caseid=615842. Movant/grounds/order unknown without text. Hearing locked 2 Dec 2026 14:00 ET. Settlement site https://www.sdnysettlementfund2026.com/ active; Questionnaire 23 Nov 2026 11:59 PM EST; Fund Admin Simone K. Lelchuk.
+## Key Nodes / Updates
 
-### III. DOCKET STATUS — 1:26-cv-08047 (Doe / Amy v. Indyke)
-CourtListener: Last Updated Oct. 15, 2026, 7:09 p.m. Last Known Filing Oct. 15. ECF 14 (14 Oct Proposed Stipulation, doc1/127040534232) and ECF 15 (14 Oct Letter, doc1/127040534347) title-only / 0 RECAP. ECF 16–18 (15 Oct) Notices of Appearance by HHR (Tabatabai Asl, Weinstein, et al.) for Indyke. ECF 13 PHV Jean Sutton Martin/AWKO still deficient. No further numbered filings.
+- **1:26-cv-08047 (Doe v. Indyke, SDNY, Woods III / Figueredo):**  
+  ECF 16 (Oct 15, 2026 ~14:36 ET): Notice of Appearance by Daniel Haym Weiner on behalf of Darren K. Indyke.  
+  ECF 17 (Oct 15 ~14:39 ET): Notice of Appearance by Marc Alan Weinstein on behalf of Darren K. Indyke.  
+  ECF 18 (Oct 15 ~18:13 ET): Notice of Appearance by Faranak Sharon Tabatabai Asl on behalf of Darren K. Indyke.  
+  All from Hughes Hubbard & Reed LLP (HHR). Confirmed via PacerMonitor public docket mirror. ECF 14/15 remain title-only (0 RECAP). No ECF 19+. PHV deficiency on ECF 13 (Jean Sutton Martin/AWKO) unresolved. CL last-updated Oct 15 19:09 ET.
 
-### IV. NEW / UPDATED NODES
-- **ECF 449 (01204):** Notice of Interlocutory Appeal, 15 Oct 2026 13:57 EDT. Priority text pull.
-- HHR appearance cluster locked in 08047.
-- LeaksAndFindings Substack (16 Oct): six Indyke/Kahn benefit categories (cash $50M/$25M; priority §2.2; debt-wipe items 46/47; Saipher $3M; fees $250k x2; protections). EFTA01266204 / EFTA00624919. Does not establish receipt.
+- **1:24-cv-01204-AS (Ward / Doe 3 v. Indyke, SDNY, Subramanian):**  
+  CL last-updated Oct 15, 2026 15:11 ET. Last known filing date Oct 15. Docket entry table still fails to load fully on CourtListener (persistent "Try again later"). No public confirmation of ECF 449 or later. Hearing remains 2 Dec 2026 14:00 ET. No final judgment entered.
 
-### V. STATUS OF KEY OPEN ITEMS
-- Final judgment pending; 2 Dec 2026 hearing. ECF 449 suggests interlocutory challenge.
-- No 28th USVI accounting (prior 27th ~$107.645M; 24th $127.40M).
-- Inquiry uncharged (no new status).
-- 08047 PHV unresolved.
+- **1953 Trust / Accounting:**  
+  No 28th quarterly accounting located. Prior 27th ~$107.645M gross / quantified liabilities; 24th vintage $127.40M at 30 Sep 2025. Trust still treated as pour-over / not fully effective pending claims resolution. New secondary: LeaksAndFindings Substack 16 Oct 2026 synthesizing EFTA00624919 / EFTA01266204 on Indyke ($50M) / Kahn ($25M) bequests, priority under §2.2, debt forgiveness, defense cost provisions (§6.6), reduced USVI accounting oversight (§6.7). Compilation-grade only; does not establish actual receipt.
 
-### VI. GAPS
-Priority: G-ECF449-text; G-08047-PHV; G-28th-accounting; G-inquiry. Continues prior series.
+- **Counsel Affirmation:**  
+  HHR team (Weiner, Weinstein, Tabatabai Asl) continues as primary for Indyke across 01204 and now 08047. Ruzumna (PBWT) previously dual on Kahn. Jean Sutton Martin (AWKO) PHV still deficient.
 
-### VII. PROCESS NOTES
-Updated ~14:14 PDT / 17:14 ET. CL holds at 15 Oct. Educational OSINT only. Drive folder id 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF. PDF uploaded this cycle. Next C557 for RECAP on 449 and any 16/17 Oct activity.
+- **Inquiry:**  
+  SDNY/FBI inquiry into Indyke/Kahn remains uncharged. No new official confirmation or denial this cycle.
 
-*End of Cycle 556 (updated).*
+## Gaps (priority carry)
+
+- G-priority: Full text of 08047 ECF 14 (Proposed Stipulation), ECF 15 (Joint Letter), ECF 16-18 appearances; resolution of PHV deficiency; any ECF 449+ on 01204; 28th accounting; scope/status of uncharged inquiry; beneficiary-count collision (32/40/41/43); corpus vs remainder distribution mechanics.
+
+## Process Metrics
+
+- CL 01204 dwell continues (last-updated 15 Oct).  
+- 08047 header advance to 15 Oct with new appearances.  
+- Settlement banner / site last known 5 Oct.  
+- Empty primary X-lane for new docket events.  
+
+**Next:** C557 evening/night ET window for any late filings or RECAP ingestion.  
+**Drive folder:** 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF  
+**Repo:** cantgetalonggta-png/strand-osint-mesh  
+
+*Educational intel only. No legal advice. Sources: CourtListener, PacerMonitor public mirrors, open web, EFTA secondary compilations.*
