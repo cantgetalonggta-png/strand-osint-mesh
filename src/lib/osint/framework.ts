@@ -5,8 +5,8 @@
  */
 
 export const FRAMEWORK_META = {
-  name: "Autonomous Multi-Agent OSINT Mesh",
-  version: "1.1.0",
+  name: "M-IFIE v6.0 · Investigative & Forensic Research Engine",
+  version: "6.0.0",
   sourceFolder: "ALL GROK MAIN FILES ACCESS",
   sourceFolderId: "1K4VvwUIy_mbd4FMZDCk3I3-mR_V-O0kq",
   envelope: "Educational · defensive · synthetic targets preferred · no personal targeting",
@@ -47,6 +47,27 @@ export const DASHBOARD_MODULES = [
     description: "Assigns independent lanes, enforces no-mirror, opens mesh after moves, drives permanent-thinking gate.",
     agentLane: "map" as const,
     skill: "multi-agent-architecture",
+  },
+  {
+    id: "mifie-swarm",
+    name: "M-IFIE 16-agent swarm",
+    description: "Full investigative engine: OSINT Scout through Master Editor. Four-phase matrix with Red Team audit.",
+    agentLane: "map" as const,
+    skill: "multi-agent-architecture",
+  },
+  {
+    id: "omni-index",
+    name: "Omni-Index directory",
+    description: "Global multi-engine, academic, legal-financial, archive, social, government repository map with operator packs.",
+    agentLane: "dor" as const,
+    skill: "search-engines",
+  },
+  {
+    id: "dossier-compiler",
+    name: "Dossier compiler",
+    description: "Master Editor output: SOLID/MAYBE tags, contradiction tables, citation blocks, downloadable markdown.",
+    agentLane: "map" as const,
+    skill: "osint-workflow",
   },
 ] as const;
 

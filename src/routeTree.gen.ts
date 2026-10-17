@@ -12,9 +12,13 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as AgentsRouteImport } from './routes/agents'
 import { Route as DashboardRouteImport } from './routes/dashboard'
+import { Route as DossierRouteImport } from './routes/dossier'
 import { Route as FrameworkRouteImport } from './routes/framework'
 import { Route as LearnRouteImport } from './routes/learn'
 import { Route as MeshRouteImport } from './routes/mesh'
+import { Route as MifieRouteImport } from './routes/mifie'
+import { Route as OmniIndexRouteImport } from './routes/omni-index'
+import { Route as PhasesRouteImport } from './routes/phases'
 import { Route as CaseCaseIdRouteImport } from './routes/case.$caseId'
 
 const IndexRoute = IndexRouteImport.update({
@@ -32,6 +36,11 @@ const DashboardRoute = DashboardRouteImport.update({
   path: '/dashboard',
   getParentRoute: () => rootRouteImport,
 } as any)
+const DossierRoute = DossierRouteImport.update({
+  id: '/dossier',
+  path: '/dossier',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const FrameworkRoute = FrameworkRouteImport.update({
   id: '/framework',
   path: '/framework',
@@ -47,6 +56,21 @@ const MeshRoute = MeshRouteImport.update({
   path: '/mesh',
   getParentRoute: () => rootRouteImport,
 } as any)
+const MifieRoute = MifieRouteImport.update({
+  id: '/mifie',
+  path: '/mifie',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const OmniIndexRoute = OmniIndexRouteImport.update({
+  id: '/omni-index',
+  path: '/omni-index',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PhasesRoute = PhasesRouteImport.update({
+  id: '/phases',
+  path: '/phases',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const CaseCaseIdRoute = CaseCaseIdRouteImport.update({
   id: '/case/$caseId',
   path: '/case/$caseId',
@@ -57,18 +81,26 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/agents': typeof AgentsRoute
   '/dashboard': typeof DashboardRoute
+  '/dossier': typeof DossierRoute
   '/framework': typeof FrameworkRoute
   '/learn': typeof LearnRoute
   '/mesh': typeof MeshRoute
+  '/mifie': typeof MifieRoute
+  '/omni-index': typeof OmniIndexRoute
+  '/phases': typeof PhasesRoute
   '/case/$caseId': typeof CaseCaseIdRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/agents': typeof AgentsRoute
   '/dashboard': typeof DashboardRoute
+  '/dossier': typeof DossierRoute
   '/framework': typeof FrameworkRoute
   '/learn': typeof LearnRoute
   '/mesh': typeof MeshRoute
+  '/mifie': typeof MifieRoute
+  '/omni-index': typeof OmniIndexRoute
+  '/phases': typeof PhasesRoute
   '/case/$caseId': typeof CaseCaseIdRoute
 }
 export interface FileRoutesById {
@@ -76,9 +108,13 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
   '/agents': typeof AgentsRoute
   '/dashboard': typeof DashboardRoute
+  '/dossier': typeof DossierRoute
   '/framework': typeof FrameworkRoute
   '/learn': typeof LearnRoute
   '/mesh': typeof MeshRoute
+  '/mifie': typeof MifieRoute
+  '/omni-index': typeof OmniIndexRoute
+  '/phases': typeof PhasesRoute
   '/case/$caseId': typeof CaseCaseIdRoute
 }
 export interface FileRouteTypes {
@@ -87,27 +123,39 @@ export interface FileRouteTypes {
     | '/'
     | '/agents'
     | '/dashboard'
+    | '/dossier'
     | '/framework'
     | '/learn'
     | '/mesh'
+    | '/mifie'
+    | '/omni-index'
+    | '/phases'
     | '/case/$caseId'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
     | '/agents'
     | '/dashboard'
+    | '/dossier'
     | '/framework'
     | '/learn'
     | '/mesh'
+    | '/mifie'
+    | '/omni-index'
+    | '/phases'
     | '/case/$caseId'
   id:
     | '__root__'
     | '/'
     | '/agents'
     | '/dashboard'
+    | '/dossier'
     | '/framework'
     | '/learn'
     | '/mesh'
+    | '/mifie'
+    | '/omni-index'
+    | '/phases'
     | '/case/$caseId'
   fileRoutesById: FileRoutesById
 }
@@ -115,9 +163,13 @@ export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AgentsRoute: typeof AgentsRoute
   DashboardRoute: typeof DashboardRoute
+  DossierRoute: typeof DossierRoute
   FrameworkRoute: typeof FrameworkRoute
   LearnRoute: typeof LearnRoute
   MeshRoute: typeof MeshRoute
+  MifieRoute: typeof MifieRoute
+  OmniIndexRoute: typeof OmniIndexRoute
+  PhasesRoute: typeof PhasesRoute
   CaseCaseIdRoute: typeof CaseCaseIdRoute
 }
 
@@ -144,6 +196,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof DashboardRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/dossier': {
+      id: '/dossier'
+      path: '/dossier'
+      fullPath: '/dossier'
+      preLoaderRoute: typeof DossierRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/framework': {
       id: '/framework'
       path: '/framework'
@@ -165,6 +224,27 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof MeshRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/mifie': {
+      id: '/mifie'
+      path: '/mifie'
+      fullPath: '/mifie'
+      preLoaderRoute: typeof MifieRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/omni-index': {
+      id: '/omni-index'
+      path: '/omni-index'
+      fullPath: '/omni-index'
+      preLoaderRoute: typeof OmniIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/phases': {
+      id: '/phases'
+      path: '/phases'
+      fullPath: '/phases'
+      preLoaderRoute: typeof PhasesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/case/$caseId': {
       id: '/case/$caseId'
       path: '/case/$caseId'
@@ -179,9 +259,13 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AgentsRoute: AgentsRoute,
   DashboardRoute: DashboardRoute,
+  DossierRoute: DossierRoute,
   FrameworkRoute: FrameworkRoute,
   LearnRoute: LearnRoute,
   MeshRoute: MeshRoute,
+  MifieRoute: MifieRoute,
+  OmniIndexRoute: OmniIndexRoute,
+  PhasesRoute: PhasesRoute,
   CaseCaseIdRoute: CaseCaseIdRoute,
 }
 export const routeTree = rootRouteImport

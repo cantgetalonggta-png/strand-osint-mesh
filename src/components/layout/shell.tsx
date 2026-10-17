@@ -1,6 +1,6 @@
 import { useEffect, type ReactNode } from "react";
 import { Link, useRouterState } from "@tanstack/react-router";
-import { Activity, BookOpen, GitBranch, LayoutDashboard, LayoutGrid, Users } from "lucide-react";
+import { Activity, BookOpen, GitBranch, LayoutDashboard, LayoutGrid, Users, Radar, Globe2, Layers3, FileText } from "lucide-react";
 import { NewCaseDialog } from "@/components/osint/new-case-dialog";
 import { StrandMark } from "@/components/osint/mark";
 import { TooltipProvider } from "@/components/ui/tooltip";
@@ -9,6 +9,10 @@ import { cn } from "@/lib/utils";
 
 const NAV = [
   { to: "/", label: "Operations", icon: LayoutGrid },
+  { to: "/mifie", label: "M-IFIE", icon: Radar },
+  { to: "/omni-index", label: "Omni-Index", icon: Globe2 },
+  { to: "/phases", label: "Phases", icon: Layers3 },
+  { to: "/dossier", label: "Dossier", icon: FileText },
   { to: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
   { to: "/agents", label: "Agents", icon: Users },
   { to: "/mesh", label: "Mesh", icon: GitBranch },
@@ -37,13 +41,13 @@ export function AppShell({ children }: { children: ReactNode }) {
   return (
     <TooltipProvider delayDuration={120}>
       <div className="flex min-h-dvh bg-background text-foreground">
-        <aside className="sticky top-0 hidden h-dvh w-[232px] shrink-0 flex-col border-r border-border px-4 py-5 md:flex">
+        <aside className="sticky top-0 hidden h-dvh w-[248px] shrink-0 flex-col border-r border-border px-4 py-5 md:flex">
           <Link to="/" className="flex items-center gap-2 text-foreground">
             <StrandMark className="h-7 w-7" />
             <span className="flex flex-col">
               <span className="font-display text-lg leading-none tracking-tight">STRAND</span>
               <span className="mt-1 font-mono text-[10px] tracking-[0.18em] text-ink uppercase">
-                OSINT mesh
+                M-IFIE · OSINT mesh
               </span>
             </span>
           </Link>
@@ -82,7 +86,7 @@ export function AppShell({ children }: { children: ReactNode }) {
           <main className="mx-auto w-full max-w-[1280px] flex-1 px-4 py-5 pb-24 md:px-8 md:py-8 md:pb-8">
             {children}
           </main>
-          <nav className="fixed inset-x-0 bottom-0 z-40 grid grid-cols-3 border-t border-border bg-background/95 pb-[env(safe-area-inset-bottom)] sm:grid-cols-6 md:hidden">
+          <nav className="fixed inset-x-0 bottom-0 z-40 grid grid-cols-3 border-t border-border bg-background/95 pb-[env(safe-area-inset-bottom)] sm:grid-cols-5 md:hidden">
             {NAV.map((item) => {
               const active = item.to === "/" ? pathname === "/" : pathname.startsWith(item.to);
               return (

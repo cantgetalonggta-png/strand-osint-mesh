@@ -28,11 +28,14 @@ function DashboardPage() {
           </p>
           <h1 className="font-display mt-1 text-4xl font-medium tracking-tight">Module surface</h1>
           <p className="mt-2 max-w-2xl text-sm text-muted-foreground">
-            Five product modules wired to the distilled vault. Synthetic collection · educational methods ·
+            Product modules (M-IFIE v6) wired to the distilled vault. Synthetic collection · educational methods ·
             Live public mode uses xAI web_search (open sources only).
           </p>
         </div>
         <div className="flex flex-wrap gap-2">
+          <Button asChild variant="outline">
+            <Link to="/mifie">M-IFIE console</Link>
+          </Button>
           <Button asChild variant="outline">
             <Link to="/framework">Open framework</Link>
           </Button>
@@ -43,7 +46,7 @@ function DashboardPage() {
       </header>
 
       <section className="grid grid-cols-2 gap-3 lg:grid-cols-4">
-        <Stat label="Modules" value="5" />
+        <Stat label="Modules" value={String(DASHBOARD_MODULES.length)} />
         <Stat label="Cases" value={String(cases.length)} />
         <Stat label="Findings" value={String(findings)} />
         <Stat label="Envelope" value="Synthetic" />
