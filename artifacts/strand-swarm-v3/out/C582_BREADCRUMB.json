@@ -1,0 +1,39 @@
+{
+  "cycle": 582,
+  "date": "2026-10-17",
+  "timestamp_pdt": "11:12",
+  "timestamp_et": "14:12",
+  "type": "negative-control + new appearances",
+  "ward_01204": {
+    "last_known_filing": "2026-10-15",
+    "cl_last_updated": "2026-10-17 10:31 ET",
+    "terminal_known": "ECF 447-448 (23 Sep cluster)",
+    "ecf_449": "not confirmed in public table",
+    "hearing": "2026-12-02 14:00 ET"
+  },
+  "doe_08047": {
+    "last_known_filing": "2026-10-15",
+    "cl_last_updated": "2026-10-15 19:09 ET",
+    "pacer_monitor": "2026-10-16 23:59 ET",
+    "ecf_13": "PHV Jean Sutton Martin deficient",
+    "ecf_14": "2026-10-14 09:42 Proposed Stipulation (Elliot)",
+    "ecf_15": "2026-10-14 09:50 Joint Letter (Freeman)",
+    "ecf_16": "2026-10-15 14:36 NOA Weiner for Indyke",
+    "ecf_17": "2026-10-15 14:39 NOA Weinstein for Indyke",
+    "ecf_18": "2026-10-15 18:13 NOA Tabatabai Asl / Fara Tabatabai for Indyke",
+    "recap": 0
+  },
+  "new_nodes": [
+    "Fara Tabatabai (HHR Partner) appearance in 08047",
+    "Marc A. Weinstein (HHR White Collar chair) appearance in 08047",
+    "Full HHR team (Weiner/Weinstein/Tabatabai) active in Woods III case"
+  ],
+  "gaps_priority": ["ECF 14/15 text", "PHV resolution", "ECF 449 text", "28th accounting", "inquiry status"],
+  "status": {
+    "28th_accounting": "none",
+    "inquiry": "uncharged",
+    "settlement_site": "5 Oct stamp"
+  },
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C583 later 17/18 Oct ET"
+}
