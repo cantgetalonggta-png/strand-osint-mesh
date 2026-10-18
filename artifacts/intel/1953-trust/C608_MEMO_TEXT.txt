@@ -1,0 +1,25 @@
+STRAND 1953 TRUST — EDUCATIONAL INTEL MEMO
+CYCLE 608 | 2026-10-18 | Sunday 12:14 PDT / 15:14 ET
+
+TYPE: Negative-control clerk-closed sweep after C607. No material docket advance.
+
+STATUS LOCK (unchanged core)
+• Ward v. Indyke (1:24-cv-01204-AS): ECF 447-448 + ECF 449 Notice of Interlocutory Appeal (Kamila Hofbaver, St. Albert AB, pro se; filed 15 Oct ~13:57 ET; RECAP live 18 Oct 00:35 ET). CL last-updated 18 Oct 00:35 ET. No ECF 450. No final judgment. Hearing remains 2 Dec 2026 14:00 ET. Settlement claim/opt-out/object deadline 23 Nov 2026 (Simone K. Lelchuk Fund Admin). Site last updated ~5 Oct.
+• 1:26-cv-08047 (Woods III): Through ECF 18. ECF 13 PHV Jean Sutton Martin / AWKO still deficient (no resolution). ECF 14 Proposed Stipulation and Order (14 Oct). ECF 15 Joint Letter (14 Oct). ECF 16-18 Notices of Appearance (Weiner/Weinstein/Tabatabai Asl for Indyke side, 15 Oct). Recent entries title-only / 0 RECAP. Last updated ~15 Oct.
+• Accounting: No 28th public accounting. Prior vintages: 24th ~$127.40M (30 Sep 2025); 27th ~$107.645M (to 30 Jun 2026).
+• SDNY/FBI inquiry into Indyke/Kahn: Still uncharged. No official confirmation of charges or subpoenas to subjects.
+
+NEW / PROCESS NODES (C608)
+• Process confirmation only: Sunday afternoon clerk-closed; no ECF 450 after 449 RECAP dwell. Hofbaver NOA remains low-corpus process anomaly (Canadian pro se interlocutory appeal from class settlement order).
+• 08047 PHV deficiency hold continues; no ECF 19+ visible. Empty material X-lane / press field beyond recirculation of known beneficiary lists (Shuliak $50M+$50M annuity, Indyke $50M, Kahn $25M, ~40-43 count collision).
+• Compilation-grade recirculation discarded: Prameya/BusinessDay/Money Times Shuliak heir reprints; Wikipedia estate page restatements; no new primary source.
+
+GAPS (priority series unchanged + carry)
+G-priority: Full grounds of ECF 449 + any USCA filing; RECAP/PDF text of 08047 ECF 14/15; resolution of Martin/AWKO PHV (deficiency items); ECF 450 window; 28th accounting; inquiry scope/capacity effect; Hofbaver standing/role. Gaps continue G-01–prior series.
+
+AGENT SWARM NOTES
+Bloodhound sub-agents: CourtListener/PACER Monitor/RECAP negative control — no 450, no 19+. Ontologist: Hofbaver NOA as process anomaly (not corpus beneficiary). Distiller: Discarded recirculation. Synthesizer: Status lock held. Upgrader: Next window Monday 19 Oct ET clerk-open for potential 450 / PHV / USCA.
+
+BACKUP
+Drive folder id 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF. GitHub: cantgetalonggta-png/strand-osint-mesh.
+Next: C609 Monday 19 Oct ET clerk-open ECF 450 / 08047 PHV resolution / USCA check window.

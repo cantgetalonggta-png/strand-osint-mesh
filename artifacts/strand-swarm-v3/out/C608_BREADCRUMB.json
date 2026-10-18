@@ -1,0 +1,25 @@
+{
+  "cycle": 608,
+  "date": "2026-10-18",
+  "timestamp_utc": "2026-10-18T19:14:00Z",
+  "timestamp_et": "2026-10-18T15:14:00-04:00",
+  "timestamp_pdt": "2026-10-18T12:14:00-07:00",
+  "type": "negative-control",
+  "summary": "Sunday 12:14 PDT / 15:14 ET clerk-closed negative-control after C607. No ECF 450 after ECF 449 Hofbaver NOA RECAP (18 Oct 00:35 ET). 08047 through ECF 18 title-only / 0 RECAP; Martin/AWKO PHV deficient. Settlement 23 Nov / hearing 2 Dec. No 28th accounting. Inquiry uncharged.",
+  "status": {
+    "ward_01204": "ECF 447-448 + ECF 449 NOA (Hofbaver pro se St. Albert AB, filed 15 Oct, RECAP 18 Oct 00:35 ET); CL last-updated 18 Oct 00:35 ET; no ECF 450; hearing 2 Dec 2026 14:00 ET.",
+    "08047": "ECF 13 PHV Jean Sutton Martin/AWKO deficient; ECF 14/15 (14 Oct); ECF 16-18 NOA Indyke side (15 Oct); 0 RECAP recent; last updated 15 Oct.",
+    "settlement_site": "Last updated ~5 Oct 2026; deadline 23 Nov 2026; hearing 2 Dec 2026 14:00 ET (Lelchuk).",
+    "accounting": "No 28th public; 24th ~$127.4M / 27th ~$107.6M vintages.",
+    "inquiry": "SDNY/FBI uncharged."
+  },
+  "new_nodes": [
+    "process confirmation: Sunday 15:14 ET clerk-closed no ECF 450",
+    "Hofbaver NOA low-corpus anomaly reinforced",
+    "08047 PHV deficiency hold; recirculation discarded"
+  ],
+  "gaps": "G-priority unchanged (449 grounds/USCA, 08047 14/15 text + PHV, ECF 450, 28th accounting, inquiry, Hofbaver role)",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "pdf": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C608-2026-10-18.pdf",
+  "next": "C609 Monday 19 Oct ET clerk-open ECF 450 / PHV / USCA window"
+}
