@@ -1,20 +1,11 @@
 {
   "cycle": 582,
-  "timestamp_utc": "2026-10-17T19:14:00Z",
-  "local": "Saturday 17 Oct 2026 12:14 PDT / 15:14 ET",
+  "date": "2026-10-17",
+  "timestamp_utc": "2026-10-18T01:15:00Z",
+  "pdt": "Saturday 17 Oct 2026 ~18:14 PDT / ~21:14 ET",
   "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C582-2026-10-17.pdf",
-  "status": "process-only negative control",
-  "new_nodes": [
-    "LeaksAndFindings Substack 16 Oct: six 1953 Trust benefits (cash, priority, debt wipe Harlequin Dane/Coatue, Saipher $3M, fees, protections)",
-    "Michelle Fern Saipher (Indyke wife): $1.825M 2014 payment, 40% KCAC LLC, Harlequin Dane",
-    "Entities: Harlequin Dane LLC, Coatue Enterprises LLC, KCAC LLC, FT Real Estate",
-    "smw.ai 1953-trust page refresh 17 Oct",
-    "CL 01204 last-updated 17 Oct 10:31 a.m.; last known filing 15 Oct; no ECF 449",
-    "08047 ECF 14/15 title-only zero RECAP; PHV Jean Sutton Martin/AWKO deficient"
-  ],
-  "gaps_priority": ["ECF 449 text", "08047 14/15 text", "PHV resolution", "28th accounting", "inquiry charging", "Saipher/entity amounts"],
-  "ward_hearing": "2 Dec 2026 14:00 ET",
-  "inquiry": "uncharged",
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "github": "cantgetalonggta-png/strand-osint-mesh"
+  "summary": "Negative-control process update. 01204 ECF 449 Notice of Interlocutory Appeal (15 Oct 1:57 p.m. EDT, not in RECAP) + USCA transmission. Hearing still 2 Dec 2026. 08047 ECF 14/15 title-only + new NOAs 16-18; PHV Martin deficient. Settlement site 5 Oct stamp. No 28th accounting; inquiry uncharged.",
+  "nodes": ["ECF 449 Interlocutory Appeal 01204", "USCA transmission", "08047 ECF 16-18 NOAs", "Jean Sutton Martin AWKO PHV deficient"],
+  "gaps": ["G-ECF449-text", "G-08047-14-15-text", "G-PHV-cure", "G-28th-accounting", "G-inquiry-scope"],
+  "status": "Ward ECF 447-449 cluster, hearing 2 Dec 2026 14:00 ET; no 28th accounting; inquiry still uncharged."
 }
