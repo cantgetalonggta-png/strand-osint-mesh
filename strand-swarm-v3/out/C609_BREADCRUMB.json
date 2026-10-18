@@ -1,0 +1,30 @@
+{
+  "cycle": "C609",
+  "timestamp_utc": "2026-10-18T23:14:00Z",
+  "timestamp_et": "2026-10-18 19:14 ET",
+  "status": "Sunday evening negative-control after C608",
+  "ward_01204": {
+    "cl_last_updated": "Oct. 18, 2026, 12:35 a.m.",
+    "last_known_filing": "Oct. 15, 2026",
+    "terminal_visible": "ECF 447-449 cluster (Hofbaver NOA RECAP noted C608 00:35 ET); no ECF 450+",
+    "hearing": "2 Dec 2026 14:00 ET"
+  },
+  "08047": {
+    "cl_last_updated": "Oct. 15, 2026, 7:09 p.m.",
+    "last_known_filing": "Oct. 15, 2026",
+    "through_ecf": 18,
+    "notes": "ECF 16-18 Notices of Appearance (Weiner/Weinstein/Tabatabai Asl for Indyke); Martin/AWKO PHV still deficient; no ECF 19"
+  },
+  "settlement_site": {
+    "url": "https://www.sdnysettlementfund2026.com/",
+    "last_updated": "October 5, 2026",
+    "claims_deadline": "November 23, 2026 11:59 PM EST",
+    "hearing": "December 2, 2026 2:00 PM EST"
+  },
+  "inquiry": "uncharged (SDNY/FBI; no new confirmation or charges)",
+  "accounting": "no 28th quarterly accounting located",
+  "gaps_priority": ["ECF 449+ text full", "08047 ECF 14-18 text", "PHV resolution", "28th accounting", "inquiry scope"],
+  "new_nodes": "process-only negative control; settlement site stamp reconfirm; empty X-lane for new primary sources",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C610 Monday 19 Oct ET clerk-open ECF 450 / 08047 ECF 19 window"
+}
