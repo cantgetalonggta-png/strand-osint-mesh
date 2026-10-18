@@ -1,0 +1,20 @@
+{
+  "cycle": 601,
+  "date": "2026-10-18",
+  "time_et": "14:11",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C601-2026-10-18.pdf",
+  "new_nodes": [
+    "ECF 449 Notice of Interlocutory Appeal (15 Oct 2026) by Kamila Hofbaver (St. Albert AB Canada); RECAP live; pro se style mailing",
+    "CL 01204 last-updated 18 Oct 00:35 ET solely for ECF 449 RECAP ingest"
+  ],
+  "status": {
+    "ward_ecf": "447-449",
+    "hearing": "2 Dec 2026 14:00 ET",
+    "28th_accounting": false,
+    "inquiry": "uncharged",
+    "08047": "title-only prior ECFs, 0 RECAP"
+  },
+  "gaps_priority": "Hofbaver identity / clean 449 text; PHV; 28th accounting; inquiry",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github": "cantgetalonggta-png/strand-osint-mesh"
+}
