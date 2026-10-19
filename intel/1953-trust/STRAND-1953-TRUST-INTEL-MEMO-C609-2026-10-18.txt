@@ -1,0 +1,25 @@
+STRAND OSINT INTEL MEMO
+THE 1953 TRUST — Cycle 609
+Generated: 18 October 2026 ~21:15 ET (Sunday after-hours)
+Classification: Educational / Open-Source Compilation
+
+EXECUTIVE SUMMARY
+Cycle 609 negative-control sweep after C608. Ward v. Indyke (1:24-cv-01204-AS) remains at ECF 447-449. ECF 449 is Notice of Interlocutory Appeal by Kamila Hofbaver (Canada address, St. Albert AB; filed ~15 Oct, RECAP uploaded 18 Oct 00:35 ET). No ECF 450. Hearing remains 2 Dec 2026 14:00 ET. No 28th accounting. SDNY/FBI inquiry into Indyke/Kahn still uncharged. 1:26-cv-08047 (Doe v. Indyke, Woods III) shows notices of appearance by Daniel H. Weiner, Marc A. Weinstein, Faranak S. Tabatabai Asl for Indyke (ECF 16-18, 15 Oct); Jean Sutton Martin/AWKO PHV remains deficient; title-only / zero RECAP on later filings. Settlement site last updated 5 Oct. Process-only; no material corpus change.
+
+KEY NODES / STATUS
+Ward 1:24-cv-01204: ECF 447-449; Hofbaver NOA (ECF 449); hearing 2 Dec 2026 14:00 ET
+08047 Doe v. Indyke: ECF 1-18 title-only / 0 RECAP; Weiner/Weinstein/Tabatabai appearances 15 Oct; Martin PHV deficient
+1953 Trust corpus: Pour-over; no 28th accounting; last public ~$107.6M–$127M range from prior cycles
+Indyke / Kahn: Co-executors / co-trustees; $50M/$25M bequests uncollected per prior testimony; inquiry uncharged
+Settlement / Lelchuk: JND social-media notice parameters; site stamp 5 Oct; Hofbaver NOA may relate to class notice/opt-out
+
+GAPS (priority carry)
+G-priority: ECF 14/15/16+ text on 08047; PHV resolution for Martin; full Hofbaver NOA grounds and standing; 28th accounting; inquiry scope (uncharged); beneficiary-count collision (32/40/41/43); residue vs $75M bequest capacity.
+
+DISCARDED / COMPILATION
+Discarded: epsteinswatchlist 'never taken effect' recirculation; homonym collisions; secondary reprints. Hofbaver NOA retained as process node only.
+
+NEXT
+C610 Monday 19 Oct ET clerk-open window.
+
+— End Cycle 609 —
