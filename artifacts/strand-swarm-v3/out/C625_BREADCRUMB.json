@@ -1,0 +1,36 @@
+{
+  "cycle": 625,
+  "timestamp_utc": "2026-10-19T18:12:00Z",
+  "timestamp_local": "2026-10-19 11:12 PDT / 14:12 ET",
+  "type": "process-only negative-control",
+  "status": "no material change",
+  "primary_docket": {
+    "case": "1:24-cv-01204-AS",
+    "caption": "Ward / Doe 3 v. Indyke & Kahn",
+    "cl_last_updated": "2026-10-18 00:35 ET",
+    "last_known_filing": "2026-10-15",
+    "highest_confirmed_ecf": "448",
+    "no_ecf_449_plus": true,
+    "hearing": "2026-12-02 14:00 ET"
+  },
+  "satellite_docket": {
+    "case": "1:26-cv-08047",
+    "caption": "Doe / Amy v. Indyke & Kahn (Woods III)",
+    "cl_last_updated": "2026-10-15 19:09 ET",
+    "pm_last_updated": "2026-10-18 23:59 ET",
+    "notes": "ECF 16-18 NOAs by Weiner/Weinstein/Tabatabai Asl for Indyke (15 Oct); ECF 13 Jean Sutton Martin/AWKO PHV still deficient; ECF 14/15 title-only 0 RECAP"
+  },
+  "accounting": "no 28th; last public 27th to 30 Jun 2026",
+  "inquiry": "SDNY/FBI into Indyke/Kahn remains uncharged",
+  "settlement_site_stamp": "2026-10-05",
+  "gaps_priority": [
+    "08047 ECF 14/15 full text",
+    "Jean Sutton Martin PHV resolution",
+    "01204 ECF 449+",
+    "28th accounting",
+    "inquiry scope"
+  ],
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C626 later 19 Oct ET or 20 Oct"
+}
