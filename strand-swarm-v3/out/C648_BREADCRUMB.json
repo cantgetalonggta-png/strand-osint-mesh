@@ -1,20 +1,26 @@
 {
   "cycle": 648,
-  "date": "2026-10-20",
-  "time_et": "14:11",
-  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C648-2026-10-20.pdf",
-  "summary": "Negative-control. ECF 449 pro se Notice of Interlocutory Appeal by Kamila Hofbaver (St. Albert AB). No ECF 450. 08047 ECF 13-18 title-only. No 28th accounting. Inquiry uncharged. Hearing 2 Dec 2026.",
-  "new_nodes": [
-    "Kamila Hofbaver (Hof, Baver) \u2014 pro se ECF 449 interlocutory appeal from 16 Sep 2026 order",
-    "08047 ECF 16-18 Notices of Appearance (15 Oct, title-only)"
-  ],
-  "status": {
-    "ward_01204": "ECF 449 terminal; hearing 2 Dec 2026 14:00 ET",
-    "08047": "ECF 13-18 title-only; Martin PHV deficient",
-    "accounting": "no 28th",
-    "inquiry": "uncharged"
+  "timestamp": "2026-10-20T15:11:00-04:00",
+  "pdt": "2026-10-20T12:11:00-07:00",
+  "status": "process-confirmation-with-new-nodes",
+  "dockets": {
+    "01204": {
+      "cl_last_updated": "2026-10-18T00:35:00-04:00",
+      "last_known_filing": "2026-10-15",
+      "terminal_ecf": "449 Notice of Interlocutory Appeal (Kamila Hofbaver pro se)",
+      "hearing": "2026-12-02 14:00 ET"
+    },
+    "08047": {
+      "cl_last_updated": "2026-10-15T19:09:00-04:00",
+      "pm_last_updated": "2026-10-19T23:59:00-04:00",
+      "recent": ["ECF 14 Proposed Stipulation 14 Oct", "ECF 15 Joint Letter", "ECF 16-18 NOAs incl Weinstein and Tabatabai Asl for Indyke"],
+      "phv": "Jean Sutton Martin/AWKO deficient"
+    }
   },
-  "gaps_priority": ["ECF 449 text", "08047 ECF 14-18 RECAP", "28th accounting", "inquiry status"],
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "next": "C649 later 20 Oct ET"
+  "settlement_site": "last updated 2026-10-05; claims deadline 2026-11-23; hearing 2026-12-02",
+  "new_nodes": ["Kamila Hofbaver", "Faranak Sharon Tabatabai Asl", "Marc Alan Weinstein"],
+  "gaps": "G-01–G-2564+",
+  "inquiry": "uncharged",
+  "accounting": "no 28th",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF"
 }
