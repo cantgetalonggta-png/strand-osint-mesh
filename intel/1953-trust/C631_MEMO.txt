@@ -1,0 +1,34 @@
+STRAND EDUCATIONAL INTEL MEMO – CYCLE 631
+
+THE 1953 TRUST (Epstein pour-over USVI trust, 8 Aug 2019)
+Generated: 19 October 2026 ~17:14 PDT / 20:14 ET | Educational / OSINT only – not legal advice
+
+1. EXECUTIVE SUMMARY
+
+Cycle 631 is a Monday evening PDT / late ET negative-control sweep after Cycle 630. No final judgment in Ward v. Indyke (1:24-cv-01204-AS); last known filing remains 15 October 2026; hearing still set for 2 December 2026 at 14:00 ET. No 28th accounting. SDNY/FBI inquiry into Indyke/Kahn remains uncharged. New process nodes in companion case 1:26-cv-08047: three Notices of Appearance filed 15 October 2026 for defendant Darren K. Indyke. Jean Sutton Martin PHV remains deficient. Settlement site last updated 5 October 2026.
+
+2. KEY PROCESS STATUS (NEGATIVE CONTROL)
+
+Ward v. Indyke / Doe 3 v. Indyke (1:24-cv-01204-AS, SDNY, Judge Arun Subramanian): CourtListener last updated 18 October 2026 00:35 ET; date of last known filing 15 October 2026. No ECF 449 or subsequent docket entries observed. Final approval hearing remains 2 December 2026 14:00 ET (ECF 445/446 cluster). Settlement banner / site last stamp 5 October 2026.
+
+DOE et al v. Indyke et al (1:26-cv-08047, SDNY, Judge Gregory H. Woods III / Magistrate Valerie Figueredo): PACER Monitor docket last updated 18 October 2026 23:59 ET. ECF 13 (7 Oct) Motion to Appear Pro Hac Vice for Jean Sutton Martin (AWKO) remains deficient (missing Certificates of Good Standing from Supreme Courts of Colorado, Michigan, and North Carolina; wet signature required). No ECF 14 correcting it. ECF 14 (14 Oct 09:42) Proposed Stipulation and Order and ECF 15 (14 Oct 09:50) Joint Letter (Gianna Elliot) remain title-only / zero RECAP.
+
+3. NEW NODES / BREADCRUMBS (15 October 2026)
+
+• ECF 16 (1:26-cv-08047, 15 Oct 14:36 ET): NOTICE OF APPEARANCE by Daniel Haym Weiner on behalf of Darren K. Indyke. (Weiner is longtime Hughes Hubbard & Reed counsel for Indyke / estate co-executors; Princeton ’81.)
+• ECF 17 (1:26-cv-08047, 15 Oct 14:39 ET): NOTICE OF APPEARANCE by Marc Alan Weinstein on behalf of Darren K. Indyke.
+• ECF 18 (1:26-cv-08047, 15 Oct 18:13 ET): NOTICE OF APPEARANCE by Faranak Sharon Tabatabai Asl on behalf of Darren K. Indyke.
+These appearances expand the defense counsel footprint in the Woods III / Figueredo track. No corresponding new filings observed in the 01204 docket.
+
+4. ONGOING GAPS & PRIORITY TRACKING
+
+Gaps G-01 through prior series continue. Priority open items: ECF 14/15 full text and any order on the proposed stipulation in 08047; resolution of Jean Sutton Martin PHV deficiencies; any ECF 449+ in 01204; existence and filing of 28th USVI accounting; scope and status of the uncharged SDNY/FBI inquiry (Ruzumna prior statements: no subpoena / not told subject or target); beneficiary-count collisions and residual corpus after settlements; VIBIR / Deckoff adjacency (answer deadline previously noted 19 Oct – status unknown this cycle).
+
+No new public accounting, no criminal charging documents, no final judgment entered, and no material change to the Dec 2 hearing date observed this cycle.
+
+5. AGENT NOTES & METHODOLOGY
+
+Multi-agent negative-control sweep: CourtListener headers, PACER Monitor public docket mirror, web/X keyword searches for 1953 Trust / Indyke / Kahn / Lelchuk / Martin / Weiner, and prior-cycle crosswalk. Discarded irrelevant 08047-handle collisions and stale recirculations. All findings educational OSINT only. Full backup to Google Drive folder STRAND_1953_TRUST_INTEL and GitHub cantgetalonggta-png/strand-osint-mesh.
+
+END OF CYCLE 631 EDUCATIONAL INTEL MEMO – THE 1953 TRUST
+Next window: later 19 Oct or 20 Oct ET clerk hours for ECF 449 / 08047 ECF 14+ updates.
