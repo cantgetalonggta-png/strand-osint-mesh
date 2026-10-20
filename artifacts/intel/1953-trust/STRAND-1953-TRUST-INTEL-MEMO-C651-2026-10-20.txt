@@ -1,0 +1,22 @@
+STRAND 1953 TRUST INTEL MEMO - CYCLE 651 - 2026-10-20
+
+Negative-control afternoon PDT / ~17:12 ET sweep.
+
+Status hold:
+- Ward v. Indyke 1:24-cv-01204-AS: last confirmed ECF 447-448 cluster (transcript + notice); no ECF 449+ in CourtListener/Law360/search as of this cycle. Final hearing remains 2 Dec 2026 14:00 ET after supplemental notice.
+- No 28th accounting filed. Public figures: 24th ~$127.4M (30 Sep 2025); some mid-2026 reports cite ~$107.6M gross.
+- SDNY/FBI inquiry into Darren Indyke and Richard Kahn remains uncharged per WSJ/CNN/CNBC Sep 23-24 2026 reporting. Ruzumna previously stated no subpoena / not told subject or target.
+
+Key nodes reinforced:
+- The 1953 Trust (EFTA00099303 / restated 8 Aug 2019 pour-over from Jeffrey E. Epstein 2019 Trust). Beneficiaries ~41-43 (Shuliak $50M + $50M annuity, Indyke $50M, Kahn $25M, others; total bequests >$350M). Trust has never taken effect; estate residue insufficient for full distribution; lower priority bequests lapse.
+- Co-executors/trustees Indyke (longtime lawyer) and Kahn (accountant). $250k/yr undrawn fee clause noted in prior.
+- Class settlement $25-35M (40-claimant ratchet) pending final approval; social-media notice campaign ordered.
+- Related: 1:26-cv-08047 Woods III track; Butterfly Trust distinct; Southern Country International / Hyperion Air / other USVI entities.
+
+Discarded this cycle: pure recirculations, homonyms, stale listings.
+
+Gaps G-01–continuing series (priority open: ECF 449 window, 28th accounting, inquiry confirmation, PHV text on 08047).
+
+Backup: Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF; GitHub cantgetalonggta-png/strand-osint-mesh.
+
+Next cycle C652: continue ECF 449 / accounting / inquiry monitor.
