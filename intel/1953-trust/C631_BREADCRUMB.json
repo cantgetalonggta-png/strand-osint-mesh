@@ -1,25 +1,23 @@
 {
-  "cycle": 631,
+  "cycle": "C631",
   "date": "2026-10-19",
-  "time_et": "~19:15",
+  "time_et": "~21:13",
   "type": "process-only negative-control",
   "ward_01204": {
-    "cl_last_updated": "Oct. 18, 2026, 12:35 a.m.",
-    "last_known_filing": "Oct. 15, 2026",
-    "terminal_ecf": "447-448",
-    "no_ecf_449": true,
-    "hearing": "2 Dec 2026 14:00 ET"
+    "last_updated_cl": "2026-10-18 00:35 ET",
+    "last_known_filing": "2026-10-15",
+    "ecf_terminal": "447-448",
+    "no_449": true,
+    "hearing": "2026-12-02 14:00 ET"
   },
   "08047": {
-    "cl_last_updated": "Oct. 15, 2026, 7:09 p.m.",
-    "last_known_filing": "Oct. 15, 2026",
-    "new_entries": ["ECF 16-18 Notices of Appearance (title-only, 0 RECAP)"],
-    "phv_ecf13": "Jean Sutton Martin / AWKO deficient notice persists",
-    "ecf14_15": "title-only 0 RECAP"
+    "last_known": "2026-10-15",
+    "phv_martin_awko_deficient": true,
+    "no_ecf_14": true
   },
   "accounting": "no 28th",
   "inquiry": "uncharged",
-  "gaps_priority": ["ECF 14-18 text", "PHV resolution", "ECF 449", "28th accounting", "inquiry scope"],
+  "new_nodes": ["LeaksAndFindings 16 Oct 6-benefits breakdown (compilation)"],
   "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "next": "C632 Tue 20 Oct ET"
+  "next": "C632 20 Oct ET"
 }
