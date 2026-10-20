@@ -1,0 +1,28 @@
+{
+  "cycle": 648,
+  "date": "2026-10-20",
+  "time_et": "~13:14",
+  "time_pdt": "~10:14",
+  "type": "negative-control",
+  "memo_pdf": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C648-2026-10-20.pdf",
+  "status": {
+    "01204_cl_last_updated": "2026-10-18 00:35 ET",
+    "01204_last_known_filing": "2026-10-15",
+    "01204_terminal_ecf": "449 Notice of Interlocutory Appeal",
+    "01204_ecf_450": false,
+    "hearing": "2026-12-02 14:00 ET",
+    "08047_last_updated": "2026-10-15 19:09 ET",
+    "08047_last_known_filing": "2026-10-15",
+    "08047_recent": ["ECF 13 PHV deficient (Jean Sutton Martin/AWKO)", "ECF 14 Proposed Stipulation", "ECF 15 Letter", "ECF 16-18 Notices of Appearance"],
+    "08047_recap": 0,
+    "28th_accounting": false,
+    "inquiry_uncharged": true,
+    "settlement_site_last": "2026-10-05"
+  },
+  "new_nodes": ["process-only confirmation of ECF 449 terminal and 08047 title-only dwell"],
+  "gaps_priority": ["ECF 449 full text", "08047 ECF 13-18 RECAP", "PHV resolution", "ECF 450", "28th accounting", "inquiry status"],
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C649 later 20 Oct ET or 21 Oct clerk-open",
+  "drive_file_ids": {"pdf": "1gTf9nsLvXLi_ZC6chSX9tK0hHCu8Pdc7", "json": "10QrAZCatBoySbRZJ-s30EQRwUquoxKp1"}
+}
