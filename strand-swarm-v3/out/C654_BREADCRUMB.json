@@ -1,22 +1,25 @@
 {
   "cycle": 654,
   "date": "2026-10-21",
-  "time_pdt": "11:11",
-  "time_et": "14:11",
+  "timestamp_pdt": "14:12",
+  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C654-2026-10-21.pdf",
   "new_nodes": [
-    "NM AG Raúl Torrez v. Indyke et al. 1:26-cv-03543 (D.N.M.) filed 21 Oct 2026 naming Indyke, Kahn, Estate, THE 1953 TRUST under TVPA + NM RICO; seeks to block $50M/$25M bequests; estate >$107M",
-    "Zorro Ranch title path via Cypress Inc. / Zorro Development Corp. reinforced in complaint",
-    "Torrez confirms ongoing state criminal investigation"
+    "D.N.M. 1:26-cv-03543 State of New Mexico v. Indyke et al. (incl. THE 1953 TRUST)",
+    "NM AG Raúl Torrez complaint 21 Oct 2026 (TVPA + NM RICO)",
+    "Zorro Development Corp. (Indyke Secretary)",
+    "Cypress, Inc. (Kahn Treasurer/Director; Zorro title)",
+    "HBRK Associates $4.9M JPMC path confirmation"
   ],
-  "process_only": [
-    "Ward 1:24-cv-01204 CL last known filing 15 Oct / updated 18 Oct; no ECF 449+; hearing 2 Dec 2026 14:00 ET",
-    "08047 PHV Jean Sutton Martin still deficient / title-only; no ECF 14 text",
-    "No 28th accounting",
-    "SDNY inquiry still uncharged"
-  ],
-  "gaps": "G-01–G-prior + new priority on Torrez complaint full extraction, service, and any injunctive relief",
+  "process": {
+    "01204_last_known_filing": "2026-10-15",
+    "01204_cl_last_updated": "2026-10-18 00:35 ET",
+    "hearing": "2026-12-02 14:00 ET",
+    "08047_status": "PHV deficient / title-only",
+    "28th_accounting": "none",
+    "sdny_inquiry": "uncharged"
+  },
+  "gaps_new": ["G-NEW-1 full complaint crosswalk", "G-NEW-2 injunctive posture", "G-NEW-3 USVI probate intersection"],
   "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "drive_file_id": "1O0auNtdDCm5CuxSRwThCNwXXD9dBUFkm",
-  "github": "cantgetalonggta-png/strand-osint-mesh",
-  "next": "C655 monitor Torrez docket and Ward"
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "status": "completed"
 }
