@@ -1,25 +1,21 @@
 {
   "cycle": 654,
   "date": "2026-10-21",
-  "timestamp_pdt": "14:12",
-  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C654-2026-10-21.pdf",
+  "time_et": "~18:12",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C654-2026-10-21.pdf",
   "new_nodes": [
-    "D.N.M. 1:26-cv-03543 State of New Mexico v. Indyke et al. (incl. THE 1953 TRUST)",
-    "NM AG Raúl Torrez complaint 21 Oct 2026 (TVPA + NM RICO)",
-    "Zorro Development Corp. (Indyke Secretary)",
-    "Cypress, Inc. (Kahn Treasurer/Director; Zorro title)",
-    "HBRK Associates $4.9M JPMC path confirmation"
+    "1:26-cv-03543 (D.N.M.) State of New Mexico ex rel. Torrez v. Indyke, Kahn, Estate, 1953 Trust",
+    "NM AG civil TVPA + Racketeering action seeking to freeze/block $50M/$25M bequests",
+    "Zorro Ranch focus; Cypress Inc. / Zorro Development Corp. affiliations",
+    "Press field 21 Oct 2026 multi-outlet confirmation"
   ],
-  "process": {
-    "01204_last_known_filing": "2026-10-15",
-    "01204_cl_last_updated": "2026-10-18 00:35 ET",
-    "hearing": "2026-12-02 14:00 ET",
-    "08047_status": "PHV deficient / title-only",
-    "28th_accounting": "none",
-    "sdny_inquiry": "uncharged"
+  "status": {
+    "ward_01204": "ECF 447-448; hearing 2 Dec 2026 14:00 ET; no 449",
+    "08047": "prior PHV deficient; no material update",
+    "inquiry": "uncharged",
+    "accounting": "no 28th"
   },
-  "gaps_new": ["G-NEW-1 full complaint crosswalk", "G-NEW-2 injunctive posture", "G-NEW-3 USVI probate intersection"],
   "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
-  "status": "completed"
+  "github": "cantgetalonggta-png/strand-osint-mesh",
+  "drive_memo_id": "12_QGD9nUGs5ZCymXMwquhCKN-C-O1msA"
 }
