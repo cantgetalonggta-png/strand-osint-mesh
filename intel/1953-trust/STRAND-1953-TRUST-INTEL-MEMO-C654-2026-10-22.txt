@@ -1,0 +1,43 @@
+STRAND-1953-TRUST INTEL MEMO — CYCLE 654
+Educational Open-Source Intelligence Compilation
+Generated: 2026-10-22 17:13 PDT / ET
+
+STATUS SNAPSHOT (as of 22 Oct 2026 ~10:12 AM PDT / 13:12 ET)
+
+• Ward v. Indyke et al., 1:24-cv-01204-AS (S.D.N.Y.): Last known filing ECF 449 (Notice of Interlocutory Appeal by Kamila Hofbaver, pro se, St. Albert AB, Canada; filed ~14-15 Oct 2026). CourtListener last updated 18 Oct 2026 12:35 a.m. No ECF 450+ observed. Final hearing remains 2 Dec 2026 14:00 ET. No 28th accounting. SDNY inquiry into Indyke/Kahn remains uncharged per prior reporting.
+
+• Doe et al. v. Indyke et al., 1:26-cv-08047 (S.D.N.Y., Woods III / Figueredo): ECF 19 (20 Oct 2026) Memo Endorsement denying application without prejudice (pseudonym/stipulation matter referred to magistrate). PHV issues for Jean Sutton Martin/AWKO remain prior-cycle status. Zero RECAP on later ECFs in prior cycles.
+
+• NEW NODE: Raul Torrez (NM AG) v. Indyke et al., 1:26-cv-03543 (D.N.M.): Complaint filed 21 Oct 2026 (ECF 1, 49 pp.) naming Darren K. Indyke (individual + as Executor/Administrator of 1953 Trust), Richard D. Kahn (same), Estate of Jeffrey E. Epstein, and THE 1953 TRUST. Claims under Trafficking Victims Protection Act (18 U.S.C. § 1595) and New Mexico Racketeering Act. Seeks injunction blocking distributions/payouts to Indyke/Kahn, disgorgement, damages, declaration of racketeering. Estate valued >$107M (as of 30 Jun 2026 accounting). Indyke $50M / Kahn $25M bequest eligibility asserted. Motion to Seal (ECF 2). Filing fee received 22 Oct. Survivors Julia Molchanova and Anouska De Georgiou at presser. Counsel: Aletheia Allen. Weiner (for Indyke/Kahn) denies knowing facilitation; asserts crimes 'behind closed doors' without their presence. This is the first state AG enforcement action targeting the co-executors/trustees of the 1953 Trust.
+
+• No new public 28th (or subsequent) USVI probate accounting identified. 27th accounting (to 30 Jun 2026) remains the last quantified public figure (~$107.645M gross).
+
+• Inquiry status: Remains uncharged as of last confirmed reports. NM action is civil only.
+
+KEY NEW NODES & AFFILIATIONS (C654)
+
+1. 1:26-cv-03543 (D.N.M.) — State of New Mexico ex rel. Raúl Torrez v. Indyke, Kahn, Estate, 1953 Trust. Direct naming of the trust corpus vehicle as defendant. Parens patriae / survivor-priority framing. Zorro Ranch (Stanley, NM) nexus emphasized. Prior NMDOJ investigation history referenced (2019 pause at SDNY request; 2026 reopening).
+
+2. Aletheia V.P. Allen — Solicitor General / counsel for NM AG on the complaint.
+
+3. Julia Molchanova & Anouska De Georgiou — Survivors present at 21 Oct press conference; co-signed letter.
+
+4. Kamila Hofbaver (pro se interlocutory appellant in 01204) — Canadian address St. Albert AB; shipping label details in ECF 449.
+
+5. Carry: Simone Lelchuk (Fund Admin / mediator / QSF roles), Jean Sutton Martin (AWKO PHV), Weiner/Ruzumna dual counsel tracks, Valar / other entity adjacencies from prior cycles.
+
+GAPS (continuing series; new priorities)
+
+G-priority: Full text of NM complaint (available on CL) vs. redacted/sealed portions; service status; any TRO/preliminary injunction motion. ECF 450+ in 01204. Resolution of 08047 ECF 19 / PHV. 28th accounting. Scope/status of any federal inquiry. Opt-out/claims status post-notice campaign. Intersection of NM action with Ward settlement finality and USVI probate.
+
+Gaps continue G-01 through prior series (now ~G-2561+); process-only dwells remain on CL entry tables where noted.
+
+METHODOLOGY NOTES
+
+Multi-source: CourtListener/PACER mirrors, contemporaneous reporting (Reuters, CNBC, CBS, ABC, Politico, Courthouse News, etc.), prior cycle breadcrumbs. Negative controls: no ECF 450 observed; no new accounting. Compilation-grade only; no non-public data. All findings educational.
+
+NEXT
+
+C655: Monitor 01204 for post-449 activity; 08047 magistrate track; NM docket for responsive pleadings / sealing order; any 28th accounting or inquiry update. Drive folder id 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF. GitHub: cantgetalonggta-png/strand-osint-mesh.
+
+End of educational intel memo. All public sources only. Not legal advice or accusation of crime.
