@@ -1,1 +1,23 @@
-{"cycle":654,"date":"2026-10-21","new_primary_node":"1:26-cv-03543 (D.N.M.) State of New Mexico ex rel. Raúl Torrez v. Darren K. Indyke, Richard D. Kahn, Estate of Jeffrey E. Epstein, and THE 1953 TRUST","filed":"2026-10-21","complaint_pages":49,"estate_value_note":"> $107M as of 30 Jun 2026 accounting","bequests":{"Indyke":"$50M","Kahn":"$25M"},"status_carry":{"ward_hearing":"2 Dec 2026 14:00 ET","ward_last_ecf":"447-449","no_28th_accounting":true,"inquiry_uncharged":true},"next":"C655 monitor D.N.M. docket assignment/service/PI and Ward/USVI"}
+{
+  "cycle": 654,
+  "date": "2026-10-21",
+  "title": "NM AG Raúl Torrez civil suit names THE 1953 TRUST",
+  "case": "1:26-cv-03543 (D.N.M.)",
+  "filed": "2026-10-21",
+  "defendants": ["Darren K. Indyke (indiv. + executor/admin)", "Richard D. Kahn (indiv. + executor/admin)", "Estate of Jeffrey E. Epstein", "THE 1953 TRUST (asset holder for relief)"],
+  "claims": ["TVPA 18 U.S.C. §§1591/1595", "NM Racketeering Act (kidnapping, solicitation, conspiracy)", "unjust enrichment"],
+  "estate_value": "> $107M (27th accounting to 30 Jun 2026)",
+  "bequests": {"Indyke": "$50M", "Kahn": "$25M"},
+  "payments_alleged": {"Indyke": "> $16M (2011-2019) + $7M unrepaid loan", "Kahn": "> $10M + $4.9M HBRK"},
+  "response": "Daniel Weiner rejects; no prior interview; no direct abuse accusations",
+  "survivors_at_presser": ["Julia Molchanova", "Anouska De Georgiou"],
+  "counsel_plaintiff": "Aletheia Allen (Solicitor General)",
+  "status_continuity": {
+    "Ward_01204": "ECF 447-448; hearing 2 Dec 2026 14:00 ET",
+    "28th_accounting": "none",
+    "SDNY_inquiry": "uncharged"
+  },
+  "drive_file_id": "1O4pcBrsbM5QcmEbTtpV3MZNDLPgBi6e2",
+  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C654-2026-10-21.pdf",
+  "gaps_priority": "full docket response in 03543; effect on probate; Ward intersection; 28th accounting; inquiry status"
+}
