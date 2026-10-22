@@ -1,20 +1,23 @@
 {
   "cycle": 654,
   "date": "2026-10-22",
-  "timestamp_pdt": "10:12",
-  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C654-2026-10-22.pdf",
+  "timestamp_et": "2026-10-22T19:14:00-04:00",
+  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C654-2026-10-22.pdf",
+  "status": "completed",
   "new_nodes": [
-    "1:26-cv-03543 D.N.M. Raul Torrez v. Indyke/Kahn/Estate/1953 Trust (filed 21 Oct 2026)",
-    "Aletheia Allen (NM AG counsel)",
-    "Julia Molchanova / Anouska De Georgiou (press conference survivors)",
-    "Kamila Hofbaver interlocutory appeal ECF 449 (carry lock)"
+    "1:26-cv-03543 (D.N.M.) State of New Mexico ex rel. Raúl Torrez v. Indyke, Kahn, Estate of Jeffrey E. Epstein, THE 1953 TRUST (filed 21 Oct 2026)",
+    "Raúl Torrez (NM AG)",
+    "Zorro Ranch title path: Cypress, Inc. / Zorro Development Corp. (Indyke Secretary/signatory; Kahn Treasurer/Director)",
+    "Compensation claims: Indyke >$16M + $7M loan; Kahn >$10M + $4.9M HBRK/JPMC",
+    "Estate value >$107M (accounting to 30 Jun 2026)"
   ],
-  "status": {
-    "ward_01204": "ECF 449 terminal known; hearing 2 Dec 2026; no 28th accounting; inquiry uncharged",
-    "08047": "ECF 19 memo endorsement 20 Oct; PHV prior status",
-    "nm_03543": "Complaint + motion to seal; fee received 22 Oct"
+  "process_carry": {
+    "ward_01204": "ECF 447-448 terminal; hearing 2 Dec 2026 14:00 ET; no 28th accounting",
+    "08047": "Jean Sutton Martin PHV deficient; title-only later entries",
+    "sdny_inquiry": "uncharged"
   },
-  "gaps": "G-01 through prior series (~G-2561+); priority NM complaint full analysis, 01204 post-449, 28th accounting, inquiry scope",
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "next": "C655 monitor NM docket, 01204, 08047, accounting"
+  "gaps": "G-01–G-2556+ (priority: NM complaint seal resolution, service/answer, impact on distributions, 28th accounting, ECF 449+)",
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next_window": "C655 later 22 Oct / 23 Oct ET — monitor 03543 docket + 01204 ECF 449"
 }
