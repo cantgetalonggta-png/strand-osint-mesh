@@ -1,23 +1,34 @@
 {
   "cycle": 654,
-  "date": "2026-10-21",
-  "title": "NM AG Raúl Torrez civil suit names THE 1953 TRUST",
-  "case": "1:26-cv-03543 (D.N.M.)",
-  "filed": "2026-10-21",
-  "defendants": ["Darren K. Indyke (indiv. + executor/admin)", "Richard D. Kahn (indiv. + executor/admin)", "Estate of Jeffrey E. Epstein", "THE 1953 TRUST (asset holder for relief)"],
-  "claims": ["TVPA 18 U.S.C. §§1591/1595", "NM Racketeering Act (kidnapping, solicitation, conspiracy)", "unjust enrichment"],
-  "estate_value": "> $107M (27th accounting to 30 Jun 2026)",
-  "bequests": {"Indyke": "$50M", "Kahn": "$25M"},
-  "payments_alleged": {"Indyke": "> $16M (2011-2019) + $7M unrepaid loan", "Kahn": "> $10M + $4.9M HBRK"},
-  "response": "Daniel Weiner rejects; no prior interview; no direct abuse accusations",
-  "survivors_at_presser": ["Julia Molchanova", "Anouska De Georgiou"],
-  "counsel_plaintiff": "Aletheia Allen (Solicitor General)",
-  "status_continuity": {
-    "Ward_01204": "ECF 447-448; hearing 2 Dec 2026 14:00 ET",
-    "28th_accounting": "none",
-    "SDNY_inquiry": "uncharged"
+  "date": "2026-10-22",
+  "timestamp_pdt": "2026-10-22T14:14:00-07:00",
+  "timestamp_et": "2026-10-22T17:14:00-04:00",
+  "type": "negative-control + new-node sweep",
+  "primary_new_node": {
+    "case": "1:26-cv-03543",
+    "court": "D.N.M.",
+    "caption": "State of New Mexico ex rel. Raúl Torrez v. Darren K. Indyke et al.",
+    "filed": "2026-10-21",
+    "defendants": ["Darren K. Indyke", "Richard D. Kahn", "Estate of Jeffrey E. Epstein", "THE 1953 TRUST"],
+    "claims": ["TVPA", "New Mexico Racketeering Act"],
+    "relief": "enjoin distributions to Indyke/Kahn ($50M/$25M), damages for survivors",
+    "estate_value_ref": "> $107M (27th accounting to 30 Jun 2026)",
+    "recap_complaint": true,
+    "seal_motion": "ECF 2 filed 2026-10-21",
+    "last_known_filing": "2026-10-22"
   },
-  "drive_file_id": "1O4pcBrsbM5QcmEbTtpV3MZNDLPgBi6e2",
-  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C654-2026-10-21.pdf",
-  "gaps_priority": "full docket response in 03543; effect on probate; Ward intersection; 28th accounting; inquiry status"
+  "locks": {
+    "ward_01204_last_ecf": 449,
+    "ward_last_known_filing": "2026-10-15",
+    "ward_hearing": "2026-12-02 14:00 ET",
+    "08047_last_known": "2026-10-20 ECF 19",
+    "28th_accounting": "none",
+    "inquiry_status": "uncharged"
+  },
+  "gaps_priority": ["NM case service/response", "seal motion outcome", "intersection with Ward/08047", "28th accounting", "inquiry update"],
+  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C654-2026-10-22.pdf",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "drive_file_pdf": "1JtOnSa1kYq2smJNGA_2m04IiEOW62kEs",
+  "drive_file_json": "1fnfqvepsEQEhUkFa_uK58YtVHrp-H0ub",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh"
 }
