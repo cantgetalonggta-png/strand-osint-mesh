@@ -1,27 +1,21 @@
 {
   "cycle": 704,
   "date": "2026-10-23",
-  "time_et": "~12:18",
-  "time_pdt": "09:18",
-  "type": "negative-control / incremental",
-  "after": "C703",
-  "memo_pdf": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C704-2026-10-23.pdf",
-  "status_locks": {
-    "ward_01204": "Last known filing 15 Oct 2026; CL updated 18 Oct; hearing 2 Dec 2026 14:00 ET; no confirmed ECF 449+",
-    "08047": "ECF 19 (20 Oct) memo endorsement denying anonymity app w/o prejudice; Mag Figueredo referral; PHV deficient",
-    "nm_03543": "Filed 21 Oct; names THE 1953 TRUST; complaint on RECAP; seeks block on Indyke/Kahn bequests",
-    "2d_cir_26-2945": "Interlocutory appeal by Kamila Krchova Hofbauer opened 16 Oct",
-    "28th_accounting": "None public",
-    "inquiry": "Uncharged"
-  },
+  "time_et": "~13:13",
+  "status": "process-only + NM case lock",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C704-2026-10-23.pdf",
   "new_nodes": [
-    "Raúl Torrez / Aletheia Allen / 1:26-cv-03543 (D.N.M.) naming THE 1953 TRUST",
-    "Julia Molchanova / Anouska De Georgiou associated with NM announcement",
-    "Kamila Krchova Hofbauer appellant 26-2945",
-    "08047 ECF 19 Woods III memo endorsement 20 Oct"
+    "1:26-cv-03543 D.N.M. Torrez v. Indyke/Kahn/Estate/THE 1953 TRUST (filed 21 Oct 2026; Complaint 49pp + Motion to Seal; last filing 22 Oct)",
+    "Aletheia Allen (NMDOJ counsel)",
+    "Complaint claims lock: block $50M/$25M bequests; >$107M estate; 2011 Zorro title; $16M/$10M personal receipts 2011-2019",
+    "08047 ECF 19 (20 Oct) Memo Endorsement re: true-name application denied w/o prejudice; referred to Figueredo"
   ],
-  "gaps_priority": ["G-NM-01 complaint/seal", "G-NM-02 service", "G-NM-03 corpus intersection", "G-01204-449", "G-08047-PHV", "G-28th", "G-inquiry"],
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "github": "cantgetalonggta-png/strand-osint-mesh",
+  "status_locks": {
+    "ward_01204": "ECF 447-448; hearing 2 Dec 2026 14:00 ET; no ECF 449",
+    "accounting": "no 28th; 27th $107.645M to 30 Jun 2026",
+    "inquiry": "uncharged",
+    "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF"
+  },
+  "gaps": ["G-NM-01", "G-NM-02", "G-NM-03", "G-01204-449", "G-28th", "G-inquiry", "G-PHV"],
   "next": "C705 later 23 Oct ET"
 }
