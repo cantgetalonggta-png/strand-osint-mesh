@@ -1,0 +1,24 @@
+{
+  "cycle": 699,
+  "date": "2026-10-22",
+  "time_pdt": "18:14",
+  "time_et": "21:14",
+  "primary_node": "1:26-cv-03543 State of New Mexico ex rel. Raúl Torrez v. Indyke, Kahn, Estate, THE 1953 TRUST (D.N.M.) — complaint-derived entity map locked; no ECF 3+",
+  "status": {
+    "nm_case": "open; ECF 1 complaint + ECF 2 seal motion; fee received 22 Oct; Mag. Fouratt; CL 22 Oct 09:02 a.m. hold; seeks distribution freeze on >$107M estate / $50M+$25M bequests",
+    "ward_hearing": "2 Dec 2026 14:00 ET still set; ECF 447-448 terminal; no ECF 449; Second Circuit 26-2945 open",
+    "28th_accounting": "none",
+    "sdny_inquiry": "still uncharged / unconfirmed by DOJ",
+    "08047": "Martin PHV deficient; ECF 19 memo endorsement 20 Oct (denied w/o prejudice); last-updated 20 Oct"
+  },
+  "new_nodes": [
+    "Complaint entity map: Zorro Trust/Cypress Inc. 2011 deed; Zorro Development Corp.; HBRK Associates; Indyke PLLC; C.O.U.Q. Foundation",
+    "Financial allegation locks: Indyke >$16M + $7M loan + real estate/IVF; Kahn >$10M + $4.9M HBRK; structured cash < $10k",
+    "Negative-control: no ECF 3+ on 03543; no ECF 449 on 01204; no 28th accounting"
+  ],
+  "gaps": "G-NM-01 seal disposition; G-NM-02 service; G-NM-03 injunction/probate effect; G-NM-04 Ward/08047 intersection; prior series continue",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C699-2026-10-22.pdf",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C700 — monitor 03543 ECF 3+, 01204 ECF 449, 08047 PHV text, 26-2945, 28th accounting"
+}
