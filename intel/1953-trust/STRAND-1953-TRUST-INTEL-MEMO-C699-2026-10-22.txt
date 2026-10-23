@@ -1,0 +1,35 @@
+STRAND 1953 TRUST INTEL MEMO — CYCLE 699
+Generated: 2026-10-22 18:14 PDT / 21:14 ET | Educational OSINT only | Not legal advice
+
+EXECUTIVE SUMMARY
+Primary development remains the 21 October 2026 filing of State of New Mexico ex rel. Raúl Torrez, Attorney General v. Darren K. Indyke et al., 1:26-cv-03543 (D.N.M.). Defendants: Indyke and Kahn (individual + executor/administrator capacities), Estate of Jeffrey E. Epstein, and THE 1953 TRUST. Complaint (ECF 1, 49 pp) + Motion to Seal (ECF 2). Filing fee received 22 Oct. Magistrate Judge Gregory J. Fouratt assigned. CourtListener last-updated 22 Oct 09:02 a.m.; no ECF 3+ as of this cycle. Seeks freeze on distributions pending resolution, including contingent $50M (Indyke) / $25M (Kahn) bequests from estate valued >$107M as of 30 June 2026 accounting. Five counts: TVPA (parens patriae), NM Racketeering Act (kidnapping predicate, criminal solicitation, conspiracy), and unjust enrichment/restitution. Counsel Daniel Weiner rejects allegations; claims no knowledge, no presence at abuse, AG did not interview clients pre-filing. SDNY inquiry remains uncharged/unconfirmed. Ward 1:24-cv-01204 still ECF 447-448 terminal (transcripts); no ECF 449; final hearing 2 Dec 2026 14:00 ET; Second Circuit 26-2945 (Hofbauer interlocutory) open. 08047 last known ECF 19 (20 Oct memo endorsement denying application w/o prejudice); Jean Sutton Martin/AWKO PHV still deficient. No 28th accounting. No material change from C698; this cycle locks complaint-derived entity map and confirms negative-control on new ECFs.
+
+NEW / CONFIRMED NODES
+- 1:26-cv-03543 (D.N.M.): THE 1953 TRUST named as defendant solely as asset-holding vehicle (not for independent racketeering).
+- Entities referenced in complaint: Zorro Ranch / Zorro Trust → Cypress, Inc. (2011 special warranty deed via Indyke); Zorro Development Corp. (Indyke secretary/signatory 2016–2019); Zorro Management LLC; HBRK Associates (Kahn/Beller; Epstein sole client; $4.9M JPMC payments); Darren K. Indyke PLLC; C.O.U.Q. Foundation (alleged $30k+ payments to girls/women 2012).
+- Financial allegations: Indyke >$16M (2011–2019) + $7M unrepaid loan + home purchases (NJ, Boca) + IVF; Kahn >$10M + HBRK fees. Cash withdrawals structured under $10k threshold; DB exit Dec 2018 after cash-alert queries.
+- Survivors: seven Jane Does alleged (abuse from 1996; five minors); flight records 1997–2018 to ranch.
+- Prior intersections: USVI CICO suit; Ward class ($25–35M settlement-in-principle); Sept 2026 WSJ SDNY inquiry report (uncharged); NM reopened Zorro probe Feb 2026 after EFTA releases.
+- Process: Mag. Fouratt (and Robbenhaar referred); CL header 22 Oct 09:02 a.m. hold; fee received entry.
+
+STATUS LOCKS (NEGATIVE-CONTROL)
+Item | Status as of C699
+1:26-cv-03543 | ECF 1–2 only; no ECF 3+; seal motion pending
+Ward 1:24-cv-01204 | ECF 447–448 terminal; hearing 2 Dec 2026 14:00 ET; no ECF 449
+2d Cir. 26-2945 | Hofbauer interlocutory open (from 15 Oct notice)
+1:26-cv-08047 | ECF 19 (20 Oct) terminal; Martin PHV deficient; 0 RECAP on key
+28th accounting | None located
+SDNY inquiry | Still uncharged / no DOJ confirmation
+Settlement site | Last known ~5 Oct stamp
+
+GAPS (priority)
+- G-NM-01: Disposition of ECF 2 motion to seal complaint (public RECAP already available).
+- G-NM-02: Service of process / answers / responsive pleadings.
+- G-NM-03: Any TRO/PI request or effect on 1953 Trust distributions / USVI probate.
+- G-NM-04: Intersection with Ward settlement final approval and 08047 CSAM class.
+- Carry: 28th accounting; full text of 08047 ECF 13–19; resolution of Martin PHV; ECF 449+ on 01204; scope of uncharged SDNY inquiry; VIBIR/Deckoff matters.
+
+SOURCES & METHODOLOGY
+CourtListener / RECAP (1:26-cv-03543 ECF 1 PDF; docket headers); NMDOJ complaint mirror; contemporaneous reporting (Reuters, CNN, Forbes, CNBC, Guardian, Daily Beast, Mediaite, TimesLive, Gazeta Express, podcasts); prior STRAND cycles C001–C698; negative-control sweeps on 01204, 08047, USVI probate, settlement site. All allegations unproven; defendants deny knowledge/complicity. Educational compilation only.
+
+Next window: C700 — monitor 03543 for ECF 3+, 01204 for any ECF 449, 08047 for PHV resolution or ECF text, Second Circuit 26-2945 docket, and any 28th accounting or inquiry developments.
