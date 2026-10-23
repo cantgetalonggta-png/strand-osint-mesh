@@ -1,27 +1,37 @@
 {
-  "cycle": 716,
-  "timestamp_pdt": "2026-10-23T14:16:00-07:00",
-  "timestamp_et": "2026-10-23T17:16:00-04:00",
-  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C716-2026-10-23.pdf",
-  "status": "completed",
-  "type": "negative-control + NM reinforcement",
-  "new_nodes": [
-    "DNM 1:26-cv-03543 State of New Mexico ex rel. Torrez v. Indyke, Kahn, Estate, THE 1953 TRUST (filed 21 Oct 2026)",
-    "ECF 1 Complaint (49 pp) + ECF 2 Motion to Seal",
-    "TVPA parens patriae + NM Racketeering Act claims targeting $50M/$25M bequests and corpus",
-    "Estate >$107M lock (30 Jun 2026 accounting)",
-    "NM AG ongoing criminal investigation affirmation",
-    "2d Cir 26-2945 interlocutory (Hofbauer appellant)"
-  ],
-  "process": {
-    "01204_last_known": "ECF 447/448 cluster; no ECF 449",
-    "hearing": "2 Dec 2026 14:00 ET",
-    "08047": "ECF 13 PHV deficient hold; ECF 14/15 title-only",
-    "28th_accounting": false,
-    "inquiry": "uncharged"
+  "cycle": "C716",
+  "timestamp_utc": "2026-10-23T22:16:00Z",
+  "timestamp_et": "2026-10-23 18:14 ET",
+  "timestamp_pdt": "2026-10-23 15:14 PDT",
+  "target": "THE 1953 TRUST",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C716-2026-10-23.pdf",
+  "status": {
+    "ward_01204": "ECF 447-448 cluster; last known filing 15 Oct 2026; hearing 2 Dec 2026 14:00 ET; no ECF 449; no final judgment",
+    "appeal_2dcir": "26-2945 Kamila Krchova Hofbauer interlocutory from 17 Sep order",
+    "dnm_03543": "Filed 21 Oct 2026; THE 1953 TRUST named defendant; ECF 1 complaint + ECF 2 motion to seal; last 22 Oct fee",
+    "08047": "Last known 20 Oct ECF 19 Memo Endorsement; ECF 14/15 14 Oct; PHV track ongoing",
+    "accounting": "No 28th; >$107M at 30 Jun 2026 per NM complaint",
+    "inquiry": "SDNY/FBI uncharged/unconfirmed"
   },
-  "gaps": "G-01 continuing; priority G-NM-03543 text/service/injunction, G-01204-449, G-28th-accounting, G-inquiry, G-08047-PHV",
-  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "new_nodes": [
+    "DNM 1:26-cv-03543 Torrez v. Indyke et al. (Estate + 1953 Trust defendants)",
+    "2d Cir. 26-2945 interlocutory appeal by Kamila Krchova Hofbauer",
+    "Complaint details: TVPA + NM RICO; $50M/$25M bequests; >$16M/>$10M receipts; Zorro entities"
+  ],
+  "gaps_priority": [
+    "G-NM-docket-text",
+    "G-2dCir-26-2945",
+    "G-01204-449",
+    "G-28th-accounting",
+    "G-inquiry-uncharged",
+    "G-08047-PHV",
+    "G-Trust-instrument"
+  ],
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "drive_file_ids": {
+    "memo": "1eh66-TZgwMvv7ZjE1TImGXA9_4C23ssx",
+    "breadcrumb": "1xmIiyxjzw6hVVDARKp_bruApJsdM1EiX"
+  },
   "github_repo": "cantgetalonggta-png/strand-osint-mesh",
-  "next": "C717 DNM docket + 01204 ECF 449 window"
+  "next": "C717 docket watch DNM answer / 01204 ECF 449 / 08047 / 2d Cir."
 }
