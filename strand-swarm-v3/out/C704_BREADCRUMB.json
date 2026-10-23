@@ -1,0 +1,47 @@
+{
+  "cycle": 704,
+  "date": "2026-10-23",
+  "timestamp_pdt": "2026-10-23T11:13:00-07:00",
+  "timestamp_et": "2026-10-23T14:13:00-04:00",
+  "status": "process-only negative-control",
+  "ward_01204": {
+    "last_known_filing": "2026-10-15",
+    "cl_last_updated": "2026-10-18",
+    "ecf_range": "447-448",
+    "no_ecf_449": true,
+    "hearing": "2026-12-02 14:00 ET"
+  },
+  "08047": {
+    "last_filing": "2026-10-20 ECF 19 Memo Endorsement",
+    "phv_status": "ECF 13 Jean Sutton Martin/AWKO deficient",
+    "judge": "Woods III / Figueredo"
+  },
+  "nm_03543": {
+    "filed": "2026-10-21",
+    "caption": "State of New Mexico ex rel. Ra\u00fal Torrez v. Indyke et al.",
+    "defendants": ["Darren K. Indyke", "Richard D. Kahn", "Estate of Jeffrey E. Epstein", "THE 1953 TRUST"],
+    "estate_value_ref": "> $107M as of 30 Jun 2026 (27th accounting)",
+    "relief": "block $50M/$25M bequests; TVPA + NM Racketeering; ongoing criminal probe"
+  },
+  "accounting": "no 28th observed; 27th to 30 Jun 2026 >$107M",
+  "inquiry": "SDNY/FBI still uncharged",
+  "new_nodes": [
+    "1:26-cv-03543 (D.N.M.) naming THE 1953 TRUST",
+    "Ra\u00fal Torrez / Aletheia Allen / NMDOJ",
+    "Julia Molchanova / Anouska De Georgiou (survivors at announcement)",
+    "08047 ECF 19 (20 Oct)",
+    "Weiner / Weinstein / Tabatabai Asl appearances in 08047"
+  ],
+  "gaps_priority": [
+    "G-01204-449",
+    "G-28th",
+    "G-inquiry",
+    "G-NM-01 service/answer",
+    "G-NM-02 Zorro title",
+    "G-NM-03 intersection with probate/Ward",
+    "G-08047-PHV text"
+  ],
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C705 later 23 Oct ET / Monday clerk-open"
+}
