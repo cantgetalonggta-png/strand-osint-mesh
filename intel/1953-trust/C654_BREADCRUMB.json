@@ -1,34 +1,33 @@
 {
   "cycle": 654,
   "date": "2026-10-22",
-  "timestamp_pdt": "2026-10-22T14:14:00-07:00",
-  "timestamp_et": "2026-10-22T17:14:00-04:00",
-  "type": "negative-control + new-node sweep",
+  "time_et": "20:18",
+  "type": "negative-control + NM action lock",
   "primary_new_node": {
     "case": "1:26-cv-03543",
     "court": "D.N.M.",
-    "caption": "State of New Mexico ex rel. Raúl Torrez v. Darren K. Indyke et al.",
+    "caption": "State of New Mexico ex rel. Raúl Torrez v. Darren K. Indyke, Richard D. Kahn, Estate of Jeffrey E. Epstein, and THE 1953 TRUST",
     "filed": "2026-10-21",
-    "defendants": ["Darren K. Indyke", "Richard D. Kahn", "Estate of Jeffrey E. Epstein", "THE 1953 TRUST"],
-    "claims": ["TVPA", "New Mexico Racketeering Act"],
-    "relief": "enjoin distributions to Indyke/Kahn ($50M/$25M), damages for survivors",
-    "estate_value_ref": "> $107M (27th accounting to 30 Jun 2026)",
-    "recap_complaint": true,
-    "seal_motion": "ECF 2 filed 2026-10-21",
-    "last_known_filing": "2026-10-22"
+    "judge": "Magistrate Judge Gregory J. Fouratt (referral John F. Robbenhaar)",
+    "claims": ["TVPA §§1591/1595(d)", "NM Racketeering Act (kidnapping, solicitation, conspiracy)", "restitution/unjust enrichment"],
+    "relief": "enjoin $50M/$25M bequests and distributions to Indyke/Kahn; damages, disgorgement, treble damages for survivors; divestiture",
+    "estate_value_ref": ">$107M (27th accounting to 30 Jun 2026)",
+    "recap": true,
+    "seal_motion_ecf2": true,
+    "last_known": "2026-10-22 filing fee"
+  },
+  "ward_node": {
+    "ecf449": "15 Oct 2026 Notice of Interlocutory Appeal by Kamila Hofbaver / Krchova Hofbauer (pro se, St. Albert AB)",
+    "second_circuit": "26-2945 opened 16 Oct 2026",
+    "hearing": "2 Dec 2026 14:00 ET",
+    "no_ecf450": true
   },
   "locks": {
-    "ward_01204_last_ecf": 449,
-    "ward_last_known_filing": "2026-10-15",
-    "ward_hearing": "2026-12-02 14:00 ET",
-    "08047_last_known": "2026-10-20 ECF 19",
-    "28th_accounting": "none",
-    "inquiry_status": "uncharged"
+    "no_28th_accounting": true,
+    "inquiry_uncharged": true,
+    "08047": "prior ECF 13-15 title-only / 0 RECAP"
   },
-  "gaps_priority": ["NM case service/response", "seal motion outcome", "intersection with Ward/08047", "28th accounting", "inquiry update"],
-  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C654-2026-10-22.pdf",
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "drive_file_pdf": "1JtOnSa1kYq2smJNGA_2m04IiEOW62kEs",
-  "drive_file_json": "1fnfqvepsEQEhUkFa_uK58YtVHrp-H0ub",
-  "github_repo": "cantgetalonggta-png/strand-osint-mesh"
+  "memo_pdf": "STRAND-1953-TRUST-INTEL-MEMO-C654-2026-10-22.pdf",
+  "drive_file_id": "1OEeQHW1xndnXFaT9a4zpc0gcJHiv7mnM",
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF"
 }
