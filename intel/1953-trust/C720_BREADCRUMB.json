@@ -1,0 +1,20 @@
+{
+  "cycle": 720,
+  "completed": "2026-10-23T20:17:00-04:00",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C720-2026-10-23.pdf",
+  "status": {
+    "ward_01204": "CL last-updated 18 Oct 00:35 ET; last known filing 15 Oct; no ECF 449; hearing 2 Dec 2026 14:00 ET",
+    "08047": "CL last-updated 23 Oct 14:08 ET; last known filing 23 Oct ECF 20 Extension of Time (title-only); ECF 19 denial w/o prejudice",
+    "dnm_03543": "Filed 21 Oct 2026 naming THE 1953 TRUST; TVPA + NM RICO; injunction vs bequests; >$107M estate; $50M/$25M; Zorro Ranch; ongoing NM criminal probe",
+    "accounting": "no 28th; last 27th ~$107.645M",
+    "inquiry": "SDNY/FBI uncharged (Sep 23 reports)"
+  },
+  "new_nodes": [
+    "DNM 1:26-cv-03543 Torrez v. Indyke/Kahn/Estate/THE 1953 TRUST (full node)",
+    "Aletheia Allen (NMDOJ counsel)",
+    "Judge Gregory J. Fouratt / Mag. John F. Robbenhaar",
+    "Survivors Molchanova / De Georgiou at announcement"
+  ],
+  "gaps_priority": ["DNM complaint full text / seal", "DNM injunction effect on 01204/USVI", "08047 ECF 20 text", "Martin PHV resolution", "ECF 449", "28th accounting", "inquiry scope"],
+  "next": "C721 Monday 26 Oct ET clerk-open"
+}
