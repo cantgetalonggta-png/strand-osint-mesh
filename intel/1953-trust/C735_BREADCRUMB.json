@@ -1,0 +1,23 @@
+{
+  "cycle": 735,
+  "timestamp": "2026-10-24T19:11:00Z",
+  "pdt": "12:11 PDT",
+  "et": "15:11 ET",
+  "target": "THE 1953 TRUST",
+  "new_nodes": [
+    "D.N.M. 1:26-cv-03543 State of New Mexico ex rel. Raul Torrez v. Indyke, Kahn, Estate of Jeffrey E. Epstein, THE 1953 TRUST (filed 21 Oct 2026)",
+    "Complaint (ECF 1, 49pp) alleges facilitation/concealment of trafficking enterprise incl. Zorro Ranch; seeks to block $50M/$25M bequests",
+    "2d Cir. 26-2945 interlocutory appeal Kamila Krchova Hofbauer (opened 16 Oct 2026)"
+  ],
+  "status": {
+    "ward_01204": "ECF 447-448 cluster; hearing 2 Dec 2026 14:00 ET; no ECF 449 this cycle",
+    "08047": "ECF 20 (23 Oct); prior PHV deficient",
+    "nm_03543": "ECF 1 Complaint + ECF 2 Motion to Seal; last known ~22 Oct",
+    "accounting": "no 28th; 27th ~$107.645M",
+    "inquiry": "SDNY uncharged"
+  },
+  "gaps": "G-01\u2013G-prior series + new: full service/TRO status on 03543; PHV resolution; ECF 449; 28th accounting; inquiry scope",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C735-2026-10-24.pdf",
+  "drive_file_ids": {"memo": "1jhDk1VCvyMR6vSSdNzlrBu8yn-cIFCBE", "breadcrumb": "1v4c2Hbq979Via-K68G0XaTZxZU-ZrW41"}
+}
