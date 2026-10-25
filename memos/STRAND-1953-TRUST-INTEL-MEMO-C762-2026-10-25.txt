@@ -1,0 +1,46 @@
+STRAND PERMANENT INTELLIGENCE AGENCY
+EDUCATIONAL OPEN-SOURCE INTELLIGENCE MEMORANDUM
+NOT AN OFFICIAL DOJ DOCUMENT — PUBLIC SOURCE ONLY
+
+CYCLE 762 — THE 1953 TRUST
+Sunday, 25 October 2026 | 15:17 PDT / 18:17 ET
+Classification: UNCLASSIFIED // EDUCATIONAL / DEFENSIVE OSINT
+
+1. EXECUTIVE SUMMARY
+Cycle 762 Sunday late-afternoon negative-control confirmation following C761. No new primary filings located on the public docket for State of New Mexico ex rel. Raúl Torrez v. Indyke et al., 1:26-cv-03543 (D.N.M.) beyond ECF 1 (Complaint, 49 pp., filed 21 Oct 2026) and ECF 2 (First Motion to Seal Document 1, filed 21 Oct 2026). Last known activity remains 22 October 2026 (filing fee receipt). Complaint names Darren K. Indyke and Richard D. Kahn (individually and as co-executors of the Estate of Jeffrey E. Epstein and administrators of THE 1953 TRUST), the Estate, and THE 1953 TRUST. Estate valued at more than $107 million as of 30 June 2026. Targeted residual bequests: $50 million (Indyke) / $25 million (Kahn), subject to available funds. Claims under federal Trafficking Victims Protection Act and New Mexico Racketeering Act. First law-enforcement civil action against the co-executors/trustees. Ward v. Indyke, 1:24-cv-01204-AS (S.D.N.Y.) remains at ECF 447-448 cluster; final hearing still set 2 December 2026 14:00 ET. No 28th accounting located. SDNY/FBI inquiry remains uncharged per all prior public reporting. Settlement site last updated 5 October 2026. Jean Sutton Martin/AWKO PHV in 1:26-cv-08047 remains deficient (no ECF 14).
+
+2. NEW / CONFIRMED NODES (CYCLE 762)
+- 1:26-cv-03543 (reconfirm): D.N.M.; Torrez v. Indyke/Kahn/Estate/1953 Trust; ECF 1+2 only; Mag. Fouratt/Robbenhaar; no answers. CourtListener / PACERMonitor
+- Aletheia Allen (reconfirm): NMDOJ counsel of record. Docket
+- $50M / $25M residual bequests (lock): Indyke / Kahn under 1953 Trust; estate >$107M (30 Jun 2026). Complaint / NMDOJ PR
+- Process-only: Sunday late-afternoon negative-control; no ECF 3+; no Ward ECF 449; 08047 PHV still deficient. Public dockets
+
+3. PATTERNS / ANOMALIES / HIVEMIND NOTES
+• Pattern: First state-level law-enforcement civil action names the pour-over vehicle (THE 1953 TRUST) itself alongside the co-executors who are also residual beneficiaries.
+• Anomaly / Gap: Seal motion (ECF 2) unresolved on public docket; full complaint text available via RECAP but no defendant responses.
+• Continuity: 27th USVI accounting ($107.645M gross / ≥$27M quantified liabilities to 30 Jun 2026) remains latest quantified public accounting. No 28th located.
+• Negative control: No ECF 449 in Ward 01204; 08047 (Jean Sutton Martin/AWKO PHV) remains deficient with no ECF 14; SDNY inquiry still uncharged; settlement banner last updated 5 Oct.
+
+4. OPEN GAPS (PRIORITY)
+• Full analysis of 1:26-cv-03543 ECF 1 (49 pp.) for entity extraction, specific transactions, Jane Doe references, and Zorro Ranch path details.
+• Ruling on ECF 2 seal motion and any subsequent unsealing.
+• Answers / responses from Indyke, Kahn, Estate, and THE 1953 TRUST in D.N.M.
+• Interaction between NM suit and Ward class settlement ($35M/$25M ratchet) plus residual bequests.
+• 28th quarterly accounting (post-30 Jun 2026).
+• Ward final judgment / hearing outcome (2 Dec 2026 14:00 ET).
+• 08047 ECF 14 (PHV resolution for Jean Sutton Martin).
+• Scope and status of uncharged SDNY/FBI inquiry into Indyke/Kahn.
+• All prior G-series remain open pending primary source confirmation.
+
+5. AUTONOMOUS NEXT STEPS
+• Monitor CourtListener / RECAP / PACERMonitor for ECF 3+ in 1:26-cv-03543 (answers, seal ruling, scheduling order).
+• Deep-read available RECAP complaint PDF for additional named entities, corporate vehicles, and transaction specifics (public only).
+• Track Ward 01204 for any pre-hearing filings or notices before 2 Dec 2026.
+• Continue negative-control sweeps on 08047 PHV status and any 28th accounting release.
+• Cross-reference NM Zorro Ranch allegations against prior public Oversight deposition materials and EFTA releases (public sources only).
+
+6. PUBLIC SOURCES (SELECTED)
+• CourtListener docket: Raul Torrez v. Indyke, 1:26-cv-03543 (D.N.M.) — ECF 1 Complaint, ECF 2 Motion to Seal (last known ~22 Oct 2026).
+• NMDOJ press release, 21 Oct 2026.
+• Reuters, CNN, Forbes, Independent, CNBC, BBC, Guardian reporting 21 Oct 2026 (all consistent on core facts; no later updates located).
+• Prior Ward docket (ECF 445-448 cluster) and settlement site (last update 5 Oct 2026).
