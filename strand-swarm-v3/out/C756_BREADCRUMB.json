@@ -1,0 +1,16 @@
+{
+  "cycle": "C756",
+  "date": "2026-10-25",
+  "time_et": "13:13",
+  "status": "negative-control weekend sweep with major new node integration",
+  "key_findings": {
+    "nm_ag_suit": "1:26-cv-03543 Raul Torrez v. Indyke et al (D.N.M., filed 21 Oct 2026); names Indyke, Kahn, Estate, THE 1953 TRUST; seeks block on $50M/$25M bequests; estate >$107M as of 30 Jun 2026; TVPA + NM racketeering counts; Zorro Ranch; motion to seal unredacted complaint; jury demanded; Weiner rejects knowing facilitation; first civil LE action; Torrez notes ongoing criminal probe (uncharged)",
+    "ward_01204": "ECF 449 Notice of Interlocutory Appeal by Kamila Krchova Hofbauer ~15 Oct; CL last known filing 15 Oct, last updated ~18 Oct; hearing still 2 Dec 2026 14:00 ET; no final judgment",
+    "2d_cir_26-2945": "Doe 3 v. Indyke; opened 16 Oct; instructional forms to pro se; Ruzumna notified re admission; last retrieved 16 Oct",
+    "08047": "no new public entries; Martin/AWKO PHV still deficient prior cycle",
+    "accounting": "no 28th accounting; still 27th to 30 Jun 2026 ~$107M",
+    "inquiry": "SDNY/FBI still uncharged"
+  },
+  "gaps": "G-01\u2013G-prior + new: full unredacted NM complaint text; PHV resolution; ECF 450+ on 01204; 28th accounting; inquiry scope",
+  "next": "C757 Monday 26 Oct ET clerk-open window"
+}
