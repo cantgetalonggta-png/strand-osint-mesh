@@ -1,0 +1,21 @@
+{
+  "cycle": 762,
+  "date": "2026-10-25",
+  "time_pdt": "16:17",
+  "time_et": "19:17",
+  "status": "process-only + major node",
+  "primary_new_node": "1:26-cv-03543 Torrez v. Indyke et al. (D.N.M.) naming THE 1953 TRUST",
+  "01204_last_known": "2026-10-15",
+  "01204_ecf_449": false,
+  "hearing_01204": "2026-12-02 14:00 ET",
+  "08047_last_known": "2026-10-23 ECF 20",
+  "03543_filed": "2026-10-21",
+  "03543_ecfs": ["1 Complaint (RECAP)", "2 Motion to Seal"],
+  "no_28th_accounting": true,
+  "inquiry_uncharged": true,
+  "estate_valuation_30jun2026": ">107M",
+  "bequests": {"Indyke": "50M", "Kahn": "25M"},
+  "gaps_priority": ["03543 unredacted/answers", "08047 RECAP 14-20", "01204 ECF 449", "28th accounting", "inquiry scope"],
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh"
+}
