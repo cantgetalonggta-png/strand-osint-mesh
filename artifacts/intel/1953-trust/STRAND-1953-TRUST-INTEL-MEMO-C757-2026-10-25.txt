@@ -1,0 +1,35 @@
+STRAND EDUCATIONAL INTEL MEMO — CYCLE 757
+THE 1953 TRUST (Epstein pour-over USVI trust, 8 Aug 2019)
+Date: 2026-10-25 | Sunday ~13:13 PDT / 16:13 ET | Weekend negative-control / node expansion after C756
+Classification: Public-record educational OSINT only. No conclusions of liability.
+
+EXECUTIVE SUMMARY
+Cycle 757 confirms and expands the primary new node from C756: New Mexico AG Raúl Torrez civil action State of New Mexico ex rel. Raúl Torrez v. Darren K. Indyke et al., 1:26-cv-03543 (D.N.M.), filed 21 Oct 2026. Names THE 1953 TRUST as defendant alongside Indyke, Kahn, and the Estate. Seeks to block $50M/$25M bequests and recover damages under TVPA + NM Racketeering. Estate valued >$107M (30 Jun 2026 accounting). First LE civil action naming the Trust. Ward v. Indyke 1:24-cv-01204 remains at ECF 447-448 cluster + Hofbauer interlocutory appeal 2d Cir 26-2945; final hearing still 2 Dec 2026 14:00 ET. No 28th accounting. SDNY/FBI inquiry still uncharged. Process-only weekend dwell.
+
+NEW NODES / ENTITIES / AFFILIATIONS / BREADCRUMBS
+- Case: 1:26-cv-03543 (D.N.M.) Raul Torrez v. Indyke et al. Filed 21 Oct 2026. Judge Gregory J. Fouratt; referred John F. Robbenhaar. Cause 28:1331; NOS 890 Other Statutory Actions; Jury demand Plaintiff. Last known filing 22 Oct 2026.
+- Parties: Plaintiff State of New Mexico ex rel. Raúl Torrez, AG. Defendants: Darren K. Indyke (individual + executor of Estate + administrator of THE 1953 TRUST); Richard D. Kahn (same); Estate of Jeffrey E. Epstein; THE 1953 TRUST.
+- Counsel: Aletheia Allen, NM Department of Justice.
+- Relief sought: Injunction blocking estate/Trust payments to Indyke/Kahn pending litigation; declaration of TVPA / NM Racketeering violations; damages/restitution for survivors; other equitable relief. Trust named as asset holder, not as primary racketeering actor.
+- Facts alleged (public complaint): Indyke >$16M receipts 2011-2019; Kahn >$10M; cash withdrawals; Zorro Ranch title transfer 2011; continued activity post-2008 conviction. Estate $577.7M (Aug 2019 probate) → >$107M (30 Jun 2026). Bequests: Indyke $50M, Kahn $25M (subject to availability).
+- Related: Motion to Seal (ECF 2) unredacted complaint (survivor identification). Filing fee received. No further docket activity confirmed as of 25 Oct.
+- Ward track: 1:24-cv-01204-AS still ECF 447/448 (transcript cluster); no ECF 449 judgment. Hearing 2 Dec 2026 14:00 ET. Hofbauer appeal 26-2945 (2d Cir, filed ~15-16 Oct 2026). Settlement site last updated 5 Oct.
+- Other: Uncharged SDNY inquiry (WSJ/NYT Sep 2026) reconfirmed uncharged. No 28th USVI accounting. Beneficiary counts still collide (32/40/41/43).
+
+GAPS (priority carry + new)
+G-01–prior series continue. Priority: ECF 14/15 text (08047); PHV resolution (Jean Sutton Martin/AWKO); Ward ECF 449; 28th accounting; inquiry scope/status; full unredacted Torrez complaint; Zorro Ranch title chain; precise Trust instrument language on pour-over activation; VIBIR/other satellites.
+
+PROCESS / NEGATIVE CONTROLS
+- Weekend clerk-closed / no new ECF 449 in 01204.
+- 08047 PHV ECF 13 deficient notice dwell; no ECF 14.
+- Torrez docket stable post-22 Oct.
+- Empty X-lane for primary new facts (secondary reprints only).
+- No criminal charges against Indyke/Kahn.
+
+NEXT WINDOW
+C758 Monday 26 Oct ET clerk-open: Torrez answer/service window, Ward ECF 449, 08047 ECF 14, any 28th accounting, inquiry developments.
+
+BACKUP STATUS
+Memo + breadcrumb written to artifacts/intel/1953-trust/ and strand-swarm-v3/out/. Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF. GitHub cantgetalonggta-png/strand-osint-mesh.
+
+Educational OSINT only. All facts drawn from public court records, press, and prior cycle memos. No private data. Independent analysis.
