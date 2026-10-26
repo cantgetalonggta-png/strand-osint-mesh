@@ -1,0 +1,30 @@
+{
+  "cycle": 775,
+  "timestamp_utc": "2026-10-26T17:14:00Z",
+  "pdt": "2026-10-26 10:14",
+  "et": "2026-10-26 13:14",
+  "status": "negative-control + new node",
+  "ward_01204": {
+    "last_updated_cl": "2026-10-25 20:25 ET",
+    "last_known_filing": "2026-10-15",
+    "terminal_ecf": "447-448",
+    "hearing": "2026-12-02 14:00 ET",
+    "ecf_449": false
+  },
+  "doe_08047": {
+    "last_known": "2026-10-23 ECF 20 extension motion",
+    "phv_13": "Jean Sutton Martin / AWKO deficient notice"
+  },
+  "new_mexico_03543": {
+    "filed": "2026-10-21",
+    "defendants_include": "THE 1953 TRUST",
+    "estate_value_pleaded": "> $107M (30 Jun 2026 accounting)",
+    "bequests_targeted": "$50M Indyke / $25M Kahn",
+    "claims": ["TVPA parens patriae", "NM RICO", "restitution"]
+  },
+  "accounting_28th": false,
+  "inquiry_status": "uncharged",
+  "gaps_priority": ["08047 ECF texts", "01204 ECF 449", "28th accounting", "NM seal/unredacted", "inquiry"],
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "repo": "cantgetalonggta-png/strand-osint-mesh"
+}
