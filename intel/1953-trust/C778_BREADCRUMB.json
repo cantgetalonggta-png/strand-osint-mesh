@@ -1,1 +1,41 @@
-{"cycle":778,"timestamp":"2026-10-26T14:13:00-04:00","status":"completed","new_nodes":["1:26-cv-03543 (D.N.M.) Torrez v. Indyke/Kahn/Estate/THE 1953 TRUST"],"note":"Full PDF and JSON in project artifacts; see Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF"}
+{
+  "cycle": 778,
+  "timestamp": "2026-10-26T14:13:00-04:00",
+  "pdt": "2026-10-26T11:13:00-07:00",
+  "status": "completed",
+  "new_nodes": [
+    "1:26-cv-03543 (D.N.M.) State of New Mexico ex rel. Raúl Torrez v. Indyke, Kahn, Estate of Jeffrey E. Epstein, THE 1953 TRUST",
+    "ECF 1 Complaint (49 pp) filed 21 Oct 2026 alleging TVPA + NM Racketeering facilitation/concealment incl. Zorro Ranch; seeks block of $50M/$25M bequests + damages/disgorgement",
+    "ECF 2 Motion to Seal unredacted complaint (survivor IDs / ongoing investigation)",
+    "Judge Gregory J. Fouratt / referred John F. Robbenhaar; counsel Aletheia Allen (NMDOJ)",
+    "Survivors Julia Molchanova + Anouska De Georgiou at announcement; parallel NM criminal probe open",
+    "Estate valuation reconfirm >$107M (30 Jun 2026 accounting); 2019 probate ~$577.7M"
+  ],
+  "process_carry": {
+    "01204": "CL last updated 25 Oct 2026 20:25 ET; last known filing 15 Oct; no ECF 449; hearing 2 Dec 2026 14:00 ET; CA2 26-2945 open",
+    "08047": "ECF 20 (23 Oct joint letter extension + anonymity abeyance); ECF 13 PHV Jean Sutton Martin deficient; ECF 14/15 title-only; 0 RECAP recent",
+    "accounting": "no 28th",
+    "inquiry": "SDNY/FBI still uncharged",
+    "settlement_site": "last stamp 5 Oct"
+  },
+  "gaps_priority": [
+    "03543 unredacted complaint / seal ruling / service / answers / any payment freeze",
+    "ECF 449 in 01204",
+    "RECAP text 08047 ECF 14-20",
+    "28th accounting",
+    "inquiry scope/status",
+    "CA2 26-2945 record/standing"
+  ],
+  "sources": [
+    "CourtListener RECAP gov.uscourts.nmd.576774",
+    "NMDOJ press release + complaint PDF",
+    "PACER Monitor 1:26-cv-03543",
+    "Media: CNN/Reuters/Guardian/CBS/CNBC/Santa Fe New Mexican 21-23 Oct 2026"
+  ],
+  "backup": {
+    "pdf": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C778-2026-10-26.pdf",
+    "breadcrumb": "artifacts/strand-swarm-v3/out/C778_BREADCRUMB.json",
+    "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF"
+  },
+  "next": "C779 later 26 Oct / 27 Oct ET clerk-open windows for 03543 progress and 01204 ECF 449"
+}
