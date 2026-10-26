@@ -1,0 +1,31 @@
+{
+  "cycle": 782,
+  "date": "2026-10-26",
+  "time_pdt": "16:14",
+  "time_et": "19:14",
+  "status": "process-only negative-control",
+  "ward_01204": {
+    "last_known_filing": "2026-10-15",
+    "cl_last_updated": "2026-10-25 20:25 ET",
+    "ecf_449": false,
+    "hearing": "2026-12-02 14:00 ET",
+    "settlement_site_stamp": "2026-10-05"
+  },
+  "08047": {
+    "last_ecf": 20,
+    "last_filing": "2026-10-23 Joint Letter Motion Extension",
+    "phv_martin": "deficient prior"
+  },
+  "03543_nm": {
+    "filed": "2026-10-21",
+    "named_1953_trust": true,
+    "ecf": "1 Complaint + 2 Seal Motion",
+    "status": "no answers"
+  },
+  "inquiry": "uncharged",
+  "accounting_28th": false,
+  "gaps_priority": ["ECF 449", "28th accounting", "03543 answers/unseal", "RECAP 08047 14-20", "inquiry status"],
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C783 Monday evening / Tuesday 27 Oct ET ECF 449 window"
+}
