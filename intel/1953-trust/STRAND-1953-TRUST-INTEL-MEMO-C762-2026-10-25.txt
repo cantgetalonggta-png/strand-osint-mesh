@@ -1,0 +1,34 @@
+STRAND EDUCATIONAL INTEL MEMO — CYCLE 762
+
+THE 1953 TRUST (Epstein pour-over USVI trust)
+Generated: 2026-10-25 ~18:20 PDT / 21:20 ET | Sunday evening negative-control after C761
+
+PROCESS STATUS (negative control)
+
+• Ward v. Indyke 1:24-cv-01204-AS (SDNY, Subramanian): CourtListener last-updated header shows ~Oct 25 20:25 ET in search results; date of last known filing remains Oct 15 2026. No ECF 449. Terminal cluster still ECF 447 (Transcript) + 448 (Notice of Filing Transcript). Final hearing remains 2 Dec 2026 14:00 ET. Settlement banner last site stamp 5 Oct 2026 (day ~20). No 28th accounting.
+• 1:26-cv-08047 (Doe v. Indyke, SDNY, Woods III): Last updated Oct 23 2026 14:08 ET. Docket has progressed: ECF 13 (7 Oct PHV Jean Sutton Martin/AWKO — deficient notice); ECF 14 (14 Oct Proposed Stipulation and Order); ECF 15 (14 Oct Joint Letter); ECF 16–18 (15 Oct Notices of Appearance); ECF 19 (20 Oct Memo Endorsement); ECF 20 (23 Oct Extension of Time). 0 RECAP PDFs on recent entries. Magistrate Figueredo.
+• 1:26-cv-03543 (State of New Mexico ex rel. Torrez v. Indyke et al., D.N.M.): Filed 21 Oct 2026. ECF 1 Complaint (49 pp, public redacted; Aletheia Allen / NMDOJ) + ECF 2 Motion to Seal unredacted complaint. Filing fee 22 Oct. Assigned Mag. Gregory J. Fouratt / John F. Robbenhaar. Last known filing 22 Oct; last CL update 22 Oct 09:02. Names Estate of Jeffrey E. Epstein and THE 1953 TRUST as defendants. Seeks to block $50M/$25M residual bequests to Indyke/Kahn and recovery under TVPA + NM RICO. Estate valued >$107M (30 Jun 2026 accounting). Weiner denial on behalf of Indyke/Kahn. No answers yet.
+• SDNY/FBI inquiry into Indyke/Kahn remains uncharged (WSJ/NYT Sep 2026 reporting; DOJ non-comment; Ruzumna: no subpoena / not told subject or target). No new confirmation this cycle.
+• Empty X-lane (no material posts since:2026-10-24 on 1953 Trust / Ward Indyke).
+
+NEW NODES / REINFORCEMENTS (compilation / process)
+
+• Aletheia V.P. Allen (NM Solicitor General) as lead counsel on 1:26-cv-03543.
+• Mag. Fouratt / Robbenhaar assignment on DNM 03543.
+• Public complaint text confirms $50M Indyke / $25M Kahn residual bequests subject to availability; estate >$107M at 30 Jun 2026; Indyke >$16M and Kahn >$10M receipts 2011–2019.
+• 08047 has advanced past ECF 12 freeze (now through ECF 20 as of 23 Oct).
+• No new ECF 449 on 01204; no 28th accounting; inquiry still uncharged.
+
+GAPS (priority carry-forward)
+
+G-priority: ECF 14/15/19/20 text on 08047 (RECAP still 0); PHV resolution on ECF 13 (Martin/AWKO); ECF 449 on 01204; full 28th accounting; scope of uncharged SDNY inquiry; unredacted 03543 complaint; answers/response in 03543; VIBIR status; LSJVI/Deckoff adjacency.
+
+ONTOLOGICAL / LOGIC MAP NOTE
+
+1953 Trust remains the residual pour-over vehicle (named for Epstein birth year; 8 Aug 2019 instrument + amendments). Indyke and Kahn continue as co-executors / trustees. Multiple parallel tracks: Ward class settlement (pending final approval 2 Dec), individual Jane Doe actions (08047 active), NM AG civil enforcement (03543 newly filed), USVI probate accounting, and uncharged federal inquiry. No corpus distribution while litigation open. Process remains negative-control on primary SDNY class docket.
+
+NEXT WINDOW
+
+C763 Monday 26 Oct ET clerk-open: monitor 01204 for ECF 449, 08047 for RECAP or further entries, 03543 for service/answers. Continue Drive + GitHub backup of all cycle artifacts.
+
+Educational OSINT only. No legal advice. Sources: CourtListener, NMDOJ press, Reuters, Forbes, BBC, Independent, complaint PDF via RECAP.

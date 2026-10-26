@@ -1,21 +1,35 @@
 {
   "cycle": 762,
-  "date": "2026-10-25",
-  "time_pdt": "16:17",
-  "time_et": "19:17",
-  "status": "process-only + major node",
-  "primary_new_node": "1:26-cv-03543 Torrez v. Indyke et al. (D.N.M.) naming THE 1953 TRUST",
-  "01204_last_known": "2026-10-15",
-  "01204_ecf_449": false,
-  "hearing_01204": "2026-12-02 14:00 ET",
-  "08047_last_known": "2026-10-23 ECF 20",
-  "03543_filed": "2026-10-21",
-  "03543_ecfs": ["1 Complaint (RECAP)", "2 Motion to Seal"],
-  "no_28th_accounting": true,
-  "inquiry_uncharged": true,
-  "estate_valuation_30jun2026": ">107M",
-  "bequests": {"Indyke": "50M", "Kahn": "25M"},
-  "gaps_priority": ["03543 unredacted/answers", "08047 RECAP 14-20", "01204 ECF 449", "28th accounting", "inquiry scope"],
+  "timestamp": "2026-10-25T21:20:00Z",
+  "pdt": "2026-10-25 18:20 PDT",
+  "et": "2026-10-25 21:20 ET",
+  "type": "Sunday evening negative-control after C761",
+  "ward_01204": {
+    "cl_last_updated": "2026-10-25 ~20:25 ET (search)",
+    "last_known_filing": "2026-10-15",
+    "terminal_ecf": "447-448",
+    "ecf_449": false,
+    "hearing": "2026-12-02 14:00 ET",
+    "settlement_stamp": "2026-10-05"
+  },
+  "doe_08047": {
+    "cl_last_updated": "2026-10-23 14:08 ET",
+    "last_ecf": 20,
+    "notes": "ECF 13 PHV deficient; ECF 14/15 14 Oct; ECF 16-18 15 Oct; ECF 19 20 Oct; ECF 20 23 Oct Extension; 0 RECAP"
+  },
+  "nm_03543": {
+    "filed": "2026-10-21",
+    "ecf": ["1 Complaint", "2 Motion to Seal"],
+    "last_known": "2026-10-22",
+    "judges": ["Gregory J. Fouratt", "John F. Robbenhaar"],
+    "counsel": "Aletheia V.P. Allen",
+    "defendants": ["Indyke", "Kahn", "Estate of Jeffrey E. Epstein", "THE 1953 TRUST"],
+    "estate_value": ">$107M (30 Jun 2026)",
+    "bequests": {"Indyke": "50000000", "Kahn": "25000000"}
+  },
+  "inquiry": "uncharged",
+  "x_lane": "empty",
+  "gaps_priority": ["08047 RECAP texts", "PHV resolution", "ECF 449", "28th accounting", "inquiry scope", "03543 unredacted/answers"],
   "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "github_repo": "cantgetalonggta-png/strand-osint-mesh"
+  "github": "cantgetalonggta-png/strand-osint-mesh"
 }
