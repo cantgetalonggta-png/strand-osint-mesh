@@ -1,0 +1,17 @@
+{
+  "cycle": 784,
+  "timestamp_utc": "2026-10-27T00:20:00Z",
+  "timestamp_pdt": "2026-10-26T17:20:00-07:00",
+  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C784-2026-10-26.pdf",
+  "key_nodes": [
+    "ECF 449 interlocutory appeal (Kamila Krachova Hofbaver) CA2 26-2945",
+    "D.N.M. 1:26-cv-03543 Raul Torrez v. Indyke et al. naming THE 1953 TRUST",
+    "Estate valuation >$107M (30 Jun 2026 accounting)",
+    "Ward hearing still 2 Dec 2026 14:00 ET",
+    "No 28th accounting; inquiry still uncharged"
+  ],
+  "gaps_priority": ["RECAP 08047 ECF 14+", "28th accounting", "NM case seal ruling", "CA2 stay effect", "inquiry status"],
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next_cycle": 785
+}
