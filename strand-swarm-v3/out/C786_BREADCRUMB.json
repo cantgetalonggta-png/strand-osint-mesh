@@ -1,0 +1,17 @@
+{
+  "cycle": 786,
+  "date": "2026-10-26",
+  "time_et": "~21:17",
+  "new_nodes": [
+    "Kamila Krachova Hofbaver (ECF 449 / CA2 26-2945 interlocutory appeal from ECF 445)",
+    "1:26-cv-03543 Raul Torrez v. Indyke et al. (D.N.M.; names 1953 Trust; TVPA/NM RICO; Zorro Ranch; $107M+ accounting to 30 Jun 2026)"
+  ],
+  "status": {
+    "ward_01204": "ECF 447-449; hearing 2 Dec 2026 14:00 ET",
+    "08047": "ECF ~20 extension 23 Oct",
+    "nm_03543": "filed 21 Oct; motion to seal",
+    "accounting": "no 28th; 27th ~$107.645M to 30 Jun 2026",
+    "inquiry": "uncharged"
+  },
+  "gaps_priority": ["ECF 449 text/grounds", "03543 full complaint/RECAP", "28th accounting", "inquiry status"]
+}
