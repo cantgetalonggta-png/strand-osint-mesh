@@ -1,37 +1,31 @@
-# STRAND 1953 TRUST INTEL MEMO - Cycle 801
-**Date:** 2026-10-27  
-**Time:** ~12:13 PDT / 15:13 ET  
-**Status:** Negative-control with major new node confirmation  
+# STRAND Cycle 801 — Educational OSINT Intel Memo
 
-## Executive Summary
-Cycle 801 confirms the New Mexico AG civil enforcement action **State of New Mexico ex rel. Raúl Torrez v. Darren K. Indyke et al.**, **1:26-cv-03543 (D.N.M.)**, which explicitly names **THE 1953 TRUST** as a defendant alongside the Estate of Jeffrey E. Epstein, Indyke, and Kahn. The complaint seeks to block estate/trust payments to Indyke and Kahn ($50M / $25M conditional bequests), disgorgement, and other relief under TVPA and NM Racketeering Act. Zorro Ranch central.  
+**Date:** 2026-10-27 14:14 PDT / 17:14 ET  
+**Type:** Negative-control + new-node confirmation  
+**Classification:** Public-record educational OSINT only. Allegations unproven; denials noted.
 
-Ward v. Indyke **1:24-cv-01204-AS (S.D.N.Y.)** last known filing is **ECF 449** (Notice of Interlocutory Appeal by Kamila Krchova Hofbauer from ECF 445 Order of 17 Sep 2026). Appeal docketed as **26-2945 (2d Cir.)**. Hearing remains 2 Dec 2026 14:00 ET. No 28th accounting. SDNY inquiry still uncharged.  
+## Status Snapshot
+- **Ward (1:24-cv-01204-AS):** Last confirmed public filings in this cycle remain the ECF 447 transcript / ECF 448 notice cluster (23 Sep 2026). No ECF 449 observed in current CourtListener / public indexes this sweep. Final hearing still 2 Dec 2026 14:00 ET. (Prior mesh notes on possible interlocutory appeal remain unverified this cycle.)
+- **New node:** 1:26-cv-03543 (D.N.M.) *State of New Mexico ex rel. Torrez v. Indyke et al.* (filed 21 Oct 2026). Explicitly names Indyke, Kahn (individually and as executors/administrators of the 1953 Trust), the Estate of Jeffrey E. Epstein, and **THE 1953 TRUST** as defendants.
+- **08047:** ECF 13 PHV (Jean Sutton Martin/AWKO) remains deficient; no ECF 14 observed.
+- **Accounting:** No 28th accounting. NM complaint cites estate value over $107 million (period ending 30 June 2026).
+- **SDNY inquiry:** Still uncharged per last public reporting.
 
-1:26-cv-08047 continues with PHV activity (Jean Sutton Martin/AWKO) and recent joint letters; no final judgment.  
+## New Node Detail
+On 21 October 2026, New Mexico Attorney General Raúl Torrez filed a 49-page civil complaint in D.N.M. seeking to prevent Indyke and Kahn from receiving estate/trust distributions (potential bequests of $50 million to Indyke and $25 million to Kahn, “assuming availability of funds”) and alleging knowing facilitation, financing, and concealment of Epstein’s trafficking operation, including at Zorro Ranch. Claims under the Trafficking Victims Protection Act and New Mexico Racketeering Act. The Trust is named as an asset-holding defendant. This is the first law-enforcement action against the co-executors. Defense counsel Daniel Weiner has rejected the allegations as categorically false, stating the conduct occurred behind closed doors when neither man was present.
 
-All prior gaps G-01 onward remain open; new priority on 03543 service, answers, and any injunction motion outcome.
+Sources: NMDOJ press release (20–21 Oct 2026), complaint (nmdoj.gov PDF and CourtListener RECAP nmd.576774), contemporaneous reporting (Reuters, Forbes, CNN, Independent, CBS, Daily Beast).
 
-## New / Confirmed Nodes
-- **1:26-cv-03543** (D.N.M.): Complaint filed 21 Oct 2026 by AG Torrez. Defendants: Indyke (indiv + executor/admin), Kahn (same), Estate of Jeffrey E. Epstein, **THE 1953 TRUST**. Jury demanded. Motions to seal. Associations of outside counsel (incl. Motley Rice) noted in later entries. Estate valuation cited ~$107M+ (to 30 Jun 2026).  
-- **ECF 449 / 26-2945**: Interlocutory appeal by Hofbauer (pro se) from notice/order ECF 445. District court last known 15 Oct 2026.  
-- Process controls: CL 01204 last-updated holds; no further judgment entry. 08047 at higher ECF numbers with extensions.  
+## Carry-Forward Gaps (priority)
+- Confirm or refute any ECF 449+ on 01204; 28th accounting; 08047 PHV resolution (ECF 14); inquiry scope.
+- Full extract of NM complaint specific factual allegations (cash-withdrawal structuring, Cypress/Zorro Development officer roles, bank KYC notes).
+- Effect of NM action on USVI probate administration and any parallel notice/stay.
+- Service, answer deadlines, and any TRO/PI status in 1:26-cv-03543.
+- Intersection of the $50M/$25M bequests with the Ward class settlement remainder and other claims.
 
-## Gaps Priority (carry + new)
-- G-priority: Full text / RECAP of 03543 complaint (available on CL) and any TRO/PI outcome.  
-- Service and answers in 03543.  
-- Effect of 26-2945 on Ward final approval timeline.  
-- 28th accounting still absent.  
-- Uncharged SDNY/FBI inquiry status.  
-- Jean Sutton Martin PHV resolution in 08047.  
+## Next
+C802: Monitor 03543 for answers, motions, or injunction activity; continue negative-control on 01204 and 08047; watch for 28th accounting.
 
-## Sources
-- NMDOJ press release 20-21 Oct 2026 + complaint PDF.  
-- CourtListener / PACER Monitor for 03543, 01204, 08047.  
-- 2d Cir. Justia for 26-2945.  
-- Prior cycle mesh.  
-
-**Next:** C802 afternoon/evening ET sweep for 03543 docket advance or Ward status.  
-
-*Educational OSINT only. No legal advice.*  
-**Backup:** Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF + GitHub cantgetalonggta-png/strand-osint-mesh.  
+Breadcrumb: strand-swarm-v3/out/C801_BREADCRUMB.json  
+Drive folder: 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF (PDF + JSON uploaded).  
+Public-record educational use only.
