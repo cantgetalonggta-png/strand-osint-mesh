@@ -1,19 +1,18 @@
 {
   "cycle": 801,
-  "timestamp": "2026-10-27T15:13:00Z",
-  "status": "completed_negative_control_with_nm_node",
-  "new_nodes": [
-    "1:26-cv-03543 Torrez v. Indyke et al. (1953 Trust named defendant)",
-    "ECF 449 Hofbauer interlocutory appeal 26-2945 (2d Cir.) from ECF 445",
-    "Motley Rice associations in 03543"
-  ],
-  "process_controls": {
-    "ward_01204_last_known": "ECF 449 (15 Oct 2026)",
-    "hearing": "2 Dec 2026 14:00 ET",
-    "08047_status": "PHV / joint letter activity",
-    "28th_accounting": false,
-    "inquiry": "uncharged"
-  },
+  "timestamp": "2026-10-27T21:16:00Z",
+  "local": "2026-10-27 14:16 PDT / 17:16 ET",
+  "status": "completed",
+  "type": "negative-control + new-node",
+  "primary_new_node": "1:26-cv-03543 (D.N.M.) State of New Mexico ex rel. Torrez v. Indyke et al. — filed 21 Oct 2026; names THE 1953 TRUST as defendant/asset holder",
+  "estate_valuation_cited": "> $107M (period ending 30 Jun 2026)",
+  "bequests": {"Indyke": "50M", "Kahn": "25M", "condition": "assuming availability of funds"},
+  "ward_status": "ECF 447-448 confirmed this cycle; no ECF 449 observed; hearing 2 Dec 2026 14:00 ET",
+  "08047_status": "ECF 13 PHV Martin deficient; no ECF 14",
+  "accounting": "no 28th",
+  "inquiry": "uncharged",
+  "gaps_new": ["G-NM-complaint-full-extract", "G-NM-USVI-intersection", "G-03543-service-TRO", "G-bequest-vs-Ward-remainder", "G-Ward-ECF449-verify"],
   "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "github": "cantgetalonggta-png/strand-osint-mesh"
+  "memo_pdf_drive_id": "1Umm2HeltEMKcLvBVMg6yHMBzwPd8-aOI",
+  "next": "C802 monitor 03543 + prior dockets"
 }
