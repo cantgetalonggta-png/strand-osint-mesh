@@ -1,0 +1,27 @@
+STRAND EDUCATIONAL INTEL MEMO — CYCLE 801
+THE 1953 TRUST / Epstein Pour-Over USVI Trust (8 Aug 2019)
+Date: 27 October 2026 | Negative-control + new-node sweep | Classification: Educational / Public-source compilation
+
+1. EXECUTIVE SUMMARY
+Cycle 801 confirms a major new node: on 21 October 2026 New Mexico Attorney General Raúl Torrez filed State of New Mexico ex rel. Torrez v. Indyke et al., No. 1:26-cv-03543 (D.N.M.), naming Darren K. Indyke, Richard D. Kahn, the Estate of Jeffrey E. Epstein, and THE 1953 TRUST as defendants. The civil complaint (TVPA parens patriae + New Mexico Racketeering Act) seeks to enjoin distributions/payments to Indyke and Kahn from the estate/trust, recover damages/restitution for survivors, and other relief related to alleged facilitation and concealment of Epstein’s trafficking, including at Zorro Ranch. Estate valuation cited ~$107M as of 30 June 2026 accounting; Indyke/Kahn bequests $50M/$25M “assuming availability of funds.” Defendants (via counsel Daniel Weiner) categorically deny knowing facilitation; claim abuse occurred behind closed doors when they were not present. No answer, no injunction order, and no freeze of the trust corpus has been located as of this cycle. Ward v. Indyke (1:24-cv-01204-AS) remains at ECF 447-448 cluster with final hearing still calendared 2 December 2026 14:00 ET; no ECF 449 located. 1:26-cv-08047 shows ECF 14/15 (14 Oct) and later extension motion (23 Oct); Jean Sutton Martin PHV still deficient earlier. SDNY/FBI inquiry remains reported uncharged. No 28th accounting located. Settlement site last known 5 Oct stamp continues.
+
+2. NEW / UPDATED NODES
+• NM Case 1:26-cv-03543 (D.N.M.): Filed 21 Oct 2026. Complaint 49 pp (RECAP/CourtListener + NMDOJ PDF). Counts include TVPA §§1591/1595(d), NM RICO (kidnapping, solicitation, conspiracy), equity restitution/unjust enrichment. Allegations (unproven): entity roles (Cypress Inc. title transfer 19 Dec 2011, Zorro entities, HBRK, Indyke PLLC, C.O.U.Q.); cash withdrawals under $10k reporting threshold; payments Indyke >$16M (2011-2019) + $7M unrepaid loan; Kahn >$10M + HBRK fees; Deutsche Bank exit Dec 2018; bank KYC notes. Motion to Seal Complaint (ECF 2). Appearances for out-of-district counsel (ECF 5-10 series). Judge: Gregory J. Fouratt (magistrate track noted).
+• 08047 (SDNY Woods/Figueredo): ECF 14 Proposed Stipulation and Order (14 Oct 09:42); ECF 15 Joint Letter (14 Oct 09:50); ECF 20 Joint Letter Motion for Extension of Time (23 Oct). PHV for Jean Sutton Martin (AWKO) remains deficient per prior notices; no ECF 14 on PHV itself.
+• Ward 01204 (SDNY Subramanian): CourtListener last-known-filing header ~15 Oct 2026. No public ECF 449+. Final approval hearing remains 2 Dec 2026 14:00 ET (ECF 445/446). Settlement banner/site last stamp 5 Oct.
+• Inquiry: Still uncharged per Sept 2026 WSJ/NYT/official non-confirmations. No new charge announcements.
+• No 28th accounting located. 27th ~$107.645M gross / quantified liabilities carry.
+
+3. PROCESS STATUS (NEGATIVE-CONTROL)
+• Ward: ECF 447-448 terminal in public RECAP; CL last-updated lag continues; no 449.
+• 08047: Active with extension motion; no resolution of PHV or anonymous motion status fully public.
+• NM 03543: Early stage (complaint + seal + appearances). No service complete confirmation, no answer, no TRO/PI order located.
+• Gaps priority carry: G-series through prior (ECF 14/15 text in 08047, PHV resolution, Ward ECF 449+, 28th accounting, uncharged inquiry scope, NM case developments, trust instrument full text, etc.).
+
+4. DISCARDED / COMPILATION-ONLY
+• Secondary reprints of NM filing (Forbes, Independent, Daily Beast, etc.) — primary is complaint + NMDOJ release. • X secondary amps and mention-count lists. • Homonyms (other Martins, Suttons). • Prior outage/process-only dwells.
+
+5. NEXT WINDOW
+C802: Continue hourly/daily negative-control on Ward ECF 449, 08047 ECF 14/15 text & PHV, NM 03543 answer/injunction, 28th accounting, inquiry status. Backup all to Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF and GitHub cantgetalonggta-png/strand-osint-mesh.
+
+Sources: NMDOJ press release & complaint PDF (nmdoj.gov); CourtListener/RECAP docket mirrors; PACER Monitor public headers; Reuters, Forbes, Independent, Daily Beast, CBS, Guardian (21-22 Oct 2026); prior STRAND cycles. All allegations are unproven; defendants deny. Educational compilation only — not legal advice.
