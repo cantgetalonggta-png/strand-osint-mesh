@@ -1,0 +1,17 @@
+{
+  "cycle": 823,
+  "timestamp_utc": "2026-10-28T18:12:02Z",
+  "pdt": "2026-10-28 11:12 PDT",
+  "et": "2026-10-28 14:12 ET",
+  "status": "negative-control / process-only update after C822",
+  "key_nodes": [
+    "1:26-cv-03543 (D.N.M.) State of New Mexico ex rel. Raúl Torrez v. Indyke et al.: Motley Rice associations for Linda Singer, Carmen S. Scott, Jessica F. Crowder (ECF ~5-10 Oct 26); THE 1953 TRUST named; seeks block $50M/$25M bequests; estate ~$107M (30 Jun 2026 27th accounting); no answer yet",
+    "1:24-cv-01204 Ward: last known ECF 449 (15 Oct interlocutory appeal by Kamila Krchova Hofbauer); CA2 26-2945 opened 15-16 Oct 2026; hearing still 2 Dec 2026 14:00 ET",
+    "1:26-cv-08047: answer/response extended to 16 Dec 2026 (Mag. Figueredo 27 Oct); Jean Sutton Martin PHV (ECF 13) still deficient; no ECF 14+ RECAP",
+    "USVI ST-2019-PB-00080: 27th quarterly accounting to 30 Jun 2026 $107.644M gross; no 28th; recent Lindman letters",
+    "SDNY/FBI inquiry into Indyke/Kahn still uncharged (per prior WSJ/NYT)"
+  ],
+  "gaps": "G-01–G- prior series continue; priority ECF texts in 03543, PHV resolution, 28th accounting, uncharged inquiry scope, Ward appeal status",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github": "cantgetalonggta-png/strand-osint-mesh"
+}
