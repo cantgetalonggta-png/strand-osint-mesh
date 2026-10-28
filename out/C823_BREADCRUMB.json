@@ -1,0 +1,29 @@
+{
+  "cycle": 823,
+  "timestamp_et": "2026-10-28T17:15:00-04:00",
+  "timestamp_pdt": "2026-10-28T14:15:00-07:00",
+  "status": "process-only with procedural delta",
+  "primary_target": "THE 1953 TRUST",
+  "new_nodes": [
+    "1:26-cv-08047 ECF 21 (27 Oct 2026): Order on Extension \u2014 answer deadline 16 Dec 2026; anonymity response 10 Nov / reply 17 Nov (Figueredo)",
+    "1:26-cv-03543 (NM Torrez v. Indyke) reconfirm: names THE 1953 TRUST; estate >$107M as of 30 Jun 2026; no answer"
+  ],
+  "reconfirmed": [
+    "Ward 1:24-cv-01204 last known ECF 449 (15 Oct interlocutory); no ECF 450; hearing 2 Dec 2026 14:00 ET",
+    "CA2 26-2945 open",
+    "No 28th accounting",
+    "SDNY/FBI inquiry still uncharged",
+    "08047 PHV Martin/AWKO still deficient"
+  ],
+  "gaps_priority": [
+    "08047 ECF 21 full text + prior RECAP",
+    "PHV resolution",
+    "01204 ECF 450+ / final judgment",
+    "28th accounting",
+    "uncharged inquiry scope",
+    "NM 03543 response / any injunction"
+  ],
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C824 later 28 Oct or 29 Oct ET"
+}
