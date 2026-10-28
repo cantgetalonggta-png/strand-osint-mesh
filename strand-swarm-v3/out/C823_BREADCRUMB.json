@@ -1,17 +1,17 @@
 {
   "cycle": 823,
-  "timestamp_utc": "2026-10-28T18:12:02Z",
-  "pdt": "2026-10-28 11:12 PDT",
-  "et": "2026-10-28 14:12 ET",
-  "status": "negative-control / process-only update after C822",
-  "key_nodes": [
-    "1:26-cv-03543 (D.N.M.) State of New Mexico ex rel. Raúl Torrez v. Indyke et al.: Motley Rice associations for Linda Singer, Carmen S. Scott, Jessica F. Crowder (ECF ~5-10 Oct 26); THE 1953 TRUST named; seeks block $50M/$25M bequests; estate ~$107M (30 Jun 2026 27th accounting); no answer yet",
-    "1:24-cv-01204 Ward: last known ECF 449 (15 Oct interlocutory appeal by Kamila Krchova Hofbauer); CA2 26-2945 opened 15-16 Oct 2026; hearing still 2 Dec 2026 14:00 ET",
-    "1:26-cv-08047: answer/response extended to 16 Dec 2026 (Mag. Figueredo 27 Oct); Jean Sutton Martin PHV (ECF 13) still deficient; no ECF 14+ RECAP",
-    "USVI ST-2019-PB-00080: 27th quarterly accounting to 30 Jun 2026 $107.644M gross; no 28th; recent Lindman letters",
-    "SDNY/FBI inquiry into Indyke/Kahn still uncharged (per prior WSJ/NYT)"
+  "date": "2026-10-28",
+  "time_et": "16:11",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C823-2026-10-28.pdf",
+  "nodes": [
+    "1:26-cv-03543 (D.N.M.) Torrez v. Indyke et al. (filed 21 Oct 2026; last known 26 Oct; Motley Rice association; no answer)",
+    "Ward 1:24-cv-01204 ECF 449 (15 Oct 2026 interlocutory appeal by Hofbauer); CA2 26-2945 (16 Oct)",
+    "08047 last ECF 21 (27 Oct Order on Extension); PHV Martin/AWKO still deficient",
+    "Shuliak primary beneficiary reconfirm (compilation); no 28th accounting",
+    "Inquiry still uncharged"
   ],
-  "gaps": "G-01–G- prior series continue; priority ECF texts in 03543, PHV resolution, 28th accounting, uncharged inquiry scope, Ward appeal status",
+  "gaps": "G-01 series continues; priority: 03543 full claims/text, 01204 post-449, 08047 PDFs, 28th accounting, inquiry scope",
+  "status": "Process-only negative-control. Ward still ECF 449, hearing 2 Dec 2026 14:00 ET (appeal pending); no 28th accounting; inquiry uncharged.",
   "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "github": "cantgetalonggta-png/strand-osint-mesh"
+  "next": "C824 monitor 03543 service, 01204 appeal effect, 08047 PHV/answer"
 }
