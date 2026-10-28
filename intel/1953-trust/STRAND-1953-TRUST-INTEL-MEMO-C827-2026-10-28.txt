@@ -1,0 +1,25 @@
+STRAND-1953-TRUST-INTEL-MEMO-C827-2026-10-28
+
+Cycle 827 completed 2026-10-28 ~16:18 PDT / 19:18 ET.
+Negative-control / update sweep after C826.
+
+PRIMARY NEW NODE:
+- D.N.M. 1:26-cv-03543 Raul Torrez v. Indyke et al. (filed 21 Oct 2026)
+  Defendants explicitly include THE 1953 TRUST, Estate of Jeffrey E. Epstein, Darren K. Indyke (indiv. + executor/admin), Richard D. Kahn (same).
+  Complaint (ECF 1, 49 pp., RECAP available): State alleges Indyke/Kahn facilitated, financed, and concealed Epstein sex-trafficking enterprise including at Zorro Ranch (Stanley, NM). Seeks injunction blocking estate/trust payments to them, damages, divestiture, TVPA + NM RICO claims. Estate valued >$107M as of 30 Jun 2026 accounting; Indyke eligible $50M bequest, Kahn $25M (subject to funds).
+  Counsel: Motley Rice LLC associations (ECF 5-10, 26 Oct 2026): Linda Singer, Carmen S. Scott, Jessica F. Crowder (pro hac / association for AG Torrez).
+  Assigned: Mag. Gregory J. Fouratt (referred John Robbenhaar). Last known filing 26 Oct; CL updated 28 Oct 10:43 a.m.
+  This is the first law-enforcement civil action naming the 1953 Trust as defendant (as asset holder).
+
+OTHER STATUS (process-only reconfirm):
+- Ward / Doe 3 v. Indyke 1:24-cv-01204-AS (SDNY): CL last updated 26 Oct 11:49 a.m.; last known filing 15 Oct. No new ECF 449 observed in this sweep. Hearing remains 2 Dec 2026 14:00 ET. Interlocutory appeal CA2 26-2945 (filed ~15-16 Oct 2026 by appellant Kamila Krchova Hofbauer) still open.
+- Doe v. Indyke 1:26-cv-08047 (SDNY Woods III): CL last updated 27 Oct 5:09 p.m.; last known filing 27 Oct (ECF 21 Order on Motion for Extension of Time). Answer deadline previously noted to 16 Dec 2026. PHV Jean Sutton Martin / AWKO still noted as deficient earlier.
+- No 28th accounting public. SDNY criminal inquiry remains uncharged (no official confirmation of charges).
+- Settlement site / Ward Fund: prior 5 Oct stamp still relevant; no change flagged.
+
+GAPS (priority carry / new):
+G-01+ series continues. New priority: full text analysis of 03543 complaint (beyond summary); service/answer status in 03543; Motley Rice role intersection with prior nodes; resolution of CA2 26-2945 and any ECF 449 in 01204; 08047 ECF 21 text; 28th accounting; inquiry status.
+
+Backup: Drive folder id 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF (upload this memo). GitHub cantgetalonggta-png/strand-osint-mesh (commit pending).
+
+Next C828: monitor 03543 service/answer, 01204/08047 CL, any 28th accounting, uncharged inquiry confirmation.
