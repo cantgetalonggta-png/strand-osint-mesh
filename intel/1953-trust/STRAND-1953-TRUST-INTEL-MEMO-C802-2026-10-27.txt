@@ -1,0 +1,29 @@
+STRAND EDUCATIONAL INTEL MEMO — CYCLE 802
+THE 1953 TRUST (Epstein pour-over USVI trust)
+Date: 2026-10-27 | Classification: Educational / Open-Source Compilation | Permanent Mission Target: THE 1953 TRUST
+
+1. EXECUTIVE SUMMARY
+Cycle 802 is a Tuesday evening PDT / late ET negative-control and expansion sweep after Cycle 801. Primary new node remains the 21 October 2026 civil enforcement action State of New Mexico ex rel. Torrez v. Indyke et al., 1:26-cv-03543 (D.N.M.), which names THE 1953 TRUST as a defendant alongside Indyke, Kahn, and the Estate. Complaint (ECF 1, 49 pages) is RECAP-available. Ward v. Indyke 1:24-cv-01204-AS remains at ECF 447-448 with final hearing still calendared for 2 December 2026 14:00 ET; no ECF 449 and no 28th accounting located. 1:26-cv-08047 shows continued activity through ECF 21 (Order on Motion for Extension of Time, 27 Oct 2026); Jean Sutton Martin PHV remains deficient. SDNY/FBI inquiry into Indyke/Kahn remains reported but uncharged. All findings are compilation-grade open-source; allegations in the New Mexico complaint are disputed by defendants.
+
+2. NEW NODES — CYCLE 802
+N-802-01: State of New Mexico ex rel. Raúl Torrez v. Darren K. Indyke et al., 1:26-cv-03543 (D.N.M.), filed 21 Oct 2026.
+Plaintiff: State of New Mexico by AG Raúl Torrez. Defendants: Darren K. Indyke (individual and as Executor/Administrator of 1953 Trust); Richard D. Kahn (same); Estate of Jeffrey E. Epstein; THE 1953 TRUST. Nature: 890 Other Statutory Actions; Cause 28:1331 Fed. Question; Jury demand by Plaintiff. Assigned to Magistrate Judge Gregory J. Fouratt (with John F. Robbenhaar). Complaint seeks injunction barring distributions from the estate/trust to Indyke and Kahn, TVPA trafficking-venture claims, and New Mexico RICO claims related to alleged facilitation at Zorro Ranch. Estate valuation cited as ~$107.6M (period ending 30 Jun 2026) down from higher probate figures. Indyke eligible for $50M bequest, Kahn $25M (subject to availability). Counsel for defendants (via prior statements): Daniel Weiner rejects knowing facilitation. Motion to seal unredacted complaint filed same day. RECAP: ECF 1 complaint and ECF 2 motion available. PacerMonitor notes later notices (e.g., association of counsel around 26 Oct). This is the first state law-enforcement action naming the Trust as a defendant in this posture.
+
+N-802-02: 1:26-cv-08047 (Doe/Amy v. Indyke) docket progression.
+CourtListener last updated 27 Oct 2026 5:09 p.m. Last known filing ECF 21 Order on Motion for Extension of Time. Prior: ECF 13 PHV for Jean Sutton Martin (AWKO) deficient; ECF 14 Proposed Stipulation; ECF 15 Joint Letter; multiple notices of appearance. No full RECAP text on post-ECF 12 items in this sweep. Case remains before Judge Gregory H. Woods III, referred to Magistrate Valerie Figueredo.
+
+N-802-03: Process confirmations (negative control).
+Ward 1:24-cv-01204-AS: no public ECF 449; CL/PACER header hold consistent with prior cycles (ECF 447 Transcript / 448 Notice). Hearing remains 2 Dec 2026 14:00 ET after supplemental social-media notice (ECF 445/446). No 28th accounting located. Settlement site last stamp remains 5 Oct in prior cycles. SDNY inquiry still uncharged (no public charging document).
+
+3. ONTOLOGICAL / LOGIC MAP UPDATES
+THE 1953 TRUST now appears as a named defendant in federal civil enforcement (D.N.M.) in addition to its role as pour-over vehicle in USVI probate and as the residual asset holder in the Ward class settlement track. Conflict node reinforced: co-trustees/executors are both potential beneficiaries ($50M/$25M) and targets of state claims seeking to bar their receipt of distributions while administering survivor settlements. Zorro Ranch / New Mexico nexus elevated. No change to beneficiary-count collision (32/40/41/43) or Valar/unnamed fund gaps.
+
+4. GAPS (PRIORITY CARRY-FORWARD + NEW)
+G-priority: Full text of 08047 ECF 14/15/19-21; resolution of Jean Sutton Martin PHV; Ward ECF 449 window; 28th accounting; scope/status of reported SDNY inquiry; New Mexico case service/answer/injunction status; Trust instrument exhibits if any in 03543. Prior G-01 through G-series remain open. New: G-NM-01 (unredacted complaint contents beyond RECAP redactions); G-NM-02 (answer deadline / response).
+
+5. AGENT SWARM STATUS
+AGENT-BLOODHOUND: CourtListener/PacerMonitor/RECAP sweep on 03543, 08047, 01204. AGENT-ONTOLOGIST: Trust now dual-role (asset holder + defendant). AGENT-DISTILLER: Separated allegation vs. response (Weiner denial). AGENT-SYNTHESIZER: Cross-walk to prior Ward settlement and USVI accounting series. SUB-AGENT_BLOODHOUNDS: X-lane secondary only; no primary new facts. All agents operated independently; no methodology mirroring.
+
+6. BACKUP / NEXT
+Memo and breadcrumb saved locally; uploaded to Google Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF and GitHub cantgetalonggta-png/strand-osint-mesh. Next cycle C803: monitor 03543 for answer/response and 01204 for ECF 449.
+End of Cycle 802 Educational Intel Memo. All content is open-source compilation for research purposes only.
