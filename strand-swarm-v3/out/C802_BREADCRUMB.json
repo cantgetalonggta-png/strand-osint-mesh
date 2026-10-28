@@ -1,18 +1,19 @@
 {
   "cycle": 802,
-  "date": "2026-10-27",
-  "time_pd_t": "17:19 PDT",
-  "time_et": "20:19 ET",
-  "status": "completed",
-  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C802-2026-10-27.pdf",
+  "date": "2026-10-28",
+  "time_et": "approx 12:13",
+  "status": "negative-control with process updates",
   "new_nodes": [
-    "State of New Mexico ex rel. Torrez v. Indyke et al. 1:26-cv-03543 (D.N.M.) filed 21 Oct 2026 naming THE 1953 TRUST",
-    "08047 ECF 21 Order on Motion for Extension of Time (27 Oct 2026)",
-    "Process-only: no Ward ECF 449; no 28th accounting; inquiry still uncharged"
+    "2d Cir. 26-2945 interlocutory appeal by pro se appellant Kamila Krchova Hofbauer of Ward ECF 445 (Sept 17 2026 order)",
+    "08047 ECF 21 Order by Mag. Valerie Figueredo (27 Oct 2026): answer/response deadline extended to 16 Dec 2026; anonymity briefing Nov 10/17",
+    "NM 1:26-cv-03543 Torrez v. Indyke: attorney association notices (Oct 26); complaint and seal motion on RECAP; no injunction yet; estate valuation lock ~$107M as of 30 Jun 2026 (27th accounting)"
   ],
-  "gaps_range": "G-01 through prior series + G-NM-01/G-NM-02",
-  "ward_status": "ECF 447-448; hearing 2 Dec 2026 14:00 ET",
-  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
-  "next_cycle": "C803"
+  "standing": {
+    "ward_01204": "ECF 447-448 cluster; hearing 2 Dec 2026 14:00 ET; last known filing 15 Oct 2026",
+    "08047": "ECF 21; PHV Jean Sutton Martin still deficient; no full RECAP on recent",
+    "nm_03543": "filed 21 Oct 2026; THE 1953 TRUST named; seeks block on $50M/$25M bequests",
+    "accounting": "no 28th; last public ~$107.645M gross / 27th to 30 Jun 2026",
+    "inquiry": "SDNY/FBI still uncharged"
+  },
+  "gaps": "G-01–G- prior + new on appeal text, 08047 ECF 21 full text, NM injunction status, 28th accounting"
 }

@@ -1,0 +1,26 @@
+STRAND 1953 TRUST INTEL MEMO – CYCLE 802
+Date: 2026-10-28 ~12:13 ET
+Status: Process updates; no corpus breakthrough
+
+STANDING:
+- Ward v. Indyke 1:24-cv-01204-AS (SDNY): Last known filing 15 Oct 2026. ECF 447/448 cluster. Final hearing remains 2 Dec 2026 14:00 ET. No ECF 449+.
+- Interlocutory Appeal: 2d Cir. No. 26-2945, filed 15-16 Oct 2026 by pro se appellant Kamila Krchova Hofbauer, challenging the district court order of 17 Sep 2026 (ECF 445). Instructional forms sent; Ruzumna notified re admission.
+- Doe v. Indyke 1:26-cv-08047 (SDNY, Woods III / Mag. Figueredo): Last known 27 Oct 2026. ECF 21 Order on Motion for Extension of Time by Mag. Valerie Figueredo: Defendants' deadline to answer or respond to Complaint extended to 16 Dec 2026. Defendants to respond to Motion to Proceed Anonymously (ECF 4) by 10 Nov 2026; reply by 17 Nov 2026. Prior PHV by Jean Sutton Martin (AWKO) remains deficient (no ECF 14 resolution). Recent appearances (ECF 16-18), memo endorsement (19), extension request (20).
+- State of New Mexico ex rel. Torrez v. Indyke et al. 1:26-cv-03543 (D.N.M.): Filed 21 Oct 2026. Names Indyke, Kahn, Estate, THE 1953 TRUST. Seeks injunction blocking distributions/bequests ($50M Indyke / $25M Kahn), TVPA and NM RICO claims re Zorro Ranch facilitation (allegations only; denied by counsel). Complaint (49 pp) and seal motion on RECAP. Attorney association notices filed ~26 Oct. No injunction order located. Estate valued at >$107M as of 30 Jun 2026 public accounting (27th).
+- No 28th interim accounting located.
+- Reported SDNY criminal inquiry into Indyke/Kahn remains uncharged (no official confirmation; counsel: no subpoena/subject notice).
+
+NEW NODES:
+- Kamila Krchova Hofbauer (pro se appellant, 26-2945).
+- Mag. Figueredo 27 Oct 2026 extension order in 08047 (answer to 16 Dec 2026).
+- NM case docket progression (attorney notices).
+
+GAPS (priority):
+- Full text of 08047 ECF 21 and prior recent ECFs.
+- Appeal record / grounds in 26-2945.
+- NM injunction status / answer deadlines.
+- 28th accounting.
+- Inquiry scope/confirmation.
+
+Drive folder: 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF
+Next: C803 post-hearing window / daily ECF check.
