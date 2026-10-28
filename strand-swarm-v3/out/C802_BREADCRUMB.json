@@ -1,0 +1,18 @@
+{
+  "cycle": 802,
+  "date": "2026-10-27",
+  "time_pd_t": "17:19 PDT",
+  "time_et": "20:19 ET",
+  "status": "completed",
+  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C802-2026-10-27.pdf",
+  "new_nodes": [
+    "State of New Mexico ex rel. Torrez v. Indyke et al. 1:26-cv-03543 (D.N.M.) filed 21 Oct 2026 naming THE 1953 TRUST",
+    "08047 ECF 21 Order on Motion for Extension of Time (27 Oct 2026)",
+    "Process-only: no Ward ECF 449; no 28th accounting; inquiry still uncharged"
+  ],
+  "gaps_range": "G-01 through prior series + G-NM-01/G-NM-02",
+  "ward_status": "ECF 447-448; hearing 2 Dec 2026 14:00 ET",
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next_cycle": "C803"
+}
