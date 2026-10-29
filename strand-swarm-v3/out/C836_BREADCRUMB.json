@@ -1,0 +1,13 @@
+{
+  "cycle": 836,
+  "timestamp_et": "2026-10-29T13:13:00-04:00",
+  "status": "negative-control with confirmation of NM case naming Trust",
+  "dockets": {
+    "1:24-cv-01204": "CL last updated ~Oct 26 11:49 a.m.; last known filing Oct 15 (ECF ~449 Hofbauer interlocutory / CA2 26-2945); hearing still 2 Dec 2026 14:00 ET; no 28th accounting",
+    "1:26-cv-08047": "ECF 21 (27 Oct) order: answer/response to Dec 16 2026; anon motion responses Nov 10/17; last updated 27 Oct 5:09 p.m.; PHV Martin still in process",
+    "1:26-cv-03543": "NM AG Torrez v. Indyke/Kahn/Estate/THE 1953 TRUST filed 21 Oct; complaint 49 pp available; Motley Rice associations ECF 5-10 ~26 Oct; seeks block on $50M/$25M bequests + damages; estate ~$107M as of 30 Jun 2026"
+  },
+  "inquiry": "SDNY/FBI still uncharged as of last public reports",
+  "new_nodes": ["Motley Rice as lead counsel on 03543 (Goldstein 29 Oct)", "THE 1953 TRUST explicit defendant in D.N.M. civil TVPA/racketeering"],
+  "gaps": "G-01\u2013prior + 03543 full docket text, PHV resolution, 28th accounting, uncharged inquiry scope"
+}
