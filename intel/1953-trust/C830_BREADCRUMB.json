@@ -1,0 +1,26 @@
+{
+  "cycle": 830,
+  "date": "2026-10-28",
+  "timestamp_pdt": "18:17",
+  "timestamp_et": "21:17",
+  "target": "THE 1953 TRUST",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C830-2026-10-28.pdf",
+  "new_nodes": [
+    "1:26-cv-03543 docket hold confirmed through 28 Oct (last filing 26 Oct Motley Rice association notices text-only; CourtListener updated 28 Oct 10:43 a.m.)",
+    "Motley Rice counsel associations (Linda Singer, Carmen S. Scott, Jessica F. Crowder) reconfirmed for NM AG action naming THE 1953 TRUST",
+    "Process-only negative-control: Ward no ECF beyond 449 (appeal notice); no 28th accounting; SDNY inquiry uncharged; CA2 26-2945 open"
+  ],
+  "status": {
+    "ward_hearing": "2 Dec 2026 14:00 ET",
+    "ward_last_ecf": "449 (appeal notice)",
+    "ca2_appeal": "26-2945",
+    "08047_answer_deadline": "16 Dec 2026",
+    "03543_last_filing": "26 Oct 2026",
+    "28th_accounting": "none",
+    "sdny_inquiry": "uncharged"
+  },
+  "gaps": "G-01\u2013prior + 03543 complaint full text / responses; Ward appeal docket; 08047 PHV/answer; 28th accounting; inquiry scope",
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C831 (03543 responses / Ward appeal / 08047 / accounting window)"
+}
