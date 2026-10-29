@@ -1,0 +1,20 @@
+{
+  "cycle": 836,
+  "date": "2026-10-29",
+  "timestamp_et": "16:12",
+  "type": "process-only negative-control",
+  "nodes": {
+    "01204": "CL last updated 26 Oct 11:49 a.m.; last filing ECF 449 15 Oct; hearing 2 Dec 2026 14:00 ET",
+    "08047": "CL last updated 27 Oct 5:09 p.m.; ECF 21 27 Oct Order on Extension; answer 16 Dec 2026",
+    "03543": "CL last updated 28 Oct 10:43 a.m.; last filing 26 Oct Motley Rice associations ECF 5-10; THE 1953 TRUST named",
+    "settlement": "site last updated 5 Oct; deadlines 23 Nov / hearing 2 Dec 14:00 ET",
+    "accounting": "no 28th",
+    "inquiry": "uncharged"
+  },
+  "new_reinforced": [
+    "Motley Rice (Singer/Scott/Crowder) leading 03543; Goldstein 29 Oct confirmation; prior USVI retainer",
+    "Money Times 29 Oct estate restatement"
+  ],
+  "gaps": "priority unchanged + Motley Rice prior-representation details",
+  "next": "C837 later 29 Oct ET / 30 Oct"
+}

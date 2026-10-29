@@ -1,32 +1,26 @@
-STRAND-1953-TRUST-INTEL-MEMO-C836-2026-10-29
+STRAND OSINT MESH — THE 1953 TRUST
+Cycle 836 Educational Intelligence Memorandum
+Date: 2026-10-29 (Thursday ~16:12 ET / 13:12 PDT)
+Classification: Educational / Open-Source Compilation — Not Legal Advice
 
-Educational OSINT Cycle 836
-Date: 29 October 2026 ~13:13 ET / 10:13 PDT
-Permanent mission target: THE 1953 TRUST (Epstein pour-over USVI trust, 8 Aug 2019)
+1. Executive Summary
+Cycle 836 is a process-only negative-control sweep after C835. Primary nodes remain stable: Ward v. Indyke 1:24-cv-01204-AS last known filing ECF 449 (15 Oct 2026 Hofbauer interlocutory appeal) / CA2 26-2945; hearing still 2 Dec 2026 14:00 ET. 1:26-cv-08047 last known ECF 21 (27 Oct Order on Motion for Extension of Time; answer deadline 16 Dec 2026 + anon briefing). 1:26-cv-03543 Raul Torrez v. Indyke (D.N.M.) last known filing 26 Oct Motley Rice associations (ECF 5–10); CourtListener last updated 28 Oct 10:43 a.m. No 28th accounting filed. SDNY/FBI inquiry remains uncharged. Settlement website last updated 5 Oct; questionnaire/opt-out/objection deadline 23 Nov 2026; hearing 2 Dec 2026 14:00 ET. New reinforcement: Motley Rice (Linda Singer, Carmen S. Scott, Jessica F. Crowder) leading the New Mexico action (Goldstein 29 Oct). Money Times 29 Oct restates estate-value and non-payment claims.
 
-SUMMARY
-Negative-control sweep with affirmative confirmation that THE 1953 TRUST is a named defendant in the new District of New Mexico civil enforcement action. No new ECF in the primary SDNY class action (1:24-cv-01204) since mid-October. 08047 has a fresh extension order. SDNY criminal inquiry remains uncharged. No 28th accounting located.
+2. Docket Status Locks
+1:24-cv-01204 (Ward): CL last updated 26 Oct 11:49 a.m.; last filing 15 Oct ECF 449; Hearing 2 Dec 2026 14:00 ET; no ECF 450+
+1:26-cv-08047 (Doe/Amy): CL last updated 27 Oct 5:09 p.m.; ECF 21 27 Oct; Answer 16 Dec 2026; PHV Jean Sutton Martin still deficient history
+1:26-cv-03543 (Torrez): CL last updated 28 Oct 10:43 a.m.; last filing 26 Oct ECF 5–10; Motley Rice associations locked; THE 1953 TRUST named defendant
 
-DOCKET STATUS
-- Ward v. Indyke / Doe 3 v. Indyke, 1:24-cv-01204 (SDNY, Subramanian): CourtListener last updated ~26 Oct 11:49 a.m.; last known filing 15 Oct (ECF 449 area \u2013 Hofbauer interlocutory appeal; related CA2 26-2945). Final hearing remains 2 December 2026 14:00 ET. Settlement still pending final approval after supplemental notice. No 28th accounting.
+3. New / Reinforced Nodes
+• Motley Rice LLC identity lock on 03543: Linda Singer (DC), Carmen S. Scott, Jessica F. Crowder (both SC). Goldstein (NYT) 29 Oct confirms Motley Rice leading NM suit (same firm previously retained by USVI against estate and JPMorgan). • Money Times 29 Oct: restates ~$127M vintage accounting comparator, Kahn deposition estimate of decade-long administration, $250k executor fee undrawn, likely zero residual from 1953 Trust. • Settlement Fund site still stamped 5 Oct; deadlines unchanged. • No new ECF on 01204 or 08047. No 28th USVI accounting. Inquiry remains uncharged.
 
-- Doe v. Indyke, 1:26-cv-08047 (SDNY, Woods III / Figueredo): Last updated 27 Oct 5:09 p.m. ECF 21 (27 Oct) Order on Motion for Extension of Time: Defendants\u2019 answer/response deadline extended to 16 December 2026. Response to Motion to Proceed Anonymously due 10 Nov; reply 17 Nov. Earlier PHV (Jean Sutton Martin / AWKO) was deficient; status unresolved in public CL.
+4. Gaps (priority carry-forward)
+G-series continues: priority on ECF 14/15 text in 08047, PHV resolution for Martin, ECF 450+ in 01204, 28th accounting, uncharged SDNY inquiry scope, 03543 service and response deadlines, Motley Rice conflict/prior-representation details, beneficiary-count collision, Valar maturity, VIBIR answer status.
 
-- State of New Mexico ex rel. Ra\u00fal Torrez v. Indyke et al., 1:26-cv-03543 (D.N.M., Fouratt / Robbenhaar): Filed 21 October 2026. Defendants: Darren K. Indyke (indiv. + executor/admin), Richard D. Kahn (same), Estate of Jeffrey E. Epstein, and THE 1953 TRUST. 49-page complaint alleges facilitation, financing, and concealment of sex trafficking (TVPA + NM Racketeering), including activity at Zorro Ranch. Seeks injunction against profit from the estate (including the $50 million Indyke / $25 million Kahn bequests), restitution, and damages. Estate valued at ~$107 million as of the 30 June 2026 accounting (down from ~$578 million at 2019 probate). Motley Rice counsel associations noted (ECF 5\u201310 around 26 Oct). Complaint available via CourtListener RECAP. Defendants\u2019 counsel has publicly rejected the knowing-facilitation allegations.
+5. Process Metrics
+Header dwells continue. Empty primary X-lane beyond secondary reprints and Goldstein Motley Rice note. Next: C837 later 29 Oct ET / 30 Oct.
 
-OTHER NODES
-- Simone K. Lelchuk remains the Ward Fund Administrator (and prior JPM/DB QSF roles); joined JAMS New York 30 Sep 2026.
-- NYT\u2019s Matthew Goldstein (29 Oct) notes Motley Rice leading the NM suit (same firm previously retained by USVI against the estate and JPMorgan).
-- No public confirmation of charges in the reported SDNY/FBI inquiry into Indyke/Kahn.
+6. Sources (open)
+CourtListener; sdnysettlementfund2026.com; Matt Goldstein 29 Oct; Money Times 29 Oct; prior mesh. Educational compilation only.
 
-GAPS (priority)
-- Full text / subsequent docket of 1:26-cv-03543
-- Resolution of 08047 PHV and service
-- Whether ECF 450+ appears in 01204 before 2 Dec hearing
-- 28th accounting
-- Scope and status of any uncharged SDNY inquiry
-- Intersection of NM action with residual Trust corpus and Ward settlement funding
-
-Next window: Monitor 2 Dec 2026 14:00 ET final hearing in 01204 and 16 Dec answer deadline in 08047; continue NM case tracking.
-
-Backup: Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF; GitHub cantgetalonggta-png/strand-osint-mesh.
+End of Cycle 836 Memo — Permanent mission: THE 1953 TRUST.
