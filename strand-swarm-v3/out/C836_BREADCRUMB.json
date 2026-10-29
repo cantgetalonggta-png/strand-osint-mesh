@@ -1,1 +1,15 @@
-{"cycle": 836, "date": "2026-10-29", "primary_node": "NM AG Torrez v. Indyke 1:26-cv-03543 naming THE 1953 TRUST", "estate_value": ">$107M (30 Jun 2026)", "bequests": {"Indyke": 50000000, "Kahn": 25000000}, "motley_rice": true, "status": "Ward hearing 2 Dec 2026; 08047 answer 16 Dec 2026; inquiry uncharged; no 28th accounting"}
+{
+  "cycle": 836,
+  "timestamp_pdt": "2026-10-29T14:15:00-07:00",
+  "timestamp_et": "2026-10-29T17:15:00-04:00",
+  "status": "process-only negative-control",
+  "dockets": {
+    "1:24-cv-01204": {"cl_last": "2026-10-26 11:49 a.m.", "last_ecf": "449 (15 Oct Hofbauer interlocutory / CA2 26-2945)", "hearing": "2026-12-02 14:00 ET"},
+    "1:26-cv-08047": {"cl_last": "2026-10-27 17:09", "last_ecf": "21 (27 Oct Order on Mot. Ext. Time)", "notes": "answer ~16 Dec 2026"},
+    "1:26-cv-03543": {"cl_last": "2026-10-28 10:43 a.m.", "last_ecf": "5-10 (26 Oct Motley Rice associations)", "defendants": "Indyke, Kahn, Estate, THE 1953 TRUST", "counsel": "Linda Singer, Carmen S. Scott, Jessica F. Crowder (Motley Rice)"}
+  },
+  "new_nodes": ["Motley Rice formal association on 03543", "Goldstein 29 Oct X note on Motley Rice lead"],
+  "gaps": "G-01\u2013prior + 03543 response/freeze, 08047 ECF 22+, 01204 ECF 450+, 28th accounting, uncharged inquiry",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C836-2026-10-29.pdf",
+  "next": "C837 later 29 Oct / 30 Oct ET"
+}
