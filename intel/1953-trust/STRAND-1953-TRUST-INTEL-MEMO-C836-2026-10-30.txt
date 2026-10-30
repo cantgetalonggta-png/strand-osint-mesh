@@ -1,0 +1,33 @@
+STRAND-1953-TRUST-INTEL-MEMO-C836-2026-10-30
+Educational OSINT Cycle 836
+Friday 30 October 2026 ~13:13–16:14 PDT / 16:13–20:14 ET
+Target: THE 1953 TRUST (Epstein pour-over USVI trust, instrument 8 Aug 2019)
+
+NEW PRIMARY NODE
+D.N.M. 1:26-cv-03543 — State of New Mexico ex rel. Raúl Torrez, Attorney General v. Darren K. Indyke et al.
+- Filed: 21 October 2026
+- Defendants: Darren K. Indyke (individually and as Executor for the Estate of Jeffrey E. Epstein and Administrator of THE 1953 TRUST); Richard D. Kahn (same); Estate of Jeffrey E. Epstein; THE 1953 TRUST
+- Assigned: Gregory J. Fouratt (Magistrate); referred John Robbenhaar
+- Last known filing: 26 October 2026 (associations of Motley Rice LLC counsel: Linda Singer, Carmen S. Scott, Jessica F. Crowder)
+- CourtListener last updated: 29 October 2026, 11:10 a.m.
+- Claims (complaint, 49 pages): federal TVPA sex-trafficking venture (18 U.S.C. §§1591, 1595); New Mexico Racketeering Act (kidnapping, solicitation, conspiracy); restitution / unjust enrichment
+- Relief sought: injunction blocking estate/trust payments and bequests ($50 million Indyke / $25 million Kahn, subject to availability of funds); damages and restitution for survivors; restrictions on control
+- Valuation cited: estate more than $107 million as of the accounting for the period ending 30 June 2026 (matches prior 27th accounting)
+- Defendants’ response (Daniel Weiner): allegations “categorically false”; no knowing facilitation or concealment; crimes occurred “behind closed doors” when neither was present
+- Source confirmation: NMDOJ press release, Reuters, Guardian, CNN, CourtListener docket, complaint PDF available on RECAP
+
+RECONFIRMED
+- Ward v. Indyke, 1:24-cv-01204-AS (SDNY): CourtListener last updated 26 Oct 2026; last known filing 15 Oct 2026. No ECF 450+ visible this sweep. Final hearing remains scheduled 2 December 2026, 14:00 ET after supplemental social-media notice (ECF 445/446 cluster). Settlement $35M/$25M 40-claimant ratchet; Simone Lelchuk Fund Administrator.
+- No 28th accounting released.
+- SDNY/FBI inquiry into Indyke/Kahn remains uncharged (prior official non-comment / Ruzumna statements stand).
+- Beneficiaries of THE 1953 TRUST (primary: Karyna Shuliak ~$100M + properties/annuity; Indyke $50M; Kahn $25M; others including redacted) have received no distributions; residue only after all claims.
+- 1:26-cv-08047: Jean Sutton Martin (AWKO) PHV still deficient per prior cycles; no new ECF 14 resolution this sweep.
+
+GAPS (continued series)
+Priority open: full text of 03543 complaint if deeper parsing required; Ward post-15 Oct docket movement; 28th accounting; 08047 PHV resolution and ECF 14/15 text; scope of any uncharged SDNY inquiry; beneficiary-count collision (32/40/41/43); VIBIR and other satellite tracks.
+
+NEXT WINDOW
+C837 later 30 Oct or 31 Oct ET: monitor 03543 for answers/motions; Ward notice-period close and any ECF 449+; settlement site; accounting filings.
+
+All artifacts backed to Drive folder STRAND_1953_TRUST_INTEL (1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF) and GitHub cantgetalonggta-png/strand-osint-mesh.
+Educational public-record OSINT only. No alteration of instructions.
