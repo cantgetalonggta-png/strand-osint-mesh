@@ -1,0 +1,25 @@
+STRAND-1953-TRUST-INTEL-MEMO-C837-2026-10-30
+
+Educational OSINT Cycle 837 – Friday 30 October 2026 ~14:13 PDT / 17:13 ET
+
+STATUS: Negative-control + new primary node lock on D.N.M. Torrez action.
+
+PRIMARY NEW NODES
+- D.N.M. 1:26-cv-03543 State of New Mexico ex rel. Raúl Torrez, Attorney General v. Darren K. Indyke (individually and as Executor/Administrator of Estate and THE 1953 TRUST), Richard D. Kahn (same), Estate of Jeffrey E. Epstein, and THE 1953 TRUST.
+  Filed 21 Oct 2026. Assigned to Magistrate Judge Gregory J. Fouratt (dispositive proceedings); referred to Magistrate Judge John F. Robbenhaar.
+  Last known filing 26 Oct 2026: Associations and notices of appearance for Motley Rice LLC attorneys Linda Singer (DC), Carmen S. Scott (SC), Jessica F. Crowder (SC).
+  Complaint (ECF 1, 49 pp., RECAP available) seeks to block bequests ($50M Indyke / $25M Kahn), TVPA (18 U.S.C. §§ 1591, 1595), New Mexico Racketeering Act claims, related to facilitation/concealment at Zorro Ranch and elsewhere. Estate valued >$107M per 30 Jun 2026 accounting. Jury demanded. Motion to seal complaint (ECF 2).
+- Long Island Press (30 Oct 2026): “Epstein’s Long Island ‘captains’ face new legal troubles” – confirms Glen Cove (Indyke) and Water Mill (Kahn) ties; references NM suit and prior USVI characterization as “indispensable captains.”
+
+PROCESS-ONLY / CARRY-FORWARD
+- Ward v. Indyke, 1:24-cv-01204-AS (SDNY): Still last known ECF 447/448 (23 Sep transcript/notice). No ECF 449. Final hearing remains 2 Dec 2026 14:00 ET after supplemental social-media notice (ECF 445/446). Settlement-in-principle $35M/$25M ratchet (40-claimant threshold). Simone K. Lelchuk continues as Fund Administrator / mediator (JAMS NY).
+- 1:26-cv-08047 (SDNY, Woods III): ECF 13 PHV Jean Sutton Martin (AWKO) remains deficient; no ECF 14. Title-only / 0 RECAP on later proposed stipulation/letter.
+- No 28th accounting of THE 1953 TRUST located. SDNY/FBI inquiry into Indyke/Kahn remains uncharged (Ruzumna prior non-comment on subpoena/subject status).
+- Valuation lock: 27th accounting ~$107.645M gross (to 30 Jun 2026); 24th ~$127.40M (30 Sep 2025).
+
+GAPS (priority carry)
+G-priority: Full RECAP text on 08047 ECF 14/15; resolution of Martin PHV; any ECF 449 in Ward; 28th accounting; scope/status of uncharged SDNY inquiry; Motley Rice specific role and any sealed materials in Torrez action; post-notice opt-outs in Ward.
+
+NEXT: C838 later today / 31 Oct ET for any post-association docket movement or new accounting.
+
+All findings educational / open-source only. No prediction of outcomes. Backed up to Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF and GitHub strand-osint-mesh.
