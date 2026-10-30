@@ -1,18 +1,15 @@
 {
   "cycle": 837,
   "date": "2026-10-30",
-  "timestamp_et": "17:13 ET",
-  "timestamp_pdt": "14:13 PDT",
-  "status": "completed",
-  "primary_nodes": [
-    "D.N.M. 1:26-cv-03543 Torrez v. Indyke et al. (THE 1953 TRUST named defendant; Motley Rice associations 26 Oct; valuation >$107M; seeks block $50M/$25M bequests)",
-    "Long Island Press 30 Oct 2026 article on Indyke/Kahn local ties and new legal troubles"
-  ],
-  "process_notes": [
-    "Ward last known 15 Oct, CL 26 Oct, hearing 2 Dec 2026; no 28th accounting; inquiry uncharged",
-    "08047 still ECF 13 PHV deficient Jean Sutton Martin/AWKO; no ECF 14/15 text"
-  ],
-  "gaps": "G-01–G- prior series priority: ECF 14/15 text, PHV resolution, ECF 449, 28th accounting, uncharged inquiry, Motley Rice role in NM suit",
+  "timestamp_utc": "2026-10-30T22:14:00Z",
+  "timestamp_pdt": "2026-10-30T15:13:00-07:00",
+  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C837-2026-10-30.pdf",
+  "primary_node": "D.N.M. 1:26-cv-03543 Torrez v. Indyke et al. (THE 1953 TRUST named defendant; Motley Rice associations 26 Oct; valuation >$107M; seeks block $50M/$25M bequests)",
+  "ward_status": "ECF 447-448; hearing 2 Dec 2026 14:00 ET; no ECF 449 confirmed; CL last ~26 Oct",
+  "08047_status": "activity through ~ECF 21 (27 Oct); PHV deficient carry; Woods III / Figueredo",
+  "accounting": "no 28th; 27th >$107M to 30 Jun 2026",
+  "inquiry": "uncharged",
   "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "next": "C838 later 30 Oct / 31 Oct ET"
+  "gaps_priority": ["NM complaint full text/service", "Ward ECF 449", "28th accounting", "PHV resolution", "inquiry scope"],
+  "agents": ["Bloodhound", "Distiller", "Synthesizer", "Upgrader", "Ontologist"]
 }
