@@ -1,0 +1,1 @@
+See PDF in Drive; cycle summary: NM 1:26-cv-03543 naming THE 1953 TRUST (filed 21 Oct, Motley Rice assoc 26 Oct, CL 29 Oct). 08047 ECF 21 extends answer to 16 Dec 2026. Ward still 2 Dec 2026. No 28th accounting; inquiry uncharged.
