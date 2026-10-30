@@ -1,18 +1,24 @@
 {
-  "cycle": "C836",
-  "date": "2026-10-30",
-  "time_et": "14:13 ET",
-  "status": "completed",
+  "cycle": 836,
+  "timestamp_pdt": "2026-10-30T12:15:00-07:00",
+  "timestamp_et": "2026-10-30T15:15:00-04:00",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C836-2026-10-30.pdf",
   "new_nodes": [
-    "1:26-cv-03543 (D.N.M.) State of New Mexico ex rel. Raúl Torrez v. Indyke, Kahn, Estate of Jeffrey E. Epstein, THE 1953 TRUST (filed Oct 21, 2026; 49-pg complaint; seeks to block $50M/$25M bequests and estate payments under TVPA + NM RICO; estate >$107M as of June 30, 2026)",
-    "Survivors Julia Molchanova and Anouska De Georgiou at NM announcement",
-    "Ward 1:24-cv-01204 ECF 449 Notice of Interlocutory Appeal (Oct 15, 2026 by Kamila Krachova Hofbaver from ECF 445)",
-    "08047 ECF 21 (Oct 27, 2026): answer deadline extended to Dec 16, 2026; anonymity briefing Nov 10/17",
-    "Long Island Press Oct 30, 2026 article on Indyke/Kahn new legal troubles"
+    "1:26-cv-03543 Torrez v. Indyke/Kahn/Estate/THE 1953 TRUST (D.N.M. 21 Oct 2026; RECAP complaint)",
+    "Motley Rice counsel associations (Linda Singer, Carmen S. Scott, Jessica F. Crowder) 26 Oct",
+    "Estate ~$107M as of 30 Jun 2026 (27th accounting)",
+    "Long Island Press 30 Oct secondary confirmation"
   ],
-  "process_notes": "Negative-control on prior gaps; NM suit is first LE action naming THE 1953 TRUST as defendant (asset holder only). No 28th accounting; SDNY inquiry still uncharged. Ward hearing still 2 Dec 2026 14:00 ET.",
-  "gaps": "G-01–prior + G-new: 03543 full docket text/RECAP, unredacted complaint, service status, Ward CA2 26-2945 status, 28th accounting, inquiry scope",
+  "process_holds": {
+    "ward_01204": "last known filing 15 Oct 2026 (Hofbauer appeal); CL updated 26 Oct; no ECF 450+",
+    "08047": "last known 27 Oct ECF 21 (answer to 16 Dec 2026)",
+    "inquiry": "uncharged",
+    "28th_accounting": "absent"
+  },
+  "gaps": "G-01\u2013prior + G-NM1 complaint analysis, G-NM2 service/answer, G-NM3 intersection Ward/USVI",
   "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
-  "next": "C837 later 30 Oct / 31 Oct ET for 03543 developments and ECF pulls"
+  "drive_pdf_id": "1089cTglyBI8heJVRVbRMdS5vP-TJoDK2",
+  "drive_json_id": "1PfrJBOBUbeGVYid-jie3PM6jP4N8wrxw",
+  "github": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C837 monitor 03543 / Ward / 08047 / 28th accounting"
 }
