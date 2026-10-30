@@ -1,0 +1,19 @@
+STRAND 1953 TRUST INTEL MEMO — CYCLE 849
+Educational OSINT Compilation — 29 October 2026 17:18 PDT / 20:18 ET
+
+Status: Process-only negative-control after C848. No new ECF in 1:24-cv-01204 or 1:26-cv-08047. NM 1:26-cv-03543 docket holds with Motley Rice association notices.
+
+Key Nodes / Breadcrumbs
+• THE 1953 TRUST remains pour-over vehicle for Epstein estate (created/amended 8 Aug 2019). Co-trustees/executors: Darren K. Indyke & Richard D. Kahn. Eligible contingent bequests: $50M Indyke / $25M Kahn (priority after Shuliak). Estate ~$107.645M gross as of 30 Jun 2026 27th accounting; no 28th accounting filed.
+• New Mexico action — State of New Mexico ex rel. Raúl Torrez v. Indyke et al., 1:26-cv-03543 (D.N.M., filed 21 Oct 2026). Names Indyke, Kahn, Estate of Jeffrey E. Epstein, and THE 1953 TRUST as defendants. Civil claims under TVPA / NM RICO seeking to enjoin $75M combined payouts, divestiture, damages for survivors. Focus includes Zorro Ranch (Stanley, NM). Motley Rice counsel associated (ECF 5–10 cluster 26 Oct). Docket last updated 28 Oct; no answer yet. Complaint cites 27th accounting.
+• Ward v. Indyke 1:24-cv-01204-AS (SDNY): Last known filing ECF 449 (15 Oct Hofbauer interlocutory). Hearing remains 2 Dec 2026 14:00 ET (ECF 445/446 cluster). Settlement $35M/$25M ratchet still pending final approval. CL last-updated ~26 Oct. No ECF 450+.
+• 1:26-cv-08047 Doe v. Indyke (SDNY, Woods III / Figueredo): ECF 21 (27 Oct) grants partial extension — answer due 16 Dec 2026; anon motion responses 10/17 Nov 2026. PHV Jean Sutton Martin (AWKO) remains deficient (ECF 13). No ECF 22+.
+• SDNY/FBI inquiry into Indyke/Kahn remains uncharged (Ruzumna: no subpoena received). 40/41/43 beneficiary-count collision persists. No new 28th accounting. Valar / liquidating fund status open.
+
+Gaps (priority carry)
+G-series continues: NM complaint full text / Motley Rice role confirmation; 28th accounting; ECF 449+ in 01204; RECAP on 08047 ECF 13–21; inquiry scope; VIBIR / Deckoff adjacency; LSJVI / CZM; Caterpillar / Hyperion paths.
+
+Sources (public OSINT only)
+CourtListener / PACER Monitor / NMDOJ press / Reuters / CNN / Guardian / VI Consortium / Goldstein X post 29 Oct. All allegations unproven; defendants deny knowledge/facilitation.
+
+Next cycle: C850 — Thursday evening / Friday 30 Oct ET clerk-open window for ECF 450 / NM answer / 28th accounting. Drive folder: 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF. GitHub: cantgetalonggta-png/strand-osint-mesh.
