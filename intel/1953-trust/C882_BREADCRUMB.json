@@ -1,0 +1,36 @@
+{
+  "cycle": 882,
+  "date": "2026-10-31",
+  "timestamp_et": "12:14",
+  "timestamp_pdt": "09:14",
+  "status": "weekend_clerk_closed_negative_control",
+  "new_nodes": [
+    "Raul Torrez v. Indyke et al. 1:26-cv-03543 (D.N.M.) filed 2026-10-21 naming THE 1953 TRUST; enjoin $50M/$25M bequests; Motley Rice counsel",
+    "08047 ECF 21 (2026-10-27) Order on Motion for Extension of Time",
+    "Simone K. Lelchuk joined JAMS NY 2026-09-30"
+  ],
+  "ward_01204": {
+    "last_known_filing": "2026-10-15",
+    "cl_updated": "2026-10-26 11:49",
+    "ecf_449": false,
+    "hearing": "2026-12-02 14:00 ET",
+    "accounting_28th": false
+  },
+  "08047": {
+    "last_known_filing": "2026-10-27",
+    "cl_updated": "2026-10-27 17:09",
+    "ecf_21": true,
+    "phv_martin": "deficient_notice_prior"
+  },
+  "nm_03543": {
+    "filed": "2026-10-21",
+    "last_known": "2026-10-26",
+    "cl_updated": "2026-10-29",
+    "defendants": ["Indyke", "Kahn", "Estate", "THE 1953 TRUST"],
+    "judge": "Gregory J. Fouratt"
+  },
+  "inquiry": "uncharged",
+  "gaps_priority": ["03543_text_service", "28th_accounting", "ECF_449", "08047_ECF21_text", "PHV_resolution"],
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C883 Monday 2026-11-02 ET clerk-open"
+}
