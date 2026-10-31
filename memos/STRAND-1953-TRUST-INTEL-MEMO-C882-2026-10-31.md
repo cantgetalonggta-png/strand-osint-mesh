@@ -1,0 +1,1 @@
+See PDF artifact. Educational OSINT Cycle 882 (31 Oct 2026): New Mexico AG civil action 1:26-cv-03543 names THE 1953 TRUST. Estate >$107M; $50M/$25M bequests targeted. Ward still ECF 447-448 / 2 Dec 2026 hearing. Inquiry uncharged.
