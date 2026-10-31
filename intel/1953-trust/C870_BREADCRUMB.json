@@ -1,0 +1,25 @@
+{
+  "cycle": 870,
+  "date": "2026-10-30",
+  "timestamp_et": "2026-10-30T21:16:00-04:00",
+  "status": "completed",
+  "type": "negative-control + new LE action",
+  "memo_pdf": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C870-2026-10-30.pdf",
+  "new_nodes": [
+    "1:26-cv-03543 Raul Torrez v. Indyke et al (D.N.M. filed 21 Oct 2026): 49-p complaint naming Estate, Indyke, Kahn, THE 1953 TRUST; blocks $50M/$25M bequests; Zorro Ranch facilitation allegations; first LE action",
+    "Counsel: Aletheia Allen (NMDOJ); Linda Singer (Motley Rice, former DC AG); Jessica F. Crowder; Carmen S. Scott",
+    "Long Island Press 30 Oct 2026: Indyke Glen Cove native; Kahn Water Mill; secondary on NM + federal + congressional",
+    "08047 ECF 21 (27 Oct): answer to 16 Dec 2026; anonymity response 10 Nov / reply 17 Nov (Figueredo)"
+  ],
+  "holds": {
+    "ward_01204": "no ECF 449; hearing 2 Dec 2026 14:00 ET",
+    "08047": "ECF 21 last known; CL hold",
+    "accounting": "no 28th; last 27th ~$107.645M to 30 Jun 2026",
+    "inquiry": "SDNY/FBI uncharged",
+    "settlement_site": "last stamp 5 Oct"
+  },
+  "gaps": "G-01–prior + G-NM1 complaint text; G-NM2 deadlines/TRO; G-NM3 Singer/Motley engagement; G-NM4 multi-jurisdiction intersection; G-08047 next; G-01204 ECF 449; G-28th; G-inquiry",
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C871 Saturday/Monday clerk-open ECF / docket window"
+}
