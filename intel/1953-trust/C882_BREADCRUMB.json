@@ -1,36 +1,16 @@
 {
   "cycle": 882,
   "date": "2026-10-31",
-  "timestamp_et": "12:14",
-  "timestamp_pdt": "09:14",
-  "status": "weekend_clerk_closed_negative_control",
-  "new_nodes": [
-    "Raul Torrez v. Indyke et al. 1:26-cv-03543 (D.N.M.) filed 2026-10-21 naming THE 1953 TRUST; enjoin $50M/$25M bequests; Motley Rice counsel",
-    "08047 ECF 21 (2026-10-27) Order on Motion for Extension of Time",
-    "Simone K. Lelchuk joined JAMS NY 2026-09-30"
+  "type": "negative-control + new node (NM AG lawsuit 1:26-cv-03543)",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C882-2026-10-31.md",
+  "key_nodes": [
+    "1:26-cv-03543 Raul Torrez v. Indyke et al. (D.N.M.) naming THE 1953 TRUST",
+    "Complaint alleges facilitation/concealment; seeks block on $50M/$25M bequests",
+    "Estate >$107M as of 30 Jun 2026 27th accounting",
+    "Ward 1:24-cv-01204 still no ECF 449; hearing 2 Dec 2026",
+    "08047 answer extended to 16 Dec 2026; Martin PHV deficient"
   ],
-  "ward_01204": {
-    "last_known_filing": "2026-10-15",
-    "cl_updated": "2026-10-26 11:49",
-    "ecf_449": false,
-    "hearing": "2026-12-02 14:00 ET",
-    "accounting_28th": false
-  },
-  "08047": {
-    "last_known_filing": "2026-10-27",
-    "cl_updated": "2026-10-27 17:09",
-    "ecf_21": true,
-    "phv_martin": "deficient_notice_prior"
-  },
-  "nm_03543": {
-    "filed": "2026-10-21",
-    "last_known": "2026-10-26",
-    "cl_updated": "2026-10-29",
-    "defendants": ["Indyke", "Kahn", "Estate", "THE 1953 TRUST"],
-    "judge": "Gregory J. Fouratt"
-  },
-  "inquiry": "uncharged",
-  "gaps_priority": ["03543_text_service", "28th_accounting", "ECF_449", "08047_ECF21_text", "PHV_resolution"],
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "next": "C883 Monday 2026-11-02 ET clerk-open"
+  "gaps": "G-01 onward + NM case service/response; 28th accounting; ECF 449; PHV; inquiry still uncharged",
+  "status": "Ward ECF 447-448; no 28th; inquiry uncharged; NM suit filed 21 Oct 2026",
+  "drive_file_ids": ["1waUWu2uGAXuq49edxaq_hRjH1X_zjJmp", "1P9brzkYscReXn8eenhiGrdprQ-F-ENDF"]
 }
