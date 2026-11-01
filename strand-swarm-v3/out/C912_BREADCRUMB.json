@@ -1,0 +1,16 @@
+{
+  "cycle": 912,
+  "timestamp_utc": "2026-11-01T21:15:00Z",
+  "status": "negative-control process-only",
+  "ward_01204_last_known_filing": "2026-10-15",
+  "ward_hearing": "2026-12-02 14:00 ET",
+  "no_ecf_449": true,
+  "settlement_site_last_updated": "2026-10-05",
+  "08047_ecf21_answer_due": "2026-12-16",
+  "torrez_03543_filed": "2026-10-21",
+  "torrez_names_1953_trust": true,
+  "estate_valuation_jun2026": "~107.6M",
+  "no_28th_accounting": true,
+  "inquiry_uncharged": true,
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C912-2026-11-01.pdf"
+}
