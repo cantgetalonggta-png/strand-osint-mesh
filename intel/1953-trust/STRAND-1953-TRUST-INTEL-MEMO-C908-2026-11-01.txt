@@ -1,0 +1,40 @@
+STRAND Educational Intelligence Memo
+THE 1953 TRUST — Cycle 908
+Sunday, 1 November 2026 | ~12:15 ET / 09:15 PDT
+Classification: Educational / Open-Source Compilation | Permanent Mission Target: THE 1953 TRUST
+
+1. Executive Summary
+Cycle 908 is a Sunday negative-control / status-update cycle. No new ECF activity on the primary SDNY tracks (Ward 1:24-cv-01204 or 1:26-cv-08047) beyond previously recorded filings. The dominant new node is the 21 October 2026 civil action filed by the New Mexico Attorney General naming THE 1953 TRUST as a defendant. Estate valuation remains the June 30, 2026 accounting figure of approximately $107 million. No 28th accounting has been located. The SDNY criminal inquiry into Indyke and Kahn remains uncharged. Ward final-approval hearing remains scheduled for 2 December 2026 at 14:00 ET.
+
+2. Primary New Node — New Mexico Civil Action
+Case: State of New Mexico ex rel. Raúl Torrez, Attorney General v. Darren K. Indyke, et al., No. 1:26-cv-03543 (D.N.M.), filed 21 October 2026.
+Defendants: Darren K. Indyke (individual + capacity as Executor of the Estate of Jeffrey E. Epstein and Administrator of the 1953 Trust); Richard D. Kahn (same capacities); Estate of Jeffrey E. Epstein; THE 1953 TRUST.
+Judge: United States Magistrate Judge Gregory J. Fouratt (referred); John F. Robbenhaar also noted.
+Claims: Federal Trafficking Victims Protection Act (18 U.S.C. §§ 1591–1595) and New Mexico Racketeering Act. Parens patriae action seeking to prevent Indyke and Kahn from profiting from the alleged enterprise, including blocking receipt of the $50 million and $25 million bequests respectively, and recovery of damages for survivors. The Trust is named because it holds the assets of the Estate, not because the Trust itself is alleged to have engaged in the underlying conduct.
+Key factual anchors in the 49-page complaint: Estate valued at $577,672,654 as of the August 2019 probate petition; public accounting through 30 June 2026 shows value over $107 million. Indyke received more than $16 million (2011–2019) plus a $7 million unrepaid loan and other benefits; Kahn received more than $10 million in the same window plus payments to HBRK Associates. Both are described as current trustees/administrators of the 1953 Trust and co-executors. Zorro Ranch (Stanley, NM) is central to the jurisdictional and factual allegations. Recent docket activity limited to notices of association for outside counsel (Motley Rice LLC attorneys).
+Sources: CourtListener RECAP PDF of ECF 1; PACER Monitor public docket; contemporaneous reporting by Reuters, Guardian, CBS, CNN, Forbes, New Mexico DOJ press release, Santa Fe New Mexican, and others. All allegations remain unadjudicated.
+
+3. Status of Core Dockets
+1:24-cv-01204-AS (Ward v. Indyke, SDNY): CourtListener last updated 26 October 2026; last known filing 15 October 2026. No ECF 449 or final judgment located. Final hearing remains set for 2 December 2026 at 14:00 ET following the supplemental social-media notice ordered in ECF 445/446. Settlement-in-principle from December 2025 continues under the extended notice period.
+1:26-cv-08047 (Doe v. Indyke / Woods III, SDNY): Last known filing ECF 21 (27 October 2026) — Order granting in part motion for extension of time. Defendants’ answer or response to the Complaint due 16 December 2026. Defendants ordered to respond to Plaintiffs’ Motion to Proceed Anonymously by 10 November 2026; reply due 17 November 2026. Prior PHV deficiency for Jean Sutton Martin (AWKO) and subsequent proposed stipulation/letter filings remain title-only or deficient on public RECAP mirrors. No resolution of the anonymity motion or entry of appearance completing the PHV process located.
+
+4. Accounting and Asset Status
+No 28th accounting of the Estate or 1953 Trust has been identified. The most recent publicly cited figure remains the 27th accounting covering the period ending 30 June 2026, showing gross assets of approximately $107.645 million (with quantified liabilities). Earlier 24th accounting (period ending 30 September 2025) reported $127.40 million. The New Mexico complaint consistently cites the >$107 million June 2026 figure. Probate continues in the Superior Court of the U.S. Virgin Islands under the pour-over will dated 8 August 2019 into the 1953 Trust (created/restated 18 January 2019 and amended 8 August 2019).
+
+5. Criminal Inquiry Status
+The September 2026 reports of an uncharged SDNY/FBI inquiry into Indyke and Kahn (WSJ, NYT, NBC, etc.) have not been followed by public charging documents or formal confirmation of target/subject status. Defense counsel previously stated that neither man had been subpoenaed or told he was a subject or target. The New Mexico action is civil only; New Mexico’s separate Zorro Ranch probe (reopened February 2026) has produced no criminal charges as of this cycle. No new federal or territorial charging information located.
+
+6. Gaps and Open Items (priority)
+G-series continues. Priority open items for this cycle:
+• Full text and exhibits of the New Mexico complaint beyond the public RECAP version (any sealed portions or attachments).
+• Service and answer deadlines in 1:26-cv-03543; any motion to dismiss or preliminary-injunction practice regarding trust distributions.
+• Confirmation whether any distributions from the 1953 Trust have occurred or remain frozen pending Ward, 08047, NM action, and USVI probate.
+• 28th accounting (expected next periodic filing in USVI probate).
+• Resolution of 08047 anonymity motion and PHV status; any new counsel appearances.
+• Ward ECF 449+ and final-approval order after 2 December 2026 hearing.
+• Scope and status of the uncharged SDNY inquiry (any grand-jury activity, subpoenas, or no-charge decision).
+
+7. Process Notes
+Sunday clerk’s office closed. Negative-control sweep of CourtListener, PACER Monitor public pages, and open-web reporting. No new primary-source filings on the SDNY tracks beyond the 27 October 08047 order already noted. All characterizations of allegations in the New Mexico complaint are drawn from the public complaint text and contemporaneous reporting; they are not findings of fact.
+
+End of Cycle 908 Memo — Educational compilation only. Next window: Monday 2 November 2026 ET clerk-open for any new ECF activity on 01204, 08047, or 03543.
