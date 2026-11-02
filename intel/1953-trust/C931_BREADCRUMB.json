@@ -1,23 +1,22 @@
 {
   "cycle": 931,
   "date": "2026-11-02",
-  "time_et": "14:12",
-  "type": "negative-control process-only",
-  "ward_01204": {
-    "last_known_filing": "2026-10-15",
-    "last_updated_cl": "2026-10-26 11:49",
-    "ecf_status": "no 450+",
-    "hearing": "2026-12-02 14:00 ET"
+  "time_window": "Monday ~14:13 PDT / 17:13 ET",
+  "type": "process-only negative-control + major new node",
+  "new_nodes": [
+    "State of New Mexico ex rel. Raúl Torrez v. Indyke et al., 1:26-cv-03543 (D.N.M.) filed 21 Oct 2026 naming Estate and THE 1953 TRUST",
+    "Torrez complaint (ECF 1, 49 pp.) alleges TVPA/NM RICO facilitation at Zorro Ranch; seeks block on $50M/$25M bequests",
+    "08047 ECF 21 (27 Oct) extends answer to 16 Dec 2026; anon response due 10 Nov"
+  ],
+  "status": {
+    "ward_01204": "last known filing 15 Oct 2026; CL updated 26 Oct; no ECF 450; hearing 2 Dec 2026 14:00 ET",
+    "08047": "ECF 21 controlling; answer 16 Dec; PHV still deficient",
+    "accounting": "no 28th; 27th to 30 Jun 2026 $107.645M",
+    "inquiry": "still uncharged"
   },
-  "doe_08047": {
-    "ecf_21": "2026-10-27 Figueredo order: answer extended to 2026-12-16; anon responses 2026-11-10 / replies 2026-11-17",
-    "phv_martin": "ECF 13 deficient, no ECF 14"
-  },
-  "nm_torrez": "filed 2026-10-21 D.N.M. names Indyke/Kahn/Estate/1953 Trust; targets $75M bequests",
-  "accounting": "no 28th; last public ~$107M as of 2026-06-30",
-  "inquiry": "SDNY still uncharged",
-  "new_nodes": ["LR60271 LLC / N722BD adjacency via 1209 N Orange / Neptune LLC / EFTA01480854", "USVI Bill 36-0277 advanced"],
-  "gaps": ["G-01204-450+", "G-08047-PHV", "G-08047-ANSWER", "G-08047-ANON", "G-NM-01", "G-ACCT-28", "G-INQ", "G-TRUST", "G-HEARING-02DEC"],
+  "gaps": "G-NM-01/02; G-01204-450+; G-08047-PHV/ANSWER/ANON; G-ACCT-28; G-INQ; G-HEARING-02DEC",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C931-2026-11-02.pdf",
   "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "next": "C932 08047 anon response window / ECF 450+ / 2 Dec prep"
+  "drive_pdf_id": "1KmLBFzPm5tgmIQ3j6dmTwDqlFzQICjuJ",
+  "drive_json_id": "14qH-WeTYacBzGhtB-G3DxVmW9LyCflm0"
 }
