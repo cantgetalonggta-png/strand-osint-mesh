@@ -1,21 +1,17 @@
 {
   "cycle": 931,
   "date": "2026-11-02",
-  "time_et": "12:15",
-  "status": "process-only / negative-control",
-  "new_nodes": [
-    "Raul Torrez / NMDOJ 1:26-cv-03543 (D.N.M. 21 Oct 2026) naming THE 1953 TRUST as defendant",
-    "Judge Gregory J. Fouratt / John F. Robbenhaar",
-    "Kamila Hofbaver ECF 449 interlocutory appeal (15 Oct 2026)"
-  ],
-  "confirmed": [
-    "Ward 1:24-cv-01204 last known ECF 449; hearing 2 Dec 2026 14:00 ET",
-    "Claims deadline 23 Nov 2026",
-    "Estate ~$107M (27th accounting to 30 Jun 2026)",
-    "Inquiry still uncharged",
-    "No 28th accounting"
-  ],
-  "gaps": ["G-01204-450+", "G-NM-01", "G-ACCT-28", "G-INQ", "G-TRUST"],
+  "time_et": "~16:13",
+  "type": "process-only negative-control",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C931-2026-11-02.pdf",
+  "status": {
+    "ward_01204": "ECF 447-448 + 449 (15 Oct interlocutory appeal); no 450; hearing 2 Dec 2026 14:00 ET",
+    "08047": "ECF 21 (27 Oct) controlling; answer ~16 Dec; anon 10 Nov; PHV deficient",
+    "nm_torrez": "1:26-cv-03543 filed 21 Oct; asset-reach ongoing",
+    "usvi_probate": "27th accounting to 30 Jun 2026; no 28th",
+    "inquiry": "uncharged"
+  },
+  "gaps": ["G-01204-450+", "G-08047-PHV", "G-08047-ANSWER", "G-08047-ANON", "G-NM-01", "G-ACCT-28", "G-INQ", "G-TRUST", "G-HEARING-02DEC"],
   "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
   "next": "C932 later 2 Nov / 3 Nov ET"
 }
