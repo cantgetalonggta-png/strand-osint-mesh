@@ -1,17 +1,15 @@
 {
-  "cycle": 911,
+  "cycle": "C911",
   "date": "2026-11-01",
-  "timestamp_et": "2026-11-01T17:14:00-05:00",
-  "status": "completed",
-  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C911-2026-11-01.pdf",
+  "timestamp_et": "2026-11-01 ~19:19 ET",
+  "target": "THE 1953 TRUST",
   "new_nodes": [
-    "1:26-cv-03543 Raul Torrez v. Indyke et al. (D.N.M. 21 Oct 2026) naming THE 1953 TRUST + Estate + Indyke + Kahn; seeks block on $50M/$25M bequests, divestment, TVPA/NM RICO damages; Zorro Ranch facilitation allegations; first LE action",
-    "08047: ECF 21 (27 Oct) answer extended to 16 Dec 2026; anonymity briefing Nov 10/17; Weiner/Weinstein/Tabatabai counsel",
-    "Ward 01204: last known filing 15 Oct 2026 NOTICE OF INTERLOCUTORY APPEAL from ECF 445; hearing still 2 Dec 2026 14:00 ET"
+    "Raul Torrez v. Indyke et al., 1:26-cv-03543 (D.N.M. filed 21 Oct 2026): Complaint names Darren K. Indyke, Richard D. Kahn, Estate of Jeffrey E. Epstein, and THE 1953 TRUST as defendants. Seeks to block estate/trust payouts to Indyke ($50M eligible) and Kahn ($25M eligible), damages under TVPA and NM Racketeering Act for alleged facilitation/concealment of trafficking at Zorro Ranch. Mag. Judge Gregory J. Fouratt assigned. Out-of-district counsel Motley Rice (Linda Singer et al.). Last known ECF ~10 (26 Oct 2026 associations). First law-enforcement action against the co-executors.",
+    "Process confirmation: Ward v. Indyke 1:24-cv-01204-AS still last known ECF 447/448 cluster; final approval hearing remains 2 Dec 2026 14:00 ET. No 28th accounting. SDNY/FBI inquiry still uncharged.",
+    "08047 (Woods III / Jane Doe CSAM class) activity noted through late Oct; PHV and response deadlines extended into Dec."
   ],
-  "gaps": "G-01\u2013prior + G-NM1 complaint text; G-NM2 03543 deadlines; G-NM3 probate effect; G-449 appeal text; G-08047 anonymity/answer; G-28th accounting; G-inquiry uncharged",
-  "lock": "No 28th accounting; inquiry still uncharged; Trust payments frozen; Ward hearing 2 Dec 2026",
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "github": "cantgetalonggta-png/strand-osint-mesh",
-  "next": "C912 post-11 Nov anonymity window / Dec hearing prep"
+  "gaps": "G-01–G-prior series continue; new priority G-NM01: full complaint text analysis + Zorro Ranch specific allegations; G-NM02: service and answer deadlines; G-NM03: intersection with USVI probate and Ward settlement; G-NM04: Motley Rice role; G-NM05: criminal probe status (ongoing, no charges).",
+  "status": "Ward hearing still 2 Dec 2026 14:00 ET; no 28th accounting; inquiry still uncharged. NM suit is new active front against 1953 Trust corpus control.",
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C912 monitor NM docket for answers/motions; Ward ECF 449 window; 08047 response deadlines."
 }
