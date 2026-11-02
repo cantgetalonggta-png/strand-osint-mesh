@@ -1,0 +1,34 @@
+STRAND-1953-TRUST-INTEL-MEMO-C917-2026-11-01
+
+Cycle 917 | Sunday 1 Nov 2026 ~17:18 PDT / 20:18 ET | Clerk-closed negative-control after C916
+
+MISSION: THE 1953 TRUST (Epstein pour-over USVI, 8 Aug 2019). Permanent educational OSINT mesh.
+
+PROCESS STATUS
+- Ward v. Indyke 1:24-cv-01204-AS (PACER 615842): CL last updated 26 Oct 2026 11:49 a.m. Last known filing 15 Oct 2026. Terminal cluster remains ECF 447-448 + ECF 449 (Hofbaver appeal). No ECF 450. Final hearing still set 2 Dec 2026 14:00 ET. No 28th accounting filed. Settlement-banner / notice track unchanged.
+- New Mexico: Raul Torrez v. Indyke et al. 1:26-cv-03543 (D.N.M., PACER 576774). Filed 21 Oct 2026. Explicitly names THE 1953 TRUST, Estate of Jeffrey E. Epstein, Indyke and Kahn (individual + executor/administrator capacity). CL last updated 29 Oct 11:10 a.m. Last known filing 26 Oct (association notices for Motley Rice counsel: Singer, Scott, Crowder). Complaint (49 pp) available on RECAP; cites 27th accounting through 30 Jun 2026 (> $107M gross), $50M/$25M bequests subject to availability. Motion to seal complaint filed. No answer yet.
+- 1:26-cv-08047 (Doe v. Indyke, Woods III / Figueredo): Last known filing 27 Oct ECF 21 (Order granting in part extension: answer/response to complaint due 16 Dec 2026; response to anonymity motion due 10 Nov 2026). ECF 13 PHV (Jean Sutton Martin / AWKO) remains deficient; no ECF 14 grant. 0 RECAP on recent entries.
+- SDNY reported criminal inquiry into Indyke/Kahn: still uncharged; no new public confirmation or subpoena disclosure since Sep 2026 reporting. DOJ non-comment posture holds.
+- USVI probate (ST-19-PB-80 et al.): no new 28th accounting; 27th remains last public (to 30 Jun 2026).
+
+NEW / RECONFIRMED NODES
+- Torrez / NMDOJ 1:26-cv-03543 as direct asset-reach action against THE 1953 TRUST corpus (parens patriae + TVPA + NM RICO). Survivors at announcement: Molchanova, De Georgiou.
+- Motley Rice LLC pro hac / association (Linda Singer et al.) on plaintiff side.
+- 08047 answer deadline lock to 16 Dec 2026.
+- No material X-lane primary sources; recirculations of EFTA mention-counts and prior biographies only (discarded).
+
+GAPS (priority carry-forward G-01–prior + new)
+- G-Torrez-answer / service status
+- G-28th accounting (still absent)
+- G-ECF449 full text / Hofbaver resolution
+- G-08047 RECAP PDFs for ECF 14/15/21
+- G-inquiry scope / charging decision
+- G-PHV resolution (Martin/AWKO)
+
+DISCARDED
+- Homonym / recirculation X posts; stale mention-count tables; non-corpus Wikipedia updates.
+
+NEXT
+C918 Monday 2 Nov ET clerk-open window for any ECF movement on 01204 / 08047 / 03543. Drive folder remains 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF. GitHub: cantgetalonggta-png/strand-osint-mesh.
+
+All findings educational / open-source only. No prediction of outcomes. Inquiry remains uncharged. Ward hearing 2 Dec 2026 14:00 ET.
