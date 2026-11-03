@@ -1,0 +1,32 @@
+{
+  "cycle": 952,
+  "timestamp_et": "2026-11-03T15:13:00-05:00",
+  "type": "negative-control / process-confirmation",
+  "ward_01204": {
+    "last_known_filing": "2026-10-15",
+    "cl_header": "2026-10-26 11:49 a.m.",
+    "terminal_ecf": "447-448",
+    "hearing": "2026-12-02 14:00 ET",
+    "ecf_449": false
+  },
+  "nm_03543": {
+    "filed": "2026-10-21",
+    "last_known": "2026-10-26",
+    "trust_named": true,
+    "motley_rice_associated": true,
+    "injunction_issued": false
+  },
+  "doe_08047": {
+    "answer_deadline": "2026-12-16",
+    "anon_response_due": "2026-11-10"
+  },
+  "accounting_28th": false,
+  "inquiry_uncharged": true,
+  "gaps_priority": ["G-01204-449/450", "G-08047-PHV/ANON/ANSWER", "G-NM-01/02/03", "G-ACCT-28", "G-INQ", "G-HEARING-2DEC"],
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "drive_file_ids": {
+    "pdf": "1fsmqRuSSV4oDiAryzVF_vVMHtHU94fJu",
+    "json": "1cxzuNiHYVK2Mkoc-koyZC-l5_rkVzZoW"
+  }
+}
