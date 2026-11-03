@@ -1,0 +1,29 @@
+{
+  "cycle": 954,
+  "date": "2026-11-03",
+  "time_et": "14:12",
+  "type": "negative-control / process-confirmation",
+  "nodes": {
+    "nm_1_26_cv_03543": {
+      "status": "filed 21 Oct 2026; last known 26 Oct 2026",
+      "defendants": ["Darren K. Indyke", "Richard D. Kahn", "Estate of Jeffrey E. Epstein", "THE 1953 TRUST"],
+      "relief": "block $50M/$25M bequests, damages, disgorgement, TVPA/racketeering re Zorro Ranch",
+      "estate_valuation_cited": ">$107M as of 30 Jun 2026"
+    },
+    "ward_1_24_cv_01204": {
+      "cl_last_updated": "2026-10-26 11:49",
+      "last_known_filing": "2026-10-15",
+      "ecf_449": false,
+      "hearing": "2026-12-02 14:00 ET"
+    },
+    "doe_1_26_cv_08047": {
+      "last_known": "ECF 21 2026-10-27",
+      "answer_due": "2026-12-16",
+      "anonymity_response_due": "2026-11-10"
+    }
+  },
+  "gaps_priority": ["G-01204-449", "G-08047-ANON-10NOV", "G-NM-03543", "G-ACCT-28", "G-INQ", "G-HEARING"],
+  "inquiry": "SDNY still uncharged",
+  "accounting": "no 28th public; 27th to 30 Jun 2026 remains cited",
+  "next": "C955 – 10 Nov anonymity window + ECF 449 watch"
+}
