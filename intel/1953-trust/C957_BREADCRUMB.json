@@ -1,17 +1,19 @@
 {
   "cycle": 957,
   "date": "2026-11-03",
-  "time_et": "16:14",
-  "type": "process-only negative-control",
-  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C957-2026-11-03.pdf",
-  "status": {
-    "ward_01204": "ECF 447-448; last known filing 15 Oct 2026; hearing 2 Dec 2026 14:00 ET; no ECF 449",
-    "doe_08047": "last known filing 27 Oct 2026; Jean Sutton Martin/AWKO PHV deficient; no ECF 14",
-    "nm_03543": "filed 21 Oct 2026; last known 26 Oct; names 1953 Trust; >$107M as of 30 Jun 2026",
-    "accounting": "no 28th; 27th ~$107.645M to 30 Jun 2026; 24th ~$127.40M",
-    "inquiry": "SDNY/FBI uncharged"
-  },
-  "new_nodes": ["Money Times 3 Nov 2026 recirculation (~$127M)", "Wikipedia update ~2 Nov"],
-  "gaps": ["G-01204-449", "G-08047-PHV", "G-08047-ANON", "G-NM-03543", "G-ACCT-28", "G-INQ", "G-HEARING-2DEC", "G-VALAR"],
-  "next": "C958 later 3/4 Nov ET"
+  "time_et": "18:15",
+  "status": "negative-control / process-confirmation",
+  "summary": "Tuesday late-afternoon ET negative-control after C956. No ECF 449 in 1:24-cv-01204 (last known Oct 15 2026; CL updated Oct 26). 08047 last known ECF 21 (answer extended to 16 Dec 2026). NM 1:26-cv-03543 last known Oct 26. No 28th accounting. Inquiry still uncharged. Core nodes unchanged: Indyke, Kahn, 1953 Trust, Estate, Shuliak, Torrez et al.",
+  "new_nodes": [],
+  "process_nodes": [
+    "CL 01204 last-updated 26 Oct 11:49 / last filing 15 Oct (no ECF 449)",
+    "08047 last known ECF 21 27 Oct (anonymity response due 10 Nov, answer 16 Dec)",
+    "NM 1:26-cv-03543 at association (Motley Rice/Linda Singer etc.)",
+    "settlement-banner / site stamp 5 Oct continued",
+    "no 28th USVI accounting",
+    "SDNY/FBI inquiry still uncharged"
+  ],
+  "gaps": "G-01\u2013G- prior series priority: G-01204-449, G-08047-ANON-10NOV, G-08047-PHV, G-NM-03543, G-ACCT-28, G-INQ, G-HEARING-2DEC",
+  "ward_status": "ECF 447-448, hearing 2 Dec 2026 14:00 ET",
+  "next": "C958 later 3 Nov or 4 Nov ET ECF 449 / 08047 / NM window"
 }
