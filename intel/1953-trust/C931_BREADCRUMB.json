@@ -1,22 +1,24 @@
 {
   "cycle": 931,
   "date": "2026-11-02",
-  "time_window": "Monday ~14:13 PDT / 17:13 ET",
+  "time_et": "~20:16",
   "type": "process-only negative-control + major new node",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C931-2026-11-02.pdf",
+  "drive_file_id": "1sIQOUnACvFRPSXeo9mLiGVsKIPHKQy0r",
   "new_nodes": [
-    "State of New Mexico ex rel. Raúl Torrez v. Indyke et al., 1:26-cv-03543 (D.N.M.) filed 21 Oct 2026 naming Estate and THE 1953 TRUST",
-    "Torrez complaint (ECF 1, 49 pp.) alleges TVPA/NM RICO facilitation at Zorro Ranch; seeks block on $50M/$25M bequests",
-    "08047 ECF 21 (27 Oct) extends answer to 16 Dec 2026; anon response due 10 Nov"
+    "1:26-cv-03543 (D.N.M.) Raul Torrez v. Indyke, Kahn, Estate of Jeffrey E. Epstein, THE 1953 TRUST (filed 21 Oct 2026; Fouratt/Robbenhaar; injunction on payouts; TVPA/NM RICO; Zorro Ranch; $50M/$25M bequests subject to funds; estate >$107M)",
+    "08047 ECF 21 (27 Oct) controlling: answer 16 Dec 2026; anon response due 10 Nov 2026",
+    "Jean Sutton Martin/AWKO PHV still deficient",
+    "01204 CL last updated 26 Oct 2026; last known filing 15 Oct 2026; no ECF 450+; hearing 2 Dec 2026 14:00 ET",
+    "Adjacency: LR60271 LLC / N722BD at 1209 N Orange St (Neptune/Kahn/Indyke/Beller)"
   ],
   "status": {
-    "ward_01204": "last known filing 15 Oct 2026; CL updated 26 Oct; no ECF 450; hearing 2 Dec 2026 14:00 ET",
-    "08047": "ECF 21 controlling; answer 16 Dec; PHV still deficient",
-    "accounting": "no 28th; 27th to 30 Jun 2026 $107.645M",
-    "inquiry": "still uncharged"
+    "ward_01204": "ECF ~447-448/449 range; no final judgment; hearing 2 Dec 2026",
+    "08047": "ECF 21 controlling; answer 16 Dec; anon due 10 Nov",
+    "nm_torrez": "1:26-cv-03543 active",
+    "accounting_28th": "absent",
+    "inquiry": "uncharged"
   },
-  "gaps": "G-NM-01/02; G-01204-450+; G-08047-PHV/ANSWER/ANON; G-ACCT-28; G-INQ; G-HEARING-02DEC",
-  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C931-2026-11-02.pdf",
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "drive_pdf_id": "1KmLBFzPm5tgmIQ3j6dmTwDqlFzQICjuJ",
-  "drive_json_id": "14qH-WeTYacBzGhtB-G3DxVmW9LyCflm0"
+  "gaps": ["G-01204-450+", "G-08047-PHV", "G-08047-ANSWER", "G-NM-01", "G-ACCT-28", "G-INQ", "G-TRUST", "G-HEARING-02DEC"],
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF"
 }
