@@ -1,36 +1,54 @@
-# STRAND 1953 TRUST INTEL MEMO — CYCLE 931
+# STRAND 1953 TRUST INTEL MEMO – Cycle 931
+## Educational OSINT Summary – 2026-11-03 (UTC) / Monday 02 Nov 2026 evening PST
+**Target:** THE 1953 TRUST (Epstein pour-over USVI trust, 8 Aug 2019)
+**Cycle Focus:** New Mexico AG civil action (1:26-cv-03543) + Ward interlocutory appeal status + process confirmation
 
-**Educational / OSINT Compilation Grade — Not Legal Advice**  
-Generated: 2026-11-02 ~13:12 ET / 10:12 PDT
+### Executive Snapshot
+- **New primary node:** Raul Torrez v. Indyke et al., 1:26-cv-03543 (D.N.M., filed 21 Oct 2026). First law-enforcement civil action against Indyke/Kahn naming THE 1953 TRUST as defendant. Seeks injunction blocking $50M/$25M bequests, TVPA/NM RICO claims, damages for survivors. Estate valued >$107M (as of 30 Jun 2026 accounting). Motley Rice counsel associated. Last known filings 26 Oct (association notices). No answers on record.
+- **Ward v. Indyke (1:24-cv-01204-AS):** ECF 449 (15 Oct 2026) Notice of Interlocutory Appeal from ECF 445 Order, filed by Kamila Krachova Hofbaver. Appealed to 2nd Cir. as 26-2945. Final approval hearing remains 2 Dec 2026 14:00 ET. No final judgment entered. Settlement banner/process continues.
+- **Status locks:** No 28th accounting public. SDNY criminal inquiry remains uncharged. 08047 PHV (Jean Sutton Martin/AWKO) and related tracks ongoing. Gaps continue series G-01–prior + new priority items below.
 
-**MISSION TARGET:** THE 1953 TRUST (Epstein pour-over USVI trust, 8 Aug 2019). Permanent STRAND mission.
+### New Nodes & Affirmations
+1. **1:26-cv-03543 (D.N.M.) – Torrez v. Indyke/Kahn/Estate/THE 1953 TRUST**
+   - Filed 21 Oct 2026 by NM AG Raúl Torrez (parens patriae).
+   - Defendants: Darren K. Indyke (indiv. + executor/admin), Richard D. Kahn (same), Estate of Jeffrey E. Epstein, THE 1953 TRUST.
+   - Allegations: Facilitation/financing/concealment of trafficking enterprise (incl. Zorro Ranch); prior personal receipts >$16M (Indyke) / >$10M (Kahn) 2011–2019; 2011 Zorro title transfer by Indyke.
+   - Relief: Block estate payments/bequests during pendency; racketeering/trafficking findings; divestiture; damages.
+   - Counsel: Aletheia Allen (NMDOJ); associated Motley Rice (Linda Singer, Carmen S. Scott, Jessica F. Crowder).
+   - ECF notes: Motion to seal complaint (ECF 2); assignment to Mag. Fouratt (dispositive). Last known 26 Oct association notices. Complaint public on CL (49 pp.).
+   - Defense position (Weiner): Emphatic rejection of knowing facilitation; conduct “behind closed doors.”
+   - Citations: NMDOJ press release; Reuters/CBS/CNBC/Forbes/Guardian coverage 21 Oct 2026; CourtListener docket 74996376; PACER Monitor.
 
-## CYCLE SUMMARY
-Monday 2 Nov 2026 clerk-open process-only negative-control after prior cycles. Primary new node is the New Mexico AG civil action directly naming THE 1953 TRUST as a defendant. No ECF 450 on 1:24-cv-01204; no 28th accounting; SDNY inquiry remains uncharged. Ward final hearing remains 2 Dec 2026 14:00 ET.
+2. **Ward Interlocutory Appeal**
+   - ECF 449 (15 Oct 2026): Notice of Interlocutory Appeal from ECF 445 Order by Kamila Krachova Hofbaver.
+   - 2nd Cir. docket 26-2945 opened 16 Oct 2026. Appellant Hofbaver (pro se appearance indicated). Appeal fee due window noted; record transmitted.
+   - Hearing calendar: 2 Dec 2026 14:00 ET final approval still scheduled (ECF 445/446 cluster). No ECF 450+ final judgment.
+   - Citations: CourtListener docket 68260876 (page summaries); Justia 26-2945.
 
-## NEW / REINFORCED NODES
-- **1:26-cv-03543 Raúl Torrez v. Indyke et al. (D.N.M.)**: Filed 21 Oct 2026. Plaintiff: State of New Mexico ex rel. AG Raúl Torrez. Defendants: Darren K. Indyke (indiv. + executor/admin), Richard D. Kahn (same), Estate of Jeffrey E. Epstein, and **THE 1953 TRUST**. Seeks to block $50M/$25M bequests, damages, disgorgement, injunctive relief re: alleged facilitation/concealment of trafficking incl. Zorro Ranch. First law-enforcement action against the co-trustees. Complaint ECF 1 (49 pp). Judge Fouratt / Mag. Robbenhaar. (Primary / CourtListener + press)
-- **ECF 449 1:24-cv-01204**: Notice of Interlocutory Appeal filed 15 Oct 2026 by Kamila Krachova Hofbaver from ECF 445 Order (further notice). Last known filing remains 15 Oct 2026; CL last updated 26 Oct 2026. No ECF 450 observed. (CourtListener)
-- **1:26-cv-08047 Doe v. Indyke**: Last known filing 27 Oct 2026 ECF 21 (Order on Motion for Extension of Time). Prior PHV (Jean Sutton Martin / AWKO) deficient notice remains; ECF 14/15 title-only. (CourtListener)
-- **Estate value lock**: Multiple sources continue to cite >$107M / $107.645M gross as of 30 Jun 2026 27th accounting. No 28th accounting located. (Compilation)
-- **Bequest characterization**: Indyke $50M / Kahn $25M (subject to available funds after creditors/claimants). Torrez action seeks to prevent distribution while litigation proceeds. (Primary)
+3. **Process Confirmations (negative-control carry)**
+   - No public 28th accounting (post-27th ~$107.645M gross / ≥$27M liabilities as of 30 Jun 2026).
+   - SDNY/FBI inquiry into Indyke/Kahn remains uncharged (prior WSJ/NYT/NBC confirmations; no new public charging).
+   - 08047 (Woods III): Prior PHV deficiency on Jean Sutton Martin/AWKO; recent Weiner/Weinstein notices of appearance ~15 Oct. Answer/anon tracks continue.
+   - Settlement fund admin: Simone K. Lelchuk (JAMS, joined 30 Sep 2026) continues dual role.
 
-## PROCESS STATUS (as of 2 Nov 2026 ~13:12 ET)
-- 1:24-cv-01204-AS (Ward v. Indyke): ECF 447-448 cluster + ECF 449 interlocutory appeal. Hearing still calendared 2 Dec 2026 14:00 ET. No final judgment entered. Settlement banner / notice process continues.
-- 1:26-cv-08047: Active; last filing 27 Oct 2026. No new substantive resolution on PHV or answer.
-- 1:26-cv-03543 (Torrez): Newly filed 21 Oct 2026; early stage (appearances, notices of association). THE 1953 TRUST is a named defendant.
-- No 28th interim accounting located in public sources.
-- SDNY/FBI inquiry into Indyke/Kahn remains uncharged (consistent with prior official non-comments and counsel statements).
-- USVI probate continues under Indyke/Kahn administration.
+### Gaps (Priority Carry + New)
+- G-NM-01: Full text analysis of Torrez complaint (sealing resolution? redactions?).
+- G-NM-02: Service/answer deadlines and any TRO/PI motion status in 03543.
+- G-NM-03: Motley Rice role intersection with prior USVI/JPM work.
+- G-01204-450+: Any post-449 filings or effect of interlocutory appeal on 2 Dec hearing.
+- G-HOFBAVER: Identity/role of Kamila Krachova Hofbaver (objector/claimant?).
+- G-ACCT-28: 28th accounting release.
+- G-INQ: Any public charging or formal target status in SDNY probe.
+- G-08047-PHV/ANSWER: Resolution of Martin PHV and case progress.
+- G-TRUST: Any new USVI probate accounting or distribution orders.
+- G-HEARING-02DEC: Status of supplemental social-media notice and claim/opt-out tallies ahead of 2 Dec.
 
-## GAPS (priority carry-forward + new)
-G-01204-450+ (no post-449 docket movement); G-08047-PHV / ANSWER / ANON; G-NM-01 (Torrez case service, response deadlines, any TRO/PI motion on trust assets); G-ACCT-28 (28th accounting); G-INQ (inquiry scope / charging decision); G-TRUST (full instrument text, sub-trusts, residual beneficiary mechanics); G-BEYOND (post-probate distribution); G-HEARING-02DEC. Additional: full RECAP of Torrez ECF 1 and any sealed exhibits; identity lock on Kamila Hofbaver interest in 01204 appeal.
+### Method Notes (Multi-Agent Mesh)
+- Bloodhound sweep: CourtListener/PACER Monitor + primary press (NMDOJ, Reuters, CNBC, CBS, Guardian).
+- Ontologist crosswalk: Trust as named defendant in first LE action; bequest priority vs. victim claims.
+- Distiller: Discarded homonyms (other Torrez cases, unrelated Martins). Confirmed Motley Rice association via docket text.
+- X-lane: Secondary amplification of NM suit (Goldstein 29 Oct note on Motley Rice); no new primary process signals.
+- Backup: Memo + breadcrumb to Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF and GitHub cantgetalonggta-png/strand-osint-mesh.
 
-## DISCARDED / LOW-GRADE
-Homonym collisions (other Ward, Torrez criminal cases, railway 08047, epsteinswatchlist recirculations). Secondary reprints of the 21 Oct Torrez filing that add no new primary facts beyond the complaint and AG press release. Mention-count X posts.
-
-## NEXT CYCLE GUIDANCE
-C932: Monitor 01204 for any response to ECF 449 or ECF 450+; 08047 for answer / PHV resolution; Torrez 1:26-cv-03543 for first defendant appearances or asset-preservation motions; any USVI 28th accounting filing. Continue Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF and GitHub cantgetalonggta-png/strand-osint-mesh backup protocol.
-
----
-END OF CYCLE 931 MEMO — Educational compilation only. All facts drawn from public CourtListener, PACER mirrors, and contemporaneous press as of 2 Nov 2026. No non-public sources used.
+**Next window:** C932 post-2 Nov clerk open / any 03543 answer or 01204 activity ahead of 2 Dec hearing.
+**Educational only. Public sources. No legal advice.**
