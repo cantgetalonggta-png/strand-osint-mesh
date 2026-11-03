@@ -1,0 +1,18 @@
+{
+  "cycle": 958,
+  "date": "2026-11-03",
+  "time_et": "17:14",
+  "type": "process-only negative-control",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C958-2026-11-03.pdf",
+  "status": {
+    "ward_01204": "ECF 447-448; last known filing 15 Oct 2026; CL updated 26 Oct 11:49; hearing 2 Dec 2026 14:00 ET; no ECF 449",
+    "doe_08047": "ECF 21 27 Oct 2026; anon response due 10 Nov 2026; answer 16 Dec 2026; PHV Jean Sutton Martin/AWKO deficient (ECF 13, no ECF 14)",
+    "nm_03543": "filed 21 Oct 2026; last known 26 Oct; Motley Rice/Linda Singer association; names 1953 Trust + Estate; >$107M as of 30 Jun 2026",
+    "accounting": "no 28th public; 27th ~$107.645M to 30 Jun 2026; 24th ~$127.40M (30 Sep 2025) comparator",
+    "inquiry": "SDNY/FBI still uncharged",
+    "settlement_site": "last updated 5 Oct 2026; deadline 23 Nov 2026; hearing 2 Dec"
+  },
+  "new_nodes": ["Money Times 3 Nov 2026 ~$127M recirculation (no new primary)", "process confirmation of no ECF 449 / no 08047 post-21"],
+  "gaps": ["G-01204-449", "G-08047-ANON-10NOV", "G-08047-PHV", "G-NM-03543", "G-ACCT-28", "G-INQ", "G-HEARING-2DEC", "G-VALAR"],
+  "next": "C959 later 3 Nov or 4 Nov ET (10 Nov window approaching)"
+}
