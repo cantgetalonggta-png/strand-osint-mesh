@@ -1,0 +1,21 @@
+{
+  "cycle": 961,
+  "date": "2026-11-03",
+  "time_et": "~19:18",
+  "type": "process-only negative-control",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C961-2026-11-03.pdf",
+  "status": {
+    "ward_01204": "ECF 447-448 terminal; no ECF 449; hearing 2 Dec 2026 14:00 ET",
+    "doe_08047": "ECF 21 (27 Oct) extension; answer due 16 Dec; anonymity response due 10 Nov 2026; PHV Martin deficient; PACER Monitor updated 1 Nov 23:59 EST",
+    "nm_03543": "Filed 21 Oct; THE 1953 TRUST named; last filing ~26 Oct; estate >$107M (30 Jun 2026 acct)",
+    "accounting": "no 28th public; 24th $127.402M (30 Sep 2025); 27th $107.645M (30 Jun 2026)",
+    "inquiry": "SDNY/FBI still uncharged"
+  },
+  "new_nodes": [
+    "Money Times 3 Nov 2026 recirculation of Mar 26 article (unpaid status, $127M, Valar)",
+    "10 Nov anonymity deadline T-7"
+  ],
+  "gaps": ["G-01204-449", "G-08047-ANON-10NOV", "G-08047-PHV", "G-NM-03543", "G-ACCT-28", "G-INQ", "G-HEARING-2DEC", "G-VALAR"],
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C962 monitor 10 Nov window"
+}
