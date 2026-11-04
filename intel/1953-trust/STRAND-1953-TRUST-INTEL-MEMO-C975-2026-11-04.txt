@@ -1,0 +1,22 @@
+STRAND 1953 TRUST INTEL MEMO – CYCLE 975
+Date: 2026-11-04 ~15:14 ET
+Educational/research OSINT only. No legal advice.
+
+PERMANENT TARGET: THE 1953 TRUST (Epstein pour-over USVI, executed ~8 Aug 2019).
+
+PROCESS STATUS (negative-control + new activity):
+- Ward v. Indyke et al., 1:24-cv-01204-AS (SDNY, Subramanian): CourtListener last updated 26 Oct 2026 11:49 a.m. ET; date of last known filing 15 Oct 2026. No ECF 449 observed. Final hearing remains scheduled 2 Dec 2026 14:00 ET after supplemental social-media notice (ECF 445/446 cluster). Settlement process ongoing; no final judgment.
+- Doe v. Indyke, 1:26-cv-08047 (SDNY, Woods III / Mag. Figueredo): PacerMonitor docket last updated ~11/02/2026. Key update: ECF 21 (27 Oct 2026) ORDER granting in part ECF 20 extension – defendants’ answer/response to Complaint due 16 Dec 2026; response to plaintiffs’ Motion to Proceed Anonymously due 10 Nov 2026, reply 17 Nov. Notices of Appearance by Daniel H. Weiner, Marc A. Weinstein, Faranak S. Tabatabai Asl for Indyke on 15 Oct. Jean Sutton Martin (AWKO) PHV motion (ECF 13) remains deficient (missing CO/MI/NC certs + wet signature).
+- State of New Mexico ex rel. Raúl Torrez v. Indyke et al., 1:26-cv-03543 (D.N.M.): Complaint filed 21 Oct 2026 naming Darren K. Indyke (indiv. + executor/admin), Richard D. Kahn (same), Estate of Jeffrey E. Epstein, and THE 1953 TRUST. Seeks to block payments/bequests ($50M Indyke / $25M Kahn contingent on funds), damages, disgorgement, injunctive relief under federal TVPA (18 U.S.C. §§1591, 1595(d)) and NM Racketeering Act (kidnapping, solicitation, conspiracy predicates) related to alleged facilitation/concealment at Zorro Ranch and elsewhere. Estate valued >$107M per accounting through 30 Jun 2026 (consistent with 27th accounting). Last known filing ~26 Oct 2026 (associations of Motley Rice counsel: Linda Singer, Carmen S. Scott, Jessica F. Crowder). Assigned Judge Gregory J. Fouratt / Mag. John Robbenhaar. Allegations disputed; no liability finding. First reported state AG civil enforcement action of this type against the co-executors/trustees (USVI prior action by Denise George noted in secondary coverage).
+- No 28th USVI accounting publicly located. SDNY/FBI inquiry into Indyke/Kahn (WSJ 23 Sep 2026 et al.) remains uncharged; DOJ non-comment; counsel report no subpoena / not told subject or target.
+
+NEW/REINFORCED NODES:
+- 1:26-cv-03543 (D.N.M.) as direct action naming the 1953 Trust as asset-holder defendant for relief.
+- 08047 answer deadline now 16 Dec 2026 (post-Ward hearing).
+- Motley Rice counsel entry in NM action.
+
+GAPS (priority carry-forward): ECF 449 text/status in 01204; 28th accounting; full RECAP of 08047 ECF 14/15/21 and 03543 complaint exhibits; PHV resolution for Martin; scope/status of any SDNY probe; service/response timeline in 03543; beneficiary-count and residue quantification collisions; USVI probate remainder timing.
+
+Next window: post-16 Dec answer deadline in 08047; 2 Dec Ward hearing; any 28th accounting or inquiry developments.
+
+All findings compilation-grade from public docket headers, news, and secondary reports. Verify primary sources.
