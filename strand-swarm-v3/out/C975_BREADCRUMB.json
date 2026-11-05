@@ -1,18 +1,21 @@
 {
   "cycle": 975,
   "date": "2026-11-04",
-  "time_et": "15:14",
-  "summary": "Process-plus negative-control after prior cycles. New/reinforced nodes: NM 1:26-cv-03543 Torrez v. Indyke/Kahn/Estate/1953 Trust filed 21 Oct 2026 (complaint names THE 1953 TRUST; seeks block of $50M/$25M bequests + damages under TVPA/NM RICO; estate ~$107M as of 30 Jun 2026 27th accounting; last known filing 26 Oct; Judge Fouratt/Mag Robbenhaar; Motley Rice associations). 08047 ECF 21 (27 Oct) extends answer to 16 Dec 2026 + anonymity response deadlines 10/17 Nov; Weiner/Weinstein/Tabatabai Asl NOAs 15 Oct; Martin PHV still deficient. Ward 01204 CL last-updated 26 Oct 11:49 a.m., last known filing 15 Oct, no ECF 449. No 28th accounting; SDNY inquiry still uncharged.",
-  "new_nodes": [
-    "NM 1:26-cv-03543 Raul Torrez v. Indyke et al. (D.N.M.)",
-    "08047 ECF 21 Order on Extension (answer 16 Dec 2026)",
-    "Linda Singer / Carmen S. Scott / Jessica F. Crowder (Motley Rice) associations in 03543"
-  ],
-  "gaps": "G-01–G-prior series continued; priority: ECF 449, 28th accounting, PHV resolution, 03543 service/response, inquiry status",
-  "status": {
-    "ward_hearing": "2 Dec 2026 14:00 ET",
-    "ward_last_ecf": "447-448 cluster",
-    "no_28th_accounting": true,
-    "inquiry_uncharged": true
-  }
+  "time_pst": "16:16",
+  "status": "negative-control",
+  "ward_01204_last_known": "2026-10-15",
+  "ward_cl_updated": "2026-10-26",
+  "ecf_449": false,
+  "hearing": "2026-12-02 14:00 ET",
+  "08047_last_known": "2026-10-27 ECF 21",
+  "answer_due": "2026-12-16",
+  "nm_03543_filed": "2026-10-21",
+  "estate_value_cited": "~$107M (30 Jun 2026)",
+  "28th_accounting": false,
+  "inquiry_uncharged": true,
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C975-2026-11-04.pdf",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "drive_pdf_id": "1naQ96-UL-XwQYzjCyvYCeSP9E0vuguA2",
+  "drive_json_id": "1ovsg_xRpf6GN2A_g_Wkxxc2hAxtVjjGB",
+  "notes": "Updated from concurrent process; no material new ECFs beyond prior."
 }
