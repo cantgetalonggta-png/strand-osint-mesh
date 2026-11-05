@@ -1,0 +1,31 @@
+STRAND-1953-TRUST-INTEL-MEMO-C995-2026-11-05
+Cycle 995 | Educational OSINT | 2026-11-05 ~19:15 UTC / 14:15 ET
+
+OBJECTIVE: Negative-control + node expansion on THE 1953 TRUST (Epstein pour-over USVI, 8 Aug 2019). Monitor Ward/Doe 3 1:24-cv-01204-AS, satellite 1:26-cv-08047, NM AG 1:26-cv-03543, USVI ST-2019-PB-80, accountings, inquiry status.
+
+KEY STATUS (as of 5 Nov 2026 14:15 ET):
+- 1:24-cv-01204 (Ward v. Indyke / Doe 3): CourtListener last updated 26 Oct 2026 11:49 a.m.; last known filing 15 Oct 2026. No ECF 449. Final approval hearing remains 2 Dec 2026 14:00 ET (ECF 445/446 cluster). No 28th accounting filed. Settlement-banner / notice process ongoing. Inquiry still uncharged.
+- 1:26-cv-08047 (Doe v. Indyke, Woods III / Figueredo): Last known filing ECF 21 (27 Oct 2026). Order: Defendants' answer/response to Complaint extended to 16 Dec 2026. Response to Motion to Proceed Anonymously due 10 Nov 2026; reply 17 Nov 2026. ECF 13 PHV (Jean Sutton Martin / AWKO) remains deficient (missing CO/MI/NC good-standing certs + wet signature). No full RECAP text on recent ECFs. Class/CSAM-related claims.
+- NM 1:26-cv-03543 (State of New Mexico ex rel. Raul Torrez v. Indyke, Kahn, Estate of Jeffrey E. Epstein, THE 1953 TRUST): Filed 21 Oct 2026 D.N.M. Seeks injunction against distributions of $50M (Indyke) / $25M (Kahn) bequests; alleges facilitation/concealment of trafficking enterprise (Zorro Ranch focus). Estate valued >$107M per 27th accounting to 30 Jun 2026. Complaint (49 pp) on RECAP. Last known filings 26 Oct (Motley Rice PHV associations: Linda Singer, Carmen S. Scott, Jessica F. Crowder). Jury demanded. Parens patriae + survivor damages.
+- USVI Probate ST-2019-PB-00080: 27th quarterly accounting (1 Apr–30 Jun 2026) filed ~31 Jul 2026. No 28th accounting located. USVI Senate advanced probate overhaul (Bill 36-0277) 22 Oct 2026; effective no earlier than 1 Jan 2028.
+- No new public confirmation of SDNY/FBI criminal inquiry charges or subject/target status. Ruzumna prior non-comment on subpoena stands.
+
+NEW NODES:
+- Raul Torrez / NMDOJ civil action naming THE 1953 TRUST as defendant (asset holder / potential relief target).
+- Motley Rice counsel on NM side.
+- Precise 08047 deadlines (answer 16 Dec; anonymity response 10 Nov).
+- Jean Sutton Martin (AWKO Partner, Jan 2026; Wake Forest JD; Lawdragon 500) identity lock; PHV deficiency specifics.
+
+GAPS (priority carry / new):
+G-01–prior series (ECF 449 text, 28th accounting, PHV resolution, inquiry scope/charges, full 08047 RECAP, NM service/response status, USVI accounting details).
+New: G-NM1 NM complaint full unseal / seal motion status; G-NM2 effect on USVI probate distributions; G-08047 anonymity ruling timing.
+
+PROCESS NOTES:
+Negative-control hourly/daily sweep continues. CL headers lag PACER. No ECF 449. Settlement site last known ~5 Oct. Empty/low X-lane on core terms since mid-Oct (secondary reprints of NM suit only).
+
+BACKUPS:
+Memo + breadcrumb to Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF and GitHub strand-osint-mesh.
+
+NEXT: C996 monitor 10 Nov anonymity response window in 08047; Dec 2 hearing countdown; any 28th accounting or NM activity.
+
+Sources: CourtListener dockets 68260876 / 74796688 / 74996376; RECAP PDFs; PacerMonitor; news (CNN, Reuters, local NM); USVI public portal. Educational only; no legal advice.
