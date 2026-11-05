@@ -1,0 +1,15 @@
+{
+  "cycle": 995,
+  "date_utc": "2026-11-05T20:15:00Z",
+  "status": "negative-control with new NM node",
+  "key_cases": {
+    "1:24-cv-01204-AS": {"last_known_filing": "2026-10-15", "cl_updated": "2026-10-26", "hearing": "2026-12-02 14:00 ET", "no_ecf_449": true},
+    "1:26-cv-08047": {"last_known_filing": "2026-10-27", "answer_deadline": "2026-12-16"},
+    "1:26-cv-03543_DNM": {"filed": "2026-10-21", "last_known": "2026-10-26", "defendants_include_1953_trust": true, "judge": "Gregory J. Fouratt"}
+  },
+  "accounting": "no_28th_public; ~107M June 30 2026 cited",
+  "inquiry": "SDNY still uncharged",
+  "new_nodes": ["THE 1953 TRUST named defendant in NM AG suit 1:26-cv-03543", "Motley Rice counsel association"],
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github": "cantgetalonggta-png/strand-osint-mesh"
+}
