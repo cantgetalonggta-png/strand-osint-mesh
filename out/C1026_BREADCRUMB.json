@@ -1,13 +1,23 @@
 {
   "cycle": 1026,
   "date": "2026-11-06",
-  "time_et": "14:14",
-  "status": "process-only negative-control",
-  "ward_01204": "no ECF 449; last known Oct 15 2026; hearing 2 Dec 2026 14:00 ET; CL Oct 26",
-  "doe_08047": "ECF 21 27 Oct extends answer to 16 Dec; anonymity Nov 10/17; PHV Martin deficient; CL Oct 27",
-  "nm_03543": "1:26-cv-03543 Torrez v. Indyke; THE 1953 TRUST named; last known Nov 5; Motley Rice associated",
-  "accounting": "no 28th",
-  "inquiry": "uncharged",
-  "gaps": "priority continue G-series",
-  "next": "C1027 monitor anonymity response / ECF 449 / NM movement"
+  "timestamp_pdt": "14:16",
+  "timestamp_et": "17:16",
+  "type": "process-only-negative-control",
+  "status": {
+    "ward_01204": "ECF 447-448 terminal; CL last-known 15 Oct 2026; last updated 26 Oct 2026; no ECF 449; hearing 2 Dec 2026 14:00 ET",
+    "08047": "ECF 13 PHV Jean Sutton Martin/AWKO deficient; ECF 14/15 title-only 0 RECAP",
+    "nm_03543": "1:26-cv-03543 Torrez v. Indyke; last-known 5 Nov 2026; Motley Rice (Singer/Scott/Crowder) associated 26 Oct; 1953 Trust named",
+    "accounting": "no 28th; 27th ~$107.645M to 30 Jun 2026; 24th $127.402M vintage",
+    "inquiry": "SDNY/FBI uncharged; Ruzumna no-subpoena non-comment holds"
+  },
+  "new_nodes": [
+    "process-only Friday afternoon dwell after C1025",
+    "NM Motley Rice counsel association lock",
+    "Money Times 6 Nov unpaid-executors recirculation (Valar ~$172M)",
+    "Jean Sutton Martin AWKO identity reconfirm"
+  ],
+  "gaps": "G-01\u2013G- prior series carry (priority: ECF 449, 28th accounting, 08047 ECF 14/15 text, PHV resolution, NM post-assoc, inquiry scope)",
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C1027 Saturday 7 Nov or Monday 9 Nov ET clerk-open ECF 449 / 08047 / NM window"
 }
