@@ -1,0 +1,38 @@
+STRAND-1953-TRUST-INTEL-MEMO-C1030-2026-11-06
+Educational OSINT Cycle 1030 | Friday 6 November 2026 ~15:16 PST / 18:16 ET
+Permanent target: THE 1953 TRUST (Epstein pour-over USVI trust, 8 Aug 2019)
+
+NEGATIVE-CONTROL / PROCESS SWEEP AFTER C1029
+
+STATUS SUMMARY (as of ~18:16 ET 6 Nov 2026)
+- Ward v. Indyke 1:24-cv-01204-AS (SDNY, Subramanian): Last known filing ECF 449 (15 Oct 2026) Notice of Interlocutory Appeal from ECF 445 Order, filed by pro se Kamila Krachova Hofbaver / Kamila Hofbaver (18 Nicola Aoao, St. Albert AB T8N 7M7, Canada; phone (687) 402-2376). Document appears handwritten/OCR-garbled; dated ~13-14 Oct 2026. CL docket last updated 26 Oct 2026; last known filing 15 Oct. No ECF 450+. Hearing remains 2 Dec 2026 14:00 ET. No final judgment entered. Settlement supplemental notice process ongoing.
+- New Mexico civil action 1:26-cv-03543 Raul Torrez v. Indyke et al. (D.N.M.): Names Indyke, Kahn, Estate of Jeffrey E. Epstein, and THE 1953 TRUST. Filed 21 Oct 2026. Latest (5 Nov 2026): Notice of Appearance (Daniel James Ahrens for plaintiff); Refusal to Consent to Proceed before Magistrate; reassignment to District Judge Matthew L. Garcia (Magistrate Gregory J. Fouratt no longer assigned). Motley Rice counsel associated (Linda Singer, Carmen S. Scott, Jessica F. Crowder). Seeks to block bequests/distributions (~$50M Indyke / $25M Kahn contingent) and recover for survivors; alleges facilitation/concealment of trafficking including at Zorro Ranch. Civil only; no criminal charges.
+- 1:26-cv-08047 Doe v. Indyke et al. (SDNY, Woods III / Figueredo): Last known filing ~27 Oct 2026 Order extending defendants’ answer/response deadline to 16 Dec 2026; response to plaintiffs’ Motion to Proceed Anonymously due 10 Nov 2026, reply 17 Nov. ECF 13 PHV and subsequent activity confirmed; CL last updated 27 Oct 2026. No RECAP text on key recent items in this sweep.
+- No 28th interim accounting located. 27th (to 30 Jun 2026) remains last quantified (~$107.645M gross / ≥$27M liabilities). SDNY/FBI inquiry into Indyke/Kahn remains uncharged (no official confirmation of advancement beyond prior reporting).
+- Drive folder STRAND_1953_TRUST_INTEL id 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF (persistent).
+
+NEW / UPDATED NODES
+- Kamila Krachova Hofbaver (pro se appellant, Canadian address): ECF 449 interlocutory appeal from supplemental-notice Order 445. No prior public identification as named party or objector in prior cycles; possible class-member or non-party attempt. Appeal record sent / fee due entries on CL.
+- D.N.M. 1:26-cv-03543 reassignment to Judge Matthew L. Garcia (5 Nov 2026) + Motley Rice local/association appearances. First known law-enforcement civil action naming the 1953 Trust itself as defendant.
+- 08047 answer-deadline extension to 16 Dec 2026 (post-Ward hearing date).
+
+GAPS (priority carry-forward + new)
+- G-priority: Full text of ECF 449 (beyond OCR); jurisdiction/viability of pro se interlocutory appeal from 445 (Rule 23(f)/collateral-order analysis); whether Hofbaver is class member, objector, or unrelated; any USCA docket.
+- NM 1:26-cv-03543: complaint text (49 pp, partially sealed?), answer deadlines, service status, Motley Rice role relative to prior USVI/JPM work.
+- 08047: ECF 13 PHV resolution (Jean Sutton Martin / AWKO prior deficiency notes), full recent docket text, anonymity motion outcome.
+- 28th accounting; 01204 final approval timeline impact of 449; inquiry charging decision.
+- Prior gaps G-01–G- prior series remain open (beneficiary counts, fund status, VIBIR, etc.).
+
+DISCARDED / LOW-GRADE
+- X-lane: no primary-source posts on 1953 Trust / Indyke / 01204 / 03543 since early Nov; only mention-count recirculation and unrelated 01204 (Bolton phone) hits.
+- Homonyms: various Kamila Czech/Slovak figures unrelated to Hofbaver.
+
+PROCESS NOTES
+- Cycle executed as negative-control hourly-style sweep focused on docket headers, CL last-updated stamps, and known nodes. No new primary documents fully extracted in this pass beyond title/OCR fragments.
+- Backup targets: artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1030-2026-11-06.pdf (or .txt) + breadcrumb JSON; Drive folder; GitHub strand-osint-mesh.
+
+Next window: C1031 post-6 Nov evening ET or 7 Nov clerk-open for any 01204/08047/03543 movement and 10 Nov anonymity response deadline.
+
+Sources: CourtListener 01204 docket & ECF 449 page; PacerMonitor 03543; web search cross-checks on NM filing and 08047; prior cycle memory lock. All public OSINT; no non-public materials.
+
+End memo.

@@ -1,0 +1,21 @@
+{
+  "cycle": 1030,
+  "date": "2026-11-06",
+  "timestamp_et": "18:16",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1030-2026-11-06.txt",
+  "new_nodes": [
+    "Kamila Krachova Hofbaver / Kamila Hofbaver (pro se ECF 449 interlocutory appeal from 445, Canadian address St. Albert AB)",
+    "D.N.M. 1:26-cv-03543 reassignment to Judge Matthew L. Garcia (5 Nov 2026)",
+    "Motley Rice association appearances in 03543 (Singer, Scott, Crowder)",
+    "08047 answer deadline extended to 16 Dec 2026"
+  ],
+  "status": {
+    "ward_01204_last_ecf": "449 (15 Oct 2026 Notice of Interlocutory Appeal by Hofbaver)",
+    "ward_hearing": "2 Dec 2026 14:00 ET",
+    "nm_03543": "1:26-cv-03543 Torrez v. Indyke et al. (incl. 1953 Trust); Judge Garcia; Motley Rice",
+    "08047_last": "order ~27 Oct extending answer to 16 Dec 2026",
+    "28th_accounting": "none",
+    "inquiry": "uncharged"
+  },
+  "gaps": "priority: ECF 449 full text + appeal viability; 03543 complaint/service; 08047 anonymity response 10 Nov; 28th accounting; inquiry"
+}
