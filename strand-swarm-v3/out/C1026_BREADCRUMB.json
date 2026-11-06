@@ -1,0 +1,23 @@
+{
+  "cycle": 1026,
+  "date": "2026-11-06",
+  "timestamp_et": "16:15",
+  "status": "negative-control + new node",
+  "new_nodes": [
+    "ECF 449 Notice of Interlocutory Appeal (Kamila Krchova Hofbauer / pro se / 2d Cir. 26-2945)",
+    "Settlement site last update 5 Oct 2026 / deadlines to 23 Nov 2026",
+    "08047 ECF 21 answer extension to 16 Dec 2026",
+    "NM 1:26-cv-03543 Motley Rice association / header 5 Nov 2026"
+  ],
+  "holds": {
+    "ward_hearing": "2 Dec 2026 14:00 ET",
+    "last_ecf_01204_pre_appeal": "447-448",
+    "28th_accounting": "none",
+    "inquiry": "uncharged",
+    "estate_ref": "27th ~$107.645M as of 30 Jun 2026"
+  },
+  "gaps": "G-01\u2013G-25xx (priority: appeal, PHV, 28th, inquiry)",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C1027 post-23 Nov deadline window"
+}
