@@ -1,0 +1,16 @@
+STRAND 1953 TRUST INTEL MEMO
+Cycle C1040 — Educational OSINT Negative-Control / Update Sweep
+Date: 2026-11-07 | Saturday evening PST / ~22:15 UTC | Clerk-closed
+
+STATUS SUMMARY
+Process-only negative-control after prior cycles. Ward v. Indyke 1:24-cv-01204-AS remains at ECF 447-448 cluster with hearing still set for 2 Dec 2026 14:00 ET. No 28th accounting located. SDNY/FBI inquiry into Indyke/Kahn remains uncharged per last public reporting. New major node confirmed: New Mexico AG civil action 1:26-cv-03543 (D.N.M.) naming Indyke, Kahn, Estate, and THE 1953 TRUST. 08047 last docket update 11/06/2026 with deadlines pending. ECF 449 identified as pro se interlocutory appeal notice.
+
+NEW / CONFIRMED NODES
+- 1:26-cv-03543 Raúl Torrez v. Indyke et al. (D.N.M.): Filed 21 Oct 2026. Complaint vs Indyke, Kahn, Estate, THE 1953 TRUST. Seeks to block $50M/$25M bequests. Motley Rice counsel. Last known 5 Nov 2026.
+- ECF 449 Ward 1:24-cv-01204: Notice of Interlocutory Appeal from ECF 445 by Kamila Krachova Hofbaver (pro se, Canada). Filed 15 Oct 2026.
+- 08047 1:26-cv-08047: Last update 6 Nov 2026. Answer to 16 Dec 2026; anonymity response 10 Nov 2026. PHV Jean Sutton Martin deficient.
+- Ward hearing still 2 Dec 2026. No 28th accounting. Inquiry uncharged.
+
+PRIORITY GAPS: Full 03543 text, PHV resolution, 28th accounting, Hofbaver standing, inquiry scope.
+
+DISCLAIMER: Educational OSINT only. Allegations disputed. Public sources.
