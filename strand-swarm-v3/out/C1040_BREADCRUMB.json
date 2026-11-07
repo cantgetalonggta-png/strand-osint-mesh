@@ -1,15 +1,32 @@
 {
   "cycle": 1040,
   "date": "2026-11-07",
-  "time_et": "14:15",
-  "status": "negative-control process-only",
-  "ward_docket": "1:24-cv-01204-AS last known ECF 449 (Oct 15 2026 Notice of Interlocutory Appeal from ECF 445 by Kamila Krachova Hofbaver); CL last updated Oct 26 2026; no final judgment; hearing still 2 Dec 2026 14:00 ET",
-  "08047": "1:26-cv-08047 last known Oct 27 2026 ECF 21 order extending answer to Dec 16 2026; anonymity responses due Nov 10/17; no major corpus impact",
-  "nm_case": "1:26-cv-03543 Raul Torrez v. Indyke et al. (incl. 1953 Trust) last known Nov 5 2026; civil TVPA/racketeering seeking to block $50M/$25M bequests",
-  "accounting": "no 28th accounting; last public ~$107.6M through 30 Jun 2026",
-  "inquiry": "SDNY/FBI still uncharged",
-  "new_nodes": ["ECF 449 interlocutory appeal confirmation (Hofbaver); NM case continuation; no corpus change"],
-  "gaps": "G-01\u2013G- prior series priority: ECF 449 appeal resolution, final settlement approval, 28th accounting, uncharged inquiry scope, PHV/08047 text, NM case progress",
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "next": "C1041 later 7 Nov ET or 8 Nov clerk window"
+  "timestamp_et": "15:14",
+  "timestamp_pdt": "12:14",
+  "status": "process-only",
+  "ward_01204": {
+    "last_known_filing": "2026-10-15",
+    "cl_last_updated": "2026-10-26",
+    "ecf_cluster": "447-448",
+    "hearing": "2026-12-02 14:00 ET",
+    "final_judgment": false,
+    "note": "possible interlocutory notice around Oct 15 (Hofbaver) per parallel check"
+  },
+  "08047": {
+    "last_known": "ECF 21 2026-10-27",
+    "answer_deadline": "2026-12-16",
+    "anonymity_response_due": "2026-11-10"
+  },
+  "nm_03543": {
+    "last_known_filing": "2026-11-05",
+    "counsel": "Motley Rice (Singer/Scott/Crowder) associated 2026-10-26",
+    "judge": "Lorenzo F. Garcia",
+    "magistrate": "John Robbenhaar"
+  },
+  "torrez_reelected": "2026-11-04",
+  "28th_accounting": false,
+  "inquiry_uncharged": true,
+  "gaps_priority": ["08047 ECF 14/15 text", "PHV resolution", "01204 ECF 449", "28th accounting", "inquiry scope"],
+  "drive_file_ids": ["1ryfGCPWFeoGTLC8n6m1XnzByE4MVayk5", "1iFzhfqIlsVVBOsWxP6_OlEKKlrOQ_u3O"],
+  "github_commit": "4336c8c718bcbd7d19825292b9a24b7a30859aa8"
 }
