@@ -1,36 +1,15 @@
 {
   "cycle": 1031,
   "date": "2026-11-06",
-  "utc": "2026-11-07T01:18:04Z",
-  "pdt": "2026-11-06T17:18:00-08:00",
-  "et": "2026-11-06T20:18:00-05:00",
-  "status": "process-only negative-control after C1030",
-  "ward_docket": {
-    "case": "1:24-cv-01204-AS Ward v. Indyke",
-    "cl_last_updated": "2026-10-26 11:49 a.m.",
-    "last_known_filing": "2026-10-15",
-    "ecf_449": false,
-    "terminal_ecf": "447-448",
-    "hearing": "2026-12-02 14:00 ET",
-    "settlement_site_last_updated": "2026-10-05",
-    "claims_optout_deadline": "2026-11-23"
-  },
-  "nm_docket": {
-    "case": "1:26-cv-03543 Raul Torrez v. Indyke et al. (D.N.M.)",
-    "filed": "2026-10-21",
-    "cl_last_updated": "2026-11-05 2:57 p.m.",
-    "last_known_filing": "2026-11-05",
-    "defendants": ["Darren K. Indyke", "Richard D. Kahn", "Estate of Jeffrey E. Epstein", "THE 1953 TRUST"],
-    "counsel": "Motley Rice (Linda Singer, Carmen S. Scott, Jessica F. Crowder associated)",
-    "estate_valuation": "~$107M as of 2026-06-30 (27th accounting)",
-    "bequests_targeted": "$50M Indyke / $25M Kahn"
-  },
-  "usvi_probate": {
-    "case": "ST-2019-PB-00080",
-    "last_accounting": "27th quarterly to 2026-06-30 filed 2026-07-31",
-    "28th_accounting": false
-  },
-  "inquiry": "SDNY/FBI still uncharged",
-  "gaps": "G-01\u2013G- prior series + new on NM post-association activity, full complaint unsealing status, Motley Rice continuity with USVI prior representation",
-  "next": "C1032 later 2026-11-06/07 ET window for ECF 449 / NM motions / 28th accounting"
+  "time_et": "~21:15",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1031-2026-11-06.pdf",
+  "status": "process-only negative-control + Motley Rice node",
+  "ward_docket": "1:24-cv-01204-AS last ECF 447-448; CL last known filing Oct 15; hearing 2 Dec 2026 14:00 ET",
+  "nm_docket": "1:26-cv-03543 last known filing Nov 5 2026; Motley Rice association",
+  "settlement_site": "last updated Oct 5; deadline Nov 23 2026",
+  "inquiry": "uncharged",
+  "accounting": "no 28th",
+  "gaps": "G-01\u2013prior series (priority ECF 449, 28th acct, inquiry, 08047 texts, NM Nov 5)",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C1032 weekend/Monday ET"
 }
