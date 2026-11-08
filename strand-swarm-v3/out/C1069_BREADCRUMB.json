@@ -1,13 +1,17 @@
 {
   "cycle": 1069,
-  "date": "2026-11-08",
-  "time_et": "16:15",
+  "date_utc": "2026-11-08T22:17:00Z",
   "status": "process-only negative-control",
-  "ward_docket": "1:24-cv-01204 last known filing Oct 15 2026; last updated Oct 26; no ECF 449; hearing 2 Dec 2026 14:00 ET",
-  "settlement_site": "last updated 5 Oct 2026; claims/opt-out/objection deadline 23 Nov 2026; hearing 2 Dec",
-  "nm_docket": "1:26-cv-03543 last known filing Nov 5 2026; Motley Rice associations; complaint filed Oct 21; no answer visible",
-  "08047": "ECF 13 PHV Jean Sutton Martin deficient; no ECF 14; last known Oct 27",
-  "new_nodes": ["Motley Rice LLC (Linda Singer, Carmen S. Scott, Jessica F. Crowder) associated in NM case", "process confirmation no 28th accounting", "inquiry still uncharged"],
-  "gaps": "G-01–G- prior + priority ECF 449 text, 28th accounting, PHV resolution, NM answer, inquiry status",
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF"
+  "key_dockets": {
+    "1:24-cv-01204-AS": {"last_known": "2026-10-15 ECF 449 Notice of Interlocutory Appeal by Hofbaver (2d Cir 26-2945)", "hearing": "2026-12-02 14:00 ET", "cl_last_updated": "~2026-10-26"},
+    "1:26-cv-03543": {"last_known": "2026-11-05", "filed": "2026-10-21 NM AG v Indyke et al + THE 1953 TRUST", "counsel": "Motley Rice associated"},
+    "1:26-cv-08047": {"last_known": "2026-10-27"}
+  },
+  "new_nodes": ["ECF 449 Hofbaver pro se interlocutory appeal from ECF 445", "NM 1:26-cv-03543 naming 1953 Trust as asset holder", "Motley Rice (Singer/Scott/Crowder)"],
+  "gaps_priority": ["ECF 449 full grounds", "28th accounting", "NM case progress/response", "uncharged SDNY inquiry", "08047 PHV resolution"],
+  "ward_hearing": "2026-12-02 14:00 ET",
+  "no_28th_accounting": true,
+  "inquiry_uncharged": true,
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh"
 }
