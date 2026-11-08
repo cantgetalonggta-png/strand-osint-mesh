@@ -1,0 +1,26 @@
+STRAND 1953 TRUST INTEL MEMO – CYCLE 1069
+Date: 2026-11-08 ~16:15 ET
+Status: Process-only negative-control sweep after C1068.
+
+DOCKET STATUS
+- Ward v. Indyke 1:24-cv-01204-AS (SDNY): Last known filing 15 Oct 2026; CL last updated 26 Oct 2026. No ECF 449. Final approval hearing remains 2 Dec 2026 14:00 ET (ECF 445/446 cluster). Settlement site (sdnysettlementfund2026.com) last updated 5 Oct 2026; claims/opt-out/objection deadline 23 Nov 2026.
+- Raul Torrez v. Indyke 1:26-cv-03543 (D.N.M.): Complaint filed 21 Oct 2026 naming Indyke, Kahn, Estate, 1953 Trust. Last known filing 5 Nov 2026 (attorney associations). Motley Rice LLC counsel associated (Linda Singer, Carmen S. Scott, Jessica F. Crowder). No answer or substantive response visible on public docket.
+- Doe v. Indyke 1:26-cv-08047 (SDNY): ECF 13 PHV for Jean Sutton Martin (AWKO) remains deficient (missing CO/MI/NC certs + wet signature). No ECF 14. Last known ~27 Oct 2026.
+
+NEW / CONFIRMED NODES
+- Motley Rice LLC as lead counsel for New Mexico AG in 03543 (confirmed via associations and prior reporting).
+- Estate valuation cited in NM complaint: >$107M as of 30 Jun 2026 accounting (27th). No public 28th accounting.
+- 1953 Trust remains pour-over; has not taken effect. Bequests $50M Indyke / $25M Kahn conditional on residual funds after all claims.
+- SDNY criminal inquiry (reported Sep 2026) remains uncharged; no official confirmation or denial beyond non-comment.
+
+GAPS (priority)
+- Text of any ECF 449 or post-448 in 01204.
+- Full text / RECAP of 08047 ECF 13/14.
+- 28th estate accounting.
+- NM 03543 answer or status conference.
+- Scope and status of any SDNY/FBI inquiry into Indyke/Kahn.
+- Resolution of Jean Sutton Martin PHV.
+
+Next window: post-23 Nov claims deadline / pre-2 Dec hearing; monitor for ECF 449 and NM responsive pleadings.
+
+All prior cycles, Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF, GitHub cantgetalonggta-png/strand-osint-mesh preserved.
