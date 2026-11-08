@@ -1,0 +1,39 @@
+{
+  "cycle": 1066,
+  "timestamp_utc": "2026-11-08T19:15:00Z",
+  "timestamp_et": "2026-11-08T14:15:00ET",
+  "status": "negative-control Sunday clerk-closed",
+  "key_dockets": {
+    "ward_01204": {
+      "cl_last_updated": "2026-10-26",
+      "last_known_filing": "2026-10-15",
+      "highest_ecf": "448",
+      "hearing": "2026-12-02 14:00 ET",
+      "notes": "No ECF 449; settlement pending final approval"
+    },
+    "08047": {
+      "cl_last_updated": "2026-10-27 17:09",
+      "last_known_filing": "2026-10-27",
+      "highest_ecf": "21",
+      "key_deadlines": {
+        "defendants_response_to_anonymity_motion": "2026-11-10",
+        "plaintiffs_reply": "2026-11-17",
+        "answer_deadline": "2026-12-16"
+      },
+      "notes": "ECF 21 Order extending answer to 16 Dec 2026; PHV Jean Sutton Martin still deficient; anonymity motion pending"
+    },
+    "nm_03543": {
+      "cl_last_updated": "2026-11-08 01:08",
+      "last_known_filing": "2026-11-05",
+      "assigned_to": "Matthew L. Garcia",
+      "notes": "Reassigned 5 Nov 2026; Torrez reelected; 1953 Trust named defendant; seeks block $50M/$25M bequests"
+    }
+  },
+  "new_nodes": [
+    "NM 1:26-cv-03543 reassigned to Hon. Matthew L. Garcia (Biden appointee, former NM Gov chief of staff)",
+    "Torrez reelection confirmed 3-4 Nov 2026",
+    "08047 deadlines locked: anonymity response 10 Nov, answer 16 Dec"
+  ],
+  "gaps": "G-01–G-prior series continue; priority ECF 449 text, 28th accounting, uncharged SDNY inquiry scope, NM case progress",
+  "confirmation": "Ward still ECF 447-448, hearing 2 Dec 2026 14:00 ET; no 28th accounting; inquiry still uncharged"
+}
