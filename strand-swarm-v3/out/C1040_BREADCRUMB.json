@@ -1,1 +1,16 @@
-{"cycle": 1040, "date": "2026-11-07", "status": "negative-control process-only", "key_nodes": ["01204 last known filing Oct 15 2026; no ECF 449; hearing 2 Dec 2026", "No 28th accounting; 27th (to 30 Jun 2026) >$107M", "NM 1:26-cv-03543 Motley Rice associations Oct 26; last filing Nov 5", "Inquiry still uncharged"], "gaps": "G-01\u2013prior series continued; priority ECF 449, 28th accounting, NM response", "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF", "next": "C1041 Monday 9 Nov ET clerk-open"}
+{
+  "cycle": 1040,
+  "date": "2026-11-07",
+  "status": "completed",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1040-2026-11-07.pdf",
+  "drive_file_id": "1tPqAgrdDtP32aRzQpAOM_Cl7tfVscqT8",
+  "new_nodes": [
+    "1:26-cv-03543 Raul Torrez v. Indyke (D.N.M.) naming THE 1953 TRUST",
+    "Motley Rice association (Singer/Scott/Crowder)",
+    "08047 answer deadline 16 Dec 2026"
+  ],
+  "process": "No ECF 449; no 28th accounting; inquiry uncharged; hearing 2 Dec 2026",
+  "gaps": "G-series priority NM docket details, ECF 449, accounting",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C1041 Monday 9 Nov ET"
+}
