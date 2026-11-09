@@ -1,0 +1,22 @@
+{
+  "cycle": 1071,
+  "date": "2026-11-08",
+  "time_et": "~20:21",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1071-2026-11-08.pdf",
+  "status": {
+    "ward_01204_last_known_filing": "ECF 449 (2026-10-15) Notice of Interlocutory Appeal by Kamila Krachova Hofbaver",
+    "hearing": "2026-12-02 14:00 ET",
+    "settlement_site_last_updated": "2026-10-05",
+    "claims_deadline": "2026-11-23",
+    "nm_case": "1:26-cv-03543 last known filing 2026-11-05 (reassignment)",
+    "28th_accounting": "none",
+    "inquiry": "uncharged"
+  },
+  "new_nodes": [
+    "Kamila Krachova Hofbaver / Hofbauer / Krchova Hofbauer (St. Albert AB; pro se appellant CA2 26-2945 from ECF 445)",
+    "D.N.M. reassignment notice to Judge Matthew L. Garcia (5 Nov 2026)"
+  ],
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C1072 Monday 9 Nov ET"
+}
