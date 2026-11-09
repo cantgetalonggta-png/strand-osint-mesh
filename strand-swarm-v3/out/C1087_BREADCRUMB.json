@@ -1,0 +1,29 @@
+{
+  "cycle": 1087,
+  "date": "2026-11-09",
+  "timestamp_et": "2026-11-09T13:17:00-05:00",
+  "timestamp_pst": "2026-11-09T10:17:00-08:00",
+  "status": {
+    "ward_01204_last_known_filing": "2026-10-15",
+    "ward_cl_last_updated": "2026-10-26T11:49:00-04:00",
+    "ecf_449": false,
+    "hearing": "2026-12-02T14:00:00-05:00",
+    "28th_accounting": false,
+    "inquiry_uncharged": true,
+    "nm_03543_filed": "2026-10-21",
+    "nm_last_filing": "2026-11-05",
+    "nm_judge": "Matthew L. Garcia (reassigned ECF 13); CL residual Lorenzo F. Garcia"
+  },
+  "new_nodes": [
+    "Torrez v. Indyke 1:26-cv-03543 (D.N.M.) targeting 1953 Trust",
+    "Motley Rice counsel associations",
+    "Garcia reassignment lock (Matthew L. vs Lorenzo F. header)"
+  ],
+  "gaps": "G-01\u2013prior + new seal/Garcia/Motley",
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "drive_file_ids": {
+    "pdf": "1GnxqPc4kouRwBl-Mx0ryRAI-W4EPyYwv",
+    "json": "1Pzc8Qht9zIdGSQirU-bA_MfR-kFwJkpY"
+  },
+  "next": "C1088 Monday late / Tuesday 10 Nov ET"
+}
