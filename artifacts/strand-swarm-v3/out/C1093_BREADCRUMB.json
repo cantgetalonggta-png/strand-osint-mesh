@@ -1,18 +1,31 @@
 {
   "cycle": 1093,
   "date": "2026-11-10",
-  "timestamp_et": "13:15",
-  "status": "process-only negative-control + Oversight report node",
+  "status": "process+new-nodes",
   "new_nodes": [
-    "House Oversight majority report 10 Nov 2026 (PDF + Kahn/Indyke 11/19 Mar transcripts)",
-    "NM 1:26-cv-03543 reassignment 5 Nov to Judge Matthew L. Garcia; Ahrens appearance; Motley Rice associations",
-    "08047 last known ECF 21 (27 Oct) extension order; PHV deficiency persists",
-    "01204 last known 15 Oct; no ECF 449; hearing 2 Dec 2026 intact"
+    "Kamila Krachova Hofbaver (ECF 449 / 2d Cir 26-2945 pro se appellant)",
+    "Motley Rice (Singer/Scott/Crowder) formal association in NM 03543",
+    "Daniel James Ahrens (NM appearance)",
+    "Judge Matthew L. Garcia (NM reassignment)",
+    "House Oversight majority report 10 Nov 2026 (prior node)"
   ],
-  "gaps_priority": "Oversight transcript Trust language; 08047 post-27 Oct text; NM complaint analysis; 28th accounting; inquiry status",
-  "ward_hearing": "2 Dec 2026 14:00 ET",
-  "28th_accounting": "absent",
-  "inquiry": "uncharged",
+  "key_status": {
+    "ward_01204": "ECF 449 interlocutory appeal filed Oct 15 2026 by Hofbaver from ECF 445; 2d Cir 26-2945; hearing 2 Dec 2026 still listed",
+    "nm_03543": "1:26-cv-03543 Torrez v Indyke et al naming THE 1953 TRUST; reassigned to Garcia Nov 5; Motley Rice counsel",
+    "accounting": "no 28th; last cited $107M+ as of 30 Jun 2026",
+    "inquiry": "still uncharged"
+  },
+  "gaps": [
+    "G-ECF449-full-text",
+    "G-26-2945-status",
+    "G-NM-sealed-vs-public",
+    "G-28th-accounting",
+    "G-inquiry-scope"
+  ],
   "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "next": "C1094 later 10 Nov / 11 Nov ET"
+  "drive_file_ids": {
+    "memo": "1TbCGcauugIab68i_Sp5HHy8kIQYJ5ozI",
+    "breadcrumb": "1n-CxUqlE3c6Ef-jqiD5HHG921cPD2LTB"
+  },
+  "note": "Updated with verified ECF 449 Hofbaver node from CourtListener/Justia"
 }
