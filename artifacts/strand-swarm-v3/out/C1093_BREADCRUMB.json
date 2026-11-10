@@ -1,0 +1,18 @@
+{
+  "cycle": 1093,
+  "date": "2026-11-10",
+  "timestamp_et": "13:15",
+  "status": "process-only negative-control + Oversight report node",
+  "new_nodes": [
+    "House Oversight majority report 10 Nov 2026 (PDF + Kahn/Indyke 11/19 Mar transcripts)",
+    "NM 1:26-cv-03543 reassignment 5 Nov to Judge Matthew L. Garcia; Ahrens appearance; Motley Rice associations",
+    "08047 last known ECF 21 (27 Oct) extension order; PHV deficiency persists",
+    "01204 last known 15 Oct; no ECF 449; hearing 2 Dec 2026 intact"
+  ],
+  "gaps_priority": "Oversight transcript Trust language; 08047 post-27 Oct text; NM complaint analysis; 28th accounting; inquiry status",
+  "ward_hearing": "2 Dec 2026 14:00 ET",
+  "28th_accounting": "absent",
+  "inquiry": "uncharged",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C1094 later 10 Nov / 11 Nov ET"
+}
