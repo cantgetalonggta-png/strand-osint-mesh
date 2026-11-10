@@ -1,0 +1,30 @@
+{
+  "cycle": 1094,
+  "date": "2026-11-10",
+  "time_et": "16:15",
+  "status": "process-only negative-control + node lock",
+  "ward_01204": {
+    "last_ecf": 449,
+    "last_filing_date": "2026-10-15",
+    "hearing": "2026-12-02 14:00 ET",
+    "settlement_deadline": "2026-11-23",
+    "notes": "ECF 449 Notice of Interlocutory Appeal by Kamila Krachova Hofbaver from Order 445"
+  },
+  "08047": {
+    "last_known": "2026-10-27",
+    "answer_due": "2026-12-16",
+    "anonymity_response_due": "2026-11-10",
+    "notes": "Jean Sutton Martin/AWKO PHV context carries"
+  },
+  "nm_03543": {
+    "filed": "2026-10-21",
+    "judge": "Matthew L. Garcia",
+    "last_known": "2026-11-05",
+    "notes": "Names THE 1953 TRUST; targets $50M/$25M bequests; estate ~$107M as of 30 Jun 2026"
+  },
+  "accounting": "no 28th; 27th to 30 Jun 2026 ~$107.645M",
+  "inquiry": "still uncharged",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C1095 monitor anonymity response and settlement deadline"
+}
