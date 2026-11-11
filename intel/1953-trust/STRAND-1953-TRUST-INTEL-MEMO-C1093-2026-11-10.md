@@ -1,27 +1,32 @@
-# STRAND-1953-TRUST-INTEL-MEMO-C1093-2026-11-10
+STRAND-1953-TRUST-INTEL-MEMO-C1093-2026-11-10
+Educational OSINT Cycle 1093 | Tuesday 10 Nov 2026 ~19:20 ET / 16:20 PDT
 
-**Cycle 1093** | 2026-11-10 ~15:18 PDT / 18:18 ET | Process-only negative-control after C1092.
+PROCESS-ONLY NEGATIVE-CONTROL SWEEP
 
-## Status Summary
-- **Ward v. Indyke (1:24-cv-01204-AS, SDNY, Judge Subramanian)**: Last known district filing includes ECF 449 (on or about 15 Oct 2026) Notice of Interlocutory Appeal by Kamila Krchova Hofbauer to 2d Cir. 26-2945 (from Order 445). Final approval hearing remains **2 Dec 2026 14:00 ET**. Settlement ratchet $35M (≥40 claimants) / $25M. No final judgment entered. No 28th accounting public.
-- **Doe et al v. Indyke (1:26-cv-08047, SDNY, Woods III / Mag. Figueredo)**: Last known ECF 21 (27 Oct 2026): answer deadline extended to 16 Dec 2026; **defendants' response to Motion to Proceed Anonymously (ECF 4) due on or before 10 Nov 2026**. As of ~18:18 ET public monitors (CourtListener last known filing 27 Oct; PacerMonitor last update 9 Nov 23:59 EST), no public confirmation of ECF 22+ response. PHV for Jean Sutton Martin remains deficient (ECF 13).
-- **Raul Torrez v. Indyke (1:26-cv-03543, D.N.M.)**: Filed 21 Oct 2026 against Indyke, Kahn, Estate, **THE 1953 TRUST**. Seeks to bar distributions / recover under TVPA + NM RICO. Estate ~$107M as of 30 Jun 2026 accounting (from $577.7M in 2019). Conditional bequests $50M Indyke / $25M Kahn. Last known: 5 Nov reassignment to Judge Matthew L. Garcia; Motley Rice counsel associated. No ruling on seal or merits.
-- **SDNY/FBI inquiry**: Still uncharged per all prior primary reporting. No new confirmation of subpoenas or targets.
-- **No 28th accounting** located. Prior 27th ~$107.645M gross.
+KEY STATUS (unchanged core):
+- THE 1953 TRUST (Epstein pour-over, 8 Aug 2019) remains the permanent target.
+- Ward v. Indyke 1:24-cv-01204-AS (SDNY): Last known filing ~15 Oct 2026; CourtListener last updated 26 Oct 11:49 a.m. No ECF 449+. Final approval hearing remains 2 Dec 2026 14:00 ET, Courtroom 15A. Settlement site last known stamp ~5 Oct. No 28th accounting.
+- 1:26-cv-08047 (Jane Doe / “Amy” CSAM class, Woods III / Figueredo): Docket last updated 9 Nov 2026 23:59 EST. Oct 27 order extended defendants’ answer deadline to 16 Dec 2026; defendants ordered to respond to anonymity motion (ECF 4) by 10 Nov 2026 (today). Jean Sutton Martin (AWKO) PHV motion remains deficient (no ECF 14 resolution). 0 RECAP on recent entries.
+- New Mexico civil enforcement 1:26-cv-03543 Raúl Torrez v. Indyke, Kahn, Estate of Jeffrey E. Epstein, and THE 1953 TRUST (D.N.M., filed 21 Oct 2026): Complaint names the Trust as asset-holder defendant. Last known filings 5 Nov 2026: Notice of Appearance (Daniel James Ahrens); refusal to consent to magistrate; reassignment to District Judge Matthew L. Garcia. Motley Rice LLC counsel associated (Linda Singer, Carmen S. Scott, Jessica F. Crowder). Motion to seal unredacted complaint pending. Last updated 9 Nov 15:54. Estate value cited in public reporting ~$107.6M through 30 Jun 2026 accounting; proposed bequests $50M Indyke / $25M Kahn contingent on availability.
 
-## New / Confirmed Nodes
-- Motley Rice LLP (Linda Singer, Carmen S. Scott, Jessica F. Crowder) associated for NM plaintiff.
-- Case reassignment in 03543 to Matthew L. Garcia.
-- 2d Cir. 26-2945 interlocutory appeal by Kamila Krchova Hofbauer.
-- Anonymity deadline window active today in 08047 (public status pending propagation).
+NEW / CONFIRMED NODES:
+- 1:26-cv-03543 reassignment and Motley Rice association locked.
+- 08047 10 Nov anonymity response deadline window open.
+- Marsh Law Firm 2 Nov 2026 settlement notice for SDNYSettlementFund2026.com (Ward-related) recirculation only.
 
-## Gaps (priority carry)
-G-priority: ECF 22+ text in 08047 (anonymity response); 26-2945 status; 28th accounting; NM complaint unredacted / seal ruling; inquiry scope/charges; VIBIR / other satellites.
+DISCARDED / NON-MATERIAL:
+- Recirculating House Oversight majority report summaries on X (Indyke property-dispute mention only).
+- Homonym / unrelated 1953 Trust hits.
+- Old USVI probate legals.
 
-## Process Notes
-Negative-control sweep. No material new primary breadcrumbs beyond process clocks. Conspiracy-grade X recirculation discarded.
+GAPS (priority carry-forward):
+- Unredacted NM complaint / seal ruling text.
+- 08047 anonymity response and any PHV resolution.
+- Ward ECF 449+ / judgment.
+- 28th USVI accounting.
+- Scope / status of uncharged SDNY inquiry into Indyke/Kahn.
 
-**Next**: C1094 post-deadline check on 08047 anonymity response + any overnight ECF.
+NEXT: C1094 after 10 Nov anonymity response window / clerk open.
 
-Drive folder: 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF  
+Drive folder: 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF
 GitHub: cantgetalonggta-png/strand-osint-mesh
