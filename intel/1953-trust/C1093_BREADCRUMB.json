@@ -1,19 +1,27 @@
 {
-  "cycle": 1093,
-  "timestamp_utc": "2026-11-11T01:21:00Z",
-  "timestamp_et": "2026-11-10 ~20:19 ET",
-  "target": "THE 1953 TRUST",
-  "status": "process-only negative-control + node lock",
-  "memo_pdf": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1093-2026-11-10.pdf",
-  "key_nodes": [
-    "Ward 1:24-cv-01204 ECF 449 (15 Oct 2026) Notice of Interlocutory Appeal by Kamila Krachova Hofbaver from ECF 445",
-    "2d Cir. 26-2945 opened 16 Oct 2026",
-    "NM 1:26-cv-03543 Raul Torrez v. Indyke, Kahn, Estate, 1953 Trust (filed 21 Oct; reassignment 5 Nov to M.L. Garcia)",
-    "08047 Woods III anonymity response due 10 Nov 2026; answer to 16 Dec",
-    "No 28th accounting; inquiry still uncharged"
+  "cycle": "C1093",
+  "date": "2026-11-11",
+  "utc": "2026-11-11T20:16Z",
+  "type": "process-only-negative-control-with-sealed-node",
+  "memo_pdf": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1093-2026-11-11.pdf",
+  "new_nodes": [
+    "08047 ECF 24 sealed MOL Opposition to anonymity motion (10 Nov 2026, Indyke/Kahn)"
   ],
-  "gaps_priority": ["ECF 449/26-2945 text & status", "08047 anonymity outcome", "NM 03543 further docket", "28th accounting", "inquiry scope"],
-  "hearing": "2 Dec 2026 14:00 ET (unchanged)",
+  "status_locks": {
+    "ward_01204": "CL last known 15 Oct 2026 / updated 26 Oct; no ECF 449+; hearing 2 Dec 2026 14:00 ET",
+    "08047": "ECF 24 sealed opposition filed; reply due 17 Nov; answer due 16 Dec 2026; PHV deficient",
+    "settlement_site": "last updated 5 Oct 2026; deadline 23 Nov 2026; hearing 2 Dec 2026",
+    "28th_accounting": "none located",
+    "sdny_inquiry": "still uncharged"
+  },
+  "gaps_priority": [
+    "ECF 449+ text on 01204",
+    "08047 ECF 24 text (sealed)",
+    "28th accounting",
+    "inquiry scope",
+    "anonymity resolution 08047"
+  ],
   "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "next": "C1094 monitor anonymity response and any new ECF"
+  "next": "C1094 monitor 17 Nov reply window and 23 Nov deadline",
+  "note": "11 Nov refresh confirming sealed ECF 24 filing"
 }
