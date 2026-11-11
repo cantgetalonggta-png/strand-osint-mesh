@@ -1,15 +1,19 @@
 {
-  "cycle": "C1093",
-  "date": "2026-11-10",
-  "timestamp_utc": "2026-11-11T00:20:00Z",
-  "status": "process-only negative-control",
+  "cycle": 1093,
+  "timestamp_utc": "2026-11-11T01:21:00Z",
+  "timestamp_et": "2026-11-10 ~20:19 ET",
+  "target": "THE 1953 TRUST",
+  "status": "process-only negative-control + node lock",
+  "memo_pdf": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1093-2026-11-10.pdf",
   "key_nodes": [
-    "1:26-cv-03543 Raul Torrez v. Indyke et al. (D.N.M.) naming THE 1953 TRUST as defendant; reassigned to Judge Matthew L. Garcia 5 Nov 2026; Motley Rice counsel associated; last known filing 5 Nov; last updated 9 Nov 15:54",
-    "1:26-cv-08047 Jane Doe/Amy CSAM class: answer deadline extended to 16 Dec 2026; anonymity response due 10 Nov 2026 (today); Jean Sutton Martin PHV still deficient; docket last updated 9 Nov 23:59 EST",
-    "1:24-cv-01204 Ward v. Indyke: last known filing ~15 Oct 2026; last updated 26 Oct 11:49; no ECF 449+; final hearing still 2 Dec 2026 14:00 ET",
-    "No 28th accounting; SDNY inquiry still uncharged"
+    "Ward 1:24-cv-01204 ECF 449 (15 Oct 2026) Notice of Interlocutory Appeal by Kamila Krachova Hofbaver from ECF 445",
+    "2d Cir. 26-2945 opened 16 Oct 2026",
+    "NM 1:26-cv-03543 Raul Torrez v. Indyke, Kahn, Estate, 1953 Trust (filed 21 Oct; reassignment 5 Nov to M.L. Garcia)",
+    "08047 Woods III anonymity response due 10 Nov 2026; answer to 16 Dec",
+    "No 28th accounting; inquiry still uncharged"
   ],
-  "gaps": "G-01\u2013G-prior series priority: NM complaint unredacted/seal; 08047 anonymity response text; Ward ECF 449; 28th accounting; inquiry scope",
+  "gaps_priority": ["ECF 449/26-2945 text & status", "08047 anonymity outcome", "NM 03543 further docket", "28th accounting", "inquiry scope"],
+  "hearing": "2 Dec 2026 14:00 ET (unchanged)",
   "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "next": "C1094 11 Nov ET post-anonymity-response window"
+  "next": "C1094 monitor anonymity response and any new ECF"
 }
