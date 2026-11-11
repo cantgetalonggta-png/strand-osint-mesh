@@ -1,39 +1,44 @@
-# STRAND 1953 TRUST INTEL MEMO — CYCLE 1093
-Educational OSINT Compilation — Non-Adjudicative
-Generated: 2026-11-11 19:15 UTC / 14:15 ET
+# STRAND-1953-TRUST-INTEL-MEMO-C1093-2026-11-11
 
-## STATUS SNAPSHOT (Negative-Control Window)
-Cycle 1093 is a process-only negative-control sweep after C1092 (2026-11-09).
-No ECF 449+ in 1:24-cv-01204 (Ward v. Indyke). No 28th USVI quarterly accounting.
-SDNY/FBI inquiry into Indyke/Kahn remains uncharged per prior reporting.
-Settlement claim/opt-out/objection deadline remains 23 Nov 2026; final hearing 2 Dec 2026 14:00 ET.
+**Cycle**: 1093  
+**Timestamp**: 2026-11-11T23:17:00Z (Wednesday ~15:17 PST / 18:17 ET)  
+**Classification**: Educational OSINT compilation — public sources only  
+**Status**: Negative-control sweep with material docket movement in satellite case  
 
-## NEW / CONFIRMED NODES
-**08047 (Doe v. Indyke, 1:26-cv-08047, Woods III / Figueredo):**
-CourtListener last-updated 10 Nov 2026 18:12 ET. ECF 22 (Seal, 10 Nov), ECF 23 & 24 (Memorandum of Law in Opposition to Motion, sealed, 10 Nov) — opposition to plaintiffs’ Motion to Proceed Anonymously (ECF 4).
-PACER Monitor confirms answer deadline extended to 16 Dec 2026; anonymity response due 10 Nov (filed); reply due 17 Nov.
-Jean Sutton Martin / AWKO PHV (ECF 13) remains deficient (missing CO/MI/NC certs + wet signature). Counsel: plaintiffs Freeman (Marsh), Nappi (AWK), Elliot; defendants Weiner et al. (Hughes Hubbard).
+## Executive Summary
+Post-C1092 (9 Nov) sweep confirms continued freeze on core Ward track (1:24-cv-01204) and no 28th accounting or criminal charges against Indyke/Kahn. Material movement in parallel CSAM-class case 1:26-cv-08047: defendants filed opposition to anonymity motion on 10 Nov 2026 (ECF 22–24, one sealed). Ward interlocutory appeal (ECF 449, 15 Oct) remains last known filing. Hearing still 2 Dec 2026 14:00 ET.
 
-**01204 (Ward / Doe 3 v. Indyke, 1:24-cv-01204, Subramanian):**
-CourtListener last-updated 26 Oct 2026; last known filing 15 Oct 2026. No ECF 449 visible. Settlement website (sdnysettlementfund2026.com) last updated 5 Oct 2026 confirms extended deadline 23 Nov 2026 23:59 ET for Questionnaire/Release, opt-out, and objection; hearing 2 Dec 2026 14:00 ET, Courtroom 15A. Fund Administrator: Simone K. Lelchuk (Frejka PLLC).
+## Key Status Locks (as of cycle close)
+- **Ward v. Indyke 1:24-cv-01204-AS**: Last known filing ECF 449 (15 Oct 2026 Notice of Interlocutory Appeal by Kamila Krachova Hofbaver from ECF 445). CL last updated ~26 Oct. Hearing remains 2 Dec 2026 14:00 ET. No final judgment entered. Settlement banner / notice process continues.
+- **Doe et al v. Indyke 1:26-cv-08047-GHW-VF** (Woods / Figueredo): Last known filing 10 Nov 2026. ECF 22 (Seal), ECF 23 & 24 (Memoranda of Law in Opposition to ECF 4 Motion to proceed anonymously; ECF 24 sealed per PACER Monitor). Defendants’ answer/response deadline extended to 16 Dec 2026. Plaintiffs’ reply on anonymity due 17 Nov 2026. Jean Sutton Martin PHV (ECF 13) remains deficient (no re-file visible).
+- **1953 Trust / Estate**: No public 28th accounting located. Prior 27th (~30 Jun 2026) $107.645M gross remains latest quantified public figure in NM complaint and prior cycles. SDNY/FBI inquiry remains uncharged (no official confirmation of charges).
+- **New Mexico AG suit** (filed ~21 Oct 2026): Status unchanged in public sources; seeks to block ~$75M potential bequests and recover damages.
+- **Gaps priority**: G-priority series continues (ECF 14/15 text in 08047 if any; full ECF 23/24 text; Ward post-449 activity; 28th accounting; inquiry scope/charges; PHV resolution).
 
-**USVI Probate ST-2019-PB-00080:**
-Latest public accounting remains 27th (period ending 30 Jun 2026, ~$107.6M gross cited in NM complaint). No 28th (Jul–Sep 2026) filed as of this cycle. 24th accounting locked at $127,402,426.84 as of 30 Sep 2025.
+## New / Confirmed Nodes This Cycle
+1. **08047 ECF 22–24 (10 Nov 2026)**: Defendants (Indyke/Kahn, counsel Weiner et al.) filed opposition to plaintiffs’ Motion to Proceed Anonymously. One memorandum sealed (ECF 24 / Motion or Order to File Under Seal ECF 22). Zero RECAP PDFs available at sweep. Deadline compliance confirmed.
+2. **Kamila Krachova Hofbaver**: Appearing filer of ECF 449 Notice of Interlocutory Appeal in Ward (from Canada address on face). Compilation-grade node; no further public filings located.
+3. **Process confirmation**: 01204 CL header hold; 08047 last-updated 10 Nov ~18:12 ET. No ECF 450+ in Ward. No 28th accounting. Inquiry still uncharged.
+4. **Secondary**: Wikipedia Estate of Jeffrey Epstein page activity around 9 Nov (no material new facts). Hot Paths / Business Insider-style restatement of $127M vintage vs obligations and Valar holdings (prior knowledge).
 
-**NM Action 1:26-cv-03543 (D.N.M.):**
-Civil TVPA/racketeering complaint filed 21 Oct 2026 by AG Raúl Torrez against Indyke, Kahn, Estate, and 1953 Trust. Seeks to block $50M/$25M bequests and recover for Zorro Ranch-related claims. No ruling on merits.
+## Discarded / Non-Nodes
+- Homonyms (other Wards, Suttons, Martins).
+- Pure recirculation of Oct NM suit or Feb settlement without new docket text.
+- Unverified X amplification of older transcripts or name lists.
 
-## PROCESS METRICS
-CL 01204 header dwell continues (no new ECF since mid-Oct). 08047 header advanced to 10 Nov with sealed opposition filings.
-Settlement banner / site stamp remains 5 Oct. FY2026 closed. Empty primary X-lane for new corpus facts; secondary reprints and adjacency only.
+## Gaps (incremental)
+- G-XXXX: Full text of 08047 ECF 23/24 (opposition to anonymity).
+- G-XXXX: Post-ECF 449 activity or appellate docket in Ward.
+- G-XXXX: 28th USVI accounting (or confirmation of none).
+- G-XXXX: Any resolution of Jean Sutton Martin PHV deficiency.
+- Prior gap series remains open.
 
-## GAPS (Priority Carry-Forward)
-G-priority: ECF 14/15 text and PHV resolution in 08047; sealed ECF 23/24 content; ECF 449+ in 01204; 28th accounting; NM complaint full text / docket progress; inquiry scope (still uncharged); residual after settlement and NM claims. Gaps series continues from prior cycles.
+## Next Window
+C1094: Monitor 17 Nov reply deadline in 08047; Ward 2 Dec hearing approach; any RECAP ingest on sealed/opposed filings; 28th accounting or inquiry developments.
 
-## DISCARDED / NON-NODES
-X posts (StarsNEnergy Udall/Indyke mailing claims; mention-count; Turkish-language conspiracy threads; House Oversight report recirculation) treated as secondary/adjacency only. No new primary documentary nodes. Homonym collisions and compilation-grade restatements discarded.
+**Sources**: CourtListener docket mirrors (01204 last ~26 Oct; 08047 last 10 Nov 18:12 ET), PACER Monitor public views, prior cycle locks, public news (NM suit Oct 21, Wikipedia 9 Nov). All educational; no non-public material.
 
-Ward still last known ECF cluster 447–448 (no 449 confirmed), hearing 2 Dec 2026 14:00 ET. No 28th accounting. Inquiry still uncharged.
-Drive folder id 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF. Drive file id 1jIqc6M18c_70UtfmB9lESIrNUOmV4Ggc (PDF). Next cycle: post-10 Nov 08047 reply window and pre-23 Nov settlement deadline.
+**Breadcrumb**: artifacts/strand-swarm-v3/out/C1093_BREADCRUMB.json  
+**Drive folder**: 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF  
 
-— END CYCLE 1093 —
+End of C1093.
