@@ -1,0 +1,88 @@
+               STRAND / M-IFIE v6.0 — EDUCATIONAL INTEL MEMO
+                         THE 1953 TRUST · Cycle 1094 · Negative-control + node lock
+
+    As of 2026-11-11 ~12:19 ET / 2026-11-11T17:19Z · Public-record only · Educational / defensive OSINT
+
+
+
+
+1. Executive Summary (process-only)
+Wednesday midday ET negative-control sweep after C1093 (completed ~20:19 ET 10 Nov). Ward
+1:24-cv-01204 remains at ECF 449 (15 Oct interlocutory appeal by pro se Kamila Krachova Hofbaver from ECF
+445). No public ECF 450+. 08047 Woods III track: anonymity opposition memos (ECF 23/24) and seal (ECF
+22) filed 10 Nov 2026; documents sealed, no public text. New Mexico AG 1:26-cv-03543 (Torrez v. Indyke,
+Kahn, Estate, THE 1953 TRUST) last known 5 Nov reassignment; no further docket movement public. House
+Oversight GOP report 10 Nov recirculates prior testimony characterizations (Groff et al.). No 28th accounting.
+SDNY/FBI inquiry remains uncharged per last public characterization. Hearing on Ward still scheduled 2 Dec
+2026 14:00 ET.
+
+
+2. Ward / Doe 3 v. Indyke 1:24-cv-01204-AS (Subramanian)
+• Last known filing: 15 Oct 2026 13:57 ET — ECF 449 NOTICE OF INTERLOCUTORY APPEAL from ECF 445
+Order. Filed by pro se Kamila Krachova Hofbaver (Canadian address on face). Second Circuit 26-2945 opened
+16 Oct.
+
+• CourtListener: last updated 26 Oct 2026; last known filing 15 Oct. No public ECF 450+ visible this cycle.
+
+• Settlement framework remains $35M / $25M ratchet (40-claimant threshold). Simone K. Lelchuk continues as
+Fund Administrator (JAMS NY). Settlement site last updated 5 Oct 2026; claim deadline 23 Nov 2026. No final
+judgment entered.
+
+• Hearing: still referenced for 2 Dec 2026 14:00 ET. No new transcript or order altering that date.
+
+• No 28th accounting published. Prior 27th (~30 Jun 2026) $107.645M gross remains the latest quantified public
+figure.
+
+
+3. New Mexico AG Action — 1:26-cv-03543 (D.N.M.)
+State of New Mexico ex rel. Raúl Torrez, Attorney General v. Darren K. Indyke, Richard D. Kahn, Estate of
+Jeffrey E. Epstein, and THE 1953 TRUST.
+
+• Filed 21 Oct 2026. 49-page complaint. Jury demanded. Reassignment 5 Nov 2026 to District Judge Matthew
+L. Garcia.
+
+• Counts: TVPA sex-trafficking venture (parens patriae); NM Racketeering; conspiracy; restitution/unjust
+enrichment. Relief sought includes halt on distributions/bequests ($50M Indyke / $25M Kahn contingent).
+
+• Estate valuation cited: >$107M as of 30 Jun 2026 accounting. No public TRO or freeze order identified.
+Defense (Weiner): emphatic denial of knowing facilitation.
+
+• No new public docket entries identified since 5 Nov reassignment this cycle.
+
+
+4. Parallel tracks & other nodes
+• 1:26-cv-08047 (Woods III / Figueredo): ECF 22 Seal, ECF 23/24 Memorandum of Law in Opposition to Motion
+(anonymity) filed 10 Nov 2026 (sealed; 0 RECAP). Answer deadline extended to 16 Dec 2026. Jean Sutton
+Martin / AWKO PHV issues previously noted; no new resolution.
+
+• House Oversight: 10 Nov 2026 GOP majority report (137 pp.) recirculates characterizations of prior testimony
+(e.g., Lesley Groff); Democrats call incomplete. Compilation-grade only; no new primary records on Trust.
+
+• Simone K. Lelchuk: confirmed JAMS NY joiner (30 Sep 2026); triple-hat (mediator, Ward Fund Admin,
+JPM/DB QSF).
+
+• X-lane / secondary: no material new primary posts on Trust corpus this cycle. Wikipedia Estate page minor
+activity only.
+
+• Gaps priority: ECF 449/26-2945 full text & status; 08047 anonymity outcome (sealed); NM 03543
+service/answer status; 28th accounting; SDNY inquiry scope (still uncharged).
+
+
+5. Agent swarm status (C1094)
+Full deployment: OSINT SCOUT, DORK SPECIALIST, LEGAL DOCKET, PATTERN ENGINE,
+SYNTHESIZER, RED TEAM, SCOPE MANAGER, MASTER EDITOR. Negative-control confirmed. No new
+entity nodes requiring ontology upgrade. Distiller/Synthesizer: 08047 sealed opposition and House report
+cross-walked against prior materials. Bloodhound sub-agents: no fresh open-source breadcrumbs beyond
+locked NM, appeal, and 08047 process nodes.
+
+
+6. Next window
+C1095: monitor any unsealing or ruling on 08047 anonymity, Ward ECF 450+, NM docket movement, and 2
+Dec hearing prep. Continue Drive + GitHub backup protocol.
+
+
+
+                                     — END OF CYCLE 1094 MEMO —
+
+Educational public-record OSINT only. No recommendations for action. All allegations remain unproven.
+Defendants deny. Inquiry uncharged.
