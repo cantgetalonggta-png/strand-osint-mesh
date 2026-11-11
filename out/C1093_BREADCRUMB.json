@@ -1,22 +1,30 @@
 {
   "cycle": 1093,
   "date": "2026-11-11",
-  "timestamp_utc": "2026-11-11T19:15:00Z",
-  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1093-2026-11-11.pdf",
-  "status": "process-only negative-control",
-  "new_nodes": [
-    "08047 ECF 22 Seal + ECF 23/24 sealed Memorandum of Law in Opposition (10 Nov 2026) to anonymity motion",
-    "Answer deadline confirmed 16 Dec 2026; reply due 17 Nov",
-    "Settlement site reconfirm: deadline 23 Nov 2026, hearing 2 Dec 2026 14:00 ET"
+  "timestamp_pst": "14:16",
+  "timestamp_et": "17:16",
+  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1093-2026-11-11.pdf",
+  "status": "completed",
+  "type": "process-only negative-control with new civil action nodes",
+  "key_nodes": [
+    "THE 1953 TRUST named defendant in 1:26-cv-03543 (D.N.M. Torrez v. Indyke)",
+    "Kamila Krchova Hofbauer appellant 2d Cir. 26-2945 from 01204 ECF 445",
+    "Matthew L. Garcia District Judge 03543 reassignment 5 Nov 2026",
+    "Motley Rice counsel association NM",
+    "08047 ECF 22-24 10 Nov 2026 sealed opposition to anonymity motion",
+    "Answer deadline 16 Dec 2026 in 08047"
   ],
-  "confirmed_hold": [
-    "01204 no ECF 449; last known mid-Oct",
-    "No 28th accounting",
-    "Inquiry still uncharged",
-    "Jean Sutton Martin PHV still deficient"
-  ],
-  "gaps_priority": "ECF 23/24 text, PHV, ECF 449, 28th accounting, NM docket, inquiry scope",
-  "next": "C1094 post-reply / pre-deadline window",
-  "drive_pdf_id": "1jIqc6M18c_70UtfmB9lESIrNUOmV4Ggc",
-  "drive_json_id": "1OH9DYOiczfQaBZjS-TXEm0PR-EaL3C0B"
+  "process": {
+    "01204_last_known": "ECF 449 15 Oct 2026 interlocutory appeal",
+    "01204_cl_update": "26 Oct 2026",
+    "08047_last": "ECF 24 10 Nov 2026",
+    "03543_last": "5 Nov 2026 reassignment",
+    "no_28th_accounting": true,
+    "inquiry_uncharged": true,
+    "ward_hearing": "2 Dec 2026 14:00 ET window pending"
+  },
+  "gaps": "G-01\u2013prior series continued; priority: 08047 ECF 22-24 text, NM complaint full analysis, 26-2945 status, 28th accounting, PHV resolution",
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C1094 monitor 17 Nov 08047 reply window and docket activity"
 }
