@@ -1,20 +1,21 @@
 {
   "cycle": 1094,
-  "timestamp_utc": "2026-11-11T17:19:00Z",
-  "timestamp_et": "2026-11-11 ~12:19 ET",
-  "target": "THE 1953 TRUST",
-  "status": "process-only negative-control + node lock",
-  "memo_pdf": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1094-2026-11-11.pdf",
-  "key_nodes": [
-    "Ward 1:24-cv-01204 ECF 449 (15 Oct 2026) Notice of Interlocutory Appeal by Kamila Krachova Hofbaver from ECF 445",
-    "2d Cir. 26-2945 opened 16 Oct 2026",
-    "NM 1:26-cv-03543 Raul Torrez v. Indyke, Kahn, Estate, 1953 Trust (filed 21 Oct; reassignment 5 Nov to M.L. Garcia)",
-    "08047 Woods III ECF 22-24 (10 Nov 2026) sealed anonymity opposition; answer to 16 Dec",
-    "House Oversight GOP report 10 Nov recirculation (compilation)",
-    "No 28th accounting; inquiry still uncharged"
+  "timestamp_pst": "2026-11-11T16:20:00-08:00",
+  "timestamp_et": "2026-11-11T19:20:00-05:00",
+  "memo_path": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1094-2026-11-11.pdf",
+  "status": {
+    "ward_indyke_01204": "ECF 449 (15 Oct 2026) Notice of Interlocutory Appeal by Kamila Krachova Hofbaver from Order 445; CL last known filing 15 Oct, updated 26 Oct; hearing 2 Dec 2026 14:00 ET; no final judgment; no 28th accounting; inquiry uncharged",
+    "settlement_site": "Last updated 5 Oct 2026; deadline extended to 23 Nov 2026; hearing 2 Dec 2026 2PM ET; Admin Lelchuk",
+    "nm_torrez": "1:26-cv-03543 filed 21 Oct 2026; last known 5 Nov reassignment to Judge Matthew L. Garcia; blocks bequests; estate ~$107M Jun 2026",
+    "08047": "Per C1093 ECF 22-24 10 Nov; no new confirmed this cycle"
+  },
+  "new_nodes": [
+    "Kamila Krachova Hofbaver (ECF 449 pro se appellant, St. Albert AB Canada)",
+    "Motley Rice LLC associations in NM case (Singer, Scott, Crowder, Ahrens)",
+    "Judge Matthew L. Garcia reassignment in 1:26-cv-03543"
   ],
-  "gaps_priority": ["ECF 449/26-2945 text & status", "08047 anonymity outcome (sealed)", "NM 03543 further docket", "28th accounting", "inquiry scope"],
-  "hearing": "2 Dec 2026 14:00 ET (unchanged)",
+  "gaps_priority": "ECF 449 effect; 08047 text; NM responses; 28th accounting; residual value; inquiry status; Hofbaver identity/class status",
   "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "next": "C1095 monitor anonymity ruling and any new ECF"
+  "github_repos": ["cantgetalonggta-png/strand-osint-mesh", "cantgetalonggta-png/1953-Trust-OSINT-Investigation"],
+  "next": "C1095 monitor Dec 2 hearing / Nov 23 deadline"
 }
