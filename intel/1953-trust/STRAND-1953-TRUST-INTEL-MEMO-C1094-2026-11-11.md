@@ -1,24 +1,31 @@
 # STRAND 1953 TRUST INTEL MEMO — Cycle 1094
-Educational OSINT only. Public-record. Not legal advice. Not official.
-Generated: 2026-11-11 ~16:20 PST / 19:20 ET
+**Date:** 2026-11-11 (evening PST / night ET)
+**Target:** THE 1953 TRUST (Epstein pour-over USVI trust, executed 8 Aug 2019)
+**Status:** Negative-control / process-only update after C1093
+**Breadcrumb:** artifacts/strand-swarm-v3/out/C1094_BREADCRUMB.json
 
-## Status Snapshot
-- Ward v. Indyke 1:24-cv-01204-AS (SDNY): Last known filing ECF 449 (15 Oct 2026) Notice of Interlocutory Appeal by Kamila Krachova Hofbaver from Order 445 (supplemental social-media notice). CourtListener last updated 26 Oct 2026; last known filing 15 Oct. Settlement hearing remains 2 Dec 2026 14:00 ET. No final judgment entered. No 28th accounting filed. SDNY inquiry still uncharged.
-- Settlement Fund site (sdnysettlementfund2026.com): Last updated 5 Oct 2026. Claim/opt-out/objection deadline extended to 23 Nov 2026. Hearing 2 Dec 2026 2PM ET. Fund Admin: Simone K. Lelchuk.
-- New Mexico AG Raúl Torrez v. Indyke, Kahn, Estate, THE 1953 TRUST: 1:26-cv-03543 (D.N.M.), filed 21 Oct 2026. Last known filing 5 Nov 2026 (reassignment to Judge Matthew L. Garcia; refusal to consent to magistrate). Alleges facilitation/concealment of trafficking at Zorro Ranch; seeks to block $50M/$25M bequests and other payouts. Estate valued ~$107M as of 30 Jun 2026 accounting (per complaint and contemporaneous reports).
-- 1:26-cv-08047 (Jane Doe/Amy vs Indyke/Kahn as co-executors): Per prior cycle C1093, ECF 22-24 (10 Nov opposition to anonymity, one sealed). No new public RECAP text confirmed this cycle.
-- THE 1953 TRUST remains the pour-over vehicle for residual estate assets post-claims. Proposed bequests (Indyke $50M, Kahn $25M, larger to Shuliak et al.) contingent on availability after priority claims, taxes, expenses. No distributions confirmed as paid.
+## Executive Summary
+Wednesday 11 Nov 2026 evening sweep. No final judgment in Ward v. Indyke (1:24-cv-01204-AS). Hearing remains scheduled for 2 Dec 2026 14:00 ET. No 28th USVI accounting publicly located. SDNY/FBI inquiry status remains uncharged per prior reporting. New process nodes locked on 08047 ECF 22–24 (10 Nov opposition to anonymity, partially sealed) and NM Torrez action reassignment.
 
-## New Nodes / Breadcrumbs
-- Kamila Krachova Hofbaver: Pro se filer of ECF 449 Notice of Interlocutory Appeal. Canadian address (St. Albert, AB T8N 7M7; 18 Nicola Aoao/Aono); phone (687) 402-2376. Likely class-member or objector challenging supplemental notice order. Homonym checks (Czech business registries, other Kamila names) negative for identity lock; no prior public Epstein affiliation confirmed.
-- Motley Rice LLC counsel association in NM case (Linda Singer, Carmen S. Scott, Jessica F. Crowder, Daniel James Ahrens).
-- No new 28th accounting. No new USVI probate public accounting post-27th. No confirmation of SDNY/FBI criminal inquiry charging decision.
+## Key Process Updates
+- **1:26-cv-08047 (Doe v. Indyke, Woods III / Figueredo):** CourtListener last updated Nov 10, 2026 6:12 p.m. Last known filing Nov 10, 2026. ECF 22 (Seal), ECF 23 and ECF 24 (Memoranda of Law in Opposition to Motion to proceed anonymously, filed by Indyke/Kahn; at least one sealed per PACER Monitor). No RECAP PDFs for recent ECFs. PHV (ECF 13 Jean Sutton Martin/AWKO) remains deficient; no ECF 14 resolution. Settlement-related stipulations (ECF 14/15) still title-only.
+- **1:24-cv-01204 (Ward / Doe 3 v. Indyke, Subramanian):** CL last updated Oct 26, 2026 11:49 a.m.; last known filing Oct 15, 2026. No ECF 450+ visible in public CL index. Prior memory confirms ECF 449 (appeal-related, Kamila Krachova Hofbaver filer). Hearing still 2 Dec 2026 14:00 ET. No final judgment entered.
+- **1:26-cv-03543 (Raul Torrez v. Indyke et al., D.N.M.):** Names Estate, Indyke, Kahn, and THE 1953 TRUST. Last updated Nov 9, 2026 3:54 p.m. Last known filing Nov 5, 2026 (NOA by Daniel James Ahrens; refusal to consent to magistrate; reassigned to District Judge Matthew L. Garcia; Fouratt no longer assigned). Complaint seeks to block bequests (~$50M Indyke / $25M Kahn) and alleges facilitation of trafficking at Zorro Ranch. Estate value referenced ~$107M as of June 2026 accounting.
+- **USVI Probate / Accounting:** No new 28th accounting located. Prior 27th (~$107.645M gross to 30 Jun 2026) and 24th ($127.402M) remain benchmarks. Settlement site last known stamp ~5 Oct 2026. Pour-over structure and $250k/yr trustee fee clause unchanged.
+- **Other:** Money Times recirculation of unpaid-executor narrative (Indyke deposition: “not getting paid from the estate”; Kahn expects zero from Trust after obligations). Wikipedia Estate page updated ~11 Nov. No new criminal charges against Indyke/Kahn.
 
-## Gaps Priority (G-series continuation)
-Priority open: ECF 449 appeal status / stay effect on Dec 2 hearing; 08047 ECF 22-24 full text and anonymity outcome; NM case service/response; 28th accounting; exact residual value available for 1953 Trust distributions; inquiry scope/status; Hofbaver class status; any post-15 Oct 01204 filings not yet on CourtListener.
+## New Nodes
+- ECF 22–24 in 08047 (10 Nov 2026 sealed/opposition filings on anonymity).
+- NM case reassignment to Judge Matthew L. Garcia (5 Nov 2026).
+- Confirmation of no ECF 450+ or final judgment in 01204 as of this sweep.
+- Persistent zero-RECAP on recent 08047 and NM filings.
 
-## Process Notes
-Negative-control sweep post-C1093. CourtListener entry tables partially failed on 01204 (common). No ECF 450+ visible. Settlement banner still active with 5 Oct stamp. X-lane empty for primary nodes this cycle. Backups to Drive folder 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF and GitHub cantgetalonggta-png/strand-osint-mesh + 1953-Trust-OSINT-Investigation.
+## Gaps (priority carry-forward)
+- G-priority: Full text of 08047 ECF 23/24 (opposition); resolution of PHV deficiencies; post-ECF 449 docket activity and transcript restrictions in 01204; 28th USVI accounting; exact residual value available for 1953 Trust distributions; status of any SDNY/FBI inquiry (still uncharged); VIBIR/Deckoff related answer deadlines; class opt-out numbers post-notice.
+- Full gaps series continues G-01 onward; no new numbered gaps this cycle beyond process confirmation.
 
 ## Next Window
-C1095: Monitor Dec 2 2026 hearing approach, Nov 23 claim deadline, NM case progress, any RECAP on 08047/01204. Educational OSINT only.
+C1095: Monitor for 01204 final-hearing prep or new ECF, 08047 ECF 25+ or RECAP of 23/24, any USVI accounting drop, NM responsive pleadings.
+
+**Drive folder:** 1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF  
+**All prior cycles backed up. This cycle materials to be uploaded.**
