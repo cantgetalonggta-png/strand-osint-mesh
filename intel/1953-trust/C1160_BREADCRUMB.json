@@ -1,0 +1,26 @@
+{
+  "cycle": 1160,
+  "date": "2026-11-13",
+  "time_et": "15:16",
+  "time_pst": "12:16",
+  "type": "process-only negative-control",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1160-2026-11-13.pdf",
+  "status": {
+    "ward_01204": "ECF 449 (Hofbaver interlocutory appeal notice ~15 Oct); hearing 2 Dec 2026 14:00 ET; no final judgment",
+    "settlement_site": "last update 5 Oct 2026; claim deadline 23 Nov 2026",
+    "08047": "12 Nov extension motion; answer deadline 16 Dec 2026",
+    "03543": "last filings 5 Nov 2026; reassigned Judge Matthew L. Garcia",
+    "2d_cir_26-2945": "opened 15-16 Oct 2026",
+    "accounting": "no 28th; $107.6M-$127.4M circulating",
+    "inquiry": "uncharged",
+    "house_oversight": "GOP report 10 Nov 2026"
+  },
+  "new_nodes": [
+    "House Oversight GOP report 10 Nov 2026 (Groff not credible; further DOJ urged)",
+    "08047 ECF ~26 extension 12 Nov",
+    "Claim window T-10 to 23 Nov"
+  ],
+  "gaps": "G-priority carry (28th accounting, final judgment, PHV resolution, inquiry scope, 03543 response)",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C1161 post-claim deadline or new ECF window"
+}
