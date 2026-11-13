@@ -1,0 +1,24 @@
+{
+  "cycle": 1160,
+  "date": "2026-11-13",
+  "time_pst": "09:20",
+  "time_et": "12:20",
+  "type": "process-only negative-control after C1159",
+  "new_nodes": [
+    "1:26-cv-03543 Raul Torrez v. Indyke (D.N.M.): reassigned to Judge Matthew L. Garcia (5 Nov 2026); Motley Rice LLC (Singer/Scott/Crowder); Aletheia Allen; Daniel James Ahrens; names THE 1953 TRUST; estate >$107M (30 Jun 2026 acct); last filing 5 Nov",
+    "1:26-cv-08047 ECF 25 Order on Motion to Seal (12 Nov); ECF 26 Extension of Time to File Response/Reply re anonymity (12 Nov, Gianna Elliot/Marsh); Woods III / Figueredo",
+    "2d Cir. 26-2945 Kamila Krachova Hofbaver interlocutory from 17 Sep 2026 01204 order",
+    "House Oversight majority report 10 Nov 2026: Indyke/Kahn role pp. ~86-88; NPA/mishandling focus; no new charges",
+    "Money Times 13 Nov 2026: 43-beneficiary recirculation; 1953 Trust never took effect"
+  ],
+  "status": {
+    "ward_01204": "ECF 447-448; hearing 2 Dec 2026 14:00 ET; no ECF 449; no final judgment",
+    "accounting": "no 28th; last ~27th to 30 Jun 2026 ~$107.645M",
+    "inquiry": "SDNY/FBI uncharged",
+    "08047": "ECF 25/26 title activity 12 Nov; CSAM class elements"
+  },
+  "gaps": "G-series priority: 28th accounting; ECF 449; full 08047 ECF 25/26 text; NM 03543 next; Hofbaver briefing; inquiry confirmation; beneficiary count collision",
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C1161 later 13/14 Nov ET"
+}
