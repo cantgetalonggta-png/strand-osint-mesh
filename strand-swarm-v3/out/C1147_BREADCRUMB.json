@@ -1,18 +1,17 @@
 {
   "cycle": 1147,
-  "date": "2026-11-12",
-  "timestamp_et": "2026-11-12T17:18:00-05:00",
-  "type": "process-only-negative-control",
-  "core_status": {
-    "ward_01204": "ECF 449 appeal Oct 15; hearing 2 Dec 2026 14:00 ET; no final judgment; no 28th accounting; inquiry uncharged",
-    "08047": "ECF 22-24 ~Nov 10; answer to Dec 16; PHV deficient carry; 0 RECAP core",
-    "nm_03543": "Filed Oct 21 naming 1953 Trust; last ~Nov 5; reassigned Garcia",
-    "usvi_probate": "ST-19-PB-80 ongoing; no 28th",
-    "trust": "1953 pour-over 8 Aug 2019; contingent bequests"
-  },
-  "new_nodes": ["NM 1953 Trust explicit defendant", "Ward ECF 449 Hofbaver appeal"],
-  "gaps": "G-01–prior series + ECF 450, RECAP 08047, NM answers, 28th accounting, inquiry confirmation",
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "github": "cantgetalonggta-png/strand-osint-mesh",
-  "next": "C1148 later 12/13 Nov ET; Dec 2 T-20"
+  "timestamp_utc": "2026-11-13T00:21:19Z",
+  "local_pdt": "2026-11-12 16:20 PDT",
+  "local_et": "2026-11-12 19:20 ET",
+  "status": "process-only + new primary node lock",
+  "key_nodes": [
+    "1:24-cv-01204 ECF 449 (15 Oct 2026) Notice of Interlocutory Appeal by Kamila Krachova Hofbaver from ECF 445",
+    "Settlement hearing 2 Dec 2026 14:00 ET; site last updated 5 Oct 2026; deadline 23 Nov 2026",
+    "1:26-cv-08047 ECF 24 (10 Nov 2026) Sealed Opp to anonymity motion; PHV Martin deficient; answer due 16 Dec 2026",
+    "NEW: 1:26-cv-03543 (D.N.M.) State of New Mexico ex rel. Torrez v. Indyke, Kahn, Estate, THE 1953 TRUST (filed 21 Oct 2026)",
+    "No 28th accounting; SDNY inquiry uncharged"
+  ],
+  "gaps_priority": ["08047 ECF 22-24 RECAP", "01204 post-449", "NM complaint full analysis", "28th accounting", "inquiry scope"],
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C1148 post-23 Nov deadline or pre-2 Dec hearing window"
 }
