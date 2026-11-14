@@ -1,0 +1,8 @@
+{
+  "exported_at": "2026-11-14T22:12:06Z",
+  "source": "src/lib/osint/framework.ts",
+  "live": "https://strand-osint-mesh.vercel.app/framework",
+  "build_status": "automation-crew-active",
+  "directives_count": 16,
+  "note": "Static export for operators; full fidelity remains in TS modules"
+}

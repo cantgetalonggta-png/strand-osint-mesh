@@ -33,6 +33,14 @@ function FrameworkPage() {
         </Button>
       </header>
 
+      <section className="rounded-xl border border-border bg-card/60 px-4 py-3 font-mono text-[11px] tracking-wide text-muted-foreground">
+        <span className="text-ink uppercase">Automation crew</span>
+        <span className="mx-2">·</span>
+        <span>50-task backend worker bound · framework live target · presence-only secrets · no further audit-merge hops</span>
+        <span className="mx-2">·</span>
+        <a className="underline" href="https://github.com/cantgetalonggta-png/Testdebug">Testdebug fleet</a>
+      </section>
+
       <section className="rounded-xl bg-card p-4 shadow-[var(--shadow-border)] md:p-6">
         <p className="font-mono text-[10px] tracking-[0.16em] text-ink uppercase">
           Permanent thinking gate
