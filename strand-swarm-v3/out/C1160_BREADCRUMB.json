@@ -1,1 +1,24 @@
-{"cycle":1160,"date":"2026-11-13","status":"completed","primary_target":"THE 1953 TRUST","notes":"See PDF memo. 08047 ECF 27 Seal 13 Nov; 01204 last 15 Oct ECF 449; 2d Cir 26-2945 Hofbaver; NM Garcia reassignment; no 28th accounting; inquiry uncharged."}
+{
+  "cycle": 1160,
+  "date": "2026-11-13",
+  "timestamp_utc": "2026-11-14T02:15:00Z",
+  "type": "process-only-negative-control",
+  "after": "C1159",
+  "nodes": [
+    "08047 ECF 25 Order on Motion to Seal (12 Nov)",
+    "08047 ECF 26 Extension of Time (12 Nov)",
+    "08047 ECF 27 Seal (13 Nov)",
+    "03543 reassignment to Judge Matthew L. Garcia (5 Nov)",
+    "Marsh settlement notice recirculation (2 Nov)"
+  ],
+  "status": {
+    "ward_01204": "ECF ~448 terminal; hearing 2 Dec 2026 14:00 ET; no 449",
+    "08047": "ECF 27 Seal 13 Nov; 0 RECAP recent; Woods III",
+    "03543": "last 5 Nov; Garcia assigned; 1953 Trust defendant",
+    "accounting": "no 28th",
+    "inquiry": "uncharged"
+  },
+  "gaps": "G-01–prior + 28th accounting, ECF 449, RECAP seals, residual arithmetic",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "next": "C1161 later Nov 13/14 ET"
+}
