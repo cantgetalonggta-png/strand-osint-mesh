@@ -1,1 +1,17 @@
-{"cycle": 1160, "date": "2026-11-14", "timestamp_pst": "2026-11-14T18:15:00-08:00", "status": "process-only negative-control + active docket confirmation after C1159", "dockets": {"1:24-cv-01204": {"last_known_filing": "2026-10-15"}, "1:26-cv-08047": {"last_known_filing": "2026-11-13"}, "1:26-cv-03543": {"last_known_filing": "2026-11-05"}}, "next": "C1161 Monday 17 Nov ET"}
+{
+  "cycle": 1160,
+  "date": "2026-11-14",
+  "timestamp_pst": "2026-11-14T18:15:00-08:00",
+  "status": "process-only negative-control + active docket confirmation after C1159",
+  "dockets": {
+    "1:24-cv-01204": {"last_known_filing": "2026-10-15", "cl_last_updated": "2026-11-13", "hearing": "2026-12-02T14:00ET"},
+    "1:26-cv-08047": {"last_known_filing": "2026-11-13", "ecfs": [25,26,27]},
+    "1:26-cv-03543": {"last_known_filing": "2026-11-05", "includes_1953_trust": true},
+    "2d_cir_26-2945": {"appellant": "Kamila Krchova Hofbauer", "filed": "2026-10-16"}
+  },
+  "settlement_site": "https://www.sdnysettlementfund2026.com",
+  "accounting": "no 28th; 27th $107.645M latest",
+  "inquiry": "uncharged",
+  "drive_file_id": "1uOyb0aXlp2S4f7ZCXGmpzxvi1YC6-08e",
+  "next": "C1161 Monday 17 Nov ET clerk-open"
+}
