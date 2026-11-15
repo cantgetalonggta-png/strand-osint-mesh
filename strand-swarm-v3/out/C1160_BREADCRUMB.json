@@ -1,43 +1,22 @@
 {
-  "cycle": 1160,
+  "cycle": "C1160",
   "date": "2026-11-14",
-  "timestamp_utc": "2026-11-14T23:17:00Z",
-  "pdt": "~15:17",
-  "et": "~18:17",
-  "type": "process-only negative-control after C1159",
-  "ward_01204": {
-    "last_known_filing": "2026-10-15",
-    "ecf_449": false,
-    "hearing": "2026-12-02 14:00 ET",
-    "final_judgment": false,
-    "cl_last": "2026-11-13 14:38"
+  "time_et": "approx 19:20",
+  "type": "process-only negative-control / docket confirmation",
+  "primary_status": {
+    "ward_01204": "CL last updated 13 Nov ~14:38 ET; last known filing 15 Oct; no ECF 449; hearing 2 Dec 2026 14:00 ET",
+    "doe_08047": "CL last updated 13 Nov 14:11 ET; ECF 25-27 (12-13 Nov seal/extension) title-only 0 RECAP; Woods III / Figueredo",
+    "nm_03543": "last known 5 Nov reassignment to Judge Matthew L. Garcia; last updated 9 Nov",
+    "settlement_site": "last updated 5 Oct 2026; deadlines 23 Nov 2026; hearing 2 Dec"
   },
-  "08047": {
-    "last_updated": "2026-11-13",
-    "last_known_filing": "2026-11-13",
-    "ecf_27": "Seal (13 Nov)",
-    "prior": "ECF 14 Proposed Stipulation, ECF 15 Letter, appearances, extensions, oppositions",
-    "phv_martin": "deficient notice 7 Oct; subsequent case progression"
-  },
-  "nm_03543": {
-    "filed": "2026-10-21",
-    "last_known": "2026-11-05",
-    "reassigned": "Judge Matthew L. Garcia",
-    "names_1953_trust": true,
-    "estate_value_cited": ">$107M (30 Jun 2026)"
-  },
-  "accounting": {
-    "28th": false,
-    "public_latest": "27th ~$107.645M to 30 Jun 2026"
-  },
-  "inquiry": "uncharged",
   "new_nodes": [
-    "Jean Sutton Martin / AWKO PHV path in 08047",
-    "Judge Matthew L. Garcia assignment in 03543"
+    "08047 ECF 25 Order on Motion to Seal (12 Nov)",
+    "08047 ECF 26 Extension (12 Nov)",
+    "08047 ECF 27 Seal letter motion Weiner (13 Nov)",
+    "Settlement Fund site deadline reconfirm to 23 Nov 2026",
+    "Money Times 14 Nov 43-beneficiary recirculation (compilation)"
   ],
-  "gaps_priority": ["28th accounting", "ECF 449+", "final judgment", "08047 RECAP text", "inquiry charging decision"],
+  "gaps": "G-01\u2013prior + G-NEW-1 RECAP 08047 25-27; G-NEW-2 PHV; G-NEW-3 ECF 449; G-NEW-4 28th accounting; G-NEW-5 inquiry; G-NEW-6 NM response",
   "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "drive_file_pdf": "1UobCZBivh3cAQSNMxfFIX8I1XTCrdXmq",
-  "github": "cantgetalonggta-png/strand-osint-mesh",
-  "next": "C1161 Monday 17 Nov ET clerk-open window"
+  "next": "C1161 Sunday/Monday ET post-weekend window"
 }
