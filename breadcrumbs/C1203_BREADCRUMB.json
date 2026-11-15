@@ -1,0 +1,19 @@
+{
+  "cycle": 1203,
+  "date": "2026-11-15",
+  "target": "THE 1953 TRUST",
+  "status": "process-only negative-control + node reinforcement",
+  "ward_01204": "ECF 447-448 terminal public; hearing 2 Dec 2026 14:00 ET; no ECF 449",
+  "08047": "ECF 13 PHV deficient (Jean Sutton Martin/AWKO); no ECF 14 resolution",
+  "nm_03543": "civil suit filed ~21 Oct 2026 seeking bar on payouts",
+  "inquiry": "SDNY/FBI uncharged; no DOJ confirmation",
+  "new_nodes": [
+    "SDNYSettlementFund2026.com (Marsh 2 Nov notice)",
+    "Hot Paths 14-15 Nov compilation ($50M/$25M; Kahn zero expectation)",
+    "CourtListener last-known ~15 Oct 2026"
+  ],
+  "gaps": "G-ECF449, G-28thAcct, G-Inquiry, G-PHV, G-NM-03543, G-BeneficiaryCount + prior series",
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "next": "C1204",
+  "timestamp": "2026-11-15T23:18:00Z"
+}
