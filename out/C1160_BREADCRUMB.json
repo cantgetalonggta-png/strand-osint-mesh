@@ -1,22 +1,26 @@
 {
   "cycle": 1160,
-  "date": "2026-11-14",
-  "target": "THE 1953 TRUST",
-  "new_nodes": [
-    "ECF 449 pro se interlocutory appeal by Kamila Krachova Hofbaver",
-    "2d Cir. 26-2945",
-    "1:26-cv-03543 NM AG v. Indyke/Kahn/Estate/1953 Trust",
-    "08047 advanced to ECF 27",
-    "Hofbaver Canadian address lock"
-  ],
-  "status": {
-    "ward_hearing": "2 Dec 2026 14:00 ET",
-    "28th_accounting": "none public",
-    "inquiry": "uncharged",
-    "trust_effective": "never taken effect"
+  "date": "2026-11-15",
+  "status": "process-only negative-control / node reinforcement",
+  "primary_dockets": {
+    "ward_indyke_01204": "CL last updated 13 Nov 2026; last known filing 15 Oct 2026; ECF 449 (14 Oct) Notice of Interlocutory Appeal by Kamila Krachova Hofbaver from ECF 445; 2d Cir. 26-2945",
+    "nm_torrez_03543": "CL last updated 9 Nov 2026; last known 5 Nov 2026 (appearance + reassignment to Judge Matthew L. Garcia)",
+    "08047": "prior PHV deficient / later title-only entries; carry"
   },
-  "gaps": "G-NEW-1 to G-NEW-6 + prior series",
-  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1160-2026-11-14.pdf",
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "drive_file_pdf": "1TDaOhiFTW4DMSFU0eje36YlANdVNelXQ"
+  "new_nodes": [
+    "Kamila Krachova Hofbaver (ECF 449 appellant)",
+    "Judge Matthew L. Garcia (03543 reassignment)",
+    "House Oversight majority staff report 10 Nov 2026"
+  ],
+  "reconfirmed": [
+    "1953 Trust pour-over never taken effect",
+    "No 28th accounting",
+    "SDNY/FBI inquiry uncharged",
+    "Ward settlement $25M/$35M ratchet pending final judgment",
+    "NM suit seeks to block $50M/$25M bequests"
+  ],
+  "gaps": "G-01\u2013prior + G-NEW-1 through G-NEW-6 (appeal text, 2d Cir effect, NM response, 28th accounting, final judgment, inquiry scope)",
+  "drive_folder_id": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C1161 monitor 2d Cir 26-2945, NM 03543, Ward post-appeal"
 }

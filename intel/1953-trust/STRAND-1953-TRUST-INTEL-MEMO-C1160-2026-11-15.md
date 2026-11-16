@@ -1,15 +1,15 @@
-# STRAND Cycle 1160 — THE 1953 TRUST Intel Memo Summary
+# STRAND 1953 Trust Intel Memo Cycle 1160
 
-**Date:** 15 November 2026  
-**Status:** Negative-control + new node lock  
+**Date:** 15 November 2026
 
-## Key New Nodes
-- **1:26-cv-03543** (D.N.M.): Raul Torrez v. Indyke et al. (including THE 1953 TRUST as named defendant). Filed 21 Oct 2026. Reassigned to Judge Matthew L. Garcia on 5 Nov 2026. TVPA + NM RICO claims seeking to block trust distributions to Indyke ($50M) and Kahn ($25M). Motley Rice counsel associated.
-- Ward v. Indyke (1:24-cv-01204-AS): ECF 449 (14 Oct 2026) Notice of Interlocutory Appeal by Kamila Krachova Hofbaver from the 17 Sep Order. Final approval hearing remains scheduled for 2 Dec 2026 14:00 ET.
+**Status:** Process-only negative-control / node reinforcement after C1159.
 
-## Holds
-- No 28th USVI accounting public.
-- SDNY/FBI inquiry into Indyke/Kahn remains uncharged.
-- Full PDF memo uploaded to Drive folder 1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer (file id 1nUnhRXofCdRM9PbSLoiU9cFCrehYXcnU).
+## Key Updates
+- Ward v. Indyke 1:24-cv-01204-AS: ECF 449 (14 Oct 2026) Notice of Interlocutory Appeal by Kamila Krachova Hofbaver from ECF 445. 2d Cir. 26-2945. CL last known filing 15 Oct; last updated 13 Nov.
+- NM AG 1:26-cv-03543: Reassigned to Judge Matthew L. Garcia (5 Nov 2026). Last known filing 5 Nov.
+- House Oversight majority staff report released 10 Nov 2026 on federal mishandling.
+- 1953 Trust remains pour-over, has not taken effect. No 28th accounting. Inquiry still uncharged.
 
-Public-record educational OSINT only. No operational advice.
+Full PDF uploaded to Google Drive folder STRAND_1953_TRUST_INTEL (file id 1zvK7kSCt-0Izb7FWBlCNu3nbSWS05dhG).
+
+Educational OSINT only.
