@@ -1,0 +1,16 @@
+{
+  "cycle": "C1223",
+  "date": "2026-11-16",
+  "time_et": "13:14",
+  "status": "process-only negative-control + NM residual lock",
+  "new_nodes": [
+    "1:26-cv-03543 (D.N.M.) residual reconfirm: Judge Matthew L. Garcia assignment; ECF activity through 5 Nov (appearance, refusal to magistrate); docket last-updated 13 Nov 2026; 1953 Trust named defendant; estate residual >$107M (30 Jun 2026 accounting)",
+    "01204 CL last-updated 13 Nov 2026 14:38 ET; last known filing 15 Oct 2026; no ECF 449; hearing still 2 Dec 2026 14:00 ET",
+    "Simone K. Lelchuk JAMS lock reinforced (joined 30 Sep 2026); Fund Administrator for Ward $25M/$35M ratchet"
+  ],
+  "gaps": "G-01\u2013G-prior series priority unchanged (ECF 449 text, 28th accounting, uncharged SDNY inquiry scope, NM case full RECAP, PHV resolution if any)",
+  "ward_status": "ECF 447-448 cluster; hearing 2 Dec 2026 14:00 ET; no 28th accounting; inquiry still uncharged",
+  "drive_folder_id": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C1224 later 16 Nov ET / post-hearing window"
+}
