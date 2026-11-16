@@ -1,0 +1,32 @@
+{
+  "cycle": 1221,
+  "date": "2026-11-16",
+  "time_et": "12:22",
+  "status": "process-only negative-control after C1220",
+  "ward_01204": {
+    "last_known_filing": "2026-10-15",
+    "cl_last_updated": "2026-11-13 14:38",
+    "no_ecf_450": true,
+    "hearing": "2026-12-02 14:00 ET",
+    "claims_deadline": "2026-11-23 23:59 EST",
+    "ecf_449_appeal": "Hofbauer interlocutory from 445 (14 Oct 2026)"
+  },
+  "08047": {
+    "last_known_filing": "2026-11-13",
+    "cl_last_updated": "2026-11-14 08:18",
+    "ecf_25": "Woods denies seal w/o prejudice (12 Nov)",
+    "ecf_27": "Weiner seal re 23/24 (13 Nov)",
+    "answer_deadline": "2026-12-16"
+  },
+  "nm_03543": {
+    "filed": "2026-10-21",
+    "last_known": "2026-11-05",
+    "judge": "Matthew L. Garcia",
+    "names_1953_trust": true,
+    "residual_cited": ">$107M (30 Jun 2026 acct)"
+  },
+  "gaps_priority": ["ECF449-effect", "28thAcct", "Inquiry", "PHV", "08047-seal", "NM-status", "Settlement-claims", "Value-delta"],
+  "drive_folder": "pending_resolution",
+  "github": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C1222 later 16 Nov ET"
+}
