@@ -1,0 +1,16 @@
+{
+  "cycle": 1224,
+  "timestamp_utc": "2026-11-16T20:15:04Z",
+  "target": "THE 1953 TRUST",
+  "status": "process-only + NM action confirmed",
+  "key_nodes": [
+    "NM v. Indyke 1:26-cv-03543 (Torrez, 21 Oct 2026)",
+    "Ward ECF 449 interlocutory appeal (14 Oct 2026)",
+    "Estate residual >$107M (30 Jun 2026 accounting)",
+    "Trust never taken effect; Shuliak/Indyke/Kahn priority bequests"
+  ],
+  "hearing": "2 Dec 2026 14:00 ET",
+  "gaps_priority": "NM complaint details, 28th accounting, appeal status, residual exact",
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh"
+}
