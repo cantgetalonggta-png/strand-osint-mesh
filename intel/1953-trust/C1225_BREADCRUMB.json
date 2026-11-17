@@ -1,0 +1,12 @@
+{
+  "cycle": 1225,
+  "date": "2026-11-16",
+  "type": "process + beneficiary-node lock",
+  "status": "completed",
+  "ward_hearing": "2 Dec 2026 14:00 ET",
+  "ward_last_known": "15 Oct 2026 (CL header 13 Nov)",
+  "torrez_case": "1:26-cv-03543 reassigned Matthew L. Garcia; last filing 5 Nov 2026",
+  "new_nodes": ["Tommy Carstensen Will & Estate DB", "42-bequest full transcription", "Motley Rice counsel on Torrez", "successor executor chain"],
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-16.pdf",
+  "next": "C1226 post-hearing or new ECF window"
+}
