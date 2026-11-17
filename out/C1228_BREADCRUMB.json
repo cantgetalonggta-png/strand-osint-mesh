@@ -1,0 +1,18 @@
+{
+  "cycle": 1228,
+  "timestamp": "2026-11-17T18:19:00Z",
+  "status": "completed",
+  "focus": "1953 TRUST node sweep - Torrez docket, Ward ECF 449, Carstensen DB",
+  "new_nodes": [
+    "1:26-cv-03543 Torrez v. Indyke (D.N.M.) last filing Nov 5 2026; names Estate + 1953 Trust",
+    "Ward 1:24-cv-01204 ECF 449 Notice of Interlocutory Appeal by Kamila Krachova Hofbaver from ECF 445 (Oct 14 2026); docket last updated Nov 13",
+    "Tommy Carstensen Epstein Will & Estate Database (Nov 13 update): 33 named + 9 redacted beneficiaries; 42 bequests ~$283M; specific: Shuliak ~$100M, Indyke $50M, Kahn $25M, Maxwell/Mark Epstein/Visoski $10M each, Nowak $5M, staff/pilots ~$45M, claims reserves $60M",
+    "House Oversight majority report Nov 10 2026 on federal mishandling of Epstein/Maxwell investigations"
+  ],
+  "gaps": "G-01\u2013G- prior + priority: full Torrez complaint text/RECAP, Hofbaver identity/role in Ward class, 28th accounting, uncharged SDNY inquiry status, redacted beneficiary identities",
+  "ward_status": "ECF 447-449 cluster; hearing still referenced 2 Dec 2026 14:00 ET (pre-appeal); no final judgment",
+  "trust_status": "Pour-over; never taken effect; residual ~$107M (30 Jun 2026) to $127M (earlier); no distributions to beneficiaries",
+  "inquiry": "SDNY/FBI still uncharged as of last reports",
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "next": "C1229 continued docket/RECAP pull + beneficiary crosswalk"
+}
