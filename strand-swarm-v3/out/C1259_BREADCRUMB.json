@@ -1,0 +1,19 @@
+{
+  "cycle": 1259,
+  "date": "2026-11-18",
+  "target": "THE 1953 TRUST",
+  "new_nodes": [
+    "1:26-cv-03543 ECF 14 Order Granting Motion to Seal Unredacted Complaint (Judge Matthew L. Garcia, 18 Nov 2026)",
+    "Motley Rice counsel lock (Singer/Scott/Crowder) + NM local (Allen/Ahrens)"
+  ],
+  "status": {
+    "ward_hearing": "2 Dec 2026 14:00 ET",
+    "ward_last_ecf": "449 interlocutory (14 Oct 2026)",
+    "nm_case": "1:26-cv-03543 last ECF 14 (18 Nov 2026)",
+    "trust_status": "never taken effect",
+    "accounting": "no 28th",
+    "inquiry": "uncharged"
+  },
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github": "cantgetalonggta-png/strand-osint-mesh"
+}
