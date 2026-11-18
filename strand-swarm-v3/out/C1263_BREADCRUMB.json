@@ -1,0 +1,20 @@
+{
+  "cycle": 1263,
+  "date": "2026-11-18",
+  "target": "THE 1953 TRUST",
+  "new_nodes": [
+    "Process-only negative-control: 1:26-cv-03543 ECF 14 hold (18 Nov 2026 Order to Seal); no ECF 15; Ward no ECF 450+; no 28th accounting",
+    "Money Times 18 Nov 2026 reprint of 26 Mar 2026 residual/~$127M and Valar reporting (compilation recirculation)"
+  ],
+  "status": {
+    "ward_hearing": "2 Dec 2026 14:00 ET",
+    "ward_last_ecf": "449 interlocutory (14 Oct 2026)",
+    "nm_case": "1:26-cv-03543 last ECF 14 (18 Nov 2026)",
+    "trust_status": "never taken effect",
+    "accounting": "no 28th",
+    "inquiry": "uncharged"
+  },
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github": "cantgetalonggta-png/strand-osint-mesh",
+  "pdf": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1263-2026-11-18.pdf"
+}
