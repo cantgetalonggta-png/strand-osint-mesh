@@ -1,0 +1,16 @@
+{
+  "cycle": 1258,
+  "timestamp_utc": "2026-11-18T18:22:08Z",
+  "timestamp_et": "2026-11-18T13:22:08-05:00",
+  "target": "THE 1953 TRUST",
+  "status": "negative-control confirmation",
+  "ward_hearing": "2026-12-02 14:00 ET",
+  "ward_last_known_filing": "2026-10-15",
+  "torrez_case": "1:26-cv-03543 D.N.M.",
+  "torrez_last_filing": "2026-11-05",
+  "trust_effective": false,
+  "accounting": "no 28th public",
+  "inquiry": "uncharged",
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "gaps_priority": ["ECF 449+", "Torrez full text", "28th accounting", "08047 PHV", "inquiry scope"]
+}
