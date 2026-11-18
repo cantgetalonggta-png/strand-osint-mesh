@@ -1,16 +1,34 @@
 {
   "cycle": 1225,
-  "date": "2026-11-17",
-  "timestamp_et": "2026-11-17T19:26:00-05:00",
-  "status": "completed",
-  "new_nodes": [
-    "Judge Matthew L. Garcia (D.N.M. reassignment Torrez 1:26-cv-03543)",
-    "Motley Rice LLC (Linda Singer / Carmen S. Scott / Jessica F. Crowder / Daniel James Ahrens)",
-    "Ward claims/opt-out deadline lock 23 Nov 2026",
-    "Beneficiary structure recap (Shuliak primary package, Indyke $50M, Kahn $25M)"
-  ],
-  "gaps_priority": ["Torrez complaint full text analysis", "Ward ECF 449+", "28th accounting", "uncharged inquiry scope"],
+  "date": "2026-11-18",
+  "timestamp_pt": "13:12",
+  "timestamp_et": "16:12",
+  "mission": "1953 TRUST (Epstein pour-over USVI trust 8 Aug 2019)",
+  "status": "negative-control + incremental node lock",
+  "key_locks": {
+    "ward_01204": {
+      "last_known_filing": "ECF 449 Notice of Interlocutory Appeal ~14-15 Oct 2026 (Hofbaver)",
+      "cl_last_updated": "2026-11-13",
+      "hearing": "2026-12-02 14:00 ET Courtroom 15A",
+      "appeal": "2d Cir. 26-2945",
+      "settlement": "up to $35M / $25M; site sdnysettlementfund2026.com"
+    },
+    "torrez_03543": {
+      "filed": "2026-10-21",
+      "defendants": ["Indyke", "Kahn", "Estate", "1953 Trust"],
+      "estate_residual": "> $107M (30 Jun 2026)",
+      "last_known_filing": "2026-11-05 reassignment to Matthew L. Garcia",
+      "cl_last_updated": "2026-11-09"
+    },
+    "doe_08047": {
+      "cl_last_updated": "2026-11-16",
+      "phv_note": "Jean Sutton Martin / AWKO ECF 13 earlier deficient"
+    },
+    "accounting": "no 28th public",
+    "inquiry": "SDNY still uncharged"
+  },
+  "gaps_priority": ["08047 ECF 14/15 + PHV resolution", "ECF 449 full papers", "28th accounting", "Torrez responsive pleadings", "inquiry status"],
   "drive_folder_id": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
   "github_repo": "cantgetalonggta-png/strand-osint-mesh",
-  "next": "C1226 post-23 Nov 2026"
+  "next": "post-2 Dec 2026 hearing window"
 }
