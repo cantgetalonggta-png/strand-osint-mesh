@@ -1,44 +1,34 @@
 # STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-17
 
 **Cycle:** 1225  
-**Date:** 2026-11-17 ~17:24 ET / 14:24 PST  
-**Agent:** Multi-agent OSINT Swarm (Autonomous Ontologist / Bloodhound / Synthesizer)  
-**Mission Target:** THE 1953 TRUST (Epstein pour-over USVI trust, 8 Aug 2019)  
-**Classification:** Educational public-record OSINT only. No admissions, no charging conclusions.
+**Date:** 2026-11-17 (Tuesday ~16:26 PDT / 19:26 ET)  
+**Classification:** Educational OSINT / Public Record Compilation  
+**Target:** THE 1953 TRUST (Epstein pour-over USVI trust, executed 8 Aug 2019)
 
 ## Executive Summary
-Negative-control + new financial adjacency node. Ward v. Indyke (1:24-cv-01204) remains last-known filing ECF 449 (14 Oct 2026 Notice of Interlocutory Appeal from ECF 445 by Kamila Krachova Hofbaver). CourtListener last updated 13 Nov 2026; no ECF 450+ visible. Final hearing still referenced around 2 Dec 2026 but interlocutory appeal may stay or modify. 1953 Trust has never taken effect. Estate residual ~$107M as of 30 Jun 2026 accounting (per NM complaint). No 28th accounting public. SDNY criminal inquiry remains uncharged per last public reports.
+Negative-control + new-node lock on Torrez (D.N.M. 1:26-cv-03543) reassignment and Motley Rice counsel entry; Ward (S.D.N.Y. 1:24-cv-01204-AS) settlement clock (claims/opt-out 23 Nov 2026; hearing 2 Dec 2026 14:00 ET). Trust remains unfunded / never taken effect. SDNY inquiry still uncharged. No 28th accounting.
 
-**New node:** Deutsche Bank leak (15M+ internal files) published 17 Nov 2026 by international consortium (FT and partners). Bank filed 21 SARs covering ~3,000 transactions Oct 2013–May 2019 totaling ~$581.9–$582M linked to Epstein/entities — more than double prior Senate ~$250M figure. Includes payments to women, shell companies, Leon Black, Glenn Dubin. Accounts closed post-July 2019 arrest. Not a direct 1953 Trust distribution but relevant to the pre-death financial control architecture operated with Indyke/Kahn.
+## New / Confirmed Nodes
+- **Judge Matthew L. Garcia** (D.N.M.): Case reassigned 5 Nov 2026 after plaintiffs’ refusal to consent to magistrate (ECF 12-13). Biden appointee (confirmed Feb 2023); former COS / GC to NM Gov. Michelle Lujan Grisham; UNM BA/JD, Harvard MPP.
+- **Motley Rice LLC** (plaintiff counsel in Torrez): Associations for Linda Singer (DC), Carmen S. Scott, Jessica F. Crowder (both SC); local Aletheia Allen; appearance by Daniel James Ahrens (ECF 11, 5 Nov 2026).
+- **Torrez docket status**: Last known filing 5 Nov 2026 (ECF 13). Complaint (ECF 1, 21 Oct 2026) names Indyke, Kahn, Estate of Jeffrey E. Epstein, and THE 1953 TRUST. Seeks to bar distributions / recover for survivors; residual cited >$107M (30 Jun 2026 accounting).
+- **Ward settlement mechanics**: Official site SDNYSettlementFund2026.com confirms extended deadline **23 Nov 2026** for Questionnaire/Release or opt-out; final approval hearing **2 Dec 2026, 2:00 PM ET**, Courtroom 15A. Fund Administrator: Simone K. Lelchuk (Resolution Services LLC / FREJKA PLLC).
+- **Beneficiary structure (EFTA00099303 / secondary reporting)**: Karyna Shuliak (primary: ~$50M + $50M lifetime annuity + properties/diamonds); Darren K. Indyke $50M; Richard D. Kahn $25M; Ghislaine Maxwell $10M; Mark Epstein $10M (children); Martin Nowak ~$2–5M; residual and numerous redacted names; trustee compensation clause $250k/yr. Pour-over from will; trust has not taken effect.
+- Process-only: No ECF 449+ in Ward; 08047 tracks remain frozen at prior levels; settlement banner active.
 
-## Key Nodes & Breadcrumbs
-- **THE 1953 TRUST**: Pour-over vehicle signed 8 Aug 2019. Never taken effect. Residual after claims/taxes/expenses. Indyke $50M / Kahn $25M proposed bequests (availability-dependent). Karyna Shuliak primary (~$100M + properties). ~33–43 named beneficiaries depending on source/redactions.
-- **Darren K. Indyke / Richard D. Kahn**: Co-executors / co-trustees. Deny knowledge of criminal activity. No criminal charges. Congressional testimony March 2026.
-- **Ward v. Indyke 1:24-cv-01204-AS (SDNY)**: Class settlement proposed ($25M–$35M ratchet). ECF 445 (17 Sep 2026) ordered additional social-media notice. ECF 449 interlocutory appeal 14 Oct 2026. Hearing window 2 Dec 2026 14:00 ET still in prior orders.
-- **State of New Mexico ex rel. Torrez v. Indyke et al. 1:26-cv-03543 (D.N.M.)**: Filed 21 Oct 2026. Names Indyke, Kahn, Estate, 1953 Trust. Alleges facilitation/concealment at Zorro Ranch. Seeks to block bequests. Last known activity ~5–9 Nov 2026 (reassignment).
-- **1:26-cv-08047 (SDNY)**: Parallel Doe action. Activity continuing (e.g., seal motions 13 Nov). Answer deadline 16 Dec 2026.
-- **Deutsche Bank SAR leak (17 Nov 2026)**: $582M flagged 2013–2019. Pre-1953 Trust but same control layer. Stock reaction observed.
-- **Estate value track**: Initial ~$577–$655M (2019) → ~$127M (Sep 2025 accounting) → >$107M (30 Jun 2026). Valar Ventures interests noted in prior testimony.
+## Gaps (priority carry)
+G-priority: Full RECAP text of Torrez ECF 1/complaint claims analysis; ECF 14+ in Torrez; Ward ECF 449+ post-notice; 28th USVI accounting; scope of uncharged SDNY/FBI inquiry; complete unredacted beneficiary list; trustee draws status.
 
-## Gaps (G-series continuation)
-- G-XXXX: Full text of ECF 449 appeal and effect on 2 Dec hearing.
-- G-XXXX: Any 28th USVI accounting (post-30 Jun 2026).
-- G-XXXX: Status of SDNY uncharged inquiry (subpoena/subject/target status).
-- G-XXXX: NM 03543 response deadlines / preliminary injunction status.
-- G-XXXX: Exact residual after Ward settlement final approval and other claims.
-- G-XXXX: Whether any 1953 Trust distributions have occurred (public record shows none).
+## Status Snapshot
+- Ward v. Indyke: ECF 447-448 cluster; hearing 2 Dec 2026 14:00 ET; no final judgment.
+- Torrez v. Indyke et al.: Active; Judge Matthew L. Garcia; Motley Rice counsel.
+- 1953 Trust: Unfunded / never taken effect pending claims resolution.
+- Inquiry: Still uncharged (Ruzumna prior non-comment).
 
-## Sources (public record)
-- CourtListener dockets 1:24-cv-01204, 1:26-cv-03543, 1:26-cv-08047.
-- Reuters, Forbes, CNN, Financial Times (DB leak), Money Times recirculation, EpsteinWiki compilations, NMDOJ complaint summaries.
-- Prior STRAND cycles through C1224.
+## Next Window
+C1226: Post-23 Nov 2026 claims deadline + any Torrez responsive filings / Ward status.
 
-## Backup & Persistence
-- Local: artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-17.md
-- Breadcrumb: artifacts/strand-swarm-v3/out/C1225_BREADCRUMB.json
-- Google Drive folder: 1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer
-- GitHub: cantgetalonggta-png/strand-osint-mesh
+**Sources**: CourtListener dockets (Torrez 74996376; Ward 68260876); sdnysettlementfund2026.com; Reuters / Forbes / EpsteinWiki / Hot Paths secondary (Nov 2026); EFTA references (public).
 
-**Next:** C1226 post-2 Dec 2026 hearing window or earlier on ECF activity / accounting.
-
-*Generated by autonomous multi-agent OSINT mesh. Independent decision-making; unique search vectors (docket, financial leak, beneficiary recirculation). Shared for collective synthesis.*
+---
+*Educational compilation only. No legal advice. All public-record derived.*
