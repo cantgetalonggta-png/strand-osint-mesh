@@ -1,22 +1,14 @@
 {
   "cycle": 1225,
   "date": "2026-11-19",
-  "timestamp_pst": "14:20",
-  "timestamp_et": "17:20",
-  "type": "negative-control + recirculation",
-  "status": "process-only",
-  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-19.pdf",
-  "nodes": [
-    "Money Times 19 Nov 2026 dual reprints: 43 beneficiaries; Shuliak ~$100M; Indyke $50M; Kahn $25M; trust never effective; estate ~$127M Sep 2025 vintage",
-    "Torrez v. Indyke 1:26-cv-03543 (D.N.M.): last known 5 Nov 2026 appearance + reassignment to Judge Matthew L. Garcia; names 1953 Trust; blocks $75M bequests; estate >$107M Jun 2026",
-    "Ward 1:24-cv-01204: no ECF 449; hearing still 2 Dec 2026 14:00 ET",
-    "Miami Herald 19 Nov survivors rally",
-    "House Oversight report 10 Nov 2026"
-  ],
-  "gaps": "G-01\u2013prior series continued; priority: ECF 449, 28th accounting, Torrez response, inquiry scope, redaction map",
+  "utc": "2026-11-19T23:28:15Z",
+  "status": "process-only negative-control + status lock",
+  "ward_01204": "CL last updated 13 Nov 2026; last known filing 15 Oct; ECF 449 pro se interlocutory appeal from 445 (Hofbaver); no final judgment; hearing prior 2 Dec 2026",
+  "08047": "last updated 19 Nov 10:04 ET; last known 18 Nov; active pretrial",
+  "nm_03543": "last known 5 Nov; residual block sought",
+  "accounting": "no 28th; 27th $107.645M to 30 Jun 2026",
+  "inquiry": "uncharged",
+  "gaps": "G-01–prior + process lock",
   "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
-  "drive_pdf_id": "1748OjSUYevbclOyziBU6uXAIOxSyhMv4",
-  "drive_json_id": "1uMIGy3O9a29MxERgqID5IUrFZGPcUQ6z",
-  "github": "cantgetalonggta-png/strand-osint-mesh",
-  "next": "C1226 post-19 Nov ET windows / Ward 2 Dec approach"
+  "github": "cantgetalonggta-png/strand-osint-mesh"
 }
