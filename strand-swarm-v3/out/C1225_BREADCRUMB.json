@@ -1,11 +1,20 @@
 {
   "cycle": 1225,
   "date": "2026-11-19",
-  "time_et": "14:26",
-  "summary": "Process-only negative-control. Torrez 1:26-cv-03543 ECF 14 (18 Nov 2026 seal order, reassigned Judge Matthew L. Garcia). Ward 1:24-cv-01204 last known 15 Oct 2026, hearing 2 Dec 2026. No 28th accounting, no charges. Estate ~$107M residual.",
-  "new_nodes": ["Torrez ECF 14 seal order (18 Nov 2026)", "Judge Matthew L. Garcia reassignment confirmed"],
-  "gaps": "G-01 series continued; priority sealed complaint text, post-hearing Ward, 28th accounting",
+  "timestamp_pst": "13:22",
+  "time_et": "16:22",
+  "status": "process-only / negative-control",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-19.pdf",
+  "key_facts": {
+    "ward_01204": "last known filing 15 Oct 2026; ECF 449 interlocutory appeal 14 Oct by Hofbaver from 445; hearing 2 Dec 2026 14:00 ET",
+    "doe_08047": "filings through 18 Nov 2026 (seal orders ECF 31/32); Woods III / Figueredo",
+    "torrez_03543": "reassigned to Judge Matthew L. Garcia; ECF 14 18 Nov seal order",
+    "trust": "pour-over never taken effect; residual ~$107-127M; no 28th accounting",
+    "inquiry": "SDNY still uncharged"
+  },
+  "new_nodes": ["Hofbaver ECF 449 appellant", "Judge Matthew L. Garcia", "Motley Rice associations"],
+  "gaps": "priority: ECF 449 text, 28th accounting, PHV/anonymity resolution, inquiry scope",
   "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
-  "drive_file_id": "1zXEgevIlQYoLMes-NcDltG-MOL94gXLE",
-  "github_repo": "cantgetalonggta-png/strand-osint-mesh"
+  "drive_file_ids": ["1MfeXCMWe_r9F9lc8eJu-50HLDpeCRjXG", "1Fxxp07-P4uT_81ynXNDfAlnG3PjC6g1r"],
+  "next": "C1226 monitor for 2 Dec hearing prep or new filings"
 }
