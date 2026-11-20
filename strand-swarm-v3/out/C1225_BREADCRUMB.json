@@ -1,15 +1,15 @@
 {
   "cycle": 1225,
   "date": "2026-11-20",
+  "timestamp_pst": "14:22",
   "status": "completed",
-  "new_nodes": [
-    "Torrez 1:26-cv-03543 ECF 17 Kahn waiver of service (Ruzumna/PBWT 23 Oct / filed 19 Nov)",
-    "08047 ECF 32 seal order 18 Nov",
-    "Settlement site live SDNYSettlementFund2026",
-    "Congressional restatement expect zero residual"
-  ],
-  "gaps": "G-01–prior; priority Torrez answer ~Dec 21, Ward 2 Dec hearing, 28th accounting, inquiry uncharged",
-  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
-  "github": "cantgetalonggta-png/strand-osint-mesh",
-  "next": "C1226"
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-20.md",
+  "ward_docket": "1:24-cv-01204 last ECF 449 (Oct 14), hearing Dec 2 2026 14:00 ET, claims deadline 23 Nov 2026",
+  "torrez_docket": "1:26-cv-03543 ECF 14 seal order Nov 18, waivers Nov 19",
+  "trust_status": "pour-over never effective; residual contingent",
+  "inquiry": "SDNY uncharged",
+  "accounting": "no 28th; ~107M as of 30 Jun 2026 per Torrez",
+  "gaps": "G-01 onward + Torrez unredacted, 28th accounting, ECF 450+, post-23 Nov claims",
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github": "cantgetalonggta-png/strand-osint-mesh"
 }
