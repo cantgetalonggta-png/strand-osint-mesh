@@ -1,0 +1,17 @@
+{
+  "cycle": 1226,
+  "date": "2026-11-20",
+  "time_et": "14:25",
+  "status": "negative-control + Torrez lock reinforce + Ward ECF 449 confirm",
+  "key_nodes": [
+    "Torrez v. Indyke 1:26-cv-03543 (D.N.M.): reassigned to Judge Matthew L. Garcia (Nov 5); ECF 14 order on unredacted complaint under seal (18 Nov); waiver of service executed (19 Nov); last updated 19 Nov 6:31 p.m.; residual >$107M as of 30 Jun 2026",
+    "Ward v. Indyke 1:24-cv-01204: ECF 449 interlocutory appeal by Hofbaver from ECF 445 (14 Oct); CL last updated ~13 Nov; hearing remains 2 Dec 2026 14:00 ET; no further ECF 450+",
+    "Hot Paths 19 Nov: estate ~$127M per latest USVI quarterly accounting; Kahn expects zero from 1953 Trust; pour-over pending",
+    "No 28th accounting filed; Trust has not taken effect; SDNY inquiry still uncharged; no criminal charges against Indyke/Kahn",
+    "Shuliak primary beneficiary (~$100M + annuity); Indyke $50M / Kahn $25M proposed bequests subject to availability"
+  ],
+  "gaps": "G-01\u2013prior + G-new: unredacted Torrez complaint full text; Hofbaver full identity and role; post-30 Jun 2026 accounting; ECF 449 disposition status; exact residual at current date",
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C1227 post-hearing or accounting window"
+}
