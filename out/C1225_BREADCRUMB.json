@@ -1,0 +1,19 @@
+{
+  "cycle": 1225,
+  "date": "2026-11-20",
+  "type": "negative-control + NM docket update",
+  "ward_hearing": "2026-12-02 14:00 ET",
+  "claims_deadline": "2026-11-23 23:59 EST",
+  "no_28th_accounting": true,
+  "inquiry_uncharged": true,
+  "new_nodes": [
+    "1:26-cv-03543 Waiver of Service ECF 16/17 (19 Nov) + seal order ECF 14 (18 Nov); Judge Matthew L. Garcia",
+    "Motley Rice counsel association (Singer/Scott/Crowder/Ahrens)",
+    "Settlement claims deadline locked 23 Nov 2026",
+    "08047 seal orders 17-18 Nov (Figueredo)",
+    "Wikipedia Estate page update 17 Nov"
+  ],
+  "gaps_priority": ["28th accounting", "ECF 14/15 full text 08047", "Martin PHV resolution", "inquiry scope", "post-23-Nov claims volume"],
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "next": "C1226 post-23-Nov claims cutoff / pre-2-Dec hearing"
+}
