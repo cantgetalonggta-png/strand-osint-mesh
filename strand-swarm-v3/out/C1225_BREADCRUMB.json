@@ -1,14 +1,15 @@
 {
   "cycle": 1225,
-  "timestamp_utc": "2026-11-20T01:24:30Z",
-  "date_pst": "2026-11-19",
-  "status": "process-only + Torrez ECF 14 seal order",
-  "ward_hearing": "2026-12-02 14:00 ET",
-  "settlement_deadlines": "2026-11-23",
-  "torrez_ecf14": "Order granting unredacted complaint under seal (MLG, 18 Nov 2026)",
-  "no_28th_accounting": true,
-  "inquiry_uncharged": true,
-  "drive_folder_id": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
-  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
-  "gaps_priority": ["08047 ECF text", "PHV", "01204 post-449", "28th accounting", "inquiry charge", "Torrez unredacted"]
+  "date": "2026-11-20",
+  "time_et": "12:23",
+  "status": "negative-control + Torrez update lock",
+  "key_nodes": [
+    "Torrez v. Indyke 1:26-cv-03543 (D.N.M.): reassigned to Judge Matthew L. Garcia; ECF 14 order granting unredacted complaint under seal (18 Nov); waiver of service (19 Nov)",
+    "Ward v. Indyke 1:24-cv-01204: last known filing 15 Oct 2026 (ECF 449 interlocutory appeal by Hofbaver from ECF 445); CL last updated 13 Nov; hearing still 2 Dec 2026 14:00 ET",
+    "No 28th accounting; residual still >$107M as of 30 Jun 2026 per Torrez complaint",
+    "Trust still has not taken effect (pour-over pending full probate)"
+  ],
+  "gaps": "G-01–G- prior + new: unredacted Torrez complaint text; Hofbaver identity/role; post-Jun accounting; ECF 449 disposition",
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github": "cantgetalonggta-png/strand-osint-mesh"
 }
