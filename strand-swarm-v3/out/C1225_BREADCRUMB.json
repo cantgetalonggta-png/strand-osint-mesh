@@ -1,14 +1,14 @@
 {
   "cycle": 1225,
-  "date": "2026-11-19",
-  "utc": "2026-11-19T23:28:15Z",
-  "status": "process-only negative-control + status lock",
-  "ward_01204": "CL last updated 13 Nov 2026; last known filing 15 Oct; ECF 449 pro se interlocutory appeal from 445 (Hofbaver); no final judgment; hearing prior 2 Dec 2026",
-  "08047": "last updated 19 Nov 10:04 ET; last known 18 Nov; active pretrial",
-  "nm_03543": "last known 5 Nov; residual block sought",
-  "accounting": "no 28th; 27th $107.645M to 30 Jun 2026",
-  "inquiry": "uncharged",
-  "gaps": "G-01–prior + process lock",
-  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
-  "github": "cantgetalonggta-png/strand-osint-mesh"
+  "timestamp_utc": "2026-11-20T01:24:30Z",
+  "date_pst": "2026-11-19",
+  "status": "process-only + Torrez ECF 14 seal order",
+  "ward_hearing": "2026-12-02 14:00 ET",
+  "settlement_deadlines": "2026-11-23",
+  "torrez_ecf14": "Order granting unredacted complaint under seal (MLG, 18 Nov 2026)",
+  "no_28th_accounting": true,
+  "inquiry_uncharged": true,
+  "drive_folder_id": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "gaps_priority": ["08047 ECF text", "PHV", "01204 post-449", "28th accounting", "inquiry charge", "Torrez unredacted"]
 }

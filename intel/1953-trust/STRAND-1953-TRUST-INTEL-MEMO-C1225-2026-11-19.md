@@ -1,26 +1,29 @@
-# STRAND 1953 TRUST INTEL MEMO – Cycle 1225
-**Date:** 2026-11-19  
-**Time:** ~15:27 PDT / 18:27 ET (process window)  
-**Classification:** Educational OSINT – Public Records Only  
+# STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-19
+
+**Cycle**: 1225
+**Date**: 2026-11-19 (PST) / 2026-11-20 UTC
+**Status**: Negative-control + new docket nodes
+**Ward hearing**: Still 2 Dec 2026 14:00 ET
+**No 28th accounting**
+**SDNY inquiry still uncharged**
 
 ## Executive Summary
-Negative-control + status lock for THE 1953 TRUST (Epstein pour-over USVI trust, 8 Aug 2019). No 28th accounting filed. Ward v. Indyke 1:24-cv-01204 remains at ECF 449 (pro se interlocutory appeal from ECF 445 notice order by Kamila Krachova Hofbaver, 14 Oct 2026); CL last known filing 15 Oct, last updated 13 Nov. No final judgment entered; prior hearing date 2 Dec 2026 subject to appeal status. 08047 (Doe v. Indyke, Woods III) last updated 19 Nov, last known filing 18 Nov; active pretrial (PHV, seal motions). NM AG Torrez civil action 1:26-cv-03543 (D.N.M.) last known filing 5 Nov; seeks to block residual payouts to Indyke ($50M) / Kahn ($25M) from residual >$107M (30 Jun 2026 accounting). Inquiry into Indyke/Kahn remains uncharged per prior reporting.  
+Process-only sweep after C1224 (16 Nov). Primary new nodes: (1) D.N.M. 1:26-cv-03543 (Torrez v. Indyke et al. / 1953 Trust) ECF 14 (18 Nov 2026) — Order by Judge Matthew L. Garcia granting leave to file unredacted complaint under seal (victim identities, ongoing investigations, cross-jurisdiction confidentiality); redacted complaint remains public. (2) SDNY Settlement Fund 2026 (Ward v. Indyke 1:24-cv-01204) deadlines extended to **23 November 2026** for questionnaire/release, opt-out, and objections; final hearing remains **2 December 2026 at 2:00 p.m. ET**. (3) 1:26-cv-08047 (Doe v. Indyke) continues active with seal/extension orders through 17 Nov 2026 (ECF 31 by Mag. Figueredo). No ECF 450+ on 01204; no 28th accounting; inquiry remains uncharged.
 
-## Key Nodes / Status
-- **Ward 1:24-cv-01204-AS (Subramanian):** ECF 449 Notice of Interlocutory Appeal (pro se, Hofbaver, Canada) from ECF 445 (17 Sep supplemental social-media notice order). Settlement-in-principle ($25–35M class) still pending final approval. CL: last updated 13 Nov 2026 14:38 ET; last known filing 15 Oct 2026. No ECF 450+ visible. Hearing previously reset to 2 Dec 2026 14:00 ET after supplemental notice.
-- **08047 Doe v. Indyke (Woods III / Figueredo):** Last updated 19 Nov 2026 10:04 ET; last known filing 18 Nov. Recent: PHV (Jean Sutton Martin / AWKO deficient earlier), seal motions denied w/o prejudice (ECF 25, 12 Nov), extensions. Complaint (15 Sep) CSAM-class theory.
-- **NM 1:26-cv-03543 Torrez v. Indyke et al. (D.N.M.):** Filed 21 Oct 2026. Complaint names Indyke, Kahn, Estate, 1953 Trust. Alleges facilitation/concealment at Zorro Ranch; seeks injunction against residual bequests. Last known filing 5 Nov (reassignment / appearance). Assigned Lorenzo F. Garcia / referred Robbenhaar (later notes). Residual estate ~$107.645M gross (27th accounting to 30 Jun 2026).
-- **1953 Trust / Estate:** No 28th accounting located. Prior 27th: $107.645M gross / ≥$27M quantified liabilities. Bequests (DOJ EFTA release): Shuliak primary (~$50M + annuity + ring/properties), Indyke $50M, Kahn $25M (contingent on availability after claims/taxes). Trust never taken effect pending probate resolution (compilation-grade prior). Certificate of Trust 26 Aug 2019.
-- **Other:** SDNY inquiry into Indyke/Kahn (WSJ 23 Sep 2026) remains uncharged; counsel statements of no subpoena / not told subject. USVI probate ongoing. Recent media recirculation of Shuliak heir status (Prameya, Money Times).
+## New / Confirmed Nodes
+- **Torrez 1:26-cv-03543**: ECF 14 Order Granting Motion to Seal Unredacted Complaint (Judge Matthew L. Garcia, 18 Nov 2026). Caption confirms 1953 Trust as defendant; Indyke/Kahn as co-executors and administrators. Residual estate characterization ~$107M (30 Jun 2026 vintage).
+- **SDNY Settlement Fund 2026**: Last site update 5 Oct; key dates page confirms Nov 23 deadlines and Dec 2 hearing. Fund Administrator Simone K. Lelchuk / Frejka PLLC.
+- **08047**: Last known filing 17 Nov 2026 (ECF 31 seal order). PHV issues (Jean Sutton Martin / AWKO) remain process-level.
+- **01204**: CL last updated 13 Nov 2026; last known filing 15 Oct 2026. ECF 449 interlocutory still terminal. Hearing locked 2 Dec 2026 14:00 ET.
+- Recirculation nodes (compilation-grade only): Prameya / Money Times 18-19 Nov restatements of Shuliak $100M+ annuity, Indyke $50M / Kahn $25M proposed bequests, 40-43 beneficiary count collision.
 
-## Gaps (carry / new)
-G-01–prior series (priority: 28th accounting; ECF 449/450+ text & appeal status; final approval in Ward; PHV resolution in 08047; NM case service/response; inquiry scope). New process: C1225 lock on 449 appeal and dual-docket dwell.
+## Gaps (priority carry)
+G-priority: ECF 14/15 text resolution on 08047; PHV completion; any post-15 Oct 01204 filings; 28th accounting; inquiry charging decision; Torrez unredacted complaint content (sealed); residual vs claimed $50M/$25M availability.
 
-## Breadcrumb
-artifacts/strand-swarm-v3/out/C1225_BREADCRUMB.json  
-Drive: folder STRAND_1953_TRUST_INTEL (1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer)  
-GitHub: cantgetalonggta-png/strand-osint-mesh  
+## Backup
+- Drive folder: 1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer
+- GitHub: cantgetalonggta-png/strand-osint-mesh
+- Local: artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-19.md
+- Breadcrumb: artifacts/strand-swarm-v3/out/C1225_BREADCRUMB.json
 
-**Next:** C1226 post-19 Nov ET clerk window / appeal docket / accounting check.  
-Ward hearing still referenced 2 Dec 2026; inquiry still uncharged.  
-[2026-11-19]
+**Next window**: Post-23 Nov settlement deadline / pre-2 Dec hearing ECF activity.
