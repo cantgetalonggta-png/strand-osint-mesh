@@ -1,27 +1,53 @@
-# STRAND 1953 TRUST INTEL MEMO — CYCLE 1225
+# STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-20
 
-**Educational OSINT Sweep | 20 November 2026 | Negative-Control + NM Docket Update**
+**Cycle 1225 completed 2026-11-20.** Educational OSINT intel memo. Breadcrumb: artifacts/strand-swarm-v3/out/C1225_BREADCRUMB.json.
 
-## Status Snapshot
+**Timestamp:** Friday, November 20, 2026 ~14:22 PST / 22:22 UTC (post-clerk Friday afternoon ET).
 
-Ward v. Indyke 1:24-cv-01204-AS (SDNY): Last known CL filing ~15 Oct 2026. Settlement claims/opt-out/objection deadline extended to **23 November 2026 23:59 EST**. Final approval hearing remains **2 December 2026 14:00 ET** before Judge Arun Subramanian. No ECF 450+ observed. Settlement site last major update 5 Oct 2026.
+## Process Status (Negative-Control Sweep)
 
-No 28th accounting filed. Residual still referenced to 27th / 30 Jun 2026 ≥$107.645M gross. SDNY/FBI inquiry into Indyke/Kahn remains uncharged (Ruzumna prior non-comment). Trust has not taken effect; pour-over pending full probate.
+- **Ward v. Indyke / Doe 3 v. Indyke (S.D.N.Y. 1:24-cv-01204-AS):** Last known filing ECF 449 Notice of Interlocutory Appeal (Oct 14, 2026, by Kamila Krachova Hofbaver from ECF 445). CL last updated ~Nov 13, 2026. No ECF 450+. Final approval hearing remains scheduled for **December 2, 2026 at 2:00 PM ET** in Courtroom 15A. Settlement claims/opt-out/objection deadline extended to **23 November 2026 23:59 EST** (per settlement site SDNYSettlementFund2026.com). Settlement-in-principle from Dec 2025; preliminary approval March 2026; supplemental social-media notice ordered Sep 2026. No final judgment entered. No 28th USVI accounting publicly located.
 
-## New / Confirmed Nodes — C1225
+- **Torrez / State of New Mexico ex rel. Raúl Torrez v. Indyke et al. (D.N.M. 1:26-cv-03543-MLG-JFR):** Filed Oct 21, 2026 (49-page complaint). Names Indyke, Kahn (individual + executor/administrator capacities), Estate of Jeffrey E. Epstein, and **THE 1953 TRUST**. Seeks injunction against payouts (esp. $50M/$25M bequests), damages related to Zorro Ranch / trafficking facilitation. ECF 14 (Nov 18, 2026): Order granting leave to file unredacted complaint under seal. ECF 16/17 (Nov 19, 2026): Waivers of Service Executed (including Kahn). Reassigned to District Judge Matthew L. Garcia (Nov 5). Complaint cites residual ~$107M as of June 30, 2026 accounting (from $577M initial). No RECAP of unredacted complaint; redacted public. Motley Rice counsel associated.
 
-- **1:26-cv-03543 Torrez v. Indyke et al. (D.N.M.)**: Waiver of Service Executed (ECF 16/17) 19 Nov 2026. Order granting seal of unredacted complaint (ECF 14) 18 Nov. Reassigned to Judge Matthew L. Garcia / Mag. Robbenhaar. Motley Rice counsel associated (Singer, Scott, Crowder, Ahrens). Estate residual >$107M (30 Jun 2026); $50M/$25M bequests targeted. *CourtListener / PACER primary*
-- **SDNYSettlementFund2026.com**: Claims Questionnaire & Release, opt-out, and objections deadline locked at 23 Nov 2026 23:59 EST. Hearing 2 Dec 2026 14:00 ET confirmed. Lelchuk / Frejka PLLC Fund Admin. *Official site primary*
-- **1:26-cv-08047 Doe v. Indyke (SDNY Woods)**: Active. Seal orders 17-18 Nov 2026 (Figueredo). Jean Sutton Martin (AWKO) PHV track continues; prior deficiency resolved or pending cure. Marsh/Nappi counsel. *CourtListener / PacerMonitor primary*
-- **Wikipedia Estate of Jeffrey Epstein**: Page updated 17 Nov 2026. Still notes 1953 Trust pour-over, Indyke/Kahn executors, no charges, March 2026 Oversight depositions. *Compilation secondary*
-- **Valar Ventures / residual path**: Prior $127M / 24th accounting vintage still circulating in secondary (Money Times 20 Nov). No new USVI accounting observed. *Secondary / prior primary*
+- **1953 Trust status:** Pour-over trust executed Aug 8, 2019 (restatement of Jan 2019 trust). Assets pour after full estate settlement/probate in USVI (ST-19-PB-80 et al.). **Has never taken effect.** Contingent bequests: Indyke ~$50M, Kahn ~$25M (assuming availability after claims, taxes, expenses). Primary residual claims priority for survivors, creditors. Executors/trustees: Indyke & Kahn. Certificate of Trust filed Aug 26, 2019. No distributions of residual corpus reported. SDNY criminal inquiry (reported Sep 2026 WSJ/NYT) remains **uncharged**; DOJ non-comment; counsel (Ruzumna/Weiner) state no subpoena/notification as subjects/targets. Congressional testimony: expect zero residual.
 
-## Gaps (priority carry)
+- **USVI probate:** No public 28th accounting located as of this cycle. Prior: 27th to June 30, 2026 ~$107.645M gross / ≥$27M quantified liabilities; earlier vintages ~$127M. Valar Ventures interests noted in prior testimony; maturity/extension open. No new nodes on liquidating fund or Hyperion/HBRK paths this cycle.
 
-G-series continues: no 28th accounting text; ECF 14/15 full text on 08047 still partial; PHV full resolution for Martin; scope of uncharged SDNY inquiry; post-23 Nov claim volume; NM service completion effect on USVI residual; Valar 2026 maturity status.
+- **Other:** 1:26-cv-08047 (Woods III / Jane Doe class) active with seal orders ~17-18 Nov 2026; PHV Jean Sutton Martin/AWKO track continues. No new VIBIR/Deckoff updates. Empty primary X-lane for new primary-source nodes (secondary reprints only).
 
-## Process Notes
+## New / Confirmed Nodes This Cycle
 
-Negative-control sweep post-C1224 (16 Nov). No new criminal charging documents. Trust vehicle remains administrative only. Backup to Drive folder STRAND_1953_TRUST_INTEL (1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer) and GitHub strand-osint-mesh.
+- **Torrez service progress:** Waivers executed Nov 19, 2026. Sealed unredacted complaint permitted. 1953 Trust explicitly named as defendant/asset holder for relief (not primary actor).
+- **Hofbaver interlocutory:** ECF 449 remains terminal on CL; appeal from Sep 17, 2026 supplemental notice order (ECF 445).
+- **Settlement site:** SDNYSettlementFund2026.com live; deadline 23 Nov 2026 23:59 EST; hearing 2 Dec confirmed. Lelchuk / Frejka PLLC Fund Admin.
+- **Accounting collision lock:** Torrez complaint residual >$107M (30 Jun 2026) vs. prior public $127M vintages; no 28th.
+- **Process dwell:** Ward CL hold since mid-Oct; hearing T-12 days to Dec 2; claims deadline T-3.
 
-Generated 2026-11-20 | Educational use only | Primary sources preferred.
+## Gaps (Priority Carry / New)
+
+G-01–G-prior series continue. Priority this cycle:
+- G-new: Torrez unredacted complaint text / claims specificity on 1953 Trust role.
+- G-new: Waiver parties / response deadline (~Dec 21?).
+- ECF 450+ or final approval status post-Dec 2.
+- Post-23 Nov claim volume / opt-outs.
+- 28th USVI accounting (or confirmation of none).
+- SDNY inquiry scope / any charging decision.
+- Residual corpus exact figure post any settlements.
+- Valar / other investment liquidation status.
+- PHV full resolution in 08047.
+
+## Swarm Notes (Multi-Agent OSINT Protocol)
+
+- **Agent-Bloodhound:** Docket sweeps (CL/PACER mirrors) confirm no ECF 450, no 28th accounting, Torrez service only.
+- **Agent-Ontologist:** 1953 Trust remains pre-effective pour-over vehicle; all residual contingent on full probate resolution. Bequest priority subordinate to claims.
+- **Agent-Distiller:** Public sources (Reuters, CourtListener, Wikipedia, Money Times, settlement site) consistent on structure; no new primary instruments.
+- **Agent-Synthesizer:** No material change to corpus control or distribution timeline. NM action is first law-enforcement civil against executors/trustees; does not alter uncharged status.
+- **Sub-agents:** Negative control on X (no new primary), secondary reprints discarded.
+
+**Backup:** Memo + breadcrumb to Google Drive (STRAND_1953_TRUST_INTEL folder id 1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer) and GitHub (cantgetalonggta-png/strand-osint-mesh).
+
+**Next:** C1226 post-weekend / pre-Dec 2 hearing window. Monitor Torrez answer deadline and Ward final approval.
+
+---
+*Educational compilation only. No legal advice. Sources public as of 2026-11-20. Gaps open.*
