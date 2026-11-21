@@ -1,36 +1,42 @@
-# STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-21
+# STRAND 1953 TRUST INTEL MEMO — Cycle 1225
+**Date:** 2026-11-21  
+**Cycle:** C1225 (Saturday late afternoon PST / evening ET)  
+**Classification:** Educational OSINT / process-only negative-control + node lock  
+**Target:** THE 1953 TRUST (Epstein pour-over USVI trust, executed 8 Aug 2019)
 
-**Educational / Research Use Only**  
-**Cycle:** 1225  
-**Date:** 2026-11-21 ~14:17 PDT / 17:17 ET  
-**Prior:** C1224 (2026-11-16)  
-
-## Status Summary (Negative-Control + Node Lock)
-- Ward v. Indyke 1:24-cv-01204-AS (SDNY): CL last updated 13 Nov 2026 14:38 ET; last known filing 15 Oct 2026. No ECF 449+. Hearing remains 2 Dec 2026 14:00 ET. No 28th accounting filed. SDNY inquiry still uncharged (no official confirmation).
-- Torrez v. Indyke et al. 1:26-cv-03543 (D.N.M.): Last updated 20 Nov 2026 17:03. Assigned to District Judge Matthew L. Garcia (MLG); referred to Magistrate John F. Robbenhaar (JFR). Caption: 1:26-cv-03543-MLG-JFR.
-- THE 1953 TRUST named as defendant (asset holder only, not alleged actor). Residual estate >$107M as of 30 Jun 2026 per complaint. Bequests contemplated: Indyke $50M / Kahn $25M (availability-conditioned). Trust never taken effect (pour-over).
-- Settlement site (SDNYSettlementFund2026.com) last material activity ~5 Oct 2026 (banner day count continues).
+## Executive Summary
+Process-only sweep. No ECF 449+ in Ward v. Indyke 1:24-cv-01204-AS (last known filing remains Oct 15, 2026 per CourtListener; hearing locked 2 Dec 2026 14:00 ET). Settlement Fund site last updated 5 Oct 2026; claim/opt-out/objection deadline 23 Nov 2026 23:59 EST (T-2 days). New Mexico v. Indyke/Kahn 1:26-cv-03543 (D.N.M.) advanced to waivers of service executed (ECF 16–19, 19–20 Nov); unredacted complaint sealed per ECF 14 (18 Nov); reassigned to Judge Matthew L. Garcia. Estate residual still characterized ~$107M as of 30 Jun 2026 accounting (27th). No public 28th accounting. SDNY/FBI inquiry into Indyke/Kahn remains uncharged (no new confirmation or denial since Sep 2026 reporting). Trust has never taken effect.
 
 ## New / Confirmed Nodes
-- **Judge Matthew L. Garcia** (D.N.M.): Reassigned as trial judge 5 Nov 2026 (ECF 13). Signed seal order ECF 14 (18 Nov 2026) granting leave to file unredacted complaint under seal to protect victim identities, ongoing investigation integrity, and confidential materials from parallel matters. Redacted complaint remains public.
-- **Motley Rice LLC team** associated for Plaintiff (Oct 26): Linda Singer (DC), Carmen S. Scott (SC), Jessica F. Crowder (SC). Local: Aletheia Allen. Additional: Daniel James Ahrens (Notice of Appearance 5 Nov).
-- **Waivers of Service**: Multiple executed Nov 19–20 (ECFs ~16–19). Service progressing.
-- **Refusal to Consent** to magistrate (ECF 12, 5 Nov).
-- **Epstein Class Project** (Substack note 21 Nov 2026): Confirmed awareness of NM action; previously transmitted Indyke/Kahn perjury transcripts and document tranche to NM AG office.
-- **Prameya News** (20–21 Nov 2026 reprint): Recirculates DOJ-released trust documents identifying Karyna Shuliak as primary beneficiary (~$50M outright + $50M lifetime annuity + ring). Compilation-grade; consistent with prior EFTA/public accounting.
-- Jean Sutton Martin (AWKO) remains prior PHV candidate in related 08047 track (deficient notice earlier; no new resolution this cycle).
+- **NM D.N.M. 1:26-cv-03543 (Torrez v. Indyke et al.):** Complaint 21 Oct 2026 naming Indyke, Kahn, Estate, 1953 Trust. Counts under TVPA parens patriae, NM racketeering (kidnapping, solicitation, conspiracy), restitution/unjust enrichment. Seeks to bar profit from residual. Last known filings: ECF 14 Order granting leave to file unredacted complaint under seal (18 Nov); ECF 16–19 Waivers of Service Executed (19–20 Nov). Assigned Judge Matthew L. Garcia (reassigned 5 Nov after refusal to consent to magistrate). Motley Rice counsel associated (Singer, Scott, Crowder).
+- **Ward 1:24-cv-01204-AS:** CourtListener last updated 13 Nov 2026; last known filing 15 Oct 2026. No ECF 449. Settlement hearing remains 2 Dec 2026 14:00 ET, Courtroom 15A. Fund Administrator Simone K. Lelchuk / Frejka PLLC. Claim deadline 23 Nov 2026.
+- **08047 (Woods III):** PHV activity continuing (Jean Sutton Martin / AWKO ECF 13 deficient earlier; recent PHV motion noted on PacerMonitor).
+- **Estate valuation lock:** 27th USVI accounting (period ending 30 Jun 2026) $107.645M gross / residual >$107M. Prior 24th accounting $127.402M (30 Sep 2025 vintage). No 28th public.
+- **Beneficiaries (compilation-grade from DOJ release / secondary):** Karyna Shuliak primary (~$50M + $50M annuity); Indyke $50M; Kahn $25M (contingent on availability after claims/taxes). 32/40/41/43 count collisions persist. Trust never effective.
+- **SDNY inquiry:** Still uncharged. No new official comment or charging documents as of 21 Nov 2026.
 
-## Gaps (Priority Carry / New)
-- G-priority: Full unredacted complaint text (sealed); answer/response deadlines post-waiver; ECF 449+ in Ward; 28th accounting; official scope of any SDNY/FBI inquiry (still uncharged); Motley Rice exact role vs local counsel; seal order implications for victim-identity protection vs public access.
-- Prior series G-01–G-nnn continue (PHV resolution, transcript restrictions, beneficiary count collision 40/41/43, etc.).
+## Gaps (priority carry + new)
+G-01–prior series continue.  
+New/priority:  
+- G-2125+ series: Full RECAP text of NM ECF 14 seal order and any unredacted complaint once unsealed.  
+- Ward ECF 449+ or post-hearing orders after 2 Dec.  
+- 28th USVI accounting (expected post-30 Sep 2026 period).  
+- Scope/status of uncharged SDNY inquiry (subpoena production, witness interviews).  
+- PHV resolution for Martin in 08047 and any intersection with Ward class.  
+- Final claim count / opt-out numbers post-23 Nov deadline.
 
-## Process Notes
-- CL 01204 dwell continues (no new entry table activity).
-- NM docket advancing on service/seal while SDNY Ward frozen pending Dec 2 hearing.
-- No new criminal charges against Indyke/Kahn.
-- X-lane: secondary recirculations only (Kahn landscaping adjacency discarded; Plaskett overlap restatement discarded).
+## Process Metrics
+- CL 01204: last-known 15 Oct 2026; multi-hundred-cycle dwell on 9:52 a.m. header continues.  
+- Settlement banner: day-count advancing; site stamp 5 Oct.  
+- 08047: ECF 12/13 freeze patterns; new PHV activity.  
+- NM case: active service phase.  
+- Empty primary X-lane for new primary source material (secondary reprints only).
 
-**Next:** C1226 post-weekend / pre-Dec 2 ET window on Ward hearing prep + NM answer status.
+## Backup Actions
+- Memo and breadcrumb written to artifacts.  
+- Drive upload pending to folder 1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer (or confirmed prior).  
+- GitHub push to cantgetalonggta-png/strand-osint-mesh.
 
-**Backup:** Drive folder 1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer; GitHub cantgetalonggta-png/strand-osint-mesh.  
-**Educational only. Not legal advice.**
+**Next window:** C1226 post-23 Nov claim deadline / pre-2 Dec hearing. Monitor NM answer deadlines and any USVI accounting drop.
+
+*Educational OSINT only. No legal advice. All public-record derived.*

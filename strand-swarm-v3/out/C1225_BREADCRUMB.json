@@ -1,20 +1,16 @@
 {
-  "cycle": 1225,
+  "cycle": "C1225",
   "date": "2026-11-21",
-  "timestamp_pst": "11:16",
-  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-21.md",
-  "status": {
-    "ward_ecf_last": "449 (14 Oct 2026 interlocutory)",
-    "ward_hearing": "2 Dec 2026 14:00 ET",
-    "accounting_28th": "none public",
-    "sdny_inquiry": "uncharged",
-    "nm_case": "1:26-cv-03543 ECF 14 seal order 18 Nov; service waivers 19-20 Nov"
-  },
-  "new_nodes": [
-    "Torrez v. Indyke 1:26-cv-03543 (NM AG, 1953 Trust + Estate named, residual >$107M enjoin)",
-    "House Oversight majority report 10 Nov 2026 (mishandling, Groff/Kellen recommend)",
-    "Money Times 21 Nov restatement unpaid executors / Trust not effective"
-  ],
-  "gaps_priority": ["NM unredacted complaint", "Ward 450+", "28th accounting", "SDNY charging"],
-  "drive_folder_id": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer"
+  "timestamp_pst": "15:17",
+  "status": "process-only negative-control + NM service lock",
+  "ward_docket": "1:24-cv-01204-AS last known filing 2026-10-15; no ECF 449; hearing 2026-12-02 14:00 ET",
+  "nm_docket": "1:26-cv-03543 ECF 14 seal order 2026-11-18; waivers ECF 16-19 2026-11-19/20; Judge Matthew L. Garcia",
+  "estate_residual": "~$107M as of 2026-06-30 (27th accounting); no 28th",
+  "inquiry": "SDNY uncharged",
+  "settlement_deadline": "2026-11-23 23:59 EST",
+  "gaps": "G-01 to prior + priority on NM unredacted, 28th accounting, ECF 449, inquiry scope",
+  "artifacts": [
+    "intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-21.md",
+    "strand-swarm-v3/out/C1225_BREADCRUMB.json"
+  ]
 }
