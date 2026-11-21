@@ -1,16 +1,20 @@
 {
   "cycle": 1225,
-  "date": "2026-11-20",
-  "timestamp_et": "2026-11-20 19:19 ET",
-  "status": "process-only negative-control",
-  "key_nodes": [
-    "Ward 1:24-cv-01204 last known filing Oct 15 2026; CL last updated Nov 13 2026; no ECF 449; hearing 2 Dec 2026 14:00 ET",
-    "Torrez 1:26-cv-03543 last known Nov 19 2026; ECF 14 order granting leave to file unredacted complaint under seal Nov 18 2026",
-    "Settlement fund site last updated 5 Oct 2026; claims/opt-out/object deadline 23 Nov 2026 23:59 EST; hearing 2 Dec 2026 14:00 ET",
-    "No 28th accounting; 27th $107.645M to 30 Jun 2026; 24th $127.402M at 30 Sep 2025",
-    "SDNY inquiry still uncharged"
-  ],
-  "gaps": "G-01–G- prior series priority: ECF 449, 28th accounting, Torrez unredacted complaint text, inquiry status",
-  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
-  "github": "cantgetalonggta-png/strand-osint-mesh"
+  "date": "2026-11-21",
+  "time_et": "13:14",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-21.pdf",
+  "status": "process-only + Torrez ECF 14 seal order confirmed",
+  "ward": {
+    "case": "1:24-cv-01204-AS",
+    "last_known_ecf": "447-449",
+    "hearing": "2026-12-02 14:00 ET",
+    "note": "ECF 449 interlocutory by Hofbaver from 445; no final judgment"
+  },
+  "torrez": {
+    "case": "1:26-cv-03543",
+    "last_updated": "2026-11-20 17:03",
+    "new": "ECF 14 (18 Nov) Order by Judge Matthew L. Garcia granting leave to file unredacted complaint under seal"
+  },
+  "gaps": "G-01\u2013prior + Torrez unredacted text, 28th accounting, uncharged inquiry",
+  "drive_file": "15tkf3vVinT-RwELOeyeqbrUYYRpUITdR"
 }
