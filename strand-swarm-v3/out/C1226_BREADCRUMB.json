@@ -1,19 +1,16 @@
 {
   "cycle": 1226,
-  "date": "2026-11-18",
-  "timestamp_et": "2026-11-18T21:21:00-05:00",
-  "status": "process-only + docket confirmation",
-  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1226-2026-11-18.md",
-  "nodes": [
-    "Hot Paths 18 Nov deposition recirculation (Valar ~$172M, $127M accounting, zero residual expectation)",
-    "08047 ECF 28/31 (reply 1 Dec 2026; answer 16 Dec 2026; seal granted)",
-    "Torrez 1:26-cv-03543 THE 1953 TRUST named defendant",
-    "Ward 1:24-cv-01204 last known 15 Oct; CL 13 Nov; hearing 2 Dec 2026"
-  ],
-  "gaps": "G-01+ (priority: final judgment, 28th accounting, residual transfer, inquiry, anonymity resolution)",
-  "ward_hearing": "2026-12-02 14:00 ET",
-  "no_28th_accounting": true,
-  "inquiry_uncharged": true,
-  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
-  "next": "C1227 post-2 Dec or on 08047/Torrez movement"
+  "date": "2026-11-20",
+  "time_et": "20:19",
+  "type": "process-only negative-control",
+  "status": "completed",
+  "ward_docket": "1:24-cv-01204 last known filing Oct 15 2026; CL last updated Nov 13 2026; no ECF 449+",
+  "settlement": "SDNY Settlement Fund 2026 last updated Oct 5; claim/opt-out/objection deadline Nov 23 2026 23:59 EST; hearing Dec 2 2026 14:00 ET",
+  "torrez": "1:26-cv-03543 last known Nov 19 2026 (waivers of service); judge reassigned to Matthew L. Garcia",
+  "08047": "1:26-cv-08047 last known filing Nov 18 2026; last updated Nov 19; sealing orders",
+  "accounting": "no 28th accounting; residue ~$107M–$127M",
+  "inquiry": "SDNY/FBI still uncharged",
+  "new_nodes": ["process confirmation claim deadline T-3 days", "Torrez service waivers Nov 19", "08047 Nov 18 sealing progress"],
+  "gaps": "G-01–G-prior + priority ECF 449 text, 28th accounting, PHV resolution, inquiry scope",
+  "next": "C1227 post-claim-deadline window Nov 24+"
 }
