@@ -1,15 +1,16 @@
 {
   "cycle": 1225,
   "date": "2026-11-20",
-  "timestamp_pst": "14:22",
-  "status": "completed",
-  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-20.md",
-  "ward_docket": "1:24-cv-01204 last ECF 449 (Oct 14), hearing Dec 2 2026 14:00 ET, claims deadline 23 Nov 2026",
-  "torrez_docket": "1:26-cv-03543 ECF 14 seal order Nov 18, waivers Nov 19",
-  "trust_status": "pour-over never effective; residual contingent",
-  "inquiry": "SDNY uncharged",
-  "accounting": "no 28th; ~107M as of 30 Jun 2026 per Torrez",
-  "gaps": "G-01 onward + Torrez unredacted, 28th accounting, ECF 450+, post-23 Nov claims",
+  "timestamp_et": "2026-11-20 19:19 ET",
+  "status": "process-only negative-control",
+  "key_nodes": [
+    "Ward 1:24-cv-01204 last known filing Oct 15 2026; CL last updated Nov 13 2026; no ECF 449; hearing 2 Dec 2026 14:00 ET",
+    "Torrez 1:26-cv-03543 last known Nov 19 2026; ECF 14 order granting leave to file unredacted complaint under seal Nov 18 2026",
+    "Settlement fund site last updated 5 Oct 2026; claims/opt-out/object deadline 23 Nov 2026 23:59 EST; hearing 2 Dec 2026 14:00 ET",
+    "No 28th accounting; 27th $107.645M to 30 Jun 2026; 24th $127.402M at 30 Sep 2025",
+    "SDNY inquiry still uncharged"
+  ],
+  "gaps": "G-01–G- prior series priority: ECF 449, 28th accounting, Torrez unredacted complaint text, inquiry status",
   "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
   "github": "cantgetalonggta-png/strand-osint-mesh"
 }
