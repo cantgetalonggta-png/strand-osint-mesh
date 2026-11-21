@@ -1,16 +1,32 @@
 {
-  "cycle": 1226,
-  "date": "2026-11-20",
-  "time_et": "20:19",
-  "type": "process-only negative-control",
-  "status": "completed",
-  "ward_docket": "1:24-cv-01204 last known filing Oct 15 2026; CL last updated Nov 13 2026; no ECF 449+",
-  "settlement": "SDNY Settlement Fund 2026 last updated Oct 5; claim/opt-out/objection deadline Nov 23 2026 23:59 EST; hearing Dec 2 2026 14:00 ET",
-  "torrez": "1:26-cv-03543 last known Nov 19 2026 (waivers of service); judge reassigned to Matthew L. Garcia",
-  "08047": "1:26-cv-08047 last known filing Nov 18 2026; last updated Nov 19; sealing orders",
-  "accounting": "no 28th accounting; residue ~$107M–$127M",
+  "cycle": "C1226",
+  "date": "2026-11-21",
+  "timestamp_et": "15:16 ET",
+  "timestamp_pst": "12:16 PST",
+  "status": "process-only negative-control + NM docket activity lock",
+  "ward_01204": {
+    "last_known_filing": "2026-10-15",
+    "cl_last_updated": "2026-11-13",
+    "ecf_449": false,
+    "hearing": "2026-12-02 14:00 ET",
+    "claims_deadline": "2026-11-23 23:59 EST",
+    "settlement_site_last_update": "2026-10-05"
+  },
+  "nm_03543": {
+    "recent": "Waivers of service executed 2026-11-20 for 1953 Trust and Estate; ECF 14 order 2026-11-18 granting leave to file unredacted complaint under seal; Judge Matthew L. Garcia"
+  },
+  "08047": "prior freeze status carried; no new material this sweep",
+  "accounting": "no 28th public; 27th ~$107.645M to 30 Jun 2026 referenced in NM complaint",
   "inquiry": "SDNY/FBI still uncharged",
-  "new_nodes": ["process confirmation claim deadline T-3 days", "Torrez service waivers Nov 19", "08047 Nov 18 sealing progress"],
-  "gaps": "G-01–G-prior + priority ECF 449 text, 28th accounting, PHV resolution, inquiry scope",
-  "next": "C1227 post-claim-deadline window Nov 24+"
+  "trust_status": "pour-over never taken effect",
+  "new_nodes": [
+    "NM 1:26-cv-03543 service waivers 20 Nov 2026",
+    "Unredacted complaint order 18 Nov 2026",
+    "Settlement claims window T-2 to 23 Nov 2026",
+    "Drive folder confirmed 1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer"
+  ],
+  "gaps": "G-01\u2013G-prior series continued; priority: ECF 449, 28th accounting, uncharged inquiry scope, NM case progress, RECAP on new ECFs",
+  "drive_folder_id": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C1227 post-deadline window / Dec 2 hearing prep"
 }
