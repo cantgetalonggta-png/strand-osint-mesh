@@ -1,19 +1,28 @@
 {
   "cycle": 1225,
-  "date": "2026-11-20",
-  "type": "negative-control + NM docket update",
-  "ward_hearing": "2026-12-02 14:00 ET",
-  "claims_deadline": "2026-11-23 23:59 EST",
-  "no_28th_accounting": true,
-  "inquiry_uncharged": true,
+  "completed": "2026-11-21",
+  "timestamp_pst": "2026-11-21T17:20:00-08:00",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-21.md",
+  "status": {
+    "ward_01204_last_known_filing": "2026-10-15",
+    "ward_hearing": "2026-12-02 14:00 ET",
+    "settlement_fund_deadlines": "2026-11-23",
+    "nm_03543_last_filing": "2026-11-20",
+    "nm_service_waivers": true,
+    "trust_effective": false,
+    "residual_30jun2026": ">=107M",
+    "28th_accounting": false,
+    "inquiry_uncharged": true
+  },
   "new_nodes": [
-    "1:26-cv-03543 Waiver of Service ECF 16/17 (19 Nov) + seal order ECF 14 (18 Nov); Judge Matthew L. Garcia",
-    "Motley Rice counsel association (Singer/Scott/Crowder/Ahrens)",
-    "Settlement claims deadline locked 23 Nov 2026",
-    "08047 seal orders 17-18 Nov (Figueredo)",
-    "Wikipedia Estate page update 17 Nov"
+    "1:26-cv-03543 ECF 16-19 waivers of service 19-20 Nov 2026",
+    "ECF 14 seal order 18 Nov",
+    "Settlement fund deadlines extended to 23 Nov 2026"
   ],
-  "gaps_priority": ["28th accounting", "ECF 14/15 full text 08047", "Martin PHV resolution", "inquiry scope", "post-23-Nov claims volume"],
-  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
-  "next": "C1226 post-23-Nov claims cutoff / pre-2-Dec hearing"
+  "gaps": "G-01–prior + sealed complaint text, post-waiver response, ECF 449, 28th accounting, inquiry scope",
+  "drive_folder_id": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github_targets": [
+    "cantgetalonggta-png/1953-Trust-OSINT-Investigation",
+    "cantgetalonggta-png/strand-osint-mesh"
+  ]
 }
