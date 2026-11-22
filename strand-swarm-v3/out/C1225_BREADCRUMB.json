@@ -1,12 +1,18 @@
 {
-  "cycle": 1225,
+  "cycle": "C1225",
   "date": "2026-11-22",
-  "status": "negative-control",
+  "utc": "2026-11-22T22:18:37Z",
+  "status": "negative-control / process-only",
+  "ward_docket": "1:24-cv-01204-AS",
+  "ward_last_ecf": "449",
   "ward_hearing": "2026-12-02 14:00 ET",
-  "ward_last_ecf": "447-448 cluster",
-  "torrez_case": "1:26-cv-03543",
-  "torrez_judge": "Matthew L. Garcia",
-  "trust_effect": "never taken effect",
-  "residual": ">107M (30 Jun 2026)",
-  "inquiry": "uncharged"
+  "torrez_docket": "1:26-cv-03543",
+  "torrez_last_known": "ECF 16-19 waivers 2026-11-19/20; ECF 14 seal order 2026-11-18",
+  "estate_residual": ">=$107M (30 Jun 2026)",
+  "28th_accounting": false,
+  "inquiry_charged": false,
+  "trust_effective": false,
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C1226 post-2 Dec 2026 hearing"
 }
