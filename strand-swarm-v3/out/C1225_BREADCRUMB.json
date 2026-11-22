@@ -1,16 +1,19 @@
 {
-  "cycle": "C1225",
-  "date": "2026-11-21",
-  "timestamp_pst": "15:17",
-  "status": "process-only negative-control + NM service lock",
-  "ward_docket": "1:24-cv-01204-AS last known filing 2026-10-15; no ECF 449; hearing 2026-12-02 14:00 ET",
-  "nm_docket": "1:26-cv-03543 ECF 14 seal order 2026-11-18; waivers ECF 16-19 2026-11-19/20; Judge Matthew L. Garcia",
-  "estate_residual": "~$107M as of 2026-06-30 (27th accounting); no 28th",
-  "inquiry": "SDNY uncharged",
-  "settlement_deadline": "2026-11-23 23:59 EST",
-  "gaps": "G-01 to prior + priority on NM unredacted, 28th accounting, ECF 449, inquiry scope",
-  "artifacts": [
-    "intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-21.md",
-    "strand-swarm-v3/out/C1225_BREADCRUMB.json"
-  ]
+  "cycle": 1225,
+  "date": "2026-11-22",
+  "session": "211e2cba-1b23-5ce8-945a-d5e158b037a2",
+  "agent": "DEP-01 ORBIT-LEAD",
+  "status": "process-only + NM action lock + settlement deadline T-1",
+  "new_nodes": [
+    "1:26-cv-03543 Torrez v. Indyke (D.N.M.) naming 1953 Trust as asset-holder defendant",
+    "ECF 14 (18 Nov 2026) order on seal motion",
+    "Settlement deadline 23 Nov 2026 / hearing 2 Dec 2026 confirmed live",
+    "Money Times 22 Nov 2026 beneficiary recirculation"
+  ],
+  "ward_status": "ECF ~447-448 cluster; hearing 2 Dec 2026 14:00 ET; no 449 observed",
+  "trust_status": "pour-over never activated; residual ~$107.6M (30 Jun 2026)",
+  "inquiry": "uncharged",
+  "gaps": "G-01 onward + G-NM-1/2 + G-Ward-1 + G-Accounting + G-Inquiry",
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github": "cantgetalonggta-png/strand-osint-mesh"
 }
