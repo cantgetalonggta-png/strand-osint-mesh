@@ -1,19 +1,12 @@
 {
   "cycle": 1225,
   "date": "2026-11-22",
-  "session": "211e2cba-1b23-5ce8-945a-d5e158b037a2",
-  "agent": "DEP-01 ORBIT-LEAD",
-  "status": "process-only + NM action lock + settlement deadline T-1",
-  "new_nodes": [
-    "1:26-cv-03543 Torrez v. Indyke (D.N.M.) naming 1953 Trust as asset-holder defendant",
-    "ECF 14 (18 Nov 2026) order on seal motion",
-    "Settlement deadline 23 Nov 2026 / hearing 2 Dec 2026 confirmed live",
-    "Money Times 22 Nov 2026 beneficiary recirculation"
-  ],
-  "ward_status": "ECF ~447-448 cluster; hearing 2 Dec 2026 14:00 ET; no 449 observed",
-  "trust_status": "pour-over never activated; residual ~$107.6M (30 Jun 2026)",
-  "inquiry": "uncharged",
-  "gaps": "G-01 onward + G-NM-1/2 + G-Ward-1 + G-Accounting + G-Inquiry",
-  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
-  "github": "cantgetalonggta-png/strand-osint-mesh"
+  "status": "negative-control",
+  "ward_hearing": "2026-12-02 14:00 ET",
+  "ward_last_ecf": "447-448 cluster",
+  "torrez_case": "1:26-cv-03543",
+  "torrez_judge": "Matthew L. Garcia",
+  "trust_effect": "never taken effect",
+  "residual": ">107M (30 Jun 2026)",
+  "inquiry": "uncharged"
 }
