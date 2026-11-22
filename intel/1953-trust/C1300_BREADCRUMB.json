@@ -1,0 +1,15 @@
+{
+  "cycle": 1300,
+  "date": "2026-11-21",
+  "type": "negative-control status sweep",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1300-2026-11-21.pdf",
+  "key_status": {
+    "ward_01204": "last known filing Oct 15 2026; hearing 2 Dec 2026 14:00 ET",
+    "nm_03543": "service waivers Nov 19-20; reassigned to Garcia",
+    "08047": "CL Nov 20; PHV history",
+    "28th_accounting": "none observed",
+    "inquiry": "uncharged"
+  },
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "next": "C1301 post-weekend / pre-Dec 2 hearing window"
+}
