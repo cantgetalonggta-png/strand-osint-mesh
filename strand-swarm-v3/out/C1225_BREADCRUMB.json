@@ -1,13 +1,1 @@
-{
-  "cycle": "C1225",
-  "date": "2026-11-23",
-  "status": "deadline-day confirmation",
-  "ward_hearing": "2026-12-02 14:00 ET",
-  "settlement_deadlines": "2026-11-23 23:59 EST",
-  "torrez_case": "1:26-cv-03543 waivers 19-20 Nov, seal order 18 Nov, Judge Matthew L. Garcia",
-  "trust_named": true,
-  "accounting": "no 28th",
-  "inquiry": "uncharged",
-  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
-  "next": "post-2 Dec hearing"
-}
+{"cycle":1225,"date":"2026-11-23","status":"deadline-threshold negative-control","ward":"ECF 449 / hearing 2 Dec / today deadline","torrez":"1:26-cv-03543 last 20 Nov","trust":"never taken effect"}
