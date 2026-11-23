@@ -1,18 +1,27 @@
 {
   "cycle": 1225,
-  "timestamp_utc": "2026-11-22T23:17:38Z",
-  "timestamp_pst": "2026-11-22T15:17:38-08:00",
-  "memo": "intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-22.md",
-  "status": "process-only + NM action lock + 08047 ECF 25 seal denial",
-  "ward_hearing": "2026-12-02 14:00 ET",
-  "ward_last_ecf": "449 interlocutory noted; Oct 15 known filings",
-  "08047_last": "ECF 25 12 Nov seal denial; last known 20 Nov; CL updated 22 Nov",
-  "nm_case": "1:26-cv-03543 Torrez v. Indyke; ECF 14 18 Nov seal order; waivers 19-20 Nov",
-  "trust_effect": "never taken effect",
-  "estate_residual": "~107.645M (30 Jun 2026) / 127.4M (Sep 2025)",
-  "inquiry": "uncharged",
-  "gaps": "G-01–G-prior + new seal texts, 28th accounting, hearing outcome",
-  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "date": "2026-11-23",
+  "timestamp_pst": "11:25",
+  "timestamp_et": "14:25",
+  "type": "process-only negative-control + deadline-day lock",
+  "after_cycle": 1224,
+  "status": {
+    "ward_01204_last_filing": "2026-10-15",
+    "ward_hearing": "2026-12-02 14:00 ET",
+    "settlement_deadlines": "2026-11-23 (today)",
+    "08047_last_filing": "2026-11-20",
+    "nm_03543_service": "waivers returned 2026-11-19/20 including 1953 Trust",
+    "trust_status": "pour-over never taken effect",
+    "accounting": "no 28th",
+    "inquiry": "uncharged"
+  },
+  "new_nodes": [
+    "Nov 23 2026 deadline-day for Ward claims/opt-outs/objections",
+    "08047 ECF 33 PHV Nov 20",
+    "NM 1:26-cv-03543 service on 1953 Trust complete"
+  ],
+  "gaps_priority": ["28th accounting", "inquiry scope", "post-deadline claim count", "residual valuation"],
+  "drive_folder_id": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
   "github_repo": "cantgetalonggta-png/strand-osint-mesh",
-  "next": "C1226 post-2 Dec Ward or next filing"
+  "next": "C1226 post-deadline pre-hearing"
 }
