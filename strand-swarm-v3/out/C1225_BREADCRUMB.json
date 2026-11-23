@@ -1,27 +1,13 @@
 {
-  "cycle": 1225,
+  "cycle": "C1225",
   "date": "2026-11-23",
-  "timestamp_pst": "11:25",
-  "timestamp_et": "14:25",
-  "type": "process-only negative-control + deadline-day lock",
-  "after_cycle": 1224,
-  "status": {
-    "ward_01204_last_filing": "2026-10-15",
-    "ward_hearing": "2026-12-02 14:00 ET",
-    "settlement_deadlines": "2026-11-23 (today)",
-    "08047_last_filing": "2026-11-20",
-    "nm_03543_service": "waivers returned 2026-11-19/20 including 1953 Trust",
-    "trust_status": "pour-over never taken effect",
-    "accounting": "no 28th",
-    "inquiry": "uncharged"
-  },
-  "new_nodes": [
-    "Nov 23 2026 deadline-day for Ward claims/opt-outs/objections",
-    "08047 ECF 33 PHV Nov 20",
-    "NM 1:26-cv-03543 service on 1953 Trust complete"
-  ],
-  "gaps_priority": ["28th accounting", "inquiry scope", "post-deadline claim count", "residual valuation"],
-  "drive_folder_id": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
-  "github_repo": "cantgetalonggta-png/strand-osint-mesh",
-  "next": "C1226 post-deadline pre-hearing"
+  "status": "deadline-day confirmation",
+  "ward_hearing": "2026-12-02 14:00 ET",
+  "settlement_deadlines": "2026-11-23 23:59 EST",
+  "torrez_case": "1:26-cv-03543 waivers 19-20 Nov, seal order 18 Nov, Judge Matthew L. Garcia",
+  "trust_named": true,
+  "accounting": "no 28th",
+  "inquiry": "uncharged",
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "next": "post-2 Dec hearing"
 }
