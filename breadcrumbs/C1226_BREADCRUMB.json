@@ -1,18 +1,14 @@
 {
   "cycle": 1226,
   "date": "2026-11-22",
-  "time_et": "17:25",
-  "status": "process-only negative-control + NM action lock reinforce",
-  "new_nodes": [
-    "Torrez v. Indyke 1:26-cv-03543 (D.N.M.) last known filing Nov 20 2026 (waivers of service ECF 16-19); Order on seal Nov 18; assigned Judge Matthew L. Garcia; Trust named as defendant/asset holder",
-    "08047 (Woods) docket active: answers extended to Dec 16 2026; PHV Jean Sutton Martin (AWKO) status; sealing motions",
-    "Ward 1:24-cv-01204 still pre-final-judgment; hearing 2 Dec 2026 14:00 ET locked; no ECF 449 confirmed this sweep",
-    "1953 Trust still non-effective; conditional bequests (Shuliak ~100M, Indyke 50M, Kahn 25M) subject to residual after claims; estate residual ~$107-127M"
-  ],
-  "gaps": "G-01 to G-prior series continue; priority: full Torrez complaint unredacted text, 08047 ECF 13+ resolution, Ward ECF 449 / final approval, 28th accounting, uncharged SDNY inquiry scope, beneficiary residual distribution mechanics",
-  "ward_status": "ECF 447-448 cluster, hearing 2 Dec 2026 14:00 ET",
-  "accounting": "no 28th",
-  "inquiry": "still uncharged",
+  "timestamp_et": "2026-11-22T22:21:00-05:00",
+  "target": "THE 1953 TRUST",
+  "ward_status": "ECF 449 interlocutory appeal (14 Oct 2026); hearing 2 Dec 2026 14:00 ET; settlement proposed",
+  "nm_status": "1:26-cv-03543; waivers of service 19-20 Nov 2026; unredacted complaint sealed",
+  "accounting": "no 28th; last ~$107.6M to 30 Jun 2026",
+  "inquiry": "SDNY still uncharged",
+  "gaps": "G-01 onward (unredacted NM complaint, post-waiver responses, 28th accounting, inquiry scope, 08047 progress)",
   "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
-  "next": "C1227 post-hearing / Torrez answer window"
+  "github": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "post-23 Nov claim deadline / 2 Dec hearing"
 }
