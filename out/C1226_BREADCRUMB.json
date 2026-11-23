@@ -1,0 +1,15 @@
+{
+  "cycle": "C1226",
+  "date": "2026-11-23",
+  "time_et": "16:16",
+  "status": "process-only negative-control + Torrez docket lock",
+  "key_nodes": [
+    "Torrez 1:26-cv-03543 (D.N.M.): reassigned to District Judge Matthew L. Garcia 5 Nov 2026; Motley Rice LLC (Linda Singer, Carmen S. Scott, Jessica F. Crowder) associated as outside counsel for NM AG; Order granting seal of unredacted complaint 18 Nov; waivers of service executed 19-20 Nov; last known filing 20 Nov 2026; residual estate >$107M as of 30 Jun 2026 accounting; seeks to block Indyke $50M + Kahn $25M bequests",
+    "Ward 1:24-cv-01204 (S.D.N.Y.): last known filing ~15 Oct 2026; hearing remains 2 Dec 2026 14:00 ET; no public ECF 449+ on CourtListener as of 23 Nov",
+    "1953 Trust: pour-over never taken effect; primary Shuliak ~$100M + properties + diamond; Indyke $50M; Kahn $25M; Maxwell $10M; Mark Epstein children $10M; Nowak $5M; Visoski $10M; many redacted (41-43 count variance); co-trustees Indyke/Kahn",
+    "No 28th accounting public; SDNY/FBI inquiry still uncharged per prior; House vote on additional DOJ releases looming post-30 Nov"
+  ],
+  "gaps": ["G-priority: Torrez response/answer deadlines and full unredacted complaint if unsealed", "Ward ECF 449+ full text if filed", "28th USVI accounting", "inquiry scope and capacity effect", "beneficiary payout status (none confirmed)"],
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github": "cantgetalonggta-png/strand-osint-mesh"
+}
