@@ -1,19 +1,36 @@
 {
   "cycle": 1225,
   "date": "2026-11-23",
-  "utc": "2026-11-23T23:17:32Z",
-  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1225-2026-11-23.md",
-  "status": "process-only + deadline-day lock",
-  "key_nodes": [
-    "THE 1953 TRUST (never taken effect)",
-    "Darren K. Indyke / Richard D. Kahn (co-executors/trustees)",
-    "Ward/Doe 3 v. Indyke 1:24-cv-01204-AS (deadline TODAY 23 Nov 2026; hearing 2 Dec 2026 14:00 ET)",
-    "Torrez v. Indyke 1:26-cv-03543 (1953 Trust named; service waivers 19-20 Nov)",
-    "Simone K. Lelchuk (Fund Administrator)",
-    "Valar Ventures residual (~$172M)",
-    "Estate residual ~$107-127M range; no 28th accounting"
-  ],
-  "gaps_priority": ["post-deadline claim count", "ECF 450+", "28th accounting", "Torrez unredacted", "inquiry confirmation"],
-  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
-  "next": "C1226 post-deadline 24 Nov ET"
+  "timestamp_et": "2026-11-23T20:23:00-05:00",
+  "mission": "THE 1953 TRUST (Epstein pour-over USVI, 8 Aug 2019)",
+  "status": "negative-control / deadline-window",
+  "ward_01204": {
+    "last_known_filing": "2026-10-15",
+    "cl_last_updated": "2026-11-23T10:24:00",
+    "deadline_today": "2026-11-23 23:59 ET questionnaire/release/opt-out/object",
+    "hearing": "2026-12-02 14:00 ET",
+    "ecf_449_plus": "none visible",
+    "settlement_site_updated": "2026-10-05"
+  },
+  "doe_08047": {
+    "last_known_filing": "2026-11-23",
+    "cl_last_updated": "2026-11-23T15:10:00",
+    "new_node": "ECF 34 Order on Motion to Appear Pro Hac Vice",
+    "prior_phv": "ECF 13 deficient (Jean Sutton Martin/AWKO)"
+  },
+  "torrez_03543": {
+    "filed": "2026-10-21",
+    "last_known": "2026-11-20 waivers of service",
+    "judge": "Matthew L. Garcia",
+    "trust_named": true,
+    "claims": "TVPA + NM racketeering"
+  },
+  "estate_value_refs": ["~$107.6M to 30 Jun 2026", "~$127.4M 24th acct to 30 Sep 2025"],
+  "trust_taken_effect": false,
+  "inquiry_uncharged": true,
+  "gaps_priority": ["08047 ECF 34 text", "post-deadline Ward activity", "28th accounting", "Torrez answer"],
+  "drive_folder_id": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "drive_pdf_id": "1eZNTcXvb0OsJF0uLgR6lsZsBOd6PtjsB",
+  "drive_json_id": "1pbLVH_eI78fVJ613H1u0kv_PhAv6qDSR",
+  "next": "C1226 post-deadline / pre-hearing"
 }
