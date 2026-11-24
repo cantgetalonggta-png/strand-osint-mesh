@@ -1,0 +1,12 @@
+{
+  "cycle": 1228,
+  "date": "2026-11-24",
+  "time_et": "~16:20",
+  "memo": "artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1228-2026-11-24.pdf",
+  "status": "negative-control + NM crosswalk",
+  "ward_docket": "1:24-cv-01204 last known ECF 449 (Hofbaver appeal 14 Oct); CL 23 Nov 10:24 a.m.; hearing 2 Dec 2026",
+  "nm_docket": "1:26-cv-03543 Torrez v. Indyke; 1953 Trust named; last ~20 Nov; reassigned Matthew L. Garcia",
+  "gaps": "ECF449 text/path; post-deadline claim count; NM answer/PI; 28th accounting; residue; inquiry",
+  "drive_folder": "1wiXh3en7s8H7BKiXEWWr6pDIlxStx0xF",
+  "github": "cantgetalonggta-png/strand-osint-mesh"
+}
