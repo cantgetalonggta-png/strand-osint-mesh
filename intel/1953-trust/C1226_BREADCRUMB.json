@@ -1,0 +1,16 @@
+{
+  "cycle": 1226,
+  "date": "2026-11-23",
+  "time_et": "21:14",
+  "type": "deadline-window negative-control",
+  "nodes": [
+    "Ward deadline active 23 Nov 23:59 ET",
+    "08047 ECF 34 PHV Order",
+    "Torrez 03543 service status",
+    "no ECF 449",
+    "no 28th accounting",
+    "inquiry uncharged"
+  ],
+  "gaps": "G-priority PHV text, ECF 449, claimant count, 28th acct, inquiry",
+  "status": "Ward ECF 447-448, hearing 2 Dec 2026 14:00 ET"
+}

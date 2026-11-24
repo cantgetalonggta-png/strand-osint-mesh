@@ -1,0 +1,20 @@
+STRAND 1953 TRUST INTEL MEMO – CYCLE 1226
+Educational OSINT Memo | 23 November 2026 | ~21:14 ET deadline-window negative-control
+
+EXECUTIVE SUMMARY
+Monday evening ET negative-control sweep after C1225 during active Ward settlement deadline window (23 Nov 2026 23:59 ET). No new ECF 449 in 1:24-cv-01204-AS (CL last-updated 10:24 a.m., last known filing 15 Oct). 1:26-cv-08047 shows ECF 34 (23 Nov) Order on Motion to Appear Pro Hac Vice (Jean Sutton Martin/AWKO candidate from prior). Torrez 1:26-cv-03543 last known 20 Nov. Settlement site confirms deadlines; no claimant-count disclosure. No 28th accounting; SDNY inquiry remains uncharged. Process-only.
+
+KEY NODES / UPDATES
+• Ward v. Indyke 1:24-cv-01204-AS: Deadline TODAY 23 Nov 2026 23:59 ET for Questionnaire/Release, opt-out, objections. Final hearing 2 Dec 2026 14:00 ET Courtroom 15A. CL 10:24 a.m. hold; no ECF 449. Settlement site last substantive 5 Oct.
+• 1:26-cv-08047 (Woods III / Figueredo): Last updated 3:10 p.m.; last known filing 23 Nov ECF 34 Order on Motion to Appear Pro Hac Vice. Prior ECF 13 deficient PHV for Jean Sutton Martin (AWKO). No RECAP PDF available this cycle.
+• State of New Mexico ex rel. Torrez v. Indyke et al. 1:26-cv-03543 (D.N.M.): Names 1953 Trust as defendant (asset holder). Last known filing ~20 Nov (service waivers per prior).
+• No 28th USVI accounting publicly noted. Inquiry into Indyke/Kahn remains uncharged per prior reporting.
+
+GAPS CARRY-FORWARD (PRIORITY)
+G-priority: ECF 14/15 text and PHV resolution in 08047; ECF 449 and post-deadline status report in 01204; 28th accounting; uncharged inquiry scope; claimant count (40-threshold for $35M vs $25M).
+
+STATUS LOCK
+Ward still ECF 447-448 cluster, hearing 2 Dec 2026 14:00 ET; no 28th accounting; inquiry still uncharged. Next: post-deadline C1227 and Dec 2 hearing window.
+
+Sources: CourtListener dockets, SDNYSettlementFund2026.com key dates/FAQ, prior cycle breadcrumbs, public reporting (EpsteinWiki, NMDOJ). Educational use only.
+Drive PDF id: 1ZBdZ51cs4kerp9Vc4gJ24PRkBALWbl4_
