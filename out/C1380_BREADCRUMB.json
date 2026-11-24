@@ -1,0 +1,20 @@
+{
+  "cycle": "C1380",
+  "date": "2026-11-24",
+  "time_et": "18:17",
+  "type": "post-deadline negative-control / status sweep",
+  "summary": "Nov 23 2026 deadlines for Ward v. Indyke 1:24-cv-01204-AS (questionnaire/release, opt-out, objection, notice of appearance) have passed. Settlement hearing remains 2 Dec 2026 14:00 ET. No ECF 449+ on 01204 (CL last known filing Oct 15; last updated Nov 23). 1:26-cv-08047 last known filing Nov 23 (PHV for Jean Sutton Martin granted); CL last updated Nov 24. New Mexico 1:26-cv-03543 (Torrez v. Indyke et al. naming THE 1953 TRUST) last known filing Nov 20; order granting seal of unredacted complaint ECF 14 (18 Nov). Settlement site last updated 5 Oct; no 28th accounting; SDNY inquiry still uncharged. No material new nodes.",
+  "nodes": {
+    "ward_01204": "CL last updated Nov 23 2026 10:24 a.m.; last known filing Oct 15 2026; no ECF 449; hearing 2 Dec 2026 14:00 ET confirmed via settlement site",
+    "08047": "CL last updated Nov 24 2026 10:47 a.m.; last known filing Nov 23 2026; ECF 34 PHV order for Jean Sutton Martin (AWKO) granted 23 Nov; no further material movement",
+    "nm_03543": "1:26-cv-03543-MLG-JFR D.N.M. Torrez v. Indyke et al. (incl. THE 1953 TRUST); last known filing Nov 20; ECF 14 order 18 Nov granting leave to file unredacted complaint under seal; redacted complaint public",
+    "settlement": "SDNYSettlementFund2026.com last updated 5 Oct; Nov 23 deadlines passed; Dec 2 hearing remains; Fund Admin Simone K. Lelchuk / Frejka PLLC",
+    "accounting": "no 28th USVI accounting publicly filed",
+    "inquiry": "SDNY/FBI inquiry into Indyke/Kahn remains uncharged (no official confirmation of charges)"
+  },
+  "gaps": "G-01\u2013G-prior series carry-forward; priority remains ECF 449 text if any, claim count post-deadline, 28th accounting, uncharged inquiry scope, 08047 full docket text, NM 03543 unredacted complaint contents",
+  "status": "process-only confirmation; Ward still ECF 447-448 cluster; hearing 2 Dec 2026 14:00 ET; no 28th accounting; inquiry still uncharged",
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "github": "cantgetalonggta-png/strand-osint-mesh",
+  "next": "C1381 post-hearing window or further docket check 25 Nov+"
+}
