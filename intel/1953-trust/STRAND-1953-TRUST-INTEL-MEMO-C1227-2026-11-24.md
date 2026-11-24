@@ -1,65 +1,39 @@
-# STRAND-1953-TRUST-INTEL-MEMO-C1227-2026-11-24
+STRAND 1953 TRUST INTEL MEMO – CYCLE 1227
+Date: 2026-11-24 ~15:17 ET / 13:17 MST
+Negative-control + new-node confirmation after C1226.
 
-**Cycle 1227** | Tuesday, 24 November 2026 | ~10:27 AM MST / 17:27 UTC  
-**Target:** THE 1953 TRUST (Epstein pour-over USVI trust, amended/restated 8 Aug 2019)  
-**Classification:** Educational OSINT / Public-record compilation only. No legal advice. Allegations are disputed; no criminal charges against Indyke/Kahn as of this cycle.  
-**Prior cycle:** C1226 (23 Nov 2026)
+PRIMARY NODES LOCKED:
 
-## Executive Summary
-Negative-control sweep on primary dockets. Ward v. Indyke (1:24-cv-01204-AS, SDNY) remains at ECF 447–448 cluster; no ECF 449. Final fairness hearing still set for 2 Dec 2026 14:00 ET after supplemental social-media notice. New Mexico AG civil action (1:26-cv-03543, D.N.M.) continues with waivers of service executed; unredacted complaint sealed by order; case reassigned to Judge Matthew L. Garcia. No 28th USVI accounting public. SDNY criminal inquiry remains uncharged per prior reporting. Residual assets of the 1953 Trust continue to be subject to priority claims, taxes, administration costs, and ongoing litigation.
+1. Ward v. Indyke / Doe 3 v. Indyke, 1:24-cv-01204-AS (SDNY, Judge Arun Subramanian)
+   - Last Updated (CL): Nov 23, 2026 10:24 a.m.
+   - Date of Last Known Filing: Oct 15, 2026
+   - NEW: ECF 449 – Notice of Interlocutory Appeal from ECF 445 Order (filed Oct 14, 2026 by Kamila Krachova Hofbaver). Appeal of the supplemental notice order.
+   - Prior cluster: ECF 444 (letter re social-media notice), 445 (Order requiring further notice), 446-448 transcript-related.
+   - Settlement Fund Administrator: Simone K. Lelchuk (Frejka PLLC). Site: sdnysettlementfund2026.com LAST UPDATED OCTOBER 5, 2026.
+   - Deadlines: Nov 23, 2026 11:59 EST for Questionnaire/Release, opt-out, objection, notice of appearance. PASSED as of this cycle.
+   - Final Approval Hearing: December 2, 2026, 2:00 p.m. EST, Courtroom 15A, 500 Pearl Street.
+   - Amount: $35M if ≥40 eligible claimants; $25M if fewer. Defendants admit no liability.
+   - No 28th accounting filed. SDNY/FBI inquiry into Indyke/Kahn remains uncharged.
 
-## Node Updates
+2. State of New Mexico ex rel. Raúl Torrez v. Indyke et al., 1:26-cv-03543 (D.N.M.)
+   - Filed Oct 21, 2026. 49-page complaint. Defendants include THE 1953 TRUST as asset holder.
+   - Last Updated (CL): Nov 22, 2026. Last known filing Nov 20, 2026.
+   - Reassigned to District Judge Matthew L. Garcia. Waivers of service, seal orders granted.
 
-### Ward v. Indyke et al. (1:24-cv-01204-AS, SDNY)
-- CourtListener last updated: 23 Nov 2026, 10:24 a.m. ET.
-- Date of last known filing: 15 Oct 2026.
-- No ECF 449 observed. Docket entry table intermittent; prior cycles confirm terminal public entries at ECF 447 (Transcript of 16 Sep 2026 hearing) and ECF 448 (Notice of Filing Transcript).
-- Hearing remains 2 Dec 2026 14:00 ET (ECF 445/446 cluster reset after supplemental notice).
-- Proposed settlement structure (from prior public filings): up to $35M if ≥40 eligible claimants; $25M if fewer. Fund Administrator: Simone Lelchuk (also JPM/DB QSF roles).
-- Class notice campaign parameters previously referenced via JND (Facebook/Instagram 4-week).
+3. Doe v. Indyke, 1:26-cv-08047 (SDNY, Judge Gregory H. Woods III)
+   - CSAM track. Last Updated Nov 23, 2026. Referred to Magistrate Figueredo.
 
-### State of New Mexico ex rel. Raúl Torrez v. Indyke et al. (1:26-cv-03543, D.N.M.)
-- Filed 21 Oct 2026. Defendants: Darren K. Indyke (individual + Executor/Administrator of Estate and 1953 Trust), Richard D. Kahn (same), Estate of Jeffrey E. Epstein, THE 1953 TRUST.
-- Allegations (disputed): facilitation, financing, and concealment of trafficking including at Zorro Ranch; seeks injunction against bequests ($50M Indyke / $25M Kahn contingent on funds) and other relief (TVPA, NM RICO, restitution).
-- Reassigned 5 Nov 2026 to District Judge Matthew L. Garcia (refusal of magistrate consent).
-- ECF 14 (18 Nov 2026): Order granting Plaintiff’s motion for leave to file unredacted complaint under seal.
-- ECF 16–19 (19–20 Nov 2026): Waivers of Service Executed.
-- Last updated on CourtListener: 22 Nov 2026, 4:07 p.m. No answer or substantive response yet public in RECAP.
-- Plaintiff counsel includes Motley Rice (Linda Singer, Carmen S. Scott, Jessica F. Crowder) and local.
+PROCESS / NEGATIVE CONTROL:
+- Interlocutory appeal now docketed as ECF 449.
+- Settlement deadlines closed Nov 23 without public mass confirmation.
+- No 28th accounting. Inquiry still uncharged.
 
-### Estate / 1953 Trust Accounting & Residue
-- Most recent public USVI accounting remains the 27th (period ending 30 Jun 2026): ~$107.645M gross / ≥$27M quantified liabilities (prior cycles).
-- No 28th accounting located as of this cycle.
-- Residual after claims, taxes, administration, and settlements (including proposed Ward class) is the pool available for trust distributions.
-- Trust is pour-over vehicle for residual estate assets; distributions subject to priority of survivor claims, creditors, taxes, and trustee discretion under trust terms.
-- Key contemplated individual distributions (public records / prior releases): Karyna Shuliak (~$50M + annuity + homes package), Indyke $50M, Kahn $25M, Ghislaine Maxwell $10M, Mark Epstein/children, pilots (Visoski elevated to $10M, Rodgers $4M), staff, redacted persons. Zero organizations. Claims priority overrides.
+NEW NODES THIS CYCLE: ECF 449 Hofbaver appeal; NM waivers/reassignment; passed deadlines; 08047 update.
 
-### Other Adjacent Nodes
-- 1:26-cv-08047 (Jane Doe/Amy v. Indyke/Kahn, Woods III): Prior PHV activity (Jean Sutton Martin / AWKO); no major new public movement in this sweep.
-- No new criminal charges against Indyke or Kahn.
-- Recent X discourse includes detailed reconstruction of 8 Aug 2019 trust amendments (EFTA01266204 and prior versions) and beneficiary changes; compilation-grade only.
-- USVI probate volume remains high (~800 active cases per prior legislative testimony); Epstein estate is one of many.
+GAPS: ECF 449 text; claim count for ratchet; 28th accounting; inquiry scope; 08047 PHV; 03543 response/PI.
 
-## Gaps (Priority Carry-Forward)
-- G-priority: ECF 449 or post-448 in 01204; full text of any new Ward filings; 08047 RECAP on recent entries.
-- Unredacted NM complaint text and any answer/response.
-- 28th USVI accounting.
-- Scope and status of any uncharged SDNY inquiry (prior non-comments from Ruzumna / Biase).
-- Exact residual available after all priority claims and the proposed Ward settlement.
-- Full beneficiary schedule and any sub-trusts still redacted.
+BACKUP: Drive folder 1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer; GitHub strand-osint-mesh.
 
-## Sources (Public / CourtListener / News)
-- CourtListener dockets 68260876 (01204) and 74996376 (03543).
-- Prior RECAP PDFs and news (Reuters, CNBC, Forbes, etc. on Oct 2026 NM filing).
-- Project memory cycle series through C1226.
-- No new high-engagement primary X posts requiring citation beyond secondary amplification.
+Next: Pre-Dec 2 hearing window.
 
-## Backup Status
-- This memo written to artifacts/intel/1953-trust/STRAND-1953-TRUST-INTEL-MEMO-C1227-2026-11-24.md
-- Uploaded to Drive folder 1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer (file id 1WyNcRuGgY16pX_P4O4UEsawJinP3fpNh)
-- Intended GitHub commit to cantgetalonggta-png/strand-osint-mesh
-
-**Next:** Monitor 2 Dec 2026 hearing and any ECF 449 / NM answer. Continue hourly/daily negative-control sweeps as required by mission.
-
----
-*Autonomous agent cycle. Methodologies unique; findings shared for collective ontology. All facts from open sources; disputes noted.*
+End Cycle 1227.
