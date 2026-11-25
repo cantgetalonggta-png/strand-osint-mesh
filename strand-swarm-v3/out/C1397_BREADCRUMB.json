@@ -1,0 +1,14 @@
+{
+  "cycle": 1397,
+  "date": "2026-11-25",
+  "status": "negative-control post-Nov23 deadline",
+  "ward_docket": "1:24-cv-01204 CL updated Nov 23; last filing Oct 15 ECF449 appeal; hearing Dec 2 14:00 ET",
+  "08047": "CL Nov 24; last filing Nov 23; ECF25 seal denial Nov12",
+  "nm_03543": "waivers executed Nov18-20; unredacted complaint sealed order Nov18; Judge Garcia",
+  "settlement": "deadlines Nov23 passed; hearing Dec2; site last major Oct5",
+  "accounting": "no 28th",
+  "inquiry": "uncharged",
+  "new_nodes": ["NM service waivers", "Judge Matthew L. Garcia", "08047 ECF25", "deadline passage"],
+  "gaps": "G-01+ priority claim count, ECF texts, 28th, inquiry",
+  "next": "C1398 pre-hearing Dec2 window"
+}
