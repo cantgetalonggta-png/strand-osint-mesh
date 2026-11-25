@@ -1,0 +1,23 @@
+{
+  "cycle": 1398,
+  "timestamp": "2026-11-25T23:19:00Z",
+  "status": "negative-control post-Nov23 deadline",
+  "ward_v_indyke": {
+    "case": "1:24-cv-01204-AS",
+    "last_cl_update": "2026-11-23 10:24 a.m.",
+    "last_known_filing": "2026-10-15",
+    "hearing": "2026-12-02 14:00 ET",
+    "settlement_site_last_update": "2026-10-05",
+    "deadline_passed": "2026-11-23 claims/opt-out/objection",
+    "no_ecf_449_plus": true
+  },
+  "nm_case": {
+    "case": "1:26-cv-03543",
+    "last_update": "2026-11-24",
+    "waivers_executed": "2026-11-20 for Trust and Estate",
+    "order": "2026-11-18 unredacted complaint under seal"
+  },
+  "inquiry": "SDNY still uncharged per public sources",
+  "no_28th_accounting": true,
+  "notes": "Post-deadline sweep; no new ECF observed on public CL; settlement hearing remains Dec 2. NM case advancing with service waivers."
+}
