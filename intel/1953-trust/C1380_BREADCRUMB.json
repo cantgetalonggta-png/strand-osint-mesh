@@ -1,0 +1,18 @@
+{
+  "cycle": 1380,
+  "date": "2026-11-24",
+  "time_et": "19:20",
+  "type": "negative-control post-Nov23 deadline",
+  "status": {
+    "ward_01204": "CL last 23 Nov 10:24 a.m.; last filing ~15 Oct; no ECF 449; hearing 2 Dec 2026 14:00 ET",
+    "settlement": "Nov 23 deadlines passed; Dec 2 hearing remains",
+    "nm_03543": "filed 21 Oct 2026; 1953 Trust named as asset-holder defendant",
+    "accounting": "no 28th; last ~$107M Jun 2026",
+    "inquiry": "uncharged"
+  },
+  "new_nodes": ["process confirmation only", "NM complaint trust formation details reconfirmed"],
+  "gaps": "G-01\u2013prior + claim count, 28th acct, inquiry, ECF 449, 03543 answer",
+  "drive_folder": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "drive_pdf_id": "15X5aiKgLFkzD3zqFzMj-qkoBs8ys2H7L",
+  "next": "C1381 monitor Dec 2 hearing window"
+}
