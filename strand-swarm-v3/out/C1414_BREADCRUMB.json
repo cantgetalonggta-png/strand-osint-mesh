@@ -1,0 +1,13 @@
+{
+  "cycle": "C1414",
+  "date": "2026-11-26",
+  "utc": "2026-11-26T18:20:10Z",
+  "status": "negative-control post-Nov23 claim window",
+  "ward_01204": "CL last 2026-11-23 10:24 ET; last filing 2026-10-15; ECF449 appeal; hearing 2 Dec 2026 14:00 ET",
+  "nm_03543": "service waivers executed mid-Nov; seal order ECF14 18 Nov; 1953 Trust defendant",
+  "accounting": "no 28th; last public 24th $127.4M (Sep 2025) / 27th ~$107.6M (Jun 2026)",
+  "inquiry": "SDNY still uncharged",
+  "new_nodes": ["Kamila Krachova Hofbaver ECF449", "NM service complete on Trust", "beneficiary compilation lock"],
+  "gaps": ["post-deadline claimant count", "28th accounting", "inquiry scope", "NM answer", "distributions"],
+  "next": "C1415 on 2 Dec hearing"
+}
