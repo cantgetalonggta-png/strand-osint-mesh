@@ -1,0 +1,14 @@
+{
+  "cycle": 1422,
+  "timestamp_utc": "2026-11-26T23:19:00Z",
+  "type": "post-deadline negative-control",
+  "cl_01204_last_updated": "2026-11-23 10:24 a.m. ET",
+  "last_known_filing": "2026-10-15 ECF 449 Hofbaver interlocutory appeal",
+  "hearing": "2026-12-02 14:00 ET",
+  "no_28th_accounting": true,
+  "inquiry_uncharged": true,
+  "nm_03543_waivers": "ECFs 16-19 Nov 19-20 2026",
+  "gaps_priority": ["post-deadline claim count/ratchet", "28th accounting", "uncharged SDNY inquiry", "Hofbaver appeal", "NM answer window"],
+  "new_entities": [],
+  "next": "C1423 later 26 Nov ET or 27 Nov"
+}
