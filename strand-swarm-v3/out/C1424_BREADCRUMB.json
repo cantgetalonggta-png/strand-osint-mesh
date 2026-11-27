@@ -1,0 +1,34 @@
+{
+  "cycle": "C1424",
+  "timestamp_utc": "2026-11-27T00:20:00Z",
+  "timestamp_et": "2026-11-26T19:20:00-05:00",
+  "type": "post-deadline negative-control",
+  "dockets": {
+    "1:24-cv-01204": {
+      "cl_last_updated": "2026-11-23T10:24:00-05:00",
+      "last_known_filing": "2026-10-15 ECF 449 Hofbaver interlocutory appeal",
+      "hearing": "2026-12-02 14:00 ET",
+      "notes": "entry table fail; no ECF 450+"
+    },
+    "1:26-cv-08047": {
+      "cl_last_updated": "2026-11-25T08:43:00-05:00",
+      "last_known_filing": "2026-11-23",
+      "notes": "PHV process carried; Woods III / Figueredo"
+    },
+    "1:26-cv-03543": {
+      "cl_last_updated": "2026-11-22T16:07:00-07:00",
+      "last_known_filing": "2026-11-20 waivers ECFs 16-19",
+      "notes": "answer window open"
+    }
+  },
+  "settlement": {
+    "deadline": "2026-11-23 23:59 EST",
+    "hearing": "2026-12-02",
+    "ratchet": "unknown (no public count)",
+    "site": "sdnysettlementfund2026.com last confirmed prior"
+  },
+  "new_entities": [],
+  "gaps": ["claim_count_ratchet", "28th_accounting", "sdny_inquiry_scope", "08047_phv_final", "nm_answer", "hofbaver_appeal"],
+  "drive_folder_id": "1U8cbOp4zeCVuw5Hlv1kUylWIL_SwgLer",
+  "next": "C1425 later 26/27 Nov ET"
+}
